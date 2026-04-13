@@ -1,0 +1,148 @@
+[project]
+name = "hed-task"
+version = "1.0.0"
+description = "Analysis of task structure and concepts in HED (Hierarchical Event Descriptors)."
+readme = "README.md"
+authors = [
+    { name = "VisLab" },
+    { name = "Kay Robbins", email = "Kay.Robbins@utsa.edu" },
+]
+maintainers = [
+    { name = "Kay Robbins", email = "Kay.Robbins@utsa.edu" },
+]
+license = {text = "MIT"}
+keywords = ["HED", "hierarchical event descriptors", "task", "task structure", "events", "neuroscience", "BIDS"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering",
+    "License :: OSI Approved :: MIT License",
+]
+
+requires-python = ">=3.10"
+
+# Minimal dependencies - this is a research/analysis repository
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://www.hedtags.org/"
+"Documentation" = "https://hed-task.readthedocs.io/"
+"Repository" = "https://github.com/hed-standard/hed-task/"
+"Bug Tracker" = "https://github.com/hed-standard/hed-task/issues"
+"HED Specification" = "https://github.com/hed-standard/hed-specification"
+"HED Resources" = "https://www.hedtags.org/hed-resources/"
+"Python Validator" = "https://github.com/hed-standard/hed-python"
+"JavaScript Validator" = "https://github.com/hed-standard/hed-javascript"
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.8.0",
+    "mdformat>=0.7.0",
+    "mdformat-myst>=0.1.5",
+]
+docs = [
+    "sphinx>=7.1.0,<10.0",
+    "furo>=2024.1.29",
+    "sphinx-copybutton>=0.5.2",
+    "myst-parser>=3.0.0",
+    "sphinx-autodoc-typehints>=1.24.0",
+    "linkify-it-py>=2.0.3",
+]
+
+[tool.typos.files]
+extend-exclude = [
+    "*.pdf",
+    "*.svg",
+    "*.tsv",
+    "*.json",
+    "*.rdf",
+    "*.jsonld",
+    "*.xml",
+    "*.mediawiki",
+    "*.omn",
+    "deprecated",
+]
+
+[tool.typos.default.extend-words]
+covert = "covert"
+hed = "hed"
+recuse = "recuse"
+disjointness = "disjointness"
+parms = "parms"
+te = "te"
+assertIn = "assertIn"
+
+[tool.ruff]
+# Target Python 3.10+
+target-version = "py310"
+line-length = 127
+
+# Exclude common directories
+exclude = [
+    ".git",
+    ".venv",
+    "venv",
+    "__pycache__",
+    "build",
+    "dist",
+    "*.egg-info",
+    ".status",
+    "json_test_data",  # Test data, not code
+]
+
+[tool.ruff.lint]
+# Enable flake8-style checks plus additional rules
+select = [
+    "E",     # pycodestyle errors
+    "W",     # pycodestyle warnings
+    "F",     # pyflakes
+    "N",     # pep8-naming
+    "B",     # flake8-bugbear
+    "C4",    # flake8-comprehensions
+]
+
+ignore = [
+    "E501",   # Line too long (handled by formatter)
+    "N802",   # Function name should be lowercase (many test methods use camelCase)
+    "N803",   # Argument name should be lowercase (DataFrame df is common)
+    "N806",   # Variable in function should be lowercase (common in scientific code)
+    # Style rules that are too opinionated
+    "SIM108", # if-else-block-instead-of-if-exp (ternary operator preference)
+    "SIM105", # suppressible-exception (use contextlib.suppress)
+    "SIM118", # in-dict-keys (x in dict vs x in dict.keys())
+    "SIM102", # collapsible-if (nested if statements)
+    "SIM103", # needless-bool (return bool vs if/else return True/False)
+    "SIM110", # reimplemented-builtin (any/all reimplementation)
+    "SIM101", # duplicate-isinstance-call
+    # Python 3.10+ features
+    "UP007",  # Use X | Y for Union types (requires 3.10+)
+    "UP008",  # Use super() without parameters (we're okay with explicit)
+    "UP031",  # Use format strings over %-formatting (legacy code compatibility)
+    "UP028",  # yield in for loop
+    "UP045",  # Use X | None for Optional (requires 3.10+)
+]
+
+# Allow unused imports in __init__.py files
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401"]
+
+[tool.ruff.lint.mccabe]
+# Maximum complexity (matching your flake8 setting)
+max-complexity = 10
+
+[tool.ruff.lint.isort]
+known-first-party = ["hed"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+# Excludes and line-length are inherited from [tool.ruff]
