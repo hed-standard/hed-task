@@ -1,4 +1,4 @@
-# Task Catalog
+# Task catalog
 
 This catalog contains 103 standard cognitive and behavioral neuroscience tasks. Each task has a canonical definition, inclusion criteria, named variations, and links to the cognitive processes it engages.
 

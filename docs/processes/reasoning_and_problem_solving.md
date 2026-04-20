@@ -28,11 +28,11 @@ The following tasks engage this process:
 
 - [Raven's Progressive Matrices Task](../tasks/hedtsk_ravens_progressive_matrices.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gentner (1983) *Cognitive Science* 7:155–170
 
-### Recent References
+### Recent references
 
 - Holyoak (2012) *Oxford Handbook of Thinking and Reasoning*, ch 14
 
@@ -59,11 +59,11 @@ The following tasks engage this process:
 - [Rapid Serial Visual Presentation Task](../tasks/hedtsk_rapid_serial_visual_presentation.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rosch (1973) *Cognitive Psychology* 4:328–350
 
-### Recent References
+### Recent references
 
 - Seger & Miller (2010) *Annual Review of Neuroscience* 33:203–219
 
@@ -83,11 +83,11 @@ The following tasks engage this process:
 
 - [Causal Learning Task](../tasks/hedtsk_causal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Cheng (1997) *Psychological Review* 104:367–405
 
-### Recent References
+### Recent references
 
 - Waldmann (2017) *Oxford Handbook of Causal Reasoning*
 
@@ -109,12 +109,12 @@ The following tasks engage this process:
 
 - [Wason Selection Task](../tasks/hedtsk_wason_selection.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rips (1994) *The Psychology of Proof*
 - Wason (1968) *Quarterly Journal of Experimental Psychology* 20:273–281
 
-### Recent References
+### Recent references
 
 - Goel (2007) *Trends in Cognitive Sciences* 11:435–441
 
@@ -135,11 +135,11 @@ The following tasks engage this process:
 - [Wason Selection Task](../tasks/hedtsk_wason_selection.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Bruner, Goodnow & Austin (1956) *A Study of Thinking*
 
-### Recent References
+### Recent references
 
 - Klayman (1995) *Psychology of Learning and Motivation* 32:385–418
 
@@ -159,11 +159,11 @@ The following tasks engage this process:
 
 - [Raven's Progressive Matrices Task](../tasks/hedtsk_ravens_progressive_matrices.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rips (1975) *Cognitive Psychology* 7:665–681
 
-### Recent References
+### Recent references
 
 - Kemp & Tenenbaum (2009) *Psychological Review* 116:20–58
 
@@ -183,12 +183,12 @@ The following tasks engage this process:
 
 - [Remote Associates Task](../tasks/hedtsk_remote_associates.md)
 
-### Fundamental References
+### Fundamental references
 
 - Duncker K (1945) *On problem-solving* Psychological Monographs 58(5):i-113
 - Metcalfe J & Wiebe D (1987) *Memory & Cognition* 15:238-246
 
-### Recent References
+### Recent references
 
 - Bowden EM & Jung-Beeman M (2003) *Psychonomic Bulletin & Review* 10:730-737
 - Kounios J & Beeman M (2014) *Annual Review of Psychology* 65:71-93
@@ -205,11 +205,11 @@ Manipulation of numerical and algebraic quantities and relations.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Dehaene (1997) *The Number Sense*
 
-### Recent References
+### Recent references
 
 - Amalric & Dehaene (2016) *PNAS* 113:4909–4917
 
@@ -229,12 +229,12 @@ The following tasks engage this process:
 
 - [Tower of London Task](../tasks/hedtsk_tower_of_london.md)
 
-### Fundamental References
+### Fundamental references
 
 - Newell A & Simon HA (1972) *Human Problem Solving* Prentice-Hall
 - Atwood ME & Polson PG (1976) *Cognitive Psychology* 8:191-216
 
-### Recent References
+### Recent references
 
 - Anderson JR (2005) *Cognitive Science* 29:313-341
 - Huys QJM et al. (2015) *PLoS Computational Biology* 11:e1004112
@@ -255,11 +255,11 @@ The following tasks engage this process:
 
 - [Tower of London Task](../tasks/hedtsk_tower_of_london.md)
 
-### Fundamental References
+### Fundamental references
 
 - Shallice (1982) *Philosophical Transactions B* 298:199–209 (Tower of London)
 
-### Recent References
+### Recent references
 
 - Kaller, Unterrainer & Stahl (2012) *Neuropsychology* 26:304–315
 
@@ -279,12 +279,12 @@ The following tasks engage this process:
 
 - [Tower of London Task](../tasks/hedtsk_tower_of_london.md)
 
-### Fundamental References
+### Fundamental references
 
 - Egan DE & Greeno JG (1974) in *Knowledge and Cognition* Erlbaum
 - Anderson JR (1983) *The Architecture of Cognition* Harvard University Press
 
-### Recent References
+### Recent references
 
 - Ribas-Fernandes JJF et al. (2011) *Neuron* 71:370-379
 - Balaguer J et al. (2016) *Neuron* 90:893-903

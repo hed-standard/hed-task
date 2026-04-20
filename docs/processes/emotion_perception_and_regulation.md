@@ -24,11 +24,11 @@ The following tasks engage this process:
 
 - [Affective Priming Task](../tasks/hedtsk_affective_priming.md)
 
-### Fundamental References
+### Fundamental references
 
 - Fazio, Sanbonmatsu, Powell & Kardes (1986) *Journal of Personality and Social Psychology* 50:229–238
 
-### Recent References
+### Recent references
 
 - Herring, White, Jabeen, Hinojos, Terrell, Reyes, Schubert & Crites (2013) *Psychological Bulletin* 139:1062–1089
 
@@ -48,11 +48,11 @@ The following tasks engage this process:
 
 - [Emotion Regulation Task](../tasks/hedtsk_emotion_regulation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gross (1998) *Journal of Personality and Social Psychology* 74:224–237
 
-### Recent References
+### Recent references
 
 - Buhle, Silvers, Wager, Lopez, Onyemekwu, Kober, Weber & Ochsner (2014) *Cerebral Cortex* 24:2981–2990
 
@@ -80,11 +80,11 @@ The following tasks engage this process:
 - [Facial Emotion Recognition Task](../tasks/hedtsk_facial_emotion_recognition.md)
 - [Reading the Mind in the Eyes Task](../tasks/hedtsk_reading_the_mind_in_the_eyes.md)
 
-### Fundamental References
+### Fundamental references
 
 - Ekman & Friesen (1976) *Pictures of Facial Affect*
 
-### Recent References
+### Recent references
 
 - Adolphs (2002) *Behavioral and Cognitive Neuroscience Reviews* 1:21–62
 
@@ -108,11 +108,11 @@ The following tasks engage this process:
 - [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
 - [Ultimatum Game Task](../tasks/hedtsk_ultimatum_game.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gross (1998) *Review of General Psychology* 2:271–299
 
-### Recent References
+### Recent references
 
 - Gross (2015) *Psychological Inquiry* 26:1–26
 
@@ -132,10 +132,10 @@ The following tasks engage this process:
 
 - [Emotion Regulation Task](../tasks/hedtsk_emotion_regulation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gross & Levenson (1993) *Journal of Personality and Social Psychology* 64:970–986
 
-### Recent References
+### Recent references
 
 - Gross (2015) *Psychological Inquiry* 26:1–26

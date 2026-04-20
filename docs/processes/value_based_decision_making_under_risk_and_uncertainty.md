@@ -24,12 +24,12 @@ The act of locking in a selected option once accumulated evidence or value cross
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Ratcliff R (1978) *Psychological Review* 85:59-108
 - Link SW & Heath RA (1975) *Psychometrika* 40:77-105
 
-### Recent References
+### Recent references
 
 - Gold JI & Shadlen MN (2007) *Annual Review of Neuroscience* 30:535-574
 - Ratcliff R, Smith PL, Brown SD & McKoon G (2016) *Trends in Cognitive Sciences* 20:260-281
@@ -50,11 +50,11 @@ The following tasks engage this process:
 
 - [Delay Discounting Task](../tasks/hedtsk_delay_discounting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Mazur (1987) in *Quantitative Analyses of Behavior*
 
-### Recent References
+### Recent references
 
 - Peters & Büchel (2011) *Trends in Cognitive Sciences* 15:227–239
 
@@ -74,12 +74,12 @@ The following tasks engage this process:
 
 - [Delay Discounting Task](../tasks/hedtsk_delay_discounting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Samuelson (1937) *Review of Economic Studies* 4:155–161
 - Ainslie (1975) *Psychological Bulletin* 82:463–496
 
-### Recent References
+### Recent references
 
 - Peters & Büchel (2011) *Trends in Cognitive Sciences* 15:227–239
 
@@ -99,11 +99,11 @@ The following tasks engage this process:
 
 - [Causal Learning Task](../tasks/hedtsk_causal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tversky & Kahneman (1974) *Science* 185:1124–1131
 
-### Recent References
+### Recent references
 
 - Griffiths, Kemp & Tenenbaum (2008) in *Cambridge Handbook of Computational Psychology*
 
@@ -127,11 +127,11 @@ The following tasks engage this process:
 - [Iowa Gambling Task](../tasks/hedtsk_iowa_gambling.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 
-### Fundamental References
+### Fundamental references
 
 - Knutson, Adams, Fong & Hommer (2001) *Journal of Neuroscience* 21:RC159
 
-### Recent References
+### Recent references
 
 - Mohr, Biele & Heekeren (2010) *Journal of Neuroscience* 30:6613–6619
 
@@ -154,12 +154,12 @@ The following tasks engage this process:
 - [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
 - [Ultimatum Game Task](../tasks/hedtsk_ultimatum_game.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kahneman D & Tversky A (1979) *Econometrica* 47:263-291
 - Becker GM, DeGroot MH & Marschak J (1964) *Behavioral Science* 9:226-232
 
-### Recent References
+### Recent references
 
 - Bartra O, McGuire JT & Kable JW (2013) *NeuroImage* 76:412-427
 - Levy DJ & Glimcher PW (2012) *Current Opinion in Neurobiology* 22:1027-1038
@@ -185,12 +185,12 @@ The following tasks engage this process:
 - [Multi-Armed Bandit Task](../tasks/hedtsk_multi_armed_bandit.md)
 - [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rangel, Camerer & Montague (2008) *Nature Reviews Neuroscience* 9:545–556
 - Kahneman & Tversky (1979) *Econometrica* 47:263–291
 
-### Recent References
+### Recent references
 
 - Levy DJ & Glimcher PW (2012) *Current Opinion in Neurobiology* 22:1027–1038
 - Krajbich, Armel & Rangel (2010) *Nature Neuroscience* 13:1292–1298

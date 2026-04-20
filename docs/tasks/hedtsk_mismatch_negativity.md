@@ -12,7 +12,7 @@ Passive auditory oddball in which rare deviant sounds elicit a negative ERP arou
 
 Participants are passively exposed to repetitive acoustic stimuli (standard tones, 80%) occasionally interrupted by deviant tones (20%) differing in pitch, duration, or location. The MMN can be elicited without active attention. Recorded via EEG, the MMN appears as a negative deflection peaking at 100-250 ms after deviance onset at frontocentral sites. It reflects automatic, pre-attentive comparison between incoming input and a neural representation of the standard stimulus stored in sensory (echoic) memory. MMN is used as a biomarker of auditory processing capacity and has clinical applications in schizophrenia, coma prognosis, and language development research.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -56,7 +56,7 @@ header-rows: 1
   - Standard identity changes after train of repetitions; connects to repetition suppression.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -65,13 +65,13 @@ This task engages the following cognitive processes:
 - [Pitch perception](../processes/auditory_and_pre_attentive_deviance_processing.md#hed-pitch-perception)
 - [Acoustic processing](../processes/auditory_and_pre_attentive_deviance_processing.md#hed-acoustic-processing)
 
-## Key References
+## Key references
 
 - Naatanen, R., Gaillard, A. W. K., & Mantysalo, S. (1978). Early selective-attention effect on evoked potential reinterpreted. *Acta Psychologica*, 42(4), 313-329.
 - Naatanen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). The mismatch negativity (MMN) in basic research of central auditory processing: A review. *Clinical Neurophysiology*, 118(12), 2544-2590.
 - Garrido, M. I., Kilner, J. M., Stephan, K. E., & Friston, K. J. (2009). The mismatch negativity: A review of underlying mechanisms. *Clinical Neurophysiology*, 120(3), 453-463.
 
-## Recent References
+## Recent references
 
 - Näätänen, R., Kujala, T., & Winkler, I. (2011). Auditory processing that leads to conscious perception: A unique window to central auditory processing opened by the mismatch negativity and related responses. *Psychophysiology*, 48(1), 4–22.
 - Garrido, M. I., Kilner, J. M., Stephan, K. E., & Friston, K. J. (2009). The mismatch negativity: A review of underlying mechanisms. *Clinical Neurophysiology*, 120(3), 453–463.

@@ -36,12 +36,12 @@ The following tasks engage this process:
 - [Operation Span Task](../tasks/hedtsk_operation_span.md)
 - [Sternberg Item Recognition Task](../tasks/hedtsk_sternberg_item_recognition.md)
 
-### Fundamental References
+### Fundamental references
 
 - Goldman-Rakic (1995) *Neuron* 14:477–485
 - Cohen, Perlstein, Braver, Nystrom, Noll, Jonides & Smith (1997) *Nature* 386:604–608
 
-### Recent References
+### Recent references
 
 - D'Esposito & Postle (2015) *Annual Review of Psychology* 66:115–142
 
@@ -61,11 +61,11 @@ The following tasks engage this process:
 
 - [Digit Span Task](../tasks/hedtsk_digit_span.md)
 
-### Fundamental References
+### Fundamental references
 
 - Miller (1956) *Psychological Review* 63:81–97
 
-### Recent References
+### Recent references
 
 - Thalmann, Souza & Oberauer (2019) *JEP: Learning, Memory, and Cognition* 45:37–55
 
@@ -86,11 +86,11 @@ The following tasks engage this process:
 - [Corsi Block-Tapping Task](../tasks/hedtsk_corsi_block_tapping.md)
 - [Digit Span Task](../tasks/hedtsk_digit_span.md)
 
-### Fundamental References
+### Fundamental references
 
 - D'Esposito, Postle, Ballard & Lease (1999) *Brain and Cognition* 41:66–86
 
-### Recent References
+### Recent references
 
 - Nee, Brown, Askren, Berman, Demiralp, Krawitz & Jonides (2013) *Cerebral Cortex* 23:264–282
 
@@ -111,11 +111,11 @@ The following tasks engage this process:
 - [Digit Span Task](../tasks/hedtsk_digit_span.md)
 - [Free Recall Task](../tasks/hedtsk_free_recall.md)
 
-### Fundamental References
+### Fundamental references
 
 - Baddeley, Thomson & Buchanan (1975) *Journal of Verbal Learning and Verbal Behavior* 14:575–589
 
-### Recent References
+### Recent references
 
 - Camos, Lagner & Barrouillet (2009) *Journal of Memory and Language* 61:457–469
 
@@ -137,11 +137,11 @@ The following tasks engage this process:
 - [Virtual Morris Water Maze Task](../tasks/hedtsk_virtual_morris_water_maze.md)
 - [Virtual Radial Arm Maze Task](../tasks/hedtsk_virtual_radial_arm_maze.md)
 
-### Fundamental References
+### Fundamental references
 
 - Smith & Jonides (1997) *Cognitive Psychology* 33:5–42
 
-### Recent References
+### Recent references
 
 - Zimmermann & Eschen (2021) *Current Opinion in Psychology* 38:84–89
 
@@ -163,12 +163,12 @@ The following tasks engage this process:
 - [Operation Span Task](../tasks/hedtsk_operation_span.md)
 - [Sternberg Item Recognition Task](../tasks/hedtsk_sternberg_item_recognition.md)
 
-### Fundamental References
+### Fundamental references
 
 - Baddeley (1986) *Working Memory*
 - Paulesu, Frith & Frackowiak (1993) *Nature* 362:342–345
 
-### Recent References
+### Recent references
 
 - Acheson, Hamidi, Binder & Postle (2011) *Journal of Cognitive Neuroscience* 23:1358–1367
 
@@ -190,11 +190,11 @@ The following tasks engage this process:
 - [Delayed Match-to-Sample Task](../tasks/hedtsk_delayed_match_to_sample.md)
 - [Multiple Object Tracking Task](../tasks/hedtsk_multiple_object_tracking.md)
 
-### Fundamental References
+### Fundamental references
 
 - Luck & Vogel (1997) *Nature* 390:279–281
 
-### Recent References
+### Recent references
 
 - Ma, Husain & Bays (2014) *Nature Neuroscience* 17:347–356
 
@@ -220,12 +220,12 @@ The following tasks engage this process:
 - [Tower of London Task](../tasks/hedtsk_tower_of_london.md)
 - [Trail Making Task](../tasks/hedtsk_trail_making.md)
 
-### Fundamental References
+### Fundamental references
 
 - Baddeley & Hitch (1974) in *Psychology of Learning and Motivation*
 - Baddeley (2003) *Nature Reviews Neuroscience* 4:829–839
 
-### Recent References
+### Recent references
 
 - Oberauer, Lewandowsky, Awh, Brown, Conway et al. (2018) *Psychological Bulletin* 144:885–958
 
@@ -249,12 +249,12 @@ The following tasks engage this process:
 - [Oddball Task](../tasks/hedtsk_oddball.md)
 - [Rapid Serial Visual Presentation Task](../tasks/hedtsk_rapid_serial_visual_presentation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Morris & Jones (1990) *British Journal of Psychology* 81:111–121
 - Miyake, Friedman, Emerson, Witzki, Howerter & Wager (2000) *Cognitive Psychology* 41:49–100
 
-### Recent References
+### Recent references
 
 - Ecker, Lewandowsky, Oberauer & Chee (2010) *Journal of Experimental Psychology: Learning, Memory, and Cognition* 36:170–189
 - Frank, Loughry & O'Reilly (2001) *Cognitive, Affective, & Behavioral Neuroscience* 1:137–160

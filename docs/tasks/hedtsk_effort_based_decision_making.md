@@ -12,7 +12,7 @@ Participants choose between a low-effort/low-reward option and a high-effort/hig
 
 Effort-based decision-making tasks measure the willingness to exert physical or cognitive effort in exchange for reward. In the Effort Expenditure for Rewards Task (EEfRT; Treadway et al., 2009), participants on each trial choose between an easy task (e.g., pressing a button with the dominant index finger 30 times in 7 seconds for a small reward) and a hard task (pressing with the non-dominant pinky finger 100 times in 21 seconds for a larger, variable reward). Reward magnitude and probability are manipulated across trials to map the effort-reward tradeoff. The proportion of hard-task choices is the primary measure, indexing motivational drive. Effort discounting variants (Botvinick, Huffstetler, & McGuire, 2009) use a titration procedure to find the reward value at which effortful and easy options are equally preferred (the indifference point). The paradigm has become central to research on motivational anhedonia — the reduced willingness to exert effort for reward that characterizes depression, schizophrenia, and Parkinson's disease. Computational models decompose behavior into effort sensitivity, reward sensitivity, and probability weighting parameters. The framework connects to dopaminergic theories of motivation: effort willingness is modulated by dopamine function in the ventral striatum and anterior cingulate cortex.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - Foraging paradigm: decide how many apples to pick from each tree before traveling to the next (effort = key presses, diminishing returns). Indexes vigor and willingness to sustain effort.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -62,13 +62,13 @@ This task engages the following cognitive processes:
 - [Approach motivation](../processes/reward_anticipation_and_motivation.md#hed-approach-motivation)
 - [Value-based decision making](../processes/value_based_decision_making_under_risk_and_uncertainty.md#hed-value-based-decision-making)
 
-## Key References
+## Key references
 
 - Treadway, M. T., Buckholtz, J. W., Schwartzman, A. N., Lambert, W. E., & Zald, D. H. (2009). Worth the 'EEfRT'? The Effort Expenditure for Rewards Task as an objective measure of motivation and anhedonia. *PLoS ONE*, 4(8), e6598.
 - Botvinick, M. M., Huffstetler, S., & McGuire, J. T. (2009). Effort discounting in human nucleus accumbens. *Cognitive, Affective, & Behavioral Neuroscience*, 9(1), 16-27.
 - Westbrook, A., & Braver, T. S. (2015). Cognitive effort: A neuroeconomic approach. *Cognitive, Affective, & Behavioral Neuroscience*, 15(2), 395-415.
 
-## Recent References
+## Recent references
 
 - Chong, T. T.-J., Bonnelle, V., Manohar, S., et al. (2017). Dopamine enhances willingness to exert effort for reward in Parkinson's disease. *Cortex*, 69, 40-46.
 - Reddy, L. F., Horan, W. P., Barch, D. M., Buchanan, R. W., et al. (2015). Effort-Based Decision-Making Paradigms for Clinical Trials in Schizophrenia: Part 1 — Psychometric Characteristics of 5 Paradigms. *Schizophrenia Bulletin*, 41(5), 1045-1054.

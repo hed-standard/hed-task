@@ -45,7 +45,7 @@ def _write_process_index(
     n_cats = len(sorted_categories)
 
     lines: list[str] = [
-        "# Process Catalog\n",
+        "# Process catalog\n",
         "\n",
         f"This catalog defines {total_procs} cognitive processes organized into {n_cats} categories.\n",
         "Each process has a definition, references, and links to the tasks that engage it.\n",
@@ -166,7 +166,7 @@ def _write_category_page(
             parts.append("*No tasks in the current catalog are linked to this process.*\n\n")
 
         if fund_refs:
-            parts.append("### Fundamental References\n\n")
+            parts.append("### Fundamental references\n\n")
             for ref in fund_refs:
                 citation = ref.get("citation_string", "")
                 if citation:
@@ -174,7 +174,7 @@ def _write_category_page(
             parts.append("\n")
 
         if recent_refs:
-            parts.append("### Recent References\n\n")
+            parts.append("### Recent references\n\n")
             for ref in recent_refs:
                 citation = ref.get("citation_string", "")
                 if citation:

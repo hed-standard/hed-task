@@ -28,11 +28,11 @@ The following tasks engage this process:
 
 - [Autobiographical Memory Task](../tasks/hedtsk_autobiographical_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Conway & Pleydell-Pearce (2000) *Psychological Review* 107:261–288
 
-### Recent References
+### Recent references
 
 - Conway (2009) *Neuropsychologia* 47:2305–2313
 
@@ -52,11 +52,11 @@ The following tasks engage this process:
 
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - McGaugh (2000) *Science* 287:248–251
 
-### Recent References
+### Recent references
 
 - Dudai, Karni & Born (2015) *Neuron* 88:20–32
 
@@ -76,11 +76,11 @@ The following tasks engage this process:
 
 - [Paired Associates Learning Task](../tasks/hedtsk_paired_associates_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Squire & Zola-Morgan (1991) *Science* 253:1380–1386
 
-### Recent References
+### Recent references
 
 - Squire & Wixted (2011) *Annual Review of Neuroscience* 34:259–288
 
@@ -101,12 +101,12 @@ The following tasks engage this process:
 - [Directed Forgetting Task](../tasks/hedtsk_directed_forgetting.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental References
+### Fundamental references
 
 - Bjork (1970) *Acta Psychologica* 33:288–296
 - MacLeod (1998) in *Intentional Forgetting*
 
-### Recent References
+### Recent references
 
 - Anderson & Hanslmayr (2014) *Trends in Cognitive Sciences* 18:279–292
 
@@ -138,11 +138,11 @@ The following tasks engage this process:
 - [Virtual Morris Water Maze Task](../tasks/hedtsk_virtual_morris_water_maze.md)
 - [Virtual Radial Arm Maze Task](../tasks/hedtsk_virtual_radial_arm_maze.md)
 
-### Fundamental References
+### Fundamental references
 
 - Craik & Lockhart (1972) *Journal of Verbal Learning and Verbal Behavior* 11:671–684
 
-### Recent References
+### Recent references
 
 - Paller & Wagner (2002) *Trends in Cognitive Sciences* 6:93–102
 
@@ -167,12 +167,12 @@ The following tasks engage this process:
 - [Remember/Know Task](../tasks/hedtsk_remember_know.md)
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tulving (1972) in *Organization of Memory*
 - Tulving (2002) *Annual Review of Psychology* 53:1–25
 
-### Recent References
+### Recent references
 
 - Moscovitch, Cabeza, Winocur & Nadel (2016) *Annual Review of Psychology* 67:105–134
 
@@ -196,11 +196,11 @@ The following tasks engage this process:
 - [Remember/Know Task](../tasks/hedtsk_remember_know.md)
 - [Source Memory Task](../tasks/hedtsk_source_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Mandler (1980) *Psychological Review* 87:252–271
 
-### Recent References
+### Recent references
 
 - Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
 
@@ -216,12 +216,12 @@ Loss of accessibility of previously encoded information, due to decay, interfere
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Ebbinghaus (1885) *Über das Gedächtnis*
 - McGeoch (1932) *Psychological Review* 39:352–370
 
-### Recent References
+### Recent references
 
 - Hardt, Nader & Nadel (2013) *Trends in Cognitive Sciences* 17:111–120
 
@@ -241,11 +241,11 @@ The following tasks engage this process:
 
 - [Mnemonic Similarity Task](../tasks/hedtsk_mnemonic_similarity.md)
 
-### Fundamental References
+### Fundamental references
 
 - Marr (1971) *Philosophical Transactions B* 262:23–81
 
-### Recent References
+### Recent references
 
 - Rolls (2013) *Frontiers in Systems Neuroscience* 7:74
 
@@ -265,11 +265,11 @@ The following tasks engage this process:
 
 - [Mnemonic Similarity Task](../tasks/hedtsk_mnemonic_similarity.md)
 
-### Fundamental References
+### Fundamental references
 
 - Marr (1971) *Philosophical Transactions B* 262:23–81
 
-### Recent References
+### Recent references
 
 - Yassa & Stark (2011) *Trends in Neurosciences* 34:515–525
 
@@ -289,11 +289,11 @@ The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Underwood (1957) *Psychological Review* 64:49–60
 
-### Recent References
+### Recent references
 
 - Jonides & Nee (2006) *Neuroscience* 139:181–193
 
@@ -313,11 +313,11 @@ The following tasks engage this process:
 
 - [Prospective Memory Task](../tasks/hedtsk_prospective_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Einstein & McDaniel (1990) *JEP: Learning, Memory, and Cognition* 16:717–726
 
-### Recent References
+### Recent references
 
 - McDaniel, Umanath, Einstein & Waldum (2015) *Journal of Applied Research in Memory and Cognition* 4:268–279
 
@@ -339,11 +339,11 @@ The following tasks engage this process:
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tulving (1962) *Canadian Journal of Psychology* 16:185–191
 
-### Recent References
+### Recent references
 
 - Kahana (2012) *Foundations of Human Memory*
 
@@ -367,11 +367,11 @@ The following tasks engage this process:
 - [Old/New Recognition Memory Task](../tasks/hedtsk_old_new_recognition_memory.md)
 - [Remember/Know Task](../tasks/hedtsk_remember_know.md)
 
-### Fundamental References
+### Fundamental references
 
 - Mandler (1980) *Psychological Review* 87:252–271
 
-### Recent References
+### Recent references
 
 - Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
 
@@ -395,11 +395,11 @@ The following tasks engage this process:
 - [Self-Referential Encoding Task](../tasks/hedtsk_self_referential_encoding.md)
 - [Source Memory Task](../tasks/hedtsk_source_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Jacoby (1991) *Journal of Memory and Language* 30:513–541
 
-### Recent References
+### Recent references
 
 - Diana, Yonelinas & Ranganath (2007) *Trends in Cognitive Sciences* 11:379–386
 
@@ -415,11 +415,11 @@ Destabilization and re-stabilization of a memory upon retrieval, creating a wind
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Nader, Schafe & LeDoux (2000) *Nature* 406:722–726
 
-### Recent References
+### Recent references
 
 - Elsey, Van Ast & Kindt (2018) *Psychological Bulletin* 144:797–848
 
@@ -452,11 +452,11 @@ The following tasks engage this process:
 - [Virtual Morris Water Maze Task](../tasks/hedtsk_virtual_morris_water_maze.md)
 - [Virtual Radial Arm Maze Task](../tasks/hedtsk_virtual_radial_arm_maze.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tulving & Pearlstone (1966) *Journal of Verbal Learning and Verbal Behavior* 5:381–391
 
-### Recent References
+### Recent references
 
 - Rugg & Vilberg (2013) *Current Opinion in Neurobiology* 23:255–260
 
@@ -476,11 +476,11 @@ The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Müller & Pilzecker (1900) *Zeitschrift für Psychologie Ergänzungsband* 1:1–300
 
-### Recent References
+### Recent references
 
 - Wixted (2004) *Annual Review of Psychology* 55:235–269
 
@@ -496,12 +496,12 @@ Long-term store of general knowledge about the world — facts, concepts, and wo
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Tulving (1972) in *Organization of Memory*
 - Collins & Quillian (1969) *Journal of Verbal Learning and Verbal Behavior* 8:240–247
 
-### Recent References
+### Recent references
 
 - Binder & Desai (2011) *Trends in Cognitive Sciences* 15:527–536
 
@@ -521,11 +521,11 @@ The following tasks engage this process:
 
 - [Source Memory Task](../tasks/hedtsk_source_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Johnson, Hashtroudi & Lindsay (1993) *Psychological Bulletin* 114:3–28
 
-### Recent References
+### Recent references
 
 - Mitchell & Johnson (2009) *Psychological Bulletin* 135:638–677
 
@@ -545,10 +545,10 @@ The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rey (1958) *L'examen clinique en psychologie*
 
-### Recent References
+### Recent references
 
 - Schmidt (1996) *Rey Auditory and Verbal Learning Test*

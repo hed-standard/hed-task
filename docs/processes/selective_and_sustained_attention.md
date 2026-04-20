@@ -26,12 +26,12 @@ The following tasks engage this process:
 - [Continuous Performance Task](../tasks/hedtsk_continuous_performance.md)
 - [Psychomotor Vigilance Task](../tasks/hedtsk_psychomotor_vigilance.md)
 
-### Fundamental References
+### Fundamental references
 
 - Posner & Boies (1971) *Psychological Review* 78:391–408
 - Fan, McCandliss, Sommer, Raz & Posner (2002) *Journal of Cognitive Neuroscience* 14:340–347
 
-### Recent References
+### Recent references
 
 - Petersen & Posner (2012) *Annual Review of Neuroscience* 35:73–89
 
@@ -51,11 +51,11 @@ The following tasks engage this process:
 
 - [Posner Spatial Cueing Task](../tasks/hedtsk_posner_spatial_cueing.md)
 
-### Fundamental References
+### Fundamental references
 
 - Posner, Walker, Friedrich & Rafal (1984) *Journal of Neuroscience* 4:1863–1874
 
-### Recent References
+### Recent references
 
 - Corbetta, Patel & Shulman (2008) *Neuron* 58:306–324
 
@@ -78,12 +78,12 @@ The following tasks engage this process:
 - [Oddball Task](../tasks/hedtsk_oddball.md)
 - [Posner Spatial Cueing Task](../tasks/hedtsk_posner_spatial_cueing.md)
 
-### Fundamental References
+### Fundamental references
 
 - Yantis & Jonides (1984) *JEP: Human Perception and Performance* 10:601–621
 - Theeuwes (1992) *Perception & Psychophysics* 51:599–606
 
-### Recent References
+### Recent references
 
 - Theeuwes (2010) *Acta Psychologica* 135:77–99
 
@@ -106,12 +106,12 @@ The following tasks engage this process:
 - [Psychological Refractory Period Task](../tasks/hedtsk_psychological_refractory_period.md)
 - [Useful Field of View Task](../tasks/hedtsk_useful_field_of_view.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kahneman (1973) *Attention and Effort*
 - Pashler (1994) *Psychological Bulletin* 116:220–244
 
-### Recent References
+### Recent references
 
 - Strobach, Salminen, Karbach & Schubert (2014) *Psychological Research* 78:836–851
 
@@ -131,11 +131,11 @@ The following tasks engage this process:
 
 - [Visual Search Task](../tasks/hedtsk_visual_search.md)
 
-### Fundamental References
+### Fundamental references
 
 - Treisman & Gelade (1980) *Cognitive Psychology* 12:97–136
 
-### Recent References
+### Recent references
 
 - Maunsell & Treue (2006) *Trends in Neurosciences* 29:317–322
 
@@ -156,11 +156,11 @@ The following tasks engage this process:
 - [Multiple Object Tracking Task](../tasks/hedtsk_multiple_object_tracking.md)
 - [Visual Search Task](../tasks/hedtsk_visual_search.md)
 
-### Fundamental References
+### Fundamental references
 
 - Duncan (1984) *Journal of Experimental Psychology: General* 113:501–517
 
-### Recent References
+### Recent references
 
 - Chen (2012) *Attention, Perception & Psychophysics* 74:784–802
 
@@ -182,11 +182,11 @@ The following tasks engage this process:
 - [Dot-Probe Task](../tasks/hedtsk_dot_probe.md)
 - [Posner Spatial Cueing Task](../tasks/hedtsk_posner_spatial_cueing.md)
 
-### Fundamental References
+### Fundamental references
 
 - Posner (1980) *Quarterly Journal of Experimental Psychology* 32:3–25
 
-### Recent References
+### Recent references
 
 - Corbetta & Shulman (2002) *Nature Reviews Neuroscience* 3:201–215
 
@@ -227,12 +227,12 @@ The following tasks engage this process:
 - [Useful Field of View Task](../tasks/hedtsk_useful_field_of_view.md)
 - [Visual Search Task](../tasks/hedtsk_visual_search.md)
 
-### Fundamental References
+### Fundamental references
 
 - Broadbent (1958) *Perception and Communication*
 - Treisman (1969) *Psychological Review* 76:282–299
 
-### Recent References
+### Recent references
 
 - Chun, Golomb & Turk-Browne (2011) *Annual Review of Psychology* 62:73–101
 
@@ -256,12 +256,12 @@ The following tasks engage this process:
 - [Useful Field of View Task](../tasks/hedtsk_useful_field_of_view.md)
 - [Visual Search Task](../tasks/hedtsk_visual_search.md)
 
-### Fundamental References
+### Fundamental references
 
 - Posner (1980) *Quarterly Journal of Experimental Psychology* 32:3–25
 - Eriksen & St. James (1986) *Perception & Psychophysics* 40:225–240
 
-### Recent References
+### Recent references
 
 - Carrasco (2011) *Vision Research* 51:1484–1525
 
@@ -290,12 +290,12 @@ The following tasks engage this process:
 - [Sustained Attention to Response Task](../tasks/hedtsk_sustained_attention_to_response.md)
 - [Useful Field of View Task](../tasks/hedtsk_useful_field_of_view.md)
 
-### Fundamental References
+### Fundamental references
 
 - Mackworth (1948) *Quarterly Journal of Experimental Psychology* 1:6–21
 - Parasuraman (1979) *Science* 205:924–927
 
-### Recent References
+### Recent references
 
 - Esterman & Rothlein (2019) *Current Opinion in Psychology* 29:174–180
 
@@ -316,11 +316,11 @@ The following tasks engage this process:
 - [Oddball Task](../tasks/hedtsk_oddball.md)
 - [Rapid Serial Visual Presentation Task](../tasks/hedtsk_rapid_serial_visual_presentation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Nobre (2001) *Neuropsychologia* 39:1317–1328
 - Raymond, Shapiro & Arnell (1992) *JEP: Human Perception and Performance* 18:849–860
 
-### Recent References
+### Recent references
 
 - Nobre & van Ede (2018) *Nature Reviews Neuroscience* 19:34–48

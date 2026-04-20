@@ -28,11 +28,11 @@ The following tasks engage this process:
 
 - [Task Switching Task](../tasks/hedtsk_task_switching.md)
 
-### Fundamental References
+### Fundamental references
 
 - Miller & Cohen (2001) *Annual Review of Neuroscience* 24:167–202
 
-### Recent References
+### Recent references
 
 - Kane & Engle (2003) *JEP: General* 132:47–70
 
@@ -58,13 +58,13 @@ The following tasks engage this process:
 - [Trail Making Task](../tasks/hedtsk_trail_making.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Berg (1948) *Journal of General Psychology* 39:15–22 (WCST)
 - Monsell (2003) *Trends in Cognitive Sciences* 7:134–140
 - Diamond (2013) *Annual Review of Psychology* 64:135–168
 
-### Recent References
+### Recent references
 
 - Kiesel, Steinhauser, Wendt, Falkenstein, Jost, Philipp & Koch (2010) *Psychological Bulletin* 136:849–874
 - Dajani & Uddin (2015) *Trends in Neurosciences* 38:571–578
@@ -90,10 +90,10 @@ The following tasks engage this process:
 - [Virtual Morris Water Maze Task](../tasks/hedtsk_virtual_morris_water_maze.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Siegler (1987) *JEP: General* 116:250–264
 
-### Recent References
+### Recent references
 
 - Lemaire (2016) *Cognitive Development and Aging*

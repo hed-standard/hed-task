@@ -12,7 +12,7 @@ Participants perform an ongoing task while remembering to execute a deferred int
 
 Prospective memory (PM) is the ability to remember to carry out an intended action in the future. In the standard Einstein-McDaniel paradigm, participants perform a continuous ongoing task (e.g., pleasantness rating, lexical decision) while simultaneously holding the intention to execute a secondary action when a specific cue appears (event-based PM: e.g., press a key when an animal word appears) or after a fixed time interval (time-based PM: e.g., press a key every 2 minutes). The critical measure is whether the participant detects the PM cue and executes the intended action. PM is theoretically distinct from retrospective memory: the challenge is not remembering the content of the intention but spontaneously retrieving it at the right moment without an external prompt. The multiprocess framework (McDaniel & Einstein, 2000) proposes that PM retrieval can be supported by automatic, reflexive-associative processes or by resource-demanding strategic monitoring, depending on cue focality, ongoing-task absorption, and individual differences. PM failures are a leading cause of real-world memory complaints and are sensitive to aging, traumatic brain injury, ADHD, and schizophrenia.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -50,7 +50,7 @@ header-rows: 1
   - Real-world PM tasks (e.g., remember to mail a letter, call at a specified time). Ecological validity paradigms using experience sampling or virtual reality.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -59,13 +59,13 @@ This task engages the following cognitive processes:
 - [Retrieval](../processes/long_term_memory.md#hed-retrieval)
 - [Set shifting](../processes/cognitive_flexibility_and_higher_order_executive_function.md#hed-set-shifting)
 
-## Key References
+## Key references
 
 - Einstein, G. O., & McDaniel, M. A. (1990). Normal aging and prospective memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 16(4), 717-726.
 - McDaniel, M. A., & Einstein, G. O. (2000). Strategic and automatic processes in prospective memory retrieval: A multiprocess framework. *Applied Cognitive Psychology*, 14(7), S127-S144.
 - Smith, R. E. (2003). The cost of remembering to remember in event-based prospective memory: Investigating the capacity demands of delayed intention performance. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 29(3), 347-361.
 
-## Recent References
+## Recent references
 
 - Scullin, M. K., McDaniel, M. A., & Shelton, J. T. (2013). The Dynamic Multiprocess Framework: Evidence from prospective memory with contextual variability. *Cognitive Psychology*, 67(1-2), 55-71.
 - Cona, G., Scarpazza, C., Sartori, G., Moscovitch, M., & Bhisset, P. (2015). Neural bases of prospective memory: A meta-analysis and the 'Attention to Delayed Intention' (AtoDI) model. *Neuroscience & Biobehavioral Reviews*, 52, 21-37.

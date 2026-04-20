@@ -12,7 +12,7 @@ Judgment of human action or identity from sparse point-light displays attached t
 
 Participants view point-light display stimuli, animations created by placing markers on the joints of a person performing actions and capturing only the light points. The resulting stimuli (12-15 dots representing joints) convey complex human actions (walking, running, dancing) from minimal motion cues. Participants may recognize actions, judge coherence (upright vs. inverted), or discriminate biological from scrambled motion. The task measures perception of complex human movement and activates the posterior superior temporal sulcus, a region specialized for biological motion processing.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -60,7 +60,7 @@ header-rows: 1
   - Determine whether the walker faces left or right; sensitive to viewpoint processing.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -70,13 +70,13 @@ This task engages the following cognitive processes:
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 - [Pattern recognition](../processes/face_and_object_perception.md#hed-pattern-recognition)
 
-## Key References
+## Key references
 
 - Johansson, G. (1973). Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics*, 14(2), 201-211.
 - Grossman, E. D., & Blake, R. (2002). Brain areas active during visual perception of biological motion. *Neuron*, 35(6), 1167-1175.
 - Blake, R., & Shiffrar, M. (2007). Perception of human motion. *Annual Review of Psychology*, 58, 47-73.
 
-## Recent References
+## Recent references
 
 - Pavlova, M. A. (2012). Biological motion processing as a hallmark of social cognition. *Cerebral Cortex*, 22(5), 981–995.
 - Thompson, J. C., & Baccus, W. (2012). Form and motion make independent contributions to the response to biological motion in occipitotemporal cortex. *NeuroImage*, 59(1), 625–634.
@@ -86,6 +86,6 @@ This task engages the following cognitive processes:
 - van Boxtel, J. J. A., & Lu, H. (2013). A biological motion toolbox for reading, displaying, and manipulating motion capture data in research settings. *Journal of Vision*, 13(12), 7.
 - Miller, L. E., & Saygin, A. P. (2013). Individual differences in the perception of biological motion: Links to social cognition and motor imagery. *Cognition*, 128(2), 140–148.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f245326e2eaf)

@@ -12,7 +12,7 @@ Generate as many words as possible within a time limit matching a phonemic (lett
 
 Participants produce as many unique words as possible in a fixed interval (typically 60 seconds) that satisfy a constraint: a starting letter (phonemic/letter fluency, e.g., F, A, S) or a semantic category (e.g., animals, fruits). Phonemic fluency loads heavily on left frontal executive systems involved in strategic search and self-monitoring, while semantic fluency additionally engages temporal-lobe semantic stores. Beyond raw word count, temporal analyses of clustering (runs of semantically or phonemically similar words) and switching (transitions between clusters) dissociate automatic retrieval from effortful executive search. Verbal fluency is one of the most widely administered neuropsychological tasks, sensitive to frontal-lobe lesions, neurodegenerative disease (especially Alzheimer's vs. frontotemporal dementia), schizophrenia, and normal aging. Its brevity, minimal equipment needs, and robust normative data make it a cornerstone of clinical assessment batteries.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -50,7 +50,7 @@ header-rows: 1
   - Generate words that do NOT contain a specified letter. Adds an inhibitory constraint to the standard phonemic task.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -59,13 +59,13 @@ This task engages the following cognitive processes:
 - [Semantic knowledge](../processes/language_comprehension_and_production.md#hed-semantic-knowledge)
 - [Self-monitoring](../processes/awareness_agency_and_metacognition.md#hed-self-monitoring)
 
-## Key References
+## Key references
 
 - Benton, A. L., Hamsher, K., & Sivan, A. B. (1983). *Multilingual Aphasia Examination* (3rd ed.). Iowa City: AJA Associates.
 - Troyer, A. K., Moscovitch, M., & Winocur, G. (1997). Clustering and switching as two components of verbal fluency: Evidence from younger and older healthy adults. *Neuropsychology*, 11(1), 138-146.
 - Henry, J. D., & Crawford, J. R. (2004). A meta-analytic review of verbal fluency performance following focal cortical lesions. *Neuropsychology*, 18(2), 284-295.
 
-## Recent References
+## Recent references
 
 - Shao, Z., Janse, E., Visser, K., & Meyer, A. S. (2014). What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults. *Frontiers in Psychology*, 5, 772.
 - Aita, S. L., Beach, J. D., Taylor, S. E., et al. (2019). Executive, language, or both? An examination of the construct validity of verbal fluency measures. *Applied Neuropsychology: Adult*, 26(5), 441-451.

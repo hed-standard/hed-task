@@ -29,11 +29,11 @@ The following tasks engage this process:
 - [Rapid Serial Visual Presentation Task](../tasks/hedtsk_rapid_serial_visual_presentation.md)
 - [Visual Masking Task](../tasks/hedtsk_visual_masking.md)
 
-### Fundamental References
+### Fundamental references
 
 - Koch & Tsuchiya (2007) *Trends in Cognitive Sciences* 11:16–22
 
-### Recent References
+### Recent references
 
 - Lamme (2018) *Current Opinion in Psychology* 29:28–32
 
@@ -53,12 +53,12 @@ The following tasks engage this process:
 
 - [Body Ownership Illusion Task](../tasks/hedtsk_body_ownership_illusion.md)
 
-### Fundamental References
+### Fundamental references
 
 - Botvinick M & Cohen J (1998) *Nature* 391:756
 - Ehrsson HH, Spence C & Passingham RE (2004) *Science* 305:875-877
 
-### Recent References
+### Recent references
 
 - Tsakiris M (2017) *Quarterly Journal of Experimental Psychology* 70:597-609
 - Blanke O, Slater M & Serino A (2015) *Neuron* 88:145-166
@@ -79,11 +79,11 @@ The following tasks engage this process:
 
 - [Feeling-of-Knowing Task](../tasks/hedtsk_feeling_of_knowing.md)
 
-### Fundamental References
+### Fundamental references
 
 - Hart (1965) *Journal of Educational Psychology* 56:208–216
 
-### Recent References
+### Recent references
 
 - Schwartz & Cleary (2016) in *The Oxford Handbook of Metamemory*
 
@@ -104,12 +104,12 @@ The following tasks engage this process:
 - [Body Ownership Illusion Task](../tasks/hedtsk_body_ownership_illusion.md)
 - [Heartbeat Detection Task](../tasks/hedtsk_heartbeat_detection.md)
 
-### Fundamental References
+### Fundamental references
 
 - Schandry R (1981) *Psychophysiology* 18:483-488
 - Craig AD (2002) *Nature Reviews Neuroscience* 3:655-666
 
-### Recent References
+### Recent references
 
 - Khalsa SS et al. (2018) *Biological Psychiatry: CNNI* 3:501-513
 - Critchley HD & Garfinkel SN (2017) *Current Opinion in Psychology* 17:7-14
@@ -130,11 +130,11 @@ The following tasks engage this process:
 
 - [Judgment-of-Learning Task](../tasks/hedtsk_judgment_of_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Arbuckle & Cuddy (1969) *Journal of Verbal Learning and Verbal Behavior* 8:126–131
 
-### Recent References
+### Recent references
 
 - Rhodes (2016) *Memory* 24:1–4
 
@@ -155,11 +155,11 @@ The following tasks engage this process:
 - [Auditory Masking Task](../tasks/hedtsk_auditory_masking.md)
 - [Visual Masking Task](../tasks/hedtsk_visual_masking.md)
 
-### Fundamental References
+### Fundamental references
 
 - Breitmeyer (1984) *Visual Masking*
 
-### Recent References
+### Recent references
 
 - Enns & Di Lollo (2000) *Trends in Cognitive Sciences* 4:345–352
 
@@ -181,12 +181,12 @@ The following tasks engage this process:
 - [Judgment-of-Learning Task](../tasks/hedtsk_judgment_of_learning.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental References
+### Fundamental references
 
 - Nelson TO & Narens L (1990) *The Psychology of Learning and Motivation* 26:125-173
 - Son LK & Metcalfe J (2000) *Journal of Experimental Psychology: LMC* 26:204-221
 
-### Recent References
+### Recent references
 
 - Ackerman R & Thompson VA (2017) *Trends in Cognitive Sciences* 21:607-617
 - Desender K, Boldt A & Yeung N (2018) *Psychological Science* 29:761-778
@@ -212,12 +212,12 @@ The following tasks engage this process:
 - [Remember/Know Task](../tasks/hedtsk_remember_know.md)
 - [Sustained Attention to Response Task](../tasks/hedtsk_sustained_attention_to_response.md)
 
-### Fundamental References
+### Fundamental references
 
 - Nelson TO & Narens L (1990) *The Psychology of Learning and Motivation* 26:125-173
 - Koriat A (1997) *Journal of Experimental Psychology: General* 126:349-370
 
-### Recent References
+### Recent references
 
 - Fleming SM & Lau HC (2014) *Frontiers in Human Neuroscience* 8:443
 - Maniscalco B & Lau H (2012) *Consciousness and Cognition* 21:422-430
@@ -240,11 +240,11 @@ The following tasks engage this process:
 - [Psychomotor Vigilance Task](../tasks/hedtsk_psychomotor_vigilance.md)
 - [Sustained Attention to Response Task](../tasks/hedtsk_sustained_attention_to_response.md)
 
-### Fundamental References
+### Fundamental references
 
 - Smallwood & Schooler (2006) *Psychological Bulletin* 132:946–958
 
-### Recent References
+### Recent references
 
 - Christoff, Irving, Fox, Spreng & Andrews-Hanna (2016) *Nature Reviews Neuroscience* 17:718–731
 
@@ -265,12 +265,12 @@ The following tasks engage this process:
 - [Rapid Serial Visual Presentation Task](../tasks/hedtsk_rapid_serial_visual_presentation.md)
 - [Visual Masking Task](../tasks/hedtsk_visual_masking.md)
 
-### Fundamental References
+### Fundamental references
 
 - Baars (1988) *A Cognitive Theory of Consciousness*
 - Dehaene, Changeux, Naccache, Sackur & Sergent (2006) *Trends in Cognitive Sciences* 10:204–211
 
-### Recent References
+### Recent references
 
 - Dehaene (2014) *Consciousness and the Brain*
 
@@ -295,11 +295,11 @@ The following tasks engage this process:
 - [Sustained Attention to Response Task](../tasks/hedtsk_sustained_attention_to_response.md)
 - [Verbal Fluency Task](../tasks/hedtsk_verbal_fluency.md)
 
-### Fundamental References
+### Fundamental references
 
 - Nelson & Narens (1990) in *The Psychology of Learning and Motivation*
 
-### Recent References
+### Recent references
 
 - Fleming & Dolan (2012) *Philosophical Transactions B* 367:1338–1349
 
@@ -321,12 +321,12 @@ The following tasks engage this process:
 - [Body Ownership Illusion Task](../tasks/hedtsk_body_ownership_illusion.md)
 - [Self-Referential Encoding Task](../tasks/hedtsk_self_referential_encoding.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rogers TB, Kuiper NA & Kirker WS (1977) *Journal of Personality and Social Psychology* 35:677-688
 - Kelley WM et al. (2002) *Journal of Cognitive Neuroscience* 14:785-794
 
-### Recent References
+### Recent references
 
 - Northoff G et al. (2006) *NeuroImage* 31:440-457
 - Murray RJ, Schaer M & Debbané M (2012) *Neuroscience & Biobehavioral Reviews* 36:1043-1059
@@ -347,12 +347,12 @@ The following tasks engage this process:
 
 - [Intentional Binding Task](../tasks/hedtsk_intentional_binding.md)
 
-### Fundamental References
+### Fundamental references
 
 - Libet B et al. (1983) *Brain* 106:623-642
 - Haggard P, Clark S & Kalogeras J (2002) *Nature Neuroscience* 5:382-385
 
-### Recent References
+### Recent references
 
 - Haggard P (2017) *Nature Reviews Neuroscience* 18:196-207
 - Moore JW & Obhi SS (2012) *Consciousness and Cognition* 21:546-561

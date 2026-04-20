@@ -20,7 +20,7 @@ def generate(
     total_links = sum(len(t.get("hed_process_ids", [])) for t in tasks)
 
     content = f"""\
-# HED Task Catalog
+# HED task catalog
 
 This catalog defines {total_tasks} standard cognitive and behavioral neuroscience tasks
 and {total_processes} cognitive processes organized into {total_categories} categories.
@@ -31,7 +31,7 @@ The catalog provides standard definitions, inclusion criteria, named variations,
 process linkages for widely used experimental paradigms, enabling consistent annotation
 across laboratories and datasets.
 
-## Catalog at a Glance
+## Catalog at a glance
 
 | Item | Count |
 |------|-------|

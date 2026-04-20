@@ -12,7 +12,7 @@ Lexical or semantic decision on targets preceded by semantically related or unre
 
 Word pairs are presented in sequence: a prime word followed by a target. Prime-target relationships are manipulated (semantically related, unrelated, or neutral). Participants typically make lexical decisions on the target. Semantic priming is measured as faster RT to related versus unrelated pairs, reflecting automatic spreading activation through semantic memory networks. SOA manipulation distinguishes automatic (short SOA) from strategic (long SOA) priming.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -62,7 +62,7 @@ header-rows: 1
   - Prime-target pairs share letter sequences without semantic or morphological relation (e.g., corner-corn). Typically a control condition for morphological priming studies; indexes form-level activation.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -71,13 +71,13 @@ This task engages the following cognitive processes:
 - [Semantic knowledge](../processes/language_comprehension_and_production.md#hed-semantic-knowledge)
 - [Word recognition](../processes/language_comprehension_and_production.md#hed-word-recognition)
 
-## Key References
+## Key references
 
 - Meyer, D. E., & Schvaneveldt, R. W. (1971). Facilitation in recognizing pairs of words. *Journal of Experimental Psychology*, 90(2), 227-234.
 - Collins, A. M., & Loftus, E. F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407-428.
 - Rissman, J., Eliassen, J. C., & Blumstein, S. E. (2003). An event-related fMRI investigation of implicit semantic priming. *Journal of Cognitive Neuroscience*, 15(8), 1160-1169.
 
-## Recent References
+## Recent references
 
 - Hutchison, K. A., Balota, D. A., Neely, J. H., et al. (2013). The semantic priming project. *Behavior Research Methods*, 45(4), 1099–1114.
 - Buchanan, E. M., et al. (2025). Measuring the semantic priming effect across many languages. *Nature Human Behaviour*, 9, 133–142.
@@ -85,6 +85,6 @@ This task engages the following cognitive processes:
 - Lau, E. F., Phillips, C., & Poeppel, D. (2008). A cortical network for semantics: (De)constructing the N400. *Nature Reviews Neuroscience*, 9(12), 920–933.
 - Rastle, K., & Davis, M. H. (2008). Morphological decomposition based on the analysis of orthography. *Language and Cognitive Processes*, 23(7-8), 942-971.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_553e73e29cf7d)

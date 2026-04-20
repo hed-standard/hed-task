@@ -12,7 +12,7 @@ Judgment of whether two rotated objects are identical or mirror images; RT scale
 
 Participants view pairs of 3D objects (block figures, letters, or geometric forms) and determine whether they are identical (one is a rotated version of the other) or mirror images. Objects are rotated at angles ranging from 0 to 180 degrees relative to each other. The well-established finding is that RT increases linearly with angular disparity, suggesting an analog mental rotation process. The task measures spatial visualization ability, mental imagery, and visuospatial working memory. Sex differences in mental rotation are among the most reliable cognitive sex differences.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - Rotating self-perspective vs. rotating objects.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -61,19 +61,19 @@ This task engages the following cognitive processes:
 - [Spatial memory](../processes/spatial_cognition_and_navigation.md#hed-spatial-memory)
 - [Response selection](../processes/motor_preparation_timing_and_execution.md#hed-response-selection)
 
-## Key References
+## Key references
 
 - Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objects. *Science*, 171(3972), 701-703.
 - Vandenberg, S. G., & Kuse, A. R. (1978). Mental rotations, a group test of three-dimensional spatial visualization. *Perceptual and Motor Skills*, 47(2), 599-604.
 - Zacks, J. M. (2008). Neuroimaging studies of mental rotation: A meta-analysis and review. *Journal of Cognitive Neuroscience*, 20(1), 1-19.
 
-## Recent References
+## Recent references
 
 - Zacks, J. M. (2008). Neuroimaging studies of mental rotation: A meta-analysis and review. *Journal of Cognitive Neuroscience*, 20(1), 1–19.
 - Milivojevic, B., et al. (2023). Imaging the spin: Disentangling the core processes underlying mental rotation by meta-analysis. *Neuroscience & Biobehavioral Reviews*, 147, 105131.
 - Shepard, R. N. (2019). Mental rotation and the mental representation of three-dimensional objects. In *Representations in Mind and World* (pp. 37–56). Routledge. [Retrospective]
 - Hegarty, M. (2018). Ability and sex differences in spatial thinking: What does the mental rotation test really measure? *Psychonomic Bulletin & Review*, 25(3), 1212–1219.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c8990810541d)

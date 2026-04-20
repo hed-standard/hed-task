@@ -34,11 +34,11 @@ The following tasks engage this process:
 - [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
 - [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gray (1982) *The Neuropsychology of Anxiety*
 
-### Recent References
+### Recent references
 
 - Elliot (2006) *Motivation and Emotion* 30:111–116
 
@@ -60,11 +60,11 @@ The following tasks engage this process:
 - [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
 - [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
 
-### Fundamental References
+### Fundamental references
 
 - Gray (1982) *The Neuropsychology of Anxiety*
 
-### Recent References
+### Recent references
 
 - Elliot (2006) *Motivation and Emotion* 30:111–116
 
@@ -84,11 +84,11 @@ The following tasks engage this process:
 
 - [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
 
-### Fundamental References
+### Fundamental references
 
 - Salamone, Correa, Farrar & Mingote (2007) *Psychopharmacology* 191:461–482
 
-### Recent References
+### Recent references
 
 - Westbrook & Braver (2015) *Cognitive, Affective, & Behavioral Neuroscience* 15:395–415
 
@@ -109,11 +109,11 @@ The following tasks engage this process:
 - [Monetary Incentive Delay Task](../tasks/hedtsk_monetary_incentive_delay.md)
 - [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
 
-### Fundamental References
+### Fundamental references
 
 - Berridge & Robinson (1998) *Brain Research Reviews* 28:309–369
 
-### Recent References
+### Recent references
 
 - Berridge (2012) *European Journal of Neuroscience* 35:1124–1143
 
@@ -136,11 +136,11 @@ The following tasks engage this process:
 - [Monetary Incentive Delay Task](../tasks/hedtsk_monetary_incentive_delay.md)
 - [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
 
-### Fundamental References
+### Fundamental references
 
 - Knutson, Adams, Fong & Hommer (2001) *Journal of Neuroscience* 21:RC159
 
-### Recent References
+### Recent references
 
 - Oldham, Murawski, Fornito, Youssef, Yücel & Lorenzetti (2018) *Human Brain Mapping* 39:3398–3418
 
@@ -156,10 +156,10 @@ Affective and neural response to receipt of reward.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Berridge & Kringelbach (2008) *Psychopharmacology* 199:457–480
 
-### Recent References
+### Recent references
 
 - Berridge & Kringelbach (2015) *Neuron* 86:646–664

@@ -30,7 +30,7 @@ def generate(
 def _write_task_index(tasks_dir: Path, sorted_tasks: list[dict]) -> int:
     """Write docs/tasks/index.md."""
     lines = [
-        "# Task Catalog\n",
+        "# Task catalog\n",
         "\n",
         f"This catalog contains {len(sorted_tasks)} standard cognitive and behavioral neuroscience tasks.\n",
         "Each task has a canonical definition, inclusion criteria, named variations,\n",
@@ -104,7 +104,7 @@ def _write_task_page(
     manip_text = inclusion.get("manipulation", "")
     meas_text = inclusion.get("measurement", "")
 
-    parts.append("## Inclusion Test\n\n")
+    parts.append("## Inclusion test\n\n")
     parts.append("```{list-table}\n")
     parts.append(":widths: 15 85\n")
     parts.append(":header-rows: 0\n")
@@ -119,7 +119,7 @@ def _write_task_page(
 
     # Variations
     if variations:
-        parts.append("## Variations\n\n")
+        parts.append("## Variations\n\n")  # single word — already sentence case
         parts.append("```{list-table}\n")
         parts.append(":widths: 30 70\n")
         parts.append(":header-rows: 1\n")
@@ -133,9 +133,9 @@ def _write_task_page(
             parts.append(f"  - {var_desc}\n")
         parts.append("```\n\n")
 
-    # Cognitive Processes
+    # Cognitive processes
     if hed_process_ids:
-        parts.append("## Cognitive Processes\n\n")
+        parts.append("## Cognitive processes\n\n")
         parts.append("This task engages the following cognitive processes:\n\n")
         for pid in hed_process_ids:
             proc = processes_by_id.get(pid)
@@ -152,23 +152,23 @@ def _write_task_page(
                 parts.append(f"- [{pname}](../processes/{cat_id}.md#{anchor})\n")
         parts.append("\n")
 
-    # Key References
+    # Key references
     if key_refs:
-        parts.append("## Key References\n\n")
+        parts.append("## Key references\n\n")
         for ref in key_refs:
             parts.append(f"- {ref}\n")
         parts.append("\n")
 
-    # Recent References
+    # Recent references
     if recent_refs:
-        parts.append("## Recent References\n\n")
+        parts.append("## Recent references\n\n")
         for ref in recent_refs:
             parts.append(f"- {ref}\n")
         parts.append("\n")
 
-    # External Links
+    # External links
     if atlas_id:
-        parts.append("## External Links\n\n")
+        parts.append("## External links\n\n")
         parts.append(f"- [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/{atlas_id})\n")
         parts.append("\n")
 

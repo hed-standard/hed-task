@@ -12,7 +12,7 @@ Passive or instructed viewing of emotionally valenced images (IAPS, GAPED, NAPS,
 
 Participants passively view color photographs from the International Affective Picture System (IAPS), a validated database of 1,182 images varying in emotional valence (pleasant, unpleasant, neutral) and arousal (calm to exciting). Images are presented for 3-5 seconds each without requiring an overt response. Post-viewing, participants rate valence and arousal on 9-point scales. The task serves as a standardized emotion elicitation tool in neuroimaging, consistently activating amygdala (for high-arousal images), visual cortex (enhanced processing of emotional stimuli), and prefrontal regions.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -40,7 +40,7 @@ header-rows: 1
   - Images selected for discrete emotions (fear, disgust, sadness).
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -51,19 +51,19 @@ This task engages the following cognitive processes:
 - [Approach motivation](../processes/reward_anticipation_and_motivation.md#hed-approach-motivation)
 - [Avoidance motivation](../processes/reward_anticipation_and_motivation.md#hed-avoidance-motivation)
 
-## Key References
+## Key references
 
 - Lang, P. J., Bradley, M. M., & Cuthbert, B. N. (1997). *International Affective Picture System (IAPS): Technical Manual and Affective Ratings*. NIMH Center for the Study of Emotion and Attention.
 - Sabatinelli, D., Bradley, M. M., Fitzsimmons, J. R., & Lang, P. J. (2005). Parallel amygdala and inferotemporal activation reflect emotional intensity and fear relevance. *NeuroImage*, 24(4), 1265-1270.
 - Phan, K. L., Wager, T., Taylor, S. F., & Liberzon, I. (2002). Functional neuroanatomy of emotion: A meta-analysis of emotion activation studies in PET and fMRI. *NeuroImage*, 16(2), 331-348.
 
-## Recent References
+## Recent references
 
 - Deng, Y., Wang, S., Fuhrmann, A., et al. (2023). A systematic review of IAPS around the world. *Brain and Behavior*, 13(7), e3027.
 - Bradley, M. M., & Lang, P. J. (2007). The International Affective Picture System (IAPS) in the study of emotion and attention. In *Handbook of Emotion Elicitation and Assessment* (pp. 29–46). Oxford University Press.
 - Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences*, 35(3), 121–143.
 - Wager, T. D., Kang, J., Johnson, T. D., Nichols, T. E., Satpute, A. B., & Barrett, L. F. (2015). A Bayesian model of category-specific emotional brain responses. *PLoS Computational Biology*, 11(4), e1004066.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949aca)

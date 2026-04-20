@@ -12,7 +12,7 @@ Repeated choices among four decks with hidden reward and loss distributions; pre
 
 Participants choose cards from four decks to maximize winnings. Two decks (A, B) have high wins but higher losses (net loss); two decks (C, D) have smaller wins but minimal losses (net gain). Over 100 trials, healthy participants gradually learn to prefer advantageous decks. The IGT is particularly sensitive to ventromedial prefrontal cortex damage; vmPFC patients fail to develop a preference for advantageous decks despite normal intellectual functioning. The task operationalizes the Somatic Marker Hypothesis.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -50,7 +50,7 @@ header-rows: 1
   - Equated frequency, equated magnitude, or reversed deck structures.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -61,13 +61,13 @@ This task engages the following cognitive processes:
 - [Approach motivation](../processes/reward_anticipation_and_motivation.md#hed-approach-motivation)
 - [Emotion regulation](../processes/emotion_perception_and_regulation.md#hed-emotion-regulation)
 
-## Key References
+## Key references
 
 - Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1-3), 7-15.
 - Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). Deciding advantageously before knowing the advantageous strategy. *Science*, 275(5304), 1293-1295.
 - Li, X., Lu, Z. L., D'Argembeau, A., Ng, M., & Bechara, A. (2010). The Iowa Gambling Task in fMRI images. *Human Brain Mapping*, 31(3), 410-423.
 
-## Recent References
+## Recent references
 
 - Steingroever, H., Wetzels, R., Horstmann, A., Neumann, J., & Wagenmakers, E. J. (2013). Performance of healthy participants on the Iowa Gambling Task. *Psychological Assessment*, 25(1), 180–193.
 - Haines, N., Vassileva, J., & Ahn, W. Y. (2018). The Outcome-Representation Learning Model: A novel reinforcement learning model of the Iowa Gambling Task. *Cognitive Science*, 42(Suppl 3), 1098–1122.
@@ -75,6 +75,6 @@ This task engages the following cognitive processes:
 - Ahn, W. Y., Busemeyer, J. R., Wagenmakers, E. J., & Stout, J. C. (2008). Comparison of decision learning models using the generalization criterion method. *Cognitive Science*, 32(8), 1376–1402.
 - Decision-making and performance in the Iowa Gambling Task: recent ERP findings and clinical implications. (2025). *Frontiers in Psychology*, 16, 1492471. doi:10.3389/fpsyg.2025.1492471
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949ae5)

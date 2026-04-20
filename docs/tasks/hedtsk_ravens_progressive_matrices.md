@@ -12,7 +12,7 @@ Matrix completion items requiring induction of a rule from a 3x3 array of figure
 
 Participants view a matrix pattern with a missing element and select the correct completion from a set of alternatives. The patterns involve systematic variations in features such as shape, size, color, orientation, and number, governed by rules that increase in complexity across test items. Solving each item requires extracting the governing rules and applying them to predict the missing element. Raven's Progressive Matrices is the most widely used culture-reduced measure of fluid intelligence (Gf) and abstract relational reasoning, and is among the most extensively studied psychometric instruments in all of psychology. It has been central to debates about the neural basis of general intelligence, g-loading, and the structure of reasoning.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -54,7 +54,7 @@ header-rows: 1
   - Brief 15-item forms developed for quick screening, particularly for children and adolescents; trade test reliability for reduced administration time.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -64,13 +64,13 @@ This task engages the following cognitive processes:
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 - [Working memory](../processes/short_term_and_working_memory.md#hed-working-memory)
 
-## Key References
+## Key references
 
 - Raven, J. C. (1938). *Progressive Matrices: A perceptual test of intelligence*. H.K. Lewis.
 - Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404–431.
 - Gray, J. R., Chabris, C. F., & Braver, T. S. (2003). Neural mechanisms of general fluid intelligence. *Nature Neuroscience*, 6(3), 316–322.
 
-## Recent References
+## Recent references
 
 - Prabhakaran, V., Smith, J. A. L., Desmond, J. E., Glover, G. H., & Gabrieli, J. D. E. (1997). Neural substrates of fluid reasoning: An fMRI study of neocortical activation during performance of the Raven's Progressive Matrices test. *Cognitive Psychology*, 33(1), 43–63.
 - Kievit, R. A., Davis, S. W., Griffiths, J., Correia, M. M., Cam-CAN, & Henson, R. N. (2016). A watershed model of individual differences in fluid intelligence. *Neuropsychologia*, 91, 186–198.

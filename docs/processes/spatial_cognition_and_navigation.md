@@ -22,11 +22,11 @@ The following tasks engage this process:
 
 - [Mental Rotation Task](../tasks/hedtsk_mental_rotation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Shepard & Metzler (1971) *Science* 171:701–703
 
-### Recent References
+### Recent references
 
 - Zacks (2008) *Journal of Cognitive Neuroscience* 20:1–19
 
@@ -49,10 +49,10 @@ The following tasks engage this process:
 - [Virtual Morris Water Maze Task](../tasks/hedtsk_virtual_morris_water_maze.md)
 - [Virtual Radial Arm Maze Task](../tasks/hedtsk_virtual_radial_arm_maze.md)
 
-### Fundamental References
+### Fundamental references
 
 - O'Keefe & Nadel (1978) *The Hippocampus as a Cognitive Map*
 
-### Recent References
+### Recent references
 
 - Ekstrom, Huffman & Starrett (2017) *Journal of Neurophysiology* 118:3328–3344

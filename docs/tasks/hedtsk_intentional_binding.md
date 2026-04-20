@@ -12,7 +12,7 @@ Participants judge the perceived time of a voluntary action and/or its sensory e
 
 The Intentional Binding Task (Haggard, Clark, & Kalogeras, 2002) measures the implicit sense of agency through perceived temporal shifts between voluntary actions and their sensory consequences. Participants watch a rotating clock hand (Libet clock) and make voluntary key presses that produce a tone after a fixed delay (typically 250 ms). In separate blocks, they report either the perceived time of their action (action binding: judged time shifts toward the tone) or the perceived time of the tone (effect binding: judged time shifts toward the action). The net temporal compression between action and effect — intentional binding — is taken as an implicit, pre-reflective marker of the sense of agency. Involuntary actions (e.g., TMS-induced movements) or externally triggered tones produce temporal repulsion rather than binding, establishing the specificity of the effect to voluntary agency. The paradigm has become the standard implicit measure of sense of agency, complementing explicit agency judgments. It is sensitive to disorders of agency including schizophrenia (reduced binding, especially in patients with passivity experiences), functional neurological disorder, and anarchic hand syndrome. Computational accounts link binding to motor prediction: the forward model predicts sensory consequences of voluntary actions, and the match between prediction and outcome generates the binding effect.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - Action produces positive (reward tone), negative (aversive tone), or neutral effects. Tests whether emotional significance of outcomes modulates binding. Relevant to moral agency research.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -60,13 +60,13 @@ This task engages the following cognitive processes:
 - [Motor planning](../processes/motor_preparation_timing_and_execution.md#hed-motor-planning)
 - [Metacognitive monitoring](../processes/awareness_agency_and_metacognition.md#hed-metacognitive-monitoring)
 
-## Key References
+## Key references
 
 - Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. Nature Neuroscience, 5(4), 382-385.
 - Moore, J. W., & Obhi, S. S. (2012). Intentional binding and the sense of agency: A review. Consciousness and Cognition, 21(1), 546-561.
 - Wolpe, N., Haggard, P., Siebner, H. R., & Rowe, J. B. (2013). Cue integration and the perception of action in intentional binding. Experimental Brain Research, 229(3), 467-474.
 
-## Recent References
+## Recent references
 
 - Tanaka, T., Matsumoto, T., Hayashi, S., Takagi, S., & Kawabata, H. (2019). What makes action and outcome temporally close? A systematic review and meta-analysis of temporal binding. Timing & Time Perception, 7(3), 189-218.
 - Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. Brain, 133(10), 3104-3112.

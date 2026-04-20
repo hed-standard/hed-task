@@ -12,7 +12,7 @@ Classify recognition hits as 'remember' (vivid recollection) or 'know' (familiar
 
 During a recognition memory test, participants classify each item they judge as "old" according to the subjective quality of their memory: "remember" if they can recollect specific contextual details from the encoding episode (e.g., what they were thinking, where the item appeared), or "know" if the item feels familiar but retrieval of contextual details fails. Tulving (1985) introduced this distinction to operationalize the difference between episodic recollection and noetic familiarity. The paradigm has become the primary behavioral tool for dual-process theories of recognition memory and has been extensively validated with neuroimaging, revealing dissociable hippocampal (recollection) and perirhinal (familiarity) contributions.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -46,7 +46,7 @@ header-rows: 1
   - Applied to associative recognition (word pairs) rather than item recognition.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -56,13 +56,13 @@ This task engages the following cognitive processes:
 - [Episodic memory](../processes/long_term_memory.md#hed-episodic-memory)
 - [Metacognitive monitoring](../processes/awareness_agency_and_metacognition.md#hed-metacognitive-monitoring)
 
-## Key References
+## Key references
 
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 - Yonelinas, A. P. (2002). The nature of recollection and familiarity: A review of 30 years of research. *Journal of Memory and Language*, 46(3), 441–517.
 - Gardiner, J. M. (1988). Functional aspects of recollective experience. *Memory & Cognition*, 16(4), 309–313.
 
-## Recent References
+## Recent references
 
 - Yonelinas, A. P., Aly, M., Wang, W.-C., & Koen, J. D. (2010). Recollection and familiarity: Examining controversial assumptions and new directions. *Hippocampus*, 20(11), 1178–1194.
 - Wixted, J. T., & Mickes, L. (2010). A continuous dual-process model of remember/know judgments. *Psychological Review*, 117(4), 1025–1054.

@@ -24,10 +24,10 @@ The following tasks engage this process:
 - [Random Dot Kinematogram Task](../tasks/hedtsk_random_dot_kinematogram.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental References
+### Fundamental references
 
 - Ratcliff (1978) *Psychological Review* 85:59–108
 
-### Recent References
+### Recent references
 
 - Gold & Shadlen (2007) *Annual Review of Neuroscience* 30:535–574

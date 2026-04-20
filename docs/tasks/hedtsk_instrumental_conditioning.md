@@ -12,7 +12,7 @@ Actions are reinforced by contingent outcomes under defined schedules; response 
 
 In instrumental conditioning, voluntary actions are associated with rewarding or punishing consequences through repeated experience. Laboratory implementations present discrete choice options where specific responses are followed by desirable outcomes (food, money, points) or undesirable outcomes (loss, punishment). Common schedules include fixed-ratio, variable-ratio, fixed-interval, and variable-interval. Performance measures include response rates, choice patterns, and reaction times. The ventral striatum, dopamine system, and orbitofrontal cortex are critical for representing value predictions and learning from outcomes.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -60,7 +60,7 @@ header-rows: 1
   - Responses prevent aversive outcomes; safety signal learning.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -70,19 +70,19 @@ This task engages the following cognitive processes:
 - [Habit](../processes/associative_learning_and_reinforcement.md#hed-habit)
 - [Reward prediction error](../processes/associative_learning_and_reinforcement.md#hed-reward-prediction-error)
 
-## Key References
+## Key references
 
 - Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. New York: Macmillan.
 - Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, 275(5306), 1593-1599.
 - Haber, S. N., & Knutson, B. (2010). The reward circuit: Linking primate anatomy and human imaging. *Neuropsychopharmacology*, 35(1), 4-26.
 
-## Recent References
+## Recent references
 
 - Balleine, B. W., & O'Doherty, J. P. (2010). Human and rodent homologies in action control: Corticostriatal determinants of goal-directed and habitual action. *Neuropsychopharmacology*, 35(1), 48–69.
 - Dolan, R. J., & Dayan, P. (2013). Goals and habits in the brain. *Neuron*, 80(2), 312–325.
 - Lee, S. W., Shimojo, S., & O'Doherty, J. P. (2014). Neural computations underlying arbitration between model-based and model-free learning. *Neuron*, 81(3), 687–699.
 - Gillan, C. M., Kosinski, M., Whelan, R., Phelps, E. A., & Daw, N. D. (2016). Characterizing a psychiatric symptom dimension related to deficits in goal-directed control. *eLife*, 5, e11305.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2414059baa8)

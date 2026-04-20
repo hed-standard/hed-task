@@ -12,7 +12,7 @@ A brief target is rendered invisible or reduced in visibility by a preceding or 
 
 Participants attempt to detect or discriminate brief, near-threshold visual stimuli that are rendered difficult to see through low contrast, brief duration, or metacontrast masking (a spatially adjacent, temporally trailing mask that suppresses visibility of the target without overlapping it spatially). The key dependent variable is not only accuracy but the relationship between trial-by-trial detection success and prestimulus brain states — particularly the phase and power of ongoing alpha (~10 Hz) and theta (~7 Hz) oscillations recorded via EEG. This paradigm demonstrates that conscious visual perception is not a passive, deterministic process but is gated by rhythmic fluctuations in cortical excitability, supporting pulsed-inhibition and perceptual-sampling theories.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -58,7 +58,7 @@ header-rows: 1
   - Analogous paradigm in auditory modality; tone detection masked by noise burst at variable SOAs.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -67,7 +67,7 @@ This task engages the following cognitive processes:
 - [Perceptual awareness](../processes/awareness_agency_and_metacognition.md#hed-perceptual-awareness)
 - [Attentional awareness](../processes/awareness_agency_and_metacognition.md#hed-attentional-awareness)
 
-## Key References
+## Key references
 
 - Mathewson, K. E., Gratton, G., Fabiani, M., Beck, D. M., & Ro, T. (2009). To see or not to see: Prestimulus alpha phase predicts visual awareness. *Journal of Neuroscience*, 29(9), 2725–2732.
 - Busch, N. A., Dubois, J., & VanRullen, R. (2009). The phase of ongoing EEG oscillations predicts visual perception. *Journal of Neuroscience*, 29(24), 7869–7876.
@@ -76,7 +76,7 @@ This task engages the following cognitive processes:
 - Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200–227.
 - Sergent, C., & Dehaene, S. (2004). Is consciousness a gradual phenomenon? Evidence for an all-or-none bifurcation during the attentional blink. *Psychological Science*, 15(11), 720–728.
 
-## Recent References
+## Recent references
 
 - VanRullen, R. (2016). Perceptual cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 - Dugué, L., Marque, P., & VanRullen, R. (2011). The phase of ongoing oscillations mediates the causal relation between brain excitation and visual perception. *Journal of Neuroscience*, 31(33), 11889–11893.

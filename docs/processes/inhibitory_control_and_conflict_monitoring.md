@@ -32,11 +32,11 @@ The following tasks engage this process:
 - [Stop-Signal Task](../tasks/hedtsk_stop_signal.md)
 - [Stroop Color-Word Task](../tasks/hedtsk_stroop_color_word.md)
 
-### Fundamental References
+### Fundamental references
 
 - Botvinick, Braver, Barch, Carter & Cohen (2001) *Psychological Review* 108:624–652
 
-### Recent References
+### Recent references
 
 - Shenhav, Botvinick & Cohen (2013) *Neuron* 79:217–240
 
@@ -52,12 +52,12 @@ Adjustment of behavior following an error, including post-error slowing and impr
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Rabbitt (1966) *Nature* 212:438
 - Laming (1979) *Acta Psychologica* 43:199–224
 
-### Recent References
+### Recent references
 
 - Danielmeier & Ullsperger (2011) *Frontiers in Psychology* 2:233
 
@@ -79,12 +79,12 @@ The following tasks engage this process:
 - [Sentence Comprehension Task](../tasks/hedtsk_sentence_comprehension.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental References
+### Fundamental references
 
 - Falkenstein, Hohnsbein, Hoormann & Blanke (1991) *EEG & Clinical Neurophysiology* 78:447–455
 - Gehring, Goss, Coles, Meyer & Donchin (1993) *Psychological Science* 4:385–390
 
-### Recent References
+### Recent references
 
 - Ullsperger, Danielmeier & Jocham (2014) *Physiological Reviews* 94:35–79
 
@@ -106,11 +106,11 @@ The following tasks engage this process:
 - [Attention Network Task](../tasks/hedtsk_attention_network.md)
 - [Emotion Regulation Task](../tasks/hedtsk_emotion_regulation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Fan, McCandliss, Sommer, Raz & Posner (2002) *Journal of Cognitive Neuroscience* 14:340–347
 
-### Recent References
+### Recent references
 
 - Petersen & Posner (2012) *Annual Review of Neuroscience* 35:73–89
 
@@ -138,12 +138,12 @@ The following tasks engage this process:
 - [Simon Task](../tasks/hedtsk_simon.md)
 - [Stroop Color-Word Task](../tasks/hedtsk_stroop_color_word.md)
 
-### Fundamental References
+### Fundamental references
 
 - Stroop (1935) *JEP* 18:643–662
 - Eriksen & Eriksen (1974) *Perception & Psychophysics* 16:143–149
 
-### Recent References
+### Recent references
 
 - Nigg (2017) *Journal of Child Psychology and Psychiatry* 58:361–383
 
@@ -163,11 +163,11 @@ The following tasks engage this process:
 
 - [Task Switching Task](../tasks/hedtsk_task_switching.md)
 
-### Fundamental References
+### Fundamental references
 
 - Braver, Gray & Burgess (2007) in *Variation in Working Memory*
 
-### Recent References
+### Recent references
 
 - Braver (2012) *Trends in Cognitive Sciences* 16:106–113
 
@@ -187,11 +187,11 @@ The following tasks engage this process:
 
 - [Stop-Signal Task](../tasks/hedtsk_stop_signal.md)
 
-### Fundamental References
+### Fundamental references
 
 - Braver, Gray & Burgess (2007) in *Variation in Working Memory*
 
-### Recent References
+### Recent references
 
 - Braver (2012) *Trends in Cognitive Sciences* 16:106–113
 
@@ -217,11 +217,11 @@ The following tasks engage this process:
 - [Stroop Color-Word Task](../tasks/hedtsk_stroop_color_word.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental References
+### Fundamental references
 
 - Cohen, Dunbar & McClelland (1990) *Psychological Review* 97:332–361
 
-### Recent References
+### Recent references
 
 - Botvinick (2007) *Cognitive, Affective, & Behavioral Neuroscience* 7:356–366
 
@@ -251,10 +251,10 @@ The following tasks engage this process:
 - [Sustained Attention to Response Task](../tasks/hedtsk_sustained_attention_to_response.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental References
+### Fundamental references
 
 - Logan & Cowan (1984) *Psychological Review* 91:295–327
 
-### Recent References
+### Recent references
 
 - Aron, Robbins & Poldrack (2014) *Trends in Cognitive Sciences* 18:177–185

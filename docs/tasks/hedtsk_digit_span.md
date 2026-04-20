@@ -12,7 +12,7 @@ Auditory or visual digit sequences reproduced in forward or backward order; long
 
 The Digit Span task measures verbal short-term and working memory capacity. In the Forward condition, participants listen to sequences of digits presented at a rate of one per second and immediately repeat them in the same order; sequence length increases until recall fails. In the Backward condition, participants repeat digits in reverse order, adding a manipulation component. The Sequencing condition (from WAIS-IV) requires reordering digits numerically. Digit Span is one of the oldest and most widely administered neuropsychological measures, embedded in the Wechsler intelligence and memory scales. Forward span primarily indexes the phonological loop, while backward span engages central executive processes.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -60,7 +60,7 @@ header-rows: 1
   - Lists exceeding span; number of trials to criterion measures learning rate.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -70,19 +70,19 @@ This task engages the following cognitive processes:
 - [Manipulation](../processes/short_term_and_working_memory.md#hed-manipulation)
 - [Chunking](../processes/short_term_and_working_memory.md#hed-chunking)
 
-## Key References
+## Key references
 
 - Wechsler, D. (1997). *Wechsler Memory Scale—Third Edition (WMS-III)*. The Psychological Corporation.
 - Baddeley, A. D. (1986). *Working Memory*. Oxford University Press.
 - Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.
 
-## Recent References
+## Recent references
 
 - Woods, D. L., Kishiyama, M. M., Yund, E. W., Herron, T. J., Edwards, B., Poliva, O., ... & Reed, B. (2011). Improving digit span assessment of short-term verbal memory. *Journal of Clinical and Experimental Neuropsychology*, 33(1), 101–111.
 - Hilbert, S., Nakagawa, T. T., Puci, P., Zech, A., & Bühner, M. (2015). The digit span backwards task: Verbal and visual cognitive strategies in working memory assessment. *European Journal of Psychological Assessment*, 31(3), 174–180.
 - Egeland, J. (2015). Measuring working memory with Digit Span and the Letter-Number Sequencing subtests from the WAIS-IV: Too low manipulation load and risk for underestimating modality effects. *Applied Neuropsychology: Adult*, 22(6), 445–451.
 - Grégoire, J., & Van der Linden, M. (2004). Effect of age on forward and backward digit spans. *Aging, Neuropsychology, and Cognition*, 11(4), 428–434.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949a0d)
