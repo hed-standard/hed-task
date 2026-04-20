@@ -1,0 +1,345 @@
+# Associative Learning and Reinforcement
+
+**Scope:** Learning of stimulus-stimulus, stimulus-response, and action-outcome contingencies under reinforcement; Pavlovian and instrumental conditioning; extinction; reversal; model-based and model-free reinforcement learning; reward prediction error.
+
+**Out of scope:** Structure learning without scalar reinforcement (that is Implicit and Statistical Learning).
+
+:::\{note} **Open issues:** Instrumental ≡ Operant conditioning resolved 2026-04-18: collapsed to single `hed_instrumental_conditioning` entry. Operant conditioning absorbed as synonym. :::
+
+This category contains 13 processes.
+
+______________________________________________________________________
+
+(hed-associative-learning)=
+
+## Associative learning
+
+**Process ID:** `hed_associative_learning`
+
+Learning of co-occurrence relations between stimuli or between stimuli and responses.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Causal Learning Task](../tasks/hedtsk_causal_learning.md)
+- [Contextual Cueing Task](../tasks/hedtsk_contextual_cueing.md)
+- [Digit Symbol Substitution Task](../tasks/hedtsk_digit_symbol_substitution.md)
+- [Implicit Association Task](../tasks/hedtsk_implicit_association.md)
+- [Paired Associates Learning Task](../tasks/hedtsk_paired_associates_learning.md)
+- [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
+- [Probabilistic Classification Learning Task](../tasks/hedtsk_probabilistic_classification_learning.md)
+
+### Fundamental References
+
+- Rescorla & Wagner (1972) in *Classical Conditioning II*
+
+### Recent References
+
+- Shanks (2010) *Annual Review of Psychology* 61:273–301
+
+______________________________________________________________________
+
+(hed-extinction)=
+
+## Extinction
+
+**Process ID:** `hed_extinction`
+
+Decrease in a previously reinforced response when reinforcement is withheld; a form of new inhibitory learning rather than erasure.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
+
+### Fundamental References
+
+- Pavlov (1927) *Conditioned Reflexes*
+- Bouton (2004) *Learning & Memory* 11:485–494
+
+### Recent References
+
+- Dunsmoor, Niv, Daw & Phelps (2015) *Neuron* 88:47–63
+
+______________________________________________________________________
+
+(hed-goal-directed-behavior)=
+
+## Goal-directed behavior
+
+**Process ID:** `hed_goal_directed_behavior`
+
+Behavior that is sensitive to current outcome value, characteristic of action–outcome learning.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
+
+### Fundamental References
+
+- Dickinson & Balleine (1994) *Animal Learning & Behavior* 22:1–18
+
+### Recent References
+
+- Balleine & O'Doherty (2010) *Neuropsychopharmacology* 35:48–69
+
+______________________________________________________________________
+
+(hed-habit)=
+
+## Habit
+
+**Process ID:** `hed_habit`
+
+Behavior that is insensitive to the current value of its outcome, characteristic of stimulus–response learning.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
+
+### Fundamental References
+
+- Dickinson (1985) *Philosophical Transactions B* 308:67–78
+
+### Recent References
+
+- Balleine & O'Doherty (2010) *Neuropsychopharmacology* 35:48–69
+
+______________________________________________________________________
+
+(hed-instrumental-conditioning)=
+
+## Instrumental conditioning
+
+**Process ID:** `hed_instrumental_conditioning`
+
+**Also known as:** **Operant conditioning** — Skinnerian terminology; emphasizes the operant response and reinforcement schedules. Merged from separate entry 2026-04-18.
+
+Learning that an action produces an outcome; also called operant conditioning. Encompasses both goal-directed (action–outcome) and habitual (stimulus–response) control, studied via reinforcement schedules and outcome-devaluation procedures.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
+
+### Fundamental References
+
+- Thorndike (1911) *Animal Intelligence*
+- Skinner (1938) *The Behavior of Organisms*
+- Ferster & Skinner (1957) *Schedules of Reinforcement*
+
+### Recent References
+
+- Dickinson & Balleine (2002) in *Stevens' Handbook of Experimental Psychology*
+- Staddon & Cerutti (2003) *Annual Review of Psychology* 54:115–144
+
+______________________________________________________________________
+
+(hed-model-based-learning)=
+
+## Model-based learning
+
+**Process ID:** `hed_model_based_learning`
+
+Reinforcement learning that uses an internal model of the environment's transition and reward structure to plan.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
+
+### Fundamental References
+
+- Tolman (1948) *Psychological Review* 55:189–208 (cognitive maps)
+- Daw, Niv & Dayan (2005) *Nature Neuroscience* 8:1704–1711
+
+### Recent References
+
+- Daw, Gershman, Seymour, Dayan & Dolan (2011) *Neuron* 69:1204–1215
+
+______________________________________________________________________
+
+(hed-model-free-learning)=
+
+## Model-free learning
+
+**Process ID:** `hed_model_free_learning`
+
+Reinforcement learning from cached value estimates updated by prediction errors, without an explicit model of the environment.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
+
+### Fundamental References
+
+- Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
+
+### Recent References
+
+- Daw, Niv & Dayan (2005) *Nature Neuroscience* 8:1704–1711
+
+______________________________________________________________________
+
+(hed-pavlovian-conditioning)=
+
+## Pavlovian conditioning
+
+**Process ID:** `hed_pavlovian_conditioning`
+
+Learning that a neutral stimulus predicts a biologically significant outcome, leading to conditioned responding.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
+
+### Fundamental References
+
+- Pavlov (1927) *Conditioned Reflexes*
+- Rescorla & Wagner (1972) in *Classical Conditioning II*
+
+### Recent References
+
+- LeDoux (2014) *PNAS* 111:2871–2878
+
+______________________________________________________________________
+
+(hed-policy-learning)=
+
+## Policy learning
+
+**Process ID:** `hed_policy_learning`
+
+Direct learning of a mapping from states to actions without necessarily estimating values.
+
+*No tasks in the current catalog are linked to this process.*
+
+### Fundamental References
+
+- Williams (1992) *Machine Learning* 8:229–256
+
+### Recent References
+
+- Sutton & Barto (2018) *Reinforcement Learning: An Introduction*, 2nd ed
+
+______________________________________________________________________
+
+(hed-reinforcement-learning)=
+
+## Reinforcement learning
+
+**Process ID:** `hed_reinforcement_learning`
+
+Learning to select actions that maximize cumulative reward through experience with reward prediction errors.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
+- [Iowa Gambling Task](../tasks/hedtsk_iowa_gambling.md)
+- [Multi-Armed Bandit Task](../tasks/hedtsk_multi_armed_bandit.md)
+- [Probabilistic Classification Learning Task](../tasks/hedtsk_probabilistic_classification_learning.md)
+- [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
+- [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
+- [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
+
+### Fundamental References
+
+- Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
+- Schultz, Dayan & Montague (1997) *Science* 275:1593–1599
+
+### Recent References
+
+- Niv (2009) *Journal of Mathematical Psychology* 53:139–154
+
+______________________________________________________________________
+
+(hed-reversal-learning)=
+
+## Reversal learning
+
+**Process ID:** `hed_reversal_learning`
+
+Relearning after contingencies between stimuli (or responses) and outcomes are switched.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
+
+### Fundamental References
+
+- Iversen & Mishkin (1970) *Experimental Brain Research* 11:376–386
+
+### Recent References
+
+- Izquierdo, Brigman, Radke, Rudebeck & Holmes (2017) *Neuroscience* 345:12–26
+
+______________________________________________________________________
+
+(hed-reward-prediction-error)=
+
+## Reward prediction error
+
+**Process ID:** `hed_reward_prediction_error`
+
+Signed difference between received and expected reward, instantiated by phasic midbrain dopamine firing.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Causal Learning Task](../tasks/hedtsk_causal_learning.md)
+- [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
+- [Iowa Gambling Task](../tasks/hedtsk_iowa_gambling.md)
+- [Multi-Armed Bandit Task](../tasks/hedtsk_multi_armed_bandit.md)
+- [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
+- [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
+- [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
+
+### Fundamental References
+
+- Schultz, Dayan & Montague (1997) *Science* 275:1593–1599
+
+### Recent References
+
+- Glimcher (2011) *PNAS* 108(Suppl 3):15647–15654
+
+______________________________________________________________________
+
+(hed-value-learning)=
+
+## Value learning
+
+**Process ID:** `hed_value_learning`
+
+Acquisition of the expected value of stimuli, actions, or states from experience with outcomes.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Multi-Armed Bandit Task](../tasks/hedtsk_multi_armed_bandit.md)
+- [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
+
+### Fundamental References
+
+- Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
+
+### Recent References
+
+- Rangel, Camerer & Montague (2008) *Nature Reviews Neuroscience* 9:545–556

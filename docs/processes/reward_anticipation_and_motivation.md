@@ -1,0 +1,165 @@
+# Reward Anticipation and Motivation
+
+**Scope:** Anticipation of reward, consumption of reward, incentive salience, effort allocation, approach motivation, avoidance motivation.
+
+**Out of scope:** Motivation as a trait; reward sensitivity as an individual difference.
+
+:::\{note} **Open issues:** None open. :::
+
+:::\{admonition} Category history :class: dropdown
+
+The appetitive/aversive axis pair was collapsed during 2026-04-15 (dropped as stimulus properties rather than processes); Approach and Avoidance motivation are retained. :::
+
+This category contains 6 processes.
+
+______________________________________________________________________
+
+(hed-approach-motivation)=
+
+## Approach motivation
+
+**Process ID:** `hed_approach_motivation`
+
+Tendency to engage with stimuli associated with positive outcomes.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Affective Picture Viewing Task](../tasks/hedtsk_affective_picture_viewing.md)
+- [Balloon Analog Risk Task](../tasks/hedtsk_balloon_analog_risk.md)
+- [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
+- [Iowa Gambling Task](../tasks/hedtsk_iowa_gambling.md)
+- [Monetary Incentive Delay Task](../tasks/hedtsk_monetary_incentive_delay.md)
+- [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
+- [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
+
+### Fundamental References
+
+- Gray (1982) *The Neuropsychology of Anxiety*
+
+### Recent References
+
+- Elliot (2006) *Motivation and Emotion* 30:111–116
+
+______________________________________________________________________
+
+(hed-avoidance-motivation)=
+
+## Avoidance motivation
+
+**Process ID:** `hed_avoidance_motivation`
+
+Tendency to disengage from stimuli associated with negative outcomes.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Affective Picture Viewing Task](../tasks/hedtsk_affective_picture_viewing.md)
+- [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
+- [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
+
+### Fundamental References
+
+- Gray (1982) *The Neuropsychology of Anxiety*
+
+### Recent References
+
+- Elliot (2006) *Motivation and Emotion* 30:111–116
+
+______________________________________________________________________
+
+(hed-effort-allocation)=
+
+## Effort allocation
+
+**Process ID:** `hed_effort_allocation`
+
+Decision to expend physical or cognitive effort as a function of expected reward and cost.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
+
+### Fundamental References
+
+- Salamone, Correa, Farrar & Mingote (2007) *Psychopharmacology* 191:461–482
+
+### Recent References
+
+- Westbrook & Braver (2015) *Cognitive, Affective, & Behavioral Neuroscience* 15:395–415
+
+______________________________________________________________________
+
+(hed-incentive-salience)=
+
+## Incentive salience
+
+**Process ID:** `hed_incentive_salience`
+
+"Wanting" attributed to reward-predictive cues, distinct from "liking."
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Monetary Incentive Delay Task](../tasks/hedtsk_monetary_incentive_delay.md)
+- [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
+
+### Fundamental References
+
+- Berridge & Robinson (1998) *Brain Research Reviews* 28:309–369
+
+### Recent References
+
+- Berridge (2012) *European Journal of Neuroscience* 35:1124–1143
+
+______________________________________________________________________
+
+(hed-reward-anticipation)=
+
+## Reward anticipation
+
+**Process ID:** `hed_reward_anticipation`
+
+Affective and neural response to cues predicting upcoming reward.
+
+### Tasks
+
+The following tasks engage this process:
+
+- [Balloon Analog Risk Task](../tasks/hedtsk_balloon_analog_risk.md)
+- [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
+- [Monetary Incentive Delay Task](../tasks/hedtsk_monetary_incentive_delay.md)
+- [Social Incentive Delay Task](../tasks/hedtsk_social_incentive_delay.md)
+
+### Fundamental References
+
+- Knutson, Adams, Fong & Hommer (2001) *Journal of Neuroscience* 21:RC159
+
+### Recent References
+
+- Oldham, Murawski, Fornito, Youssef, Yücel & Lorenzetti (2018) *Human Brain Mapping* 39:3398–3418
+
+______________________________________________________________________
+
+(hed-reward-consumption)=
+
+## Reward consumption
+
+**Process ID:** `hed_reward_consumption`
+
+Affective and neural response to receipt of reward.
+
+*No tasks in the current catalog are linked to this process.*
+
+### Fundamental References
+
+- Berridge & Kringelbach (2008) *Psychopharmacology* 199:457–480
+
+### Recent References
+
+- Berridge & Kringelbach (2015) *Neuron* 86:646–664
