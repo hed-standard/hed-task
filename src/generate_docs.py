@@ -1,0 +1,93 @@
+"""CLI entry point: generate all Sphinx documentation pages from .working/ data.
+
+Usage (from repo root, with venv active):
+    python src/generate_docs.py
+"""
+
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+# Ensure the src/ directory is on the Python path so `generators` can be imported.
+_HERE = Path(__file__).parent
+if str(_HERE) not in sys.path:
+    sys.path.insert(0, str(_HERE))
+
+from generators import (  # noqa: E402
+    criteria_pages,
+    crossref_page,
+    index_page,
+    process_pages,
+    task_pages,
+)
+from generators.utils import load_json  # noqa: E402
+
+
+def main() -> None:
+    repo_root = _HERE.parent
+    working_dir = repo_root / ".working"
+    docs_dir = repo_root / "docs"
+
+    # ------------------------------------------------------------------
+    # Load authoritative data sources
+    # ------------------------------------------------------------------
+    print("Loading task_details.json …")
+    tasks: list[dict] = load_json(working_dir / "task_details.json")
+
+    print("Loading process_details.json …")
+    proc_data: dict = load_json(working_dir / "process_details.json")
+    categories: list[dict] = proc_data["categories"]
+    processes: list[dict] = proc_data["processes"]
+
+    # ------------------------------------------------------------------
+    # Build lookup dicts
+    # ------------------------------------------------------------------
+    tasks_by_id: dict[str, dict] = {t["hedtsk_id"]: t for t in tasks}
+    processes_by_id: dict[str, dict] = {p["process_id"]: p for p in processes}
+    {c["category_id"]: c for c in categories}
+    processes_by_category: dict[str, list[dict]] = {}
+    for proc in processes:
+        processes_by_category.setdefault(proc["category_id"], []).append(proc)
+
+    # ------------------------------------------------------------------
+    # Run generators
+    # ------------------------------------------------------------------
+    total_files = 0
+
+    print("Generating docs/index.md …")
+    index_page.generate(docs_dir, tasks, processes, categories)
+    total_files += 1
+
+    print("Generating docs/tasks/ …")
+    n = task_pages.generate(docs_dir, tasks, processes_by_id)
+    total_files += n
+    print(f"  Wrote {n} task files (1 index + {n - 1} task pages).")
+
+    print("Generating docs/processes/ …")
+    n = process_pages.generate(docs_dir, processes, categories, tasks_by_id)
+    total_files += n
+    print(f"  Wrote {n} process files (1 index + {n - 1} category pages).")
+
+    print("Generating docs/crossref.md …")
+    crossref_page.generate(docs_dir, tasks, processes, categories)
+    total_files += 1
+
+    print("Generating docs/criteria/ …")
+    n = criteria_pages.generate(docs_dir, working_dir)
+    total_files += n
+    print(f"  Wrote {n} criteria files.")
+
+    # ------------------------------------------------------------------
+    # Delete docs/index.rst if it still exists (replaced by index.md)
+    # ------------------------------------------------------------------
+    index_rst = docs_dir / "index.rst"
+    if index_rst.exists():
+        index_rst.unlink()
+        print("Deleted docs/index.rst (replaced by index.md).")
+
+    print(f"\nDone. {total_files} files written to {docs_dir}.")
+
+
+if __name__ == "__main__":
+    main()

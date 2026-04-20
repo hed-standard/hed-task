@@ -1,0 +1,176 @@
+"""Generate docs/tasks/index.md and docs/tasks/hedtsk_*.md (one per task)."""
+
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+from generators.utils import truncate, write_page
+
+
+def generate(
+    docs_dir: Path,
+    tasks: list[dict],
+    processes_by_id: dict[str, dict],
+) -> int:
+    """Write the task index page and all individual task pages.
+
+    Returns the number of files written.
+    """
+    tasks_dir = docs_dir / "tasks"
+    sorted_tasks = sorted(tasks, key=lambda t: t["canonical_name"])
+
+    count = 0
+    count += _write_task_index(tasks_dir, sorted_tasks)
+    for task in sorted_tasks:
+        count += _write_task_page(tasks_dir, task, processes_by_id)
+    return count
+
+
+def _write_task_index(tasks_dir: Path, sorted_tasks: list[dict]) -> int:
+    """Write docs/tasks/index.md."""
+    lines = [
+        "# Task Catalog\n",
+        "\n",
+        f"This catalog contains {len(sorted_tasks)} standard cognitive and behavioral neuroscience tasks.\n",
+        "Each task has a canonical definition, inclusion criteria, named variations,\n",
+        "and links to the cognitive processes it engages.\n",
+        "\n",
+        "## Tasks\n",
+        "\n",
+        "| Task | Short Definition | Processes |\n",
+        "|------|-----------------|----------|\n",
+    ]
+
+    for task in sorted_tasks:
+        hedtsk_id = task["hedtsk_id"]
+        name = task["canonical_name"]
+        short_def = truncate(task.get("short_definition", ""), 100)
+        # Escape pipe characters in cell text
+        short_def = short_def.replace("|", "\\|")
+        n_procs = len(task.get("hed_process_ids", []))
+        lines.append(f"| [{name}]({hedtsk_id}.md) | {short_def} | {n_procs} |\n")
+
+    lines.append("\n")
+    lines.append("```{toctree}\n")
+    lines.append(":hidden:\n")
+    lines.append(":maxdepth: 1\n")
+    lines.append("\n")
+    for task in sorted_tasks:
+        lines.append(f"{task['hedtsk_id']}\n")
+    lines.append("```\n")
+
+    write_page(tasks_dir / "index.md", "".join(lines))
+    return 1
+
+
+def _write_task_page(
+    tasks_dir: Path,
+    task: dict,
+    processes_by_id: dict[str, dict],
+) -> int:
+    """Write an individual task page docs/tasks/{hedtsk_id}.md."""
+    hedtsk_id = task["hedtsk_id"]
+    canonical_name = task["canonical_name"]
+    aliases = task.get("aliases", [])
+    short_def = task.get("short_definition", "")
+    description = task.get("description", "")
+    inclusion = task.get("inclusion_test", {})
+    variations = task.get("variations", [])
+    hed_process_ids = task.get("hed_process_ids", [])
+    key_refs = task.get("key_references", [])
+    recent_refs = task.get("recent_references", [])
+    atlas_id = task.get("atlas_id")
+
+    parts: list[str] = []
+
+    # Cross-reference target + title
+    parts.append(f"({hedtsk_id})=\n")
+    parts.append(f"# {canonical_name}\n\n")
+
+    parts.append(f"**HED Task ID:** `{hedtsk_id}`\n\n")
+
+    if aliases:
+        parts.append(f"**Also known as:** {', '.join(aliases)}\n\n")
+
+    parts.append(f"{short_def}\n\n")
+
+    # Description
+    parts.append("## Description\n\n")
+    parts.append(f"{description}\n\n")
+
+    # Inclusion Test
+    proc_text = inclusion.get("procedure", "")
+    manip_text = inclusion.get("manipulation", "")
+    meas_text = inclusion.get("measurement", "")
+
+    parts.append("## Inclusion Test\n\n")
+    parts.append("```{list-table}\n")
+    parts.append(":widths: 15 85\n")
+    parts.append(":header-rows: 0\n")
+    parts.append("\n")
+    parts.append("* - **Procedure**\n")
+    parts.append(f"  - {proc_text}\n")
+    parts.append("* - **Manipulation**\n")
+    parts.append(f"  - {manip_text}\n")
+    parts.append("* - **Measurement**\n")
+    parts.append(f"  - {meas_text}\n")
+    parts.append("```\n\n")
+
+    # Variations
+    if variations:
+        parts.append("## Variations\n\n")
+        parts.append("```{list-table}\n")
+        parts.append(":widths: 30 70\n")
+        parts.append(":header-rows: 1\n")
+        parts.append("\n")
+        parts.append("* - Variation\n")
+        parts.append("  - Description\n")
+        for var in variations:
+            var_name = var.get("name", "")
+            var_desc = var.get("description", "")
+            parts.append(f"* - {var_name}\n")
+            parts.append(f"  - {var_desc}\n")
+        parts.append("```\n\n")
+
+    # Cognitive Processes
+    if hed_process_ids:
+        parts.append("## Cognitive Processes\n\n")
+        parts.append("This task engages the following cognitive processes:\n\n")
+        for pid in hed_process_ids:
+            proc = processes_by_id.get(pid)
+            if proc is None:
+                print(
+                    f"WARNING: process '{pid}' referenced by task '{hedtsk_id}' not found in process_details.json",
+                    file=sys.stderr,
+                )
+                parts.append(f"- {pid}\n")
+            else:
+                pname = proc["process_name"]
+                cat_id = proc["category_id"]
+                anchor = pid.replace("_", "-")
+                parts.append(f"- [{pname}](../processes/{cat_id}.md#{anchor})\n")
+        parts.append("\n")
+
+    # Key References
+    if key_refs:
+        parts.append("## Key References\n\n")
+        for ref in key_refs:
+            parts.append(f"- {ref}\n")
+        parts.append("\n")
+
+    # Recent References
+    if recent_refs:
+        parts.append("## Recent References\n\n")
+        for ref in recent_refs:
+            parts.append(f"- {ref}\n")
+        parts.append("\n")
+
+    # External Links
+    if atlas_id:
+        parts.append("## External Links\n\n")
+        parts.append(f"- [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/{atlas_id})\n")
+        parts.append("\n")
+
+    write_page(tasks_dir / f"{hedtsk_id}.md", "".join(parts))
+    return 1

@@ -19,6 +19,7 @@ release = "1.0.0"
 extensions = [
     "myst_parser",
     "sphinx_copybutton",
+    "sphinx_design",
 ]
 
 templates_path = ["_templates"]
@@ -70,13 +71,6 @@ html_sidebars = {
     ]
 }
 
-# Intersphinx mapping
-intersphinx_mapping = {
-    "python": ("https://docs.python.org/3/", None),
-    "numpy": ("https://numpy.org/doc/stable/", None),
-    "pandas": ("https://pandas.pydata.org/pandas-docs/stable/", None),
-}
-
 # MyST parser settings
 myst_enable_extensions = [
     "colon_fence",
@@ -88,3 +82,10 @@ myst_enable_extensions = [
     "smartquotes",
     "tasklist",
 ]
+
+# Suppress false-positive fragment-link warnings.
+# Process pages use (hed-xxx)= Sphinx labels as anchor targets, which renders
+# correctly in HTML as <span id="hed-xxx">.  MyST's link validator does not
+# recognise MyST labels as valid local IDs (it only checks myst_heading_anchors
+# slugs), so it reports myst.xref_missing even though browser navigation works.
+suppress_warnings = ["myst.xref_missing"]
