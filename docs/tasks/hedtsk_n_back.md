@@ -12,7 +12,7 @@ Continuous stream in which each item must be compared to the one n items back; a
 
 The N-Back task is a continuous performance paradigm in which participants view a sequence of stimuli (letters, numbers, or spatial locations) and judge whether each current stimulus matches the one presented n trials earlier. Difficulty scales parametrically with n (1-back, 2-back, 3-back). The task engages working memory maintenance, updating, and comparison processes. Performance typically shows decreased accuracy and increased RT with higher n values. The N-back is the most widely used working memory paradigm in neuroimaging, consistently activating dorsolateral prefrontal cortex and parietal regions.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -54,7 +54,7 @@ header-rows: 1
   - Tones, phonemes, or spoken words; auditory working memory.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -64,13 +64,13 @@ This task engages the following cognitive processes:
 - [Interference control](../processes/inhibitory_control_and_conflict_monitoring.md#hed-interference-control)
 - [Response selection](../processes/motor_preparation_timing_and_execution.md#hed-response-selection)
 
-## Key References
+## Key references
 
 - Kirchner, W. K. (1958). Age differences in short-term retention of rapidly changing information. *Journal of Experimental Psychology*, 55(4), 352-358.
 - Jonides, J., Schumacher, E. H., Smith, E. E., Koeppe, R. A., Awh, E., Minoshima, S., & Mintun, M. A. (1997). The role of parietal cortex in verbal working memory. *Journal of Neuroscience*, 17(13), 5282-5288.
 - Owen, A. M., McMillan, K. M., Laird, A. R., & Bullmore, E. (2005). N-back working memory paradigm: A meta-analysis of normative functional neuroimaging studies. *Human Brain Mapping*, 25(1), 46-59.
 
-## Recent References
+## Recent references
 
 - Redick, T. S., & Lindsey, D. R. B. (2013). Complex span and n-back measures of working memory: A meta-analysis. *Psychonomic Bulletin & Review*, 20(6), 1102–1113.
 - Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B. (2010). The concurrent validity of the N-back task as a working memory measure. *Memory*, 18(4), 394–412.
@@ -78,6 +78,6 @@ This task engages the following cognitive processes:
 - Soveri, A., Antfolk, J., Karlsson, L., Salo, B., & Laine, M. (2017). Working memory training revisited: A multi-level meta-analysis of n-back training studies. *Psychonomic Bulletin & Review*, 24(4), 1077–1096.
 - Exploring the n-back task: insights, applications, and future directions. (2025). *Frontiers in Human Neuroscience*, 19, 1721330. doi:10.3389/fnhum.2025.1721330
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_56674133b666c)

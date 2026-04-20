@@ -12,7 +12,7 @@ A neutral CS is paired with an aversive US (shock, loud sound); conditioned resp
 
 A neutral conditioned stimulus (CS; auditory tone or visual cue) is paired with an aversive unconditioned stimulus (US; mild shock, loud noise). After conditioning, the CS alone elicits conditioned fear responses including skin conductance increases, heart rate changes, freezing (in animals), and subjective fear ratings (in humans). Extinction is measured in a subsequent phase where the CS is presented without the US. The task is fundamental to understanding emotional learning and has been used extensively to study the amygdala's role in fear acquisition and the prefrontal cortex's role in extinction.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -62,7 +62,7 @@ header-rows: 1
   - Multiple cues paired with US; tests configural vs. elemental learning.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -72,13 +72,13 @@ This task engages the following cognitive processes:
 - [Avoidance motivation](../processes/reward_anticipation_and_motivation.md#hed-avoidance-motivation)
 - [Emotion regulation](../processes/emotion_perception_and_regulation.md#hed-emotion-regulation)
 
-## Key References
+## Key references
 
 - LeDoux, J. E. (2000). Emotion circuits in the brain. *Annual Review of Neuroscience*, 23, 155-184.
 - Phelps, E. A., Delgado, M. R., Nearing, K. I., & LeDoux, J. E. (2004). Extinction learning in humans: Role of the amygdala and vmPFC. *Neuron*, 43(6), 897-905.
 - Quirk, G. J., & Mueller, D. (2008). Neural mechanisms of extinction learning and retrieval. *Neuropsychopharmacology*, 33(1), 56-72.
 
-## Recent References
+## Recent references
 
 - Fullana, M. A., Harrison, B. J., Soriano-Mas, C., et al. (2016). Neural signatures of human fear conditioning: An updated and extended meta-analysis of fMRI studies. *Molecular Psychiatry*, 21(4), 500–508.
 - Lonsdorf, T. B., Menz, M. M., Andreatta, M., et al. (2017). Don't fear 'fear conditioning': Methodological considerations for the design and analysis of studies on human fear acquisition, extinction, and return of fear. *Neuroscience & Biobehavioral Reviews*, 77, 247–285.
@@ -86,6 +86,6 @@ This task engages the following cognitive processes:
 - Radua, J., Savage, H. S., Vilajosana, E., et al. (2025). Neural correlates of human fear conditioning and sources of variability in 2199 individuals. *Nature Communications*, 16(1), 7869.
 - López-Blanco, A., et al. (2025). Pharmacological enhancement of fear extinction. *Trends in Cognitive Sciences*, 29(2). doi:10.1016/j.tics.2025.xxx
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c898acd1f28e)

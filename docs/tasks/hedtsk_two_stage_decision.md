@@ -12,7 +12,7 @@ Sequential two-choice task with probabilistic transitions to second-stage states
 
 Participants make two sequential choices per trial. The first-stage choice leads (with fixed transition probabilities — 70% common, 30% rare) to one of two second-stage states, each containing its own pair of options. Second-stage options yield rewards with slowly drifting probabilities. Daw et al. (2011) designed this task to dissociate model-based reinforcement learning (using knowledge of the transition structure to plan) from model-free reinforcement learning (repeating previously rewarded actions regardless of transition type). The diagnostic signature is the interaction between reward and transition type on subsequent first-stage choices: model-based agents show opposite stay/switch patterns after common vs. rare transitions, while model-free agents show the same pattern regardless of transition type.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -48,7 +48,7 @@ header-rows: 1
   - Explicitly teaching the transition structure before the task; tests whether model-based behavior increases with explicit knowledge.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -58,13 +58,13 @@ This task engages the following cognitive processes:
 - [Reward prediction error](../processes/associative_learning_and_reinforcement.md#hed-reward-prediction-error)
 - [Value-based decision making](../processes/value_based_decision_making_under_risk_and_uncertainty.md#hed-value-based-decision-making)
 
-## Key References
+## Key references
 
 - Daw, N. D., Gershman, S. J., Seymour, B., Dayan, P., & Dolan, R. J. (2011). Model-based influences on humans' choices and striatal prediction errors. *Neuron*, 69(6), 1204–1215.
 - Dolan, R. J., & Dayan, P. (2013). Goals and habits in the brain. *Neuron*, 80(2), 312–325.
 - Glascher, J., Daw, N., Dayan, P., & O'Doherty, J. P. (2010). States versus rewards: Dissociable neural prediction error signals underlying model-based and model-free reinforcement learning. *Neuron*, 66(4), 585–595.
 
-## Recent References
+## Recent references
 
 - Kool, W., Cushman, F. A., & Gershman, S. J. (2016). When does model-based control pay off? *PLoS Computational Biology*, 12(8), e1005090.
 - Gillan, C. M., Kosinski, M., Whelan, R., Phelps, E. A., & Daw, N. D. (2016). Characterizing a psychiatric symptom dimension related to deficits in goal-directed control. *eLife*, 5, e11305.

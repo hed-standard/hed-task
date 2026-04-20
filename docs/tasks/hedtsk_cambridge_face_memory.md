@@ -12,7 +12,7 @@ Learn target faces across viewpoints, then identify them among distractors under
 
 The Cambridge Face Memory Test is the standard measure of face recognition ability for both clinical and individual-difference research. Participants study six target faces shown in three different viewpoints. Testing occurs in three phases of increasing difficulty: in Phase 1, targets are tested in studied viewpoints; in Phase 2, targets appear in novel viewpoints and lighting conditions; in Phase 3, Gaussian visual noise is added to the images. Each phase has 12 trials (one target face among five distractor faces), yielding a total score of 72. The CFMT specifically indexes holistic and configural face processing, is relatively culture-fair, and has become the benchmark for diagnosing prosopagnosia and studying "super-recognizers."
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -50,7 +50,7 @@ header-rows: 1
   - Abbreviated versions for screening.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -60,19 +60,19 @@ This task engages the following cognitive processes:
 - [Encoding](../processes/long_term_memory.md#hed-encoding)
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 
-## Key References
+## Key references
 
 - Duchaine, B., & Nakayama, K. (2006). The Cambridge Face Memory Test: Results for neurologically intact individuals and an investigation of its validity using inverted face stimuli and prosopagnosic participants. *Neuropsychologia*, 44(4), 576–585.
 - Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: A module in human extrastriate cortex specialized for face perception. *Journal of Neuroscience*, 17(11), 4302–4311.
 - McKone, E., Kanwisher, N., & Duchaine, B. C. (2007). Can generic expertise explain special processing for faces? *Trends in Cognitive Sciences*, 11(1), 8–15.
 
-## Recent References
+## Recent references
 
 - Bobak, A. K., Pampoulov, P., & Bate, S. (2016). Detecting superior face recognition skills in a large sample of young British adults. *Quarterly Journal of Experimental Psychology*, 69(2), 253–263.
 - Bowles, D. C., McKone, E., Dawel, A., Duchaine, B., Palermo, R., Schmalzl, L., ... & Yovel, G. (2009). Diagnosing prosopagnosia: Effects of ageing, sex, and participant-stimulus ethnic match on the Cambridge Face Memory Test and Cambridge Face Perception Test. *Cognitive Neuropsychology*, 26(5), 423–455.
 - Russell, R., Duchaine, B., & Nakayama, K. (2009). Super-recognizers: People with extraordinary face recognition ability. *Psychonomic Bulletin & Review*, 16(2), 252–257.
 - Wilmer, J. B., Germine, L., Chabris, C. F., Chatterjee, G., Williams, M., Loken, E., ... & Duchaine, B. (2010). Human face recognition ability is specific and highly heritable. *Proceedings of the National Academy of Sciences*, 107(11), 5238–5241.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949912)

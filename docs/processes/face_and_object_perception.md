@@ -24,11 +24,11 @@ The following tasks engage this process:
 
 - [Biological Motion Perception Task](../tasks/hedtsk_biological_motion_perception.md)
 
-### Fundamental References
+### Fundamental references
 
 - Johansson (1973) *Perception & Psychophysics* 14:201–211
 
-### Recent References
+### Recent references
 
 - Pavlova (2012) *Cerebral Cortex* 22:981–995
 
@@ -44,11 +44,11 @@ Perception of distance and three-dimensional structure from monocular and binocu
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Julesz (1971) *Foundations of Cyclopean Perception*
 
-### Recent References
+### Recent references
 
 - Parker (2007) *Nature Reviews Neuroscience* 8:379–391
 
@@ -68,11 +68,11 @@ The following tasks engage this process:
 
 - [Cambridge Face Memory Task](../tasks/hedtsk_cambridge_face_memory.md)
 
-### Fundamental References
+### Fundamental references
 
 - Bruce & Young (1986) *British Journal of Psychology* 77:305–327
 
-### Recent References
+### Recent references
 
 - Duchaine & Yovel (2015) *Annual Review of Vision Science* 1:393–416
 
@@ -96,12 +96,12 @@ The following tasks engage this process:
 - [Reading the Mind in the Eyes Task](../tasks/hedtsk_reading_the_mind_in_the_eyes.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental References
+### Fundamental references
 
 - Bruce & Young (1986) *British Journal of Psychology* 77:305–327
 - Kanwisher, McDermott & Chun (1997) *Journal of Neuroscience* 17:4302–4311
 
-### Recent References
+### Recent references
 
 - Tsao & Livingstone (2008) *Annual Review of Neuroscience* 31:411–437
 
@@ -119,11 +119,11 @@ Perception of taste qualities (sweet, sour, salty, bitter, umami).
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Bartoshuk (1978) *Chemical Senses* 3:29–38
 
-### Recent References
+### Recent references
 
 - Chandrashekar, Hoon, Ryba & Zuker (2006) *Nature* 444:288–294
 
@@ -144,12 +144,12 @@ The following tasks engage this process:
 - [Biological Motion Perception Task](../tasks/hedtsk_biological_motion_perception.md)
 - [Random Dot Kinematogram Task](../tasks/hedtsk_random_dot_kinematogram.md)
 
-### Fundamental References
+### Fundamental references
 
 - Wertheimer (1912) *Zeitschrift für Psychologie* 61:161–265
 - Newsome & Paré (1988) *Journal of Neuroscience* 8:2201–2211
 
-### Recent References
+### Recent references
 
 - Nishida (2011) *Vision Research* 51:645–673
 
@@ -165,11 +165,11 @@ Perception of odor via the olfactory system.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Buck & Axel (1991) *Cell* 65:175–187
 
-### Recent References
+### Recent references
 
 - Wilson & Sullivan (2011) *Neuron* 72:506–519
 
@@ -191,11 +191,11 @@ The following tasks engage this process:
 - [Biological Motion Perception Task](../tasks/hedtsk_biological_motion_perception.md)
 - [Raven's Progressive Matrices Task](../tasks/hedtsk_ravens_progressive_matrices.md)
 
-### Fundamental References
+### Fundamental references
 
 - Selfridge (1959) in *Symposium on the Mechanisation of Thought Processes*
 
-### Recent References
+### Recent references
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
@@ -213,11 +213,11 @@ Perception of bodily sensations, including touch, proprioception, temperature, a
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Mountcastle (1957) *Journal of Neurophysiology* 20:408–434
 
-### Recent References
+### Recent references
 
 - Abraira & Ginty (2013) *Neuron* 79:618–639
 
@@ -233,11 +233,11 @@ Assignment of visual input to a shape category prior to semantic identification.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Biederman (1987) *Psychological Review* 94:115–147
 
-### Recent References
+### Recent references
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
@@ -259,11 +259,11 @@ The following tasks engage this process:
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental References
+### Fundamental references
 
 - Marr & Nishihara (1978) *Philosophical Transactions B* 200:269–294
 
-### Recent References
+### Recent references
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
@@ -294,10 +294,10 @@ The following tasks engage this process:
 - [Visual Masking Task](../tasks/hedtsk_visual_masking.md)
 - [Visual Search Task](../tasks/hedtsk_visual_search.md)
 
-### Fundamental References
+### Fundamental references
 
 - Hubel & Wiesel (1962) *Journal of Physiology* 160:106–154
 
-### Recent References
+### Recent references
 
 - Kravitz, Saleem, Baker, Ungerleider & Mishkin (2013) *Trends in Cognitive Sciences* 17:26–49

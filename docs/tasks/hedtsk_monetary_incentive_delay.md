@@ -12,7 +12,7 @@ Cue predicts potential monetary gain or loss; speeded target response determines
 
 The Monetary Incentive Delay Task is the dominant paradigm for neuroimaging studies of reward anticipation and consumption. On each trial, a cue signals the potential outcome: reward (gain), loss avoidance, or neutral. After a variable delay period, participants respond to a briefly presented target; successful responses earn the reward (or avoid the loss). The critical contrast is neural activity during the anticipation period (cue-to-target), which robustly activates the ventral striatum/nucleus accumbens, versus the outcome period (after response), which more strongly engages ventromedial prefrontal cortex. The MID has been widely adopted in clinical neuroimaging of addiction, depression, and schizophrenia.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -50,7 +50,7 @@ header-rows: 1
   - Effortful responses (grip strength) to earn rewards; integrates motivation and effort.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -59,19 +59,19 @@ This task engages the following cognitive processes:
 - [Approach motivation](../processes/reward_anticipation_and_motivation.md#hed-approach-motivation)
 - [Response execution](../processes/motor_preparation_timing_and_execution.md#hed-response-execution)
 
-## Key References
+## Key references
 
 - Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000). FMRI visualization of brain activity during a monetary incentive delay task. *NeuroImage*, 12(1), 20–27.
 - Knutson, B., Adams, C. M., Fong, G. W., & Hommer, D. (2001). Anticipation of increasing monetary reward selectively recruits nucleus accumbens. *Journal of Neuroscience*, 21(16), RC159.
 - Oldham, S., Murawski, C., Fornito, A., Youssef, G., Yücel, M., & Lorenzetti, V. (2018). The anticipation and outcome phases of reward and loss processing: A neuroimaging meta-analysis of the monetary incentive delay task. *Human Brain Mapping*, 39(8), 3398–3418.
 
-## Recent References
+## Recent references
 
 - Lutz, K., & Widmer, M. (2014). What can the monetary incentive delay task tell us about the neural processing of reward and punishment? *Neuroscience & Biobehavioral Reviews*, 43, 15–27.
 - Wilson, R. P., Colizzi, M., Bossong, M. G., Allen, P., Kempton, M., & Bhattacharyya, S. (2018). The neural substrate of reward anticipation in health: A meta-analysis of fMRI findings in the monetary incentive delay task. *Neuropsychology Review*, 28(4), 496–506.
 - Balodis, I. M., & Potenza, M. N. (2015). Anticipatory reward processing in addicted populations: A focus on the monetary incentive delay task. *Biological Psychiatry*, 77(5), 434–444.
 - Nees, F., Vollstädt-Klein, S., Fauth-Bühler, M., Steiner, S., Mann, K., & Poustka, L. (2012). A target sample size for studies of the monetary incentive delay task – power calculation and evaluation of existing studies. *Neuropsychobiology*, 66(3), 193–198.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f23fc8c42d28)

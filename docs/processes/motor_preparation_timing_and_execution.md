@@ -20,11 +20,11 @@ Triggering of an action after planning is complete.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Libet, Gleason, Wright & Pearl (1983) *Brain* 106:623–642
 
-### Recent References
+### Recent references
 
 - Haggard (2008) *Nature Reviews Neuroscience* 9:934–946
 
@@ -44,11 +44,11 @@ The following tasks engage this process:
 
 - [Anti-Saccade Task](../tasks/hedtsk_anti_saccade.md)
 
-### Fundamental References
+### Fundamental references
 
 - Hallett (1978) *Vision Research* 18:1279–1296
 
-### Recent References
+### Recent references
 
 - Munoz & Everling (2004) *Nature Reviews Neuroscience* 5:218–228
 
@@ -70,11 +70,11 @@ The following tasks engage this process:
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Napier (1956) *Journal of Bone and Joint Surgery* 38B:902–913
 
-### Recent References
+### Recent references
 
 - Schieber & Santello (2004) *Journal of Applied Physiology* 96:2293–2300
 
@@ -90,11 +90,11 @@ Shaping and closure of the hand around an object.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Jeannerod (1984) *Journal of Motor Behavior* 16:235–254
 
-### Recent References
+### Recent references
 
 - Castiello (2005) *Nature Reviews Neuroscience* 6:726–736
 
@@ -110,11 +110,11 @@ Long-term retention of motor skills and procedures.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Karni, Meyer, Rey-Hipolito, Jezzard, Adams, Turner & Ungerleider (1998) *PNAS* 95:861–868
 
-### Recent References
+### Recent references
 
 - Krakauer, Hadjiosif, Xu, Wong & Haith (2019) *Comprehensive Physiology* 9:613–663
 
@@ -137,11 +137,11 @@ The following tasks engage this process:
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 - [Trail Making Task](../tasks/hedtsk_trail_making.md)
 
-### Fundamental References
+### Fundamental references
 
 - Keele (1968) *Psychological Bulletin* 70:387–403
 
-### Recent References
+### Recent references
 
 - Wong, Haith & Krakauer (2015) *The Neuroscientist* 21:385–398
 
@@ -165,11 +165,11 @@ The following tasks engage this process:
 - [Serial Reaction Time Task](../tasks/hedtsk_serial_reaction_time.md)
 - [Stop-Signal Task](../tasks/hedtsk_stop_signal.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kornhuber & Deecke (1965) *Pflügers Archiv* 284:1–17
 
-### Recent References
+### Recent references
 
 - Shibasaki & Hallett (2006) *Clinical Neurophysiology* 117:2341–2356
 
@@ -190,11 +190,11 @@ The following tasks engage this process:
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 - [Serial Reaction Time Task](../tasks/hedtsk_serial_reaction_time.md)
 
-### Fundamental References
+### Fundamental references
 
 - Nissen & Bullemer (1987) *Cognitive Psychology* 19:1–32
 
-### Recent References
+### Recent references
 
 - Doyon, Bellec, Amsel, Penhune, Monchi, Carrier, Lehéricy & Benali (2009) *Behavioural Brain Research* 199:61–75
 
@@ -214,11 +214,11 @@ The following tasks engage this process:
 
 - [Finger Tapping Task](../tasks/hedtsk_finger_tapping.md)
 
-### Fundamental References
+### Fundamental references
 
 - Wing & Kristofferson (1973) *Perception & Psychophysics* 14:5–12
 
-### Recent References
+### Recent references
 
 - Merchant, Harrington & Meck (2013) *Annual Review of Neuroscience* 36:313–336
 
@@ -234,11 +234,11 @@ Perception of body position and movement from muscle, tendon, and joint receptor
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Sherrington (1906) *The Integrative Action of the Nervous System*
 
-### Recent References
+### Recent references
 
 - Proske & Gandevia (2012) *Physiological Reviews* 92:1651–1697
 
@@ -254,11 +254,11 @@ Goal-directed arm movement toward a spatial target.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Jeannerod (1988) *The Neural and Behavioural Organization of Goal-Directed Movements*
 
-### Recent References
+### Recent references
 
 - Shadmehr, Smith & Krakauer (2010) *Annual Review of Neuroscience* 33:89–108
 
@@ -285,11 +285,11 @@ The following tasks engage this process:
 - [Stop-Signal Task](../tasks/hedtsk_stop_signal.md)
 - [Trail Making Task](../tasks/hedtsk_trail_making.md)
 
-### Fundamental References
+### Fundamental references
 
 - Sternberg, Monsell, Knoll & Wright (1978) in *Information Processing in Motor Control*
 
-### Recent References
+### Recent references
 
 - Haith & Krakauer (2013) in *Progress in Motor Control*
 
@@ -319,11 +319,11 @@ The following tasks engage this process:
 - [Task Switching Task](../tasks/hedtsk_task_switching.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Hick (1952) *Quarterly Journal of Experimental Psychology* 4:11–26
 
-### Recent References
+### Recent references
 
 - Cisek & Kalaska (2010) *Annual Review of Neuroscience* 33:269–298
 
@@ -343,11 +343,11 @@ The following tasks engage this process:
 
 - [Anti-Saccade Task](../tasks/hedtsk_anti_saccade.md)
 
-### Fundamental References
+### Fundamental references
 
 - Yarbus (1967) *Eye Movements and Vision*
 
-### Recent References
+### Recent references
 
 - Sparks (2002) *Nature Reviews Neuroscience* 3:952–964
 
@@ -367,11 +367,11 @@ The following tasks engage this process:
 
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
 
-### Fundamental References
+### Fundamental references
 
 - Held & Hein (1958) *Perceptual and Motor Skills* 8:87–90
 
-### Recent References
+### Recent references
 
 - Krakauer, Hadjiosif, Xu, Wong & Haith (2019) *Comprehensive Physiology* 9:613–663
 
@@ -387,10 +387,10 @@ Control of the articulators for speech production and vocalization.
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Guenther (1995) *Psychological Review* 102:594–621
 
-### Recent References
+### Recent references
 
 - Hickok (2012) *Nature Reviews Neuroscience* 13:135–145

@@ -12,7 +12,7 @@ A field of moving dots in which a variable fraction move coherently; direction j
 
 The random dot kinematogram presents a field of moving dots in which a variable proportion move coherently in one direction while the remainder move randomly. Participants judge the direction of coherent motion, and the proportion of coherently moving dots parametrically controls task difficulty. This paradigm is the foundational tool for studying perceptual decision-making and has been central to establishing the neural basis of evidence accumulation, linking single-neuron recordings in area MT/V5 and LIP to drift-diffusion models of choice. It bridges sensory processing and decision-making in a way no other paradigm does as cleanly.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -46,7 +46,7 @@ header-rows: 1
   - Four or more possible directions; tests extensions of drift-diffusion to multi-choice scenarios.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -56,13 +56,13 @@ This task engages the following cognitive processes:
 - [Response selection](../processes/motor_preparation_timing_and_execution.md#hed-response-selection)
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 
-## Key References
+## Key references
 
 - Britten, K. H., Shadlen, M. N., Newsome, W. T., & Movshon, J. A. (1992). The analysis of visual motion: A comparison of neuronal and psychophysical performance. *Journal of Neuroscience*, 12(12), 4745–4765.
 - Shadlen, M. N., & Newsome, W. T. (2001). Neural basis of a perceptual decision in the parietal cortex (area LIP) of the rhesus monkey. *Journal of Neurophysiology*, 86(4), 1916–1936.
 - Gold, J. I., & Shadlen, M. N. (2007). The neural basis of decision making. *Annual Review of Neuroscience*, 30, 535–574.
 
-## Recent References
+## Recent references
 
 - Ratcliff, R., Smith, P. L., Brown, S. D., & McKoon, G. (2016). Diffusion decision model: Current issues and history. *Trends in Cognitive Sciences*, 20(4), 260–281.
 - Shooshtari, S. V., Sadrabadi, J. E., Azizi, Z., & Ebrahimpour, R. (2019). Confidence representation of perceptual decision by EEG and eye data in a random dot motion task. *Neuroscience*, 406, 510–527.

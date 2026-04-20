@@ -12,7 +12,7 @@ Speeded categorization of tools vs weapons primed by faces of varying race; cong
 
 Participants view face primes (typically Black and White faces, presented briefly) followed by target objects that are either weapons (guns, knives) or non-threatening objects (tools, household items). Participants must rapidly classify the target object while ignoring the face prime. The paradigm measures implicit racial bias through two routes: behavioral errors (misclassifying tools as weapons more often after Black face primes) and EEG markers of error monitoring (enhanced ERN on racially biased error trials). The ERN enhancement on bias-consistent errors indicates that the anterior cingulate cortex detects the conflict between egalitarian goals and automatic stereotype-driven responses, with ERN amplitude predicting subsequent behavioral correction. This paradigm bridges social psychology, implicit cognition, and cognitive neuroscience by providing a neural signature of bias detection.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -44,7 +44,7 @@ header-rows: 1
   - Immersive VR versions increasing ecological validity for applied research.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -55,13 +55,13 @@ This task engages the following cognitive processes:
 - [Response conflict](../processes/inhibitory_control_and_conflict_monitoring.md#hed-response-conflict)
 - [Perceptual decision making](../processes/perceptual_decision_making_evidence_accumulation.md#hed-perceptual-decision-making)
 
-## Key References
+## Key references
 
 - Amodio, D. M., Harmon-Jones, E., Devine, P. G., Curtin, J. J., Hartley, S. L., & Covert, A. E. (2004). Neural signals for the detection of unintentional race bias. *Psychological Science*, 15(2), 88–93.
 - Payne, B. K. (2001). Prejudice and perception: The role of automatic and controlled processes in misperceiving a weapon. *Journal of Personality and Social Psychology*, 81(2), 181–192.
 - Bartholow, B. D., Pearson, M. A., Dickter, C. L., Sher, K. J., Fabiani, M., & Gratton, G. (2005). Strategic control and medial frontal negativity: Beyond errors and response conflict. *Psychophysiology*, 42(1), 33–42.
 
-## Recent References
+## Recent references
 
 - Amodio, D. M. (2014). The neuroscience of prejudice and stereotyping. *Nature Reviews Neuroscience*, 15(10), 670–682.
 - Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals. *Journal of Personality and Social Psychology*, 83(6), 1314–1329.

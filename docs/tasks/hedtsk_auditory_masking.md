@@ -12,7 +12,7 @@ Detect, discriminate, or identify a target sound in the presence of a masking so
 
 A target sound (tone, speech token, or noise burst) is presented alongside, before, or after a masking sound, and participants detect, discriminate, or identify the target. By varying the temporal and spectral relationship between target and masker, the paradigm dissociates peripheral (energetic) masking — where masker and target excite overlapping auditory filters — from central (informational) masking — where the masker is spectrally remote but introduces perceptual uncertainty. Threshold shifts, psychometric functions, and comodulation masking release are the core dependent measures. The paradigm is foundational to auditory psychophysics and clinical audiology, and maps onto distinct subcortical and cortical processing stages.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -58,7 +58,7 @@ header-rows: 1
   - Separating masker and target in space reduces masking; measures binaural and spatial processing.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -67,13 +67,13 @@ This task engages the following cognitive processes:
 - [Selective attention](../processes/selective_and_sustained_attention.md#hed-selective-attention)
 - [Perceptual decision making](../processes/perceptual_decision_making_evidence_accumulation.md#hed-perceptual-decision-making)
 
-## Key References
+## Key references
 
 - Fletcher, H. (1940). Auditory patterns. Reviews of Modern Physics, 12(1), 47–65.
 - Moore, B. C. J. (2012). An Introduction to the Psychology of Hearing (6th ed.). Brill.
 - Brungart, D. S. (2001). Informational and energetic masking effects in the perception of two simultaneous talkers. Journal of the Acoustical Society of America, 109(3), 1101–1109.
 
-## Recent References
+## Recent references
 
 - Kidd, G., Mason, C. R., Richards, V. M., Gallun, F. J., & Durlach, N. I. (2008). Informational masking. In W. A. Yost, A. N. Popper, & R. R. Fay (Eds.), Auditory Perception of Sound Sources (pp. 143–189). Springer.
 - Oxenham, A. J. (2013). Mechanisms and mechanics of auditory masking. Journal of Physiology, 591(10), 2375–2381.

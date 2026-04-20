@@ -12,7 +12,7 @@ Virtual multi-arm maze in which participants retrieve rewards from each arm once
 
 The Virtual Radial Arm Maze is a spatial memory task adapted from the rodent paradigm. Participants navigate a central platform connected to 8 (or more) radial arms, some of which contain rewards. They must visit all rewarded arms while avoiding revisits (working memory errors) and unbaited arms (reference memory errors). The task dissociates reference memory (knowing which arms are baited across trials) from working memory (remembering which arms have been visited within a trial). Virtual versions rendered on computer screens or in VR maintain the spatial navigation demands while enabling human testing with precise measurement. The task engages hippocampal spatial memory systems and has been used extensively in pharmacological and developmental research.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -56,7 +56,7 @@ header-rows: 1
   - Arms rewarded probabilistically rather than deterministically.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -65,13 +65,13 @@ This task engages the following cognitive processes:
 - [Encoding](../processes/long_term_memory.md#hed-encoding)
 - [Retrieval](../processes/long_term_memory.md#hed-retrieval)
 
-## Key References
+## Key references
 
 - Olton, D. S., & Samuelson, R. J. (1976). Remembrance of places passed: Spatial memory in rats. *Journal of Experimental Psychology: Animal Behavior Processes*, 2(2), 97–116.
 - Levy, L. J., Astur, R. S., & Frick, K. M. (2005). Men and women differ in object memory but not performance of a virtual radial maze. *Behavioral Neuroscience*, 119(4), 853–862.
 - Astur, R. S., Tropp, J., Sava, S., Constable, R. T., & Markus, E. J. (2004). Sex differences and correlations in a virtual Morris water task, a virtual radial arm maze, and mental rotation. *Behavioural Brain Research*, 151(1-2), 103–115.
 
-## Recent References
+## Recent references
 
 - Bohbot, V. D., Lerch, J., Bherer, L., Bhatt, P., & Graham, S. (2013). Gray matter differences correlate with spontaneous strategies in a human virtual navigation task. *Journal of Neuroscience*, 33(38), 15239–15245.
 - Korthauer, L. E., Nowak, N. T., Frahmand, M., & Driscoll, I. (2017). Cognitive correlates of spatial navigation: Associations between executive function and the virtual radial arm maze. *Behavioural Brain Research*, 317, 82–92.

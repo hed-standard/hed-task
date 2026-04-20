@@ -1,4 +1,4 @@
-# Process Catalog
+# Process catalog
 
 This catalog defines 172 cognitive processes organized into 19 categories. Each process has a definition, references, and links to the tasks that engage it. Of the 172 processes, 152 are linked to at least one task in the task catalog.
 

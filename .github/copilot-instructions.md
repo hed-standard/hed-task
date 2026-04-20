@@ -1,5 +1,9 @@
 # HED task developer instructions
 
+> **Sentence case for ALL markdown headings** — capitalize only the first word and any proper nouns or acronyms (HED, BIDS, JSON, AI). Every other word is lowercase.
+> Correct: `## Task structure overview` — Incorrect: `## Task Structure Overview`
+> This rule applies to every `.md` file you create or edit, including generated documentation.
+
 If `.status/local-environment.md` exists, read it first for local OS, shell, and virtual environment details.
 
 Use Google format for docstrings (`Parameters:` not `Args:`). When you create summaries of what you did, always put them in a `.status/` directory at the repository root.

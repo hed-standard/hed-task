@@ -12,7 +12,7 @@ Two-stage exchange in which an investor transfers a fraction of an endowment (mu
 
 A sequential two-player game in which the investor decides how much of an endowment to send to the trustee; the sent amount is multiplied (typically 3x), and the trustee decides how much to return. The investor faces a dilemma: trusting yields potentially higher mutual payoffs but risks exploitation. fMRI reveals that trust decisions engage theory-of-mind regions (medial PFC, temporoparietal junction) and reward regions (ventral striatum) that track mutual cooperation and reciprocity.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - In-group vs. out-group partners.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -62,19 +62,19 @@ This task engages the following cognitive processes:
 - [Risk processing](../processes/value_based_decision_making_under_risk_and_uncertainty.md#hed-risk-processing)
 - [Cooperation](../processes/social_cognition_and_strategic_social_choice.md#hed-cooperation)
 
-## Key References
+## Key references
 
 - Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. *Games and Economic Behavior*, 10(1), 122-142.
 - King-Casas, B., Tomlin, D., Anen, C., Camerer, C. F., Quartz, S. R., & Montague, P. R. (2005). Getting to know you: Reputation and trust in a two-person economic exchange. *Science*, 308(5718), 78-83.
 - Rilling, J. K., Gutman, D. A., Zeh, T. R., Pagnoni, G., Berns, G. S., & Kilts, C. D. (2002). A neural basis for social cooperation. *Neuron*, 35(2), 395-405.
 
-## Recent References
+## Recent references
 
 - Johnson, N. D., & Mislin, A. A. (2011). Trust games: A meta-analysis. *Journal of Economic Psychology*, 32(5), 865–889.
 - Bellucci, G., Chernyak, S. V., Goodyear, K., Eickhoff, S. B., & Krueger, F. (2017). Neural signatures of trust in reciprocity: A coordinate-based meta-analysis. *Human Brain Mapping*, 38(3), 1233–1248.
 - Krueger, F., & Meyer-Lindenberg, A. (2019). Toward a model of interpersonal trust drawn from neuroscience, psychology, and economics. *Trends in Neurosciences*, 42(2), 92–101.
 - Chang, L. J., Doll, B. B., van't Wout, M., Frank, M. J., & Sanfey, A. G. (2010). Seeing is believing: Trustworthiness as a dynamic belief. *Cognitive Psychology*, 61(2), 87–105.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_uzol7erTzr9Ix)

@@ -12,7 +12,7 @@ Study of a list of items followed by unaided recall in any order; serial-positio
 
 Participants study a list of items (typically words) presented sequentially, then attempt to recall all items in any order during an extended recall period. Performance is analyzed via serial position curves showing primacy effects (enhanced recall of early items, attributed to long-term memory consolidation) and recency effects (enhanced recall of recent items, attributed to short-term memory). Clustering analyses examine whether semantically or contextually related items are recalled together, revealing the organization of memory search. The task engages prefrontal, parietal, and temporal memory networks.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -54,7 +54,7 @@ header-rows: 1
   - Spoken recall recorded with precise timing for inter-response time analysis.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -65,19 +65,19 @@ This task engages the following cognitive processes:
 - [Semantic processing](../processes/language_comprehension_and_production.md#hed-semantic-processing)
 - [Rehearsal](../processes/short_term_and_working_memory.md#hed-rehearsal)
 
-## Key References
+## Key references
 
 - Tulving, E. (1983). *Elements of Episodic Memory*. Oxford: Clarendon Press.
 - Polyn, S. M., Natu, V. S., Cohen, J. D., & Norman, K. A. (2005). Category-specific cortical activity precedes retrieval during memory search. *Science*, 310(5749), 1963-1966.
 - Sederberg, P. B., Gauthier, L. V., Terushkin, V., Miller, J. F., Barnathan, J. A., & Kahana, M. J. (2006). Oscillatory correlates of the primacy effect in episodic memory. *NeuroImage*, 32(3), 1422-1431.
 
-## Recent References
+## Recent references
 
 - Kahana, M. J. (2012). *Foundations of Human Memory*. Oxford University Press. \[Updated: Kahana, M. J. (2020). Computational models of memory search. *Annual Review of Psychology*, 71, 107–138.\]
 - Polyn, S. M., Norman, K. A., & Kahana, M. J. (2009). A context maintenance and retrieval model of organizational processes in free recall. *Psychological Review*, 116(1), 129–156.
 - Lohnas, L. J., Polyn, S. M., & Kahana, M. J. (2015). Expanding the scope of memory search: Modeling intralist and interlist effects in free recall. *Psychological Review*, 122(2), 337–363.
 - Morton, N. W., Sherrill, K. R., & Preston, A. R. (2017). Memory integration constructs maps of space, time, and concepts. *Current Opinion in Behavioral Sciences*, 17, 161–168.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f24448c35e04)

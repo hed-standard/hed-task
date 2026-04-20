@@ -12,7 +12,7 @@ Brief sample array followed after a blank delay by a probe array; participant re
 
 The Change Detection Task, developed by Luck and Vogel (1997), is the standard paradigm for measuring visual working memory capacity. Participants briefly view a memory array of colored squares (typically 100–500 ms), followed by a blank retention interval (~900 ms), then a test array. On half the trials, one item changes color; participants report whether a change occurred. Performance is converted to a capacity estimate (K) using Cowan's formula: K = set size × (hit rate − false alarm rate). The task established that visual WM capacity is approximately 3–4 items in healthy adults and has been instrumental in research linking WM capacity to attention, intelligence, and neural oscillations.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - Items encoded one at a time; changes encoding from parallel to serial.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -61,19 +61,19 @@ This task engages the following cognitive processes:
 - [Selective attention](../processes/selective_and_sustained_attention.md#hed-selective-attention)
 - [Encoding](../processes/long_term_memory.md#hed-encoding)
 
-## Key References
+## Key references
 
 - Luck, S. J., & Vogel, E. K. (1997). The capacity of visual working memory for features and conjunctions. *Nature*, 390(6657), 279–281.
 - Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
 - Vogel, E. K., & Machizawa, M. G. (2004). Neural activity predicts individual differences in visual working memory capacity. *Nature*, 428(6984), 748–751.
 
-## Recent References
+## Recent references
 
 - Luck, S. J., & Vogel, E. K. (2013). Visual working memory capacity: From psychophysics and neurobiology to individual differences. *Trends in Cognitive Sciences*, 17(8), 391–400.
 - Adam, K. C. S., Mance, I., Fukuda, K., & Vogel, E. K. (2015). The contribution of attentional lapses to individual differences in visual working memory capacity. *Journal of Cognitive Neuroscience*, 27(8), 1601–1616.
 - Luria, R., Balaban, H., Awh, E., & Vogel, E. K. (2016). The contralateral delay activity as a neural measure of visual working memory. *Neuroscience & Biobehavioral Reviews*, 62, 100–108.
 - Ma, W. J., Husain, M., & Bays, P. M. (2014). Changing concepts of working memory. *Nature Neuroscience*, 17(3), 347–356.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_5154906cbead5)

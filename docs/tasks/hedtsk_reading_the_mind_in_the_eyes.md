@@ -12,7 +12,7 @@ Choice of the best-matching mental-state word for a photograph of the eye region
 
 Participants view photographs showing only the eye and eyebrow region of actors and select which of four mental state descriptors best describes the person's thoughts or feelings. The revised version contains 36 photographs, each with four choices ranging from basic emotions to complex cognitive states (e.g., "sarcastic," "despondent"). The task indexes affective theory of mind and shows deficits in autism spectrum conditions. Performance correlates with amygdala and left inferior frontal gyrus activity.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -48,7 +48,7 @@ header-rows: 1
   - Comparing performance with isolated eyes vs. complete faces.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -57,19 +57,19 @@ This task engages the following cognitive processes:
 - [Social perception](../processes/social_cognition_and_strategic_social_choice.md#hed-social-perception)
 - [Face perception](../processes/face_and_object_perception.md#hed-face-perception)
 
-## Key References
+## Key references
 
 - Baron-Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001). The "Reading the Mind in the Eyes" test revised version: A study with normal adults, and adults with Asperger syndrome or high-functioning autism. *Journal of Child Psychology and Psychiatry*, 42(2), 241-251.
 - Adams, R. B., Rule, N. O., Franklin, R. G., et al. (2010). Cross-cultural reading the mind in the eyes: An fMRI investigation. *Journal of Cognitive Neuroscience*, 22(1), 97-108.
 - Oakley, B. F. M., Brewer, R., Bird, G., & Catmur, C. (2016). Theory of mind is not theory of emotion: A cautionary note on the Reading the Mind in the Eyes Test. *Journal of Abnormal Psychology*, 125(6), 818-823.
 
-## Recent References
+## Recent references
 
 - Olderbak, S., Wilhelm, O., Olaru, G., et al. (2015). A psychometric analysis of the Reading the Mind in the Eyes test: Toward a brief form. *Frontiers in Psychology*, 6, 1503.
 - Oakley, B. F. M., Brewer, R., Bird, G., & Catmur, C. (2016). Theory of mind is not theory of emotion: A cautionary note on the Reading the Mind in the Eyes Test. *Journal of Abnormal Psychology*, 125(6), 818–823.
 - Warrier, V., Grasby, K. L., Uzefovsky, F., et al. (2018). Genome-wide meta-analysis of cognitive empathy: Heritability and correlates with sex, neuropsychiatric conditions and cognition. *Molecular Psychiatry*, 23(6), 1402–1409.
 - Vellante, M., Baron-Cohen, S., Melis, M., et al. (2013). The "Reading the Mind in the Eyes" test: Systematic review of psychometric properties and a validation study in Italy. *Cognitive Neuropsychiatry*, 18(4), 326–354.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da6b10e83517)

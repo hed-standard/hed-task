@@ -12,7 +12,7 @@ Repeated execution of a fixed finger sequence; within- and across-session speed 
 
 Participants are trained to execute finger sequences (e.g., pressing buttons in a specific order: 4-1-3-2-4) either continuously or in discrete blocks. Learning is indexed by decreasing RT, reduced movement duration, and decreased errors. Neuroimaging shows early learning engages cerebellum and prefrontal cortex, while consolidated sequences show greater striatal and reduced cerebellar engagement, reflecting a shift from explicit, attention-demanding processes to implicit, automatic execution. Sleep promotes offline consolidation of motor sequences.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -54,7 +54,7 @@ header-rows: 1
   - Pursuit-tracking task with embedded repeating segments.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -64,13 +64,13 @@ This task engages the following cognitive processes:
 - [Fine motor control](../processes/motor_preparation_timing_and_execution.md#hed-fine-motor-control)
 - [Consolidation](../processes/long_term_memory.md#hed-consolidation)
 
-## Key References
+## Key references
 
 - Karni, A., Meyer, G., Rey-Hipolito, C., et al. (1998). The acquisition of skilled motor performance: Fast and slow experience-driven changes in primary motor cortex. *Proceedings of the National Academy of Sciences*, 95(3), 861-868.
 - Doyon, J., Bellec, P., Amsel, R., et al. (2009). Contributions of the basal ganglia and functionally related brain structures to motor learning. *Behavioural Brain Research*, 199(1), 61-72.
 - Walker, M. P., Brakefield, T., Morgan, A., Hobson, J. A., & Stickgold, R. (2002). Practice with sleep makes perfect: Sleep-dependent motor skill learning. *Neuron*, 35(1), 205-211.
 
-## Recent References
+## Recent references
 
 - Doyon, J., Bellec, P., Amsel, R., et al. (2009). Contributions of the basal ganglia and functionally related brain structures to motor learning. *Behavioural Brain Research*, 199(1), 61–72. \[Updated: Doyon, J., Gabitov, E., Bhatt, K., et al. (2018). Current issues related to motor sequence learning in humans. *Current Opinion in Behavioral Sciences*, 20, 89–97.\]
 - King, B. R., Hoedlmoser, K., Hirschauer, F., Dolfen, N., & Albouy, G. (2017). Sleeping on the motor engram: The multifaceted nature of sleep-related motor memory consolidation. *Neuroscience & Biobehavioral Reviews*, 80, 1–22.

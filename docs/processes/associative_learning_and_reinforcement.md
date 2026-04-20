@@ -30,11 +30,11 @@ The following tasks engage this process:
 - [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
 - [Probabilistic Classification Learning Task](../tasks/hedtsk_probabilistic_classification_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Rescorla & Wagner (1972) in *Classical Conditioning II*
 
-### Recent References
+### Recent references
 
 - Shanks (2010) *Annual Review of Psychology* 61:273–301
 
@@ -54,12 +54,12 @@ The following tasks engage this process:
 
 - [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Pavlov (1927) *Conditioned Reflexes*
 - Bouton (2004) *Learning & Memory* 11:485–494
 
-### Recent References
+### Recent references
 
 - Dunsmoor, Niv, Daw & Phelps (2015) *Neuron* 88:47–63
 
@@ -79,11 +79,11 @@ The following tasks engage this process:
 
 - [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Dickinson & Balleine (1994) *Animal Learning & Behavior* 22:1–18
 
-### Recent References
+### Recent references
 
 - Balleine & O'Doherty (2010) *Neuropsychopharmacology* 35:48–69
 
@@ -103,11 +103,11 @@ The following tasks engage this process:
 
 - [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Dickinson (1985) *Philosophical Transactions B* 308:67–78
 
-### Recent References
+### Recent references
 
 - Balleine & O'Doherty (2010) *Neuropsychopharmacology* 35:48–69
 
@@ -129,13 +129,13 @@ The following tasks engage this process:
 
 - [Instrumental Conditioning Task](../tasks/hedtsk_instrumental_conditioning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Thorndike (1911) *Animal Intelligence*
 - Skinner (1938) *The Behavior of Organisms*
 - Ferster & Skinner (1957) *Schedules of Reinforcement*
 
-### Recent References
+### Recent references
 
 - Dickinson & Balleine (2002) in *Stevens' Handbook of Experimental Psychology*
 - Staddon & Cerutti (2003) *Annual Review of Psychology* 54:115–144
@@ -156,12 +156,12 @@ The following tasks engage this process:
 
 - [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tolman (1948) *Psychological Review* 55:189–208 (cognitive maps)
 - Daw, Niv & Dayan (2005) *Nature Neuroscience* 8:1704–1711
 
-### Recent References
+### Recent references
 
 - Daw, Gershman, Seymour, Dayan & Dolan (2011) *Neuron* 69:1204–1215
 
@@ -181,11 +181,11 @@ The following tasks engage this process:
 
 - [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
 
-### Fundamental References
+### Fundamental references
 
 - Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
 
-### Recent References
+### Recent references
 
 - Daw, Niv & Dayan (2005) *Nature Neuroscience* 8:1704–1711
 
@@ -205,12 +205,12 @@ The following tasks engage this process:
 
 - [Pavlovian Fear Conditioning Task](../tasks/hedtsk_pavlovian_fear_conditioning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Pavlov (1927) *Conditioned Reflexes*
 - Rescorla & Wagner (1972) in *Classical Conditioning II*
 
-### Recent References
+### Recent references
 
 - LeDoux (2014) *PNAS* 111:2871–2878
 
@@ -226,11 +226,11 @@ Direct learning of a mapping from states to actions without necessarily estimati
 
 *No tasks in the current catalog are linked to this process.*
 
-### Fundamental References
+### Fundamental references
 
 - Williams (1992) *Machine Learning* 8:229–256
 
-### Recent References
+### Recent references
 
 - Sutton & Barto (2018) *Reinforcement Learning: An Introduction*, 2nd ed
 
@@ -256,12 +256,12 @@ The following tasks engage this process:
 - [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
 - [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
 
-### Fundamental References
+### Fundamental references
 
 - Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
 - Schultz, Dayan & Montague (1997) *Science* 275:1593–1599
 
-### Recent References
+### Recent references
 
 - Niv (2009) *Journal of Mathematical Psychology* 53:139–154
 
@@ -281,11 +281,11 @@ The following tasks engage this process:
 
 - [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
 
-### Fundamental References
+### Fundamental references
 
 - Iversen & Mishkin (1970) *Experimental Brain Research* 11:376–386
 
-### Recent References
+### Recent references
 
 - Izquierdo, Brigman, Radke, Rudebeck & Holmes (2017) *Neuroscience* 345:12–26
 
@@ -311,11 +311,11 @@ The following tasks engage this process:
 - [Reversal Learning Task](../tasks/hedtsk_reversal_learning.md)
 - [Two-Stage Decision Task](../tasks/hedtsk_two_stage_decision.md)
 
-### Fundamental References
+### Fundamental references
 
 - Schultz, Dayan & Montague (1997) *Science* 275:1593–1599
 
-### Recent References
+### Recent references
 
 - Glimcher (2011) *PNAS* 108(Suppl 3):15647–15654
 
@@ -336,10 +336,10 @@ The following tasks engage this process:
 - [Multi-Armed Bandit Task](../tasks/hedtsk_multi_armed_bandit.md)
 - [Probabilistic Selection Task](../tasks/hedtsk_probabilistic_selection.md)
 
-### Fundamental References
+### Fundamental references
 
 - Sutton & Barto (1998/2018) *Reinforcement Learning: An Introduction*
 
-### Recent References
+### Recent references
 
 - Rangel, Camerer & Montague (2008) *Nature Reviews Neuroscience* 9:545–556

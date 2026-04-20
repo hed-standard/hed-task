@@ -27,13 +27,13 @@ def generate(
     sorted_tasks = sorted(tasks, key=lambda t: t["canonical_name"])
 
     parts: list[str] = []
-    parts.append("# Cross-Reference: Tasks and Processes\n\n")
+    parts.append("# Cross-reference: tasks and processes\n\n")
     parts.append(
         "This page provides bidirectional cross-references between the 103 tasks\nand 172 processes in the HED catalog.\n\n"
     )
 
     # --- Section 1: Processes by Category → Tasks ---
-    parts.append("## Processes by Category \u2192 Tasks\n\n")
+    parts.append("## Processes by category \u2192 tasks\n\n")
 
     for cat in sorted_categories:
         cat_id = cat["category_id"]
@@ -59,7 +59,7 @@ def generate(
                 parts.append(": *No tasks linked.*\n\n")
 
     # --- Section 2: Tasks → Processes ---
-    parts.append("## Tasks \u2192 Processes\n\n")
+    parts.append("## Tasks \u2192 processes\n\n")
 
     for task in sorted_tasks:
         hedtsk_id = task["hedtsk_id"]

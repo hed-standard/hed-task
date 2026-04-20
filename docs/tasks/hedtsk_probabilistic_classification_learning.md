@@ -12,7 +12,7 @@ Multi-cue probabilistic prediction of a binary outcome with trial-by-trial feedb
 
 The Weather Prediction Task presents 1-3 cues from a set of 4 possible cards; participants predict a binary outcome (rain/sunshine). Each cue is probabilistically associated with outcomes (e.g., 75%/25%), requiring participants to learn from statistical patterns. Feedback is provided after each prediction. Critically, amnesic patients with medial temporal lobe damage show intact learning despite impaired conscious awareness of the task structure, implicating basal ganglia and striatal systems in implicit probabilistic learning.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -52,7 +52,7 @@ header-rows: 1
   - New cue combinations or reversed contingencies after initial learning.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -62,19 +62,19 @@ This task engages the following cognitive processes:
 - [Strategy use](../processes/cognitive_flexibility_and_higher_order_executive_function.md#hed-strategy-use)
 - [Procedural memory](../processes/implicit_and_statistical_learning.md#hed-procedural-memory)
 
-## Key References
+## Key references
 
 - Knowlton, B. J., Squire, L. R., & Gluck, M. A. (1994). Probabilistic classification learning in amnesia. *Learning & Memory*, 1(2), 106-120.
 - Poldrack, R. A., Prabhakaran, V., Seger, C. A., & Gabrieli, J. D. (1999). Striatal activation during acquisition of a cognitive skill. *Neuropsychology*, 13(4), 564-574.
 - Seger, C. A. (2008). How do the basal ganglia contribute to categorization? Their roles in generalization, response selection, and learning via feedback. *Neuroscience & Biobehavioral Reviews*, 32(2), 265-278.
 
-## Recent References
+## Recent references
 
 - Knowlton, B. J., & Patterson, T. K. (2018). Habit formation and the striatum. *Current Topics in Behavioral Neurosciences*, 37, 275–295.
 - Meeter, M., Myers, C. E., Shohamy, D., Hopkins, R. O., & Gluck, M. A. (2006). Strategies in probabilistic categorization: Results from a new way of analyzing performance. *Learning & Memory*, 13(2), 230–239.
 - Price, A. L. (2009). Distinguishing the contributions of implicit and explicit processes to performance of the weather prediction task. *Memory & Cognition*, 37(2), 210–222.
 - Foerde, K., Knowlton, B. J., & Poldrack, R. A. (2006). Modulation of competing memory systems by distraction. *Proceedings of the National Academy of Sciences*, 103(31), 11778–11783.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4cacf22a22d80)

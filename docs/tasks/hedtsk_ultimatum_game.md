@@ -12,7 +12,7 @@ Proposer offers a division of an endowment; responder accepts or rejects. Reject
 
 Two players divide a sum of money. The proposer suggests a division; the responder accepts (both get the proposed split) or rejects (both get nothing). Typically played with computer-controlled offers varying from fair (50-50) to unfair (90-10). Unfair offers activate the anterior insula (negative emotion, inequity aversion) and are rejected at high rates, even at personal cost. The task demonstrates the interplay between emotional reactions and rational economic considerations in social decision-making.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -56,7 +56,7 @@ header-rows: 1
   - Effort-based vs. random allocation.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -65,19 +65,19 @@ This task engages the following cognitive processes:
 - [Emotion regulation](../processes/emotion_perception_and_regulation.md#hed-emotion-regulation)
 - [Valuation](../processes/value_based_decision_making_under_risk_and_uncertainty.md#hed-valuation)
 
-## Key References
+## Key references
 
 - Guth, W., Schmittberger, R., & Schwarze, B. (1982). An experimental analysis of ultimatum bargaining. *Journal of Economic Behavior & Organization*, 3(4), 367-388.
 - Sanfey, A. G., Rilling, J. K., Aronson, J. A., Nystrom, L. E., & Cohen, J. D. (2003). The neural basis of economic decision-making in the Ultimatum Game. *Science*, 300(5626), 1755-1758.
 - Feng, C., Luo, Y. J., & Krueger, F. (2015). Neural signatures of fairness-related normative decision-making in the ultimatum game: A coordinate-based meta-analysis. *Human Brain Mapping*, 36(2), 591-602.
 
-## Recent References
+## Recent references
 
 - Gabay, A. S., Radua, J., Kempton, M. J., & Mehta, M. A. (2014). The Ultimatum Game and the brain: A meta-analysis of neuroimaging studies. *Neuroscience & Biobehavioral Reviews*, 47, 549–558.
 - Henrich, J., Boyd, R., Bowles, S., et al. (2005). "Economic man" in cross-cultural perspective: Behavioral experiments in 15 small-scale societies. *Behavioral and Brain Sciences*, 28(6), 795–815.
 - Feng, C., Luo, Y. J., & Krueger, F. (2015). Neural signatures of fairness-related normative decision-making in the ultimatum game: A coordinate-based meta-analysis. *Human Brain Mapping*, 36(2), 591–602.
 - Civai, C. (2023). The neural basis of fairness: From the Ultimatum Game to social decision-making. In *Handbook of Social Neuroeconomics*.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_553e8882e3cb6)

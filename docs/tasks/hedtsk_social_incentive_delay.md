@@ -12,7 +12,7 @@ MID variant in which cues predict potential social (smiling/frowning face) rathe
 
 The Social Incentive Delay Task is a variant of the Monetary Incentive Delay Task (Task 63) that replaces monetary outcomes with social rewards and punishments. Cues signal the potential for positive social feedback (e.g., a smiling face with a thumbs-up), negative social feedback (e.g., a frowning face with a thumbs-down), or neutral outcomes. Participants then respond to a target stimulus, and outcome delivery depends on response speed. The SID was developed to compare the neural substrates of social versus non-social reward anticipation and consumption, testing whether social rewards engage the same striatal dopaminergic circuitry as monetary rewards. The task has been particularly impactful in autism spectrum disorder research, where reduced social reward sensitivity is hypothesized.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -48,7 +48,7 @@ header-rows: 1
   - Social reward delivered by actual experimenters or confederates.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -57,13 +57,13 @@ This task engages the following cognitive processes:
 - [Incentive salience](../processes/reward_anticipation_and_motivation.md#hed-incentive-salience)
 - [Approach motivation](../processes/reward_anticipation_and_motivation.md#hed-approach-motivation)
 
-## Key References
+## Key references
 
 - Spreckelmeyer, K. N., Krach, S., Kohls, G., Rademacher, L., Irmak, A., Konrad, K., ... & Gründer, G. (2009). Anticipation of monetary and social reward differently activates mesolimbic brain structures in men and women. *Social Cognitive and Affective Neuroscience*, 4(2), 158–165.
 - Rademacher, L., Krach, S., Kohls, G., Irmak, A., Gründer, G., & Spreckelmeyer, K. N. (2010). Dissociation of neural networks for anticipation and consumption of monetary and social rewards. *NeuroImage*, 49(4), 3276–3285.
 - Kohls, G., Perino, M. T., Taylor, J. M., Madva, E. N., Cayber, S. J., Troiani, V., ... & Schultz, R. T. (2013). The nucleus accumbens is involved in both the pursuit of social reward and the avoidance of social punishment. *Neuropsychologia*, 51(11), 2062–2069.
 
-## Recent References
+## Recent references
 
 - Flores, L. E., Jr., Eckstrand, K. L., Silk, J. S., Allen, N. B., Ambrosia, M., Healey, K. L., & Forbes, E. E. (2018). Adolescents' neural response to social reward and real-world emotional closeness and positive affect. *Cognitive, Affective, & Behavioral Neuroscience*, 18(5), 705–717.
 - Richey, J. A., Rittenberg, A., Hughes, L., Damiano, C. R., Sabatino, A., Miller, S., ... & Dichter, G. S. (2014). Common and distinct neural features of social and non-social reward processing in autism and social anxiety disorder. *Social Cognitive and Affective Neuroscience*, 9(3), 367–377.

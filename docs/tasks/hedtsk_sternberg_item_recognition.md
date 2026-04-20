@@ -12,7 +12,7 @@ Short memory set followed by a probe; yes/no judgment of set membership. RT typi
 
 The Sternberg task measures the speed of short-term memory scanning. On each trial, participants encode a brief study list of 1-6 items, then after a retention interval, judge whether a test probe was in the studied list. The critical finding is that RT increases linearly with memory set size for both positive and negative probes, suggesting serial exhaustive scanning. The slope of the RT-by-set-size function indexes memory scanning speed, while the intercept indexes stimulus encoding and response execution time.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -48,7 +48,7 @@ header-rows: 1
   - Negative probes that were in the previous (but not current) set; measures proactive interference.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -58,19 +58,19 @@ This task engages the following cognitive processes:
 - [Verbal working memory](../processes/short_term_and_working_memory.md#hed-verbal-working-memory)
 - [Response selection](../processes/motor_preparation_timing_and_execution.md#hed-response-selection)
 
-## Key References
+## Key references
 
 - Sternberg, S. (1966). High-speed scanning in human memory. *Science*, 153(3736), 652-654.
 - Sternberg, S. (1969). Memory-scanning: Mental processes revealed by reaction-time experiments. *American Scientist*, 57(4), 421-457.
 - Jensen, O., & Tesche, C. D. (2002). Frontal theta activity in humans increases with memory load in a working memory task. *European Journal of Neuroscience*, 15(8), 1395-1399.
 
-## Recent References
+## Recent references
 
 - Donkin, C., & Nosofsky, R. M. (2012). A power-law model of psychological memory strength in short-term and long-term recognition. *Psychological Science*, 23(6), 625–634.
 - Van Vugt, M. K., Schulze-Bonhage, A., Litt, B., Brandt, A., & Kahana, M. J. (2010). Hippocampal gamma oscillations increase with memory load. *Journal of Neuroscience*, 30(7), 2694–2699.
 - Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D., Conway, A., et al. (2018). Benchmarks for models of short-term and working memory. *Psychological Bulletin*, 144(9), 885–958.
 - Jensen, O., & Tesche, C. D. (2002). Frontal theta activity in humans increases with memory load in a working memory task. *European Journal of Neuroscience*, 15(8), 1395–1399. \[Updated context: Raghavachari, S., et al. (2006). Theta oscillations in human cortex during a working memory task. *Cognitive, Affective, & Behavioral Neuroscience*, 6(2), 102–108.\]
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c40d168898db)

@@ -30,7 +30,7 @@ hed-task/
 └── pyproject.toml
 ```
 
-The files in `docs/` are generated from the JSON data in `.working/` by the scripts in `src/`. Edit the data in `.working/`, then regenerate.
+The files in `docs/` are generated from the JSON data in `.working/` by the scripts in `src/`. See [Regenerating the site](#regenerating-the-site) below.
 
 ## Local development
 
@@ -51,21 +51,25 @@ source .venv/bin/activate
 pip install -e ".[dev,docs]"
 ```
 
-### Regenerate documentation
+### Regenerating the site
 
-Run this whenever `.working/` data changes:
+The files in `docs/` are generated from the JSON data in `.working/` — never edit them by hand. Whenever the data in `.working/` changes, run both steps below:
+
+**Step 1 — regenerate the Markdown source:**
 
 ```bash
 python src/generate_docs.py
 ```
 
-### Build the HTML site locally
+This reads `task_details.json` and `process_details.json` from `.working/` and overwrites all 129 files in `docs/`.
+
+**Step 2 — build the HTML:**
 
 ```bash
 sphinx-build -b html docs docs/_build/html
 ```
 
-Open `docs/_build/html/index.html` in a browser to preview.
+Then open `docs/_build/html/index.html` in a browser to preview. A clean build produces zero warnings.
 
 ### Run tests
 

@@ -24,11 +24,11 @@ The following tasks engage this process:
 
 - [Self-Paced Reading Task](../tasks/hedtsk_self_paced_reading.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kintsch (1988) *Psychological Review* 95:163–182
 
-### Recent References
+### Recent references
 
 - Ferstl, Neumann, Bogler & von Cramon (2008) *Human Brain Mapping* 29:581–593
 
@@ -49,11 +49,11 @@ The following tasks engage this process:
 - [False Belief Task](../tasks/hedtsk_false_belief.md)
 - [Sentence Comprehension Task](../tasks/hedtsk_sentence_comprehension.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kintsch (1988) *Psychological Review* 95:163–182
 
-### Recent References
+### Recent references
 
 - Hagoort (2013) *Frontiers in Psychology* 4:416
 
@@ -74,11 +74,11 @@ The following tasks engage this process:
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Levelt (1989) *Speaking: From Intention to Articulation*
 
-### Recent References
+### Recent references
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
@@ -104,11 +104,11 @@ The following tasks engage this process:
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 - [Verbal Fluency Task](../tasks/hedtsk_verbal_fluency.md)
 
-### Fundamental References
+### Fundamental references
 
 - Morton (1969) *Psychological Review* 76:165–178
 
-### Recent References
+### Recent references
 
 - Gwilliams (2020) *Language, Cognition and Neuroscience* 35:933–942
 
@@ -128,11 +128,11 @@ The following tasks engage this process:
 
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 
-### Fundamental References
+### Fundamental references
 
 - Oldfield & Wingfield (1965) *Quarterly Journal of Experimental Psychology* 17:273–281
 
-### Recent References
+### Recent references
 
 - Indefrey & Levelt (2004) *Cognition* 92:101–144
 
@@ -152,11 +152,11 @@ The following tasks engage this process:
 
 - [Phonological Awareness Task](../tasks/hedtsk_phonological_awareness.md)
 
-### Fundamental References
+### Fundamental references
 
 - Liberman, Shankweiler, Fischer & Carter (1974) *Journal of Experimental Child Psychology* 18:201–212
 
-### Recent References
+### Recent references
 
 - Melby-Lervåg, Lyster & Hulme (2012) *Psychological Bulletin* 138:322–352
 
@@ -176,11 +176,11 @@ The following tasks engage this process:
 
 - [Phonological Awareness Task](../tasks/hedtsk_phonological_awareness.md)
 
-### Fundamental References
+### Fundamental references
 
 - Levelt, Roelofs & Meyer (1999) *Behavioral and Brain Sciences* 22:1–75
 
-### Recent References
+### Recent references
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
@@ -202,11 +202,11 @@ The following tasks engage this process:
 - [Sentence Comprehension Task](../tasks/hedtsk_sentence_comprehension.md)
 - [Stroop Color-Word Task](../tasks/hedtsk_stroop_color_word.md)
 
-### Fundamental References
+### Fundamental references
 
 - Coltheart, Rastle, Perry, Langdon & Ziegler (2001) *Psychological Review* 108:204–256
 
-### Recent References
+### Recent references
 
 - Dehaene, Cohen, Morais & Kolinsky (2015) *Nature Reviews Neuroscience* 16:234–244
 
@@ -228,11 +228,11 @@ The following tasks engage this process:
 - [Semantic Priming Task](../tasks/hedtsk_semantic_priming.md)
 - [Verbal Fluency Task](../tasks/hedtsk_verbal_fluency.md)
 
-### Fundamental References
+### Fundamental references
 
 - Tulving (1972) in *Organization of Memory*
 
-### Recent References
+### Recent references
 
 - Ralph, Jefferies, Patterson & Rogers (2017) *Nature Reviews Neuroscience* 18:42–55
 
@@ -259,11 +259,11 @@ The following tasks engage this process:
 - [Semantic Priming Task](../tasks/hedtsk_semantic_priming.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Kutas & Hillyard (1980) *Science* 207:203–205
 
-### Recent References
+### Recent references
 
 - Kutas & Federmeier (2011) *Annual Review of Psychology* 62:621–647
 
@@ -283,11 +283,11 @@ The following tasks engage this process:
 
 - [Sentence Comprehension Task](../tasks/hedtsk_sentence_comprehension.md)
 
-### Fundamental References
+### Fundamental references
 
 - Garrett, Bever & Fodor (1966) *Perception & Psychophysics* 1:30–32
 
-### Recent References
+### Recent references
 
 - Hagoort & Indefrey (2014) *Annual Review of Neuroscience* 37:347–362
 
@@ -307,11 +307,11 @@ The following tasks engage this process:
 
 - [Phonological Awareness Task](../tasks/hedtsk_phonological_awareness.md)
 
-### Fundamental References
+### Fundamental references
 
 - Liberman, Cooper, Shankweiler & Studdert-Kennedy (1967) *Psychological Review* 74:431–461
 
-### Recent References
+### Recent references
 
 - Diehl, Lotto & Holt (2004) *Annual Review of Psychology* 55:149–179
 
@@ -332,11 +332,11 @@ The following tasks engage this process:
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental References
+### Fundamental references
 
 - Levelt, Roelofs & Meyer (1999) *Behavioral and Brain Sciences* 22:1–75
 
-### Recent References
+### Recent references
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
@@ -356,11 +356,11 @@ The following tasks engage this process:
 
 - [Sentence Comprehension Task](../tasks/hedtsk_sentence_comprehension.md)
 
-### Fundamental References
+### Fundamental references
 
 - Frazier & Rayner (1982) *Cognitive Psychology* 14:178–210
 
-### Recent References
+### Recent references
 
 - Hale (2014) *Automaton Theories of Human Sentence Comprehension*
 
@@ -380,11 +380,11 @@ The following tasks engage this process:
 
 - [Verbal Fluency Task](../tasks/hedtsk_verbal_fluency.md)
 
-### Fundamental References
+### Fundamental references
 
 - Benton (1968) *Neuropsychologia* 6:53–60
 
-### Recent References
+### Recent references
 
 - Shao, Janse, Visser & Meyer (2014) *Frontiers in Psychology* 5:772
 
@@ -408,10 +408,10 @@ The following tasks engage this process:
 - [Self-Paced Reading Task](../tasks/hedtsk_self_paced_reading.md)
 - [Semantic Priming Task](../tasks/hedtsk_semantic_priming.md)
 
-### Fundamental References
+### Fundamental references
 
 - Morton (1969) *Psychological Review* 76:165–178
 
-### Recent References
+### Recent references
 
 - Gaskell & Marslen-Wilson (1997) *Language and Cognitive Processes* 12:613–656

@@ -12,7 +12,7 @@ Rhyme judgment, phoneme deletion, or phoneme blending tasks index sensitivity to
 
 Participants view or hear pairs of words and judge whether they rhyme. The task requires analysis of the sound structure of words, comparison of phonological representations, and a binary decision. Control conditions involve matching for orthographic similarity or judging word identity. fMRI reveals activation in left inferior frontal regions (pars opercularis), left temporoparietal areas, and left superior temporal cortex. The task is widely used in reading research and dyslexia studies, as phonological awareness is a strong predictor of reading ability.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -60,7 +60,7 @@ header-rows: 1
   - Count, delete, or manipulate syllables within words.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -69,19 +69,19 @@ This task engages the following cognitive processes:
 - [Speech perception](../processes/language_comprehension_and_production.md#hed-speech-perception)
 - [Categorization](../processes/reasoning_and_problem_solving.md#hed-categorization)
 
-## Key References
+## Key references
 
 - Shaywitz, S. E., Shaywitz, B. A., Pugh, K. R., et al. (1998). Functional disruption in the organization of the brain for reading in dyslexia. *Proceedings of the National Academy of Sciences*, 95(5), 2636-2641.
 - Booth, J. R., Burman, D. D., Meyer, J. R., et al. (2004). Development of brain mechanisms for processing orthographic and phonological representations. *Journal of Cognitive Neuroscience*, 16(7), 1234-1249.
 - Pugh, K. R., Mencl, W. E., Jenner, A. R., et al. (2001). Neurobiological studies of reading and reading disability. *Journal of Communication Disorders*, 34(6), 479-492.
 
-## Recent References
+## Recent references
 
 - Melby-Lervåg, M., Lyster, S. A. H., & Hulme, C. (2012). Phonological skills and their role in learning to read: A meta-analytic review. *Psychological Bulletin*, 138(2), 322–352.
 - Zuk, J., Ozernov-Palchik, O., Kim, H., et al. (2020). Enhanced syllable discrimination thresholds in musicians. *Journal of Speech, Language, and Hearing Research*, 63(4), 1086–1097. \[Updated context: Vandermosten, M., et al. (2012). A qualitative and quantitative review of diffusion tensor imaging studies in reading and dyslexia. *Neuroscience & Biobehavioral Reviews*, 36(6), 1532–1552.\]
 - Anthony, J. L., & Francis, D. J. (2005). Development of phonological awareness. *Current Directions in Psychological Science*, 14(5), 255–259.
 - Boets, B., Op de Beeck, H. P., Vandermosten, M., et al. (2013). Intact but less accessible phonetic representations in adults with dyslexia. *Science*, 342(6163), 1251–1254.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f243fe622ded)

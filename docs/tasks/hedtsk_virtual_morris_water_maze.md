@@ -12,7 +12,7 @@ Navigate a virtual circular arena to find a hidden platform using distal spatial
 
 In the Virtual Morris Water Maze, participants navigate a virtual environment to find a hidden goal location using environmental landmarks. During acquisition, participants start from different positions and learn the goal location across trials; performance is indexed by path length, latency, and heading error. Probe trials (goal removed) assess retention by measuring search distribution. The task engages hippocampal spatial mapping and is highly sensitive to hippocampal dysfunction. It dissociates place-based (allocentric) from response-based (egocentric) navigation strategies.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -56,7 +56,7 @@ header-rows: 1
   - Distinguishing geometric/boundary cues from feature/landmark cues.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -66,19 +66,19 @@ This task engages the following cognitive processes:
 - [Spatial working memory](../processes/short_term_and_working_memory.md#hed-spatial-working-memory)
 - [Strategy use](../processes/cognitive_flexibility_and_higher_order_executive_function.md#hed-strategy-use)
 
-## Key References
+## Key references
 
 - Morris, R. G. M. (1984). Developments of a water-maze procedure for studying spatial learning in the rat. *Journal of Neuroscience Methods*, 11(1), 47-60.
 - Maguire, E. A., Burgess, N., Donnett, J. G., Frackowiak, R. S. J., Frith, C. D., & O'Keefe, J. (1998). Knowing where and getting there: A human navigation network. *Science*, 280(5365), 921-924.
 - Hartley, T., Maguire, E. A., Spiers, H. J., & Burgess, N. (2003). The well-worn route and the path less traveled: Distinct neural bases of route following and wayfinding in humans. *Neuron*, 37(5), 877-888.
 
-## Recent References
+## Recent references
 
 - Epstein, R. A., Patai, E. Z., Julian, J. B., & Spiers, H. J. (2017). The cognitive map in humans: Spatial navigation and beyond. *Nature Neuroscience*, 20(11), 1504–1513.
 - Ekstrom, A. D., & Isham, E. A. (2017). Human spatial navigation: Representations across dimensions and scales. *Current Opinion in Behavioral Sciences*, 17, 84–89.
 - Coughlan, G., Laczó, J., Hort, J., Minihane, A. M., & Hornberger, M. (2018). Spatial navigation deficits—overlooked cognitive marker for preclinical Alzheimer disease? *Nature Reviews Neurology*, 14(8), 496–506.
 - Spiers, H. J., & Barry, C. (2015). Neural systems supporting navigation. *Current Opinion in Behavioral Sciences*, 1, 47–55.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da890a9bd7a3)

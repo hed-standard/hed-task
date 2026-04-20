@@ -123,7 +123,7 @@ def generate(docs_dir: Path, working_dir: Path) -> int:
 
     # --- index.md ---
     index_content = """\
-# Criteria and Methodology
+# Criteria and methodology
 
 These documents describe the criteria used to select and define the tasks
 and cognitive processes in the HED catalog.

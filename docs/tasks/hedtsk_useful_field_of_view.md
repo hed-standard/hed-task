@@ -12,7 +12,7 @@ Brief central identification combined with peripheral localization under increas
 
 The Useful Field of View test measures the visual field area over which information can be rapidly extracted without eye or head movements. It consists of three subtests of increasing complexity: (1) central target identification (processing speed), (2) central identification with simultaneous peripheral target localization (divided attention), and (3) the same dual-task with embedded distractors (selective attention). Each subtest uses a staircase procedure to determine the shortest display duration achieving 75% accuracy. The UFOV was originally developed for assessing driving fitness in older adults and has become the standard measure of functional visual attention, with strong predictive validity for crash risk, instrumental activities of daily living, and cognitive decline.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -46,7 +46,7 @@ header-rows: 1
   - Peripheral targets at different distances from center.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -56,13 +56,13 @@ This task engages the following cognitive processes:
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 - [Spatial attention](../processes/selective_and_sustained_attention.md#hed-spatial-attention)
 
-## Key References
+## Key references
 
 - Ball, K. K., Beard, B. L., Roenker, D. L., Miller, R. L., & Griggs, D. S. (1988). Age and visual search: Expanding the useful field of view. *Journal of the Optical Society of America A*, 5(12), 2210–2219.
 - Ball, K., Owsley, C., Sloane, M. E., Roenker, D. L., & Bruni, J. R. (1993). Visual attention problems as a predictor of vehicle crashes in older drivers. *Investigative Ophthalmology & Visual Science*, 34(11), 3110–3123.
 - Edwards, J. D., Vance, D. E., Wadley, V. G., Cissell, G. M., Roenker, D. L., & Ball, K. K. (2005). Reliability and validity of useful field of view test scores as administered by personal computer. *Journal of Clinical and Experimental Neuropsychology*, 27(5), 529–543.
 
-## Recent References
+## Recent references
 
 - Edwards, J. D., Lunsman, M., Perkins, M., Rebok, G. W., & Roth, D. L. (2009). Driving cessation and health trajectories in older adults. *Journals of Gerontology Series A*, 64(12), 1290–1295.
 - Ball, K., Edwards, J. D., & Ross, L. A. (2007). The impact of speed of processing training on cognitive and everyday functions. *Journals of Gerontology Series B*, 62(Special Issue 1), 19–31.

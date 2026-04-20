@@ -26,11 +26,11 @@ The following tasks engage this process:
 - [Contextual Cueing Task](../tasks/hedtsk_contextual_cueing.md)
 - [Serial Reaction Time Task](../tasks/hedtsk_serial_reaction_time.md)
 
-### Fundamental References
+### Fundamental references
 
 - Graf & Schacter (1985) *JEP: Learning, Memory, and Cognition* 11:501–518
 
-### Recent References
+### Recent references
 
 - Schacter, Wig & Stevens (2007) *Current Opinion in Neurobiology* 17:171–176
 
@@ -54,10 +54,10 @@ The following tasks engage this process:
 - [Probabilistic Classification Learning Task](../tasks/hedtsk_probabilistic_classification_learning.md)
 - [Serial Reaction Time Task](../tasks/hedtsk_serial_reaction_time.md)
 
-### Fundamental References
+### Fundamental references
 
 - Cohen & Squire (1980) *Science* 210:207–210
 
-### Recent References
+### Recent references
 
 - Doyon, Gabitov, Vahdat, Lungu & Boutin (2018) *Neurobiology of Learning and Memory* 153:1–12

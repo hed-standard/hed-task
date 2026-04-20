@@ -12,7 +12,7 @@ Hierarchical letters in which large letters are composed of small ones; RT diffe
 
 The Navon Task investigates hierarchical processing in vision using compound stimuli—large (global) letters composed of smaller (local) letters (e.g., a large "H" made of small "S" letters). Participants identify either the global or local letter depending on instruction. The robust finding of global precedence shows faster identification of global than local forms, with global-to-local interference exceeding local-to-global interference. The task dissociates dorsal/ventral visual stream contributions and is sensitive to hemispheric specialization (left hemisphere for local, right for global processing).
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -60,7 +60,7 @@ header-rows: 1
   - Very brief presentations (50–100 ms) to measure the time course of global vs. local availability.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -69,13 +69,13 @@ This task engages the following cognitive processes:
 - [Interference control](../processes/inhibitory_control_and_conflict_monitoring.md#hed-interference-control)
 - [Response conflict](../processes/inhibitory_control_and_conflict_monitoring.md#hed-response-conflict)
 
-## Key References
+## Key references
 
 - Navon, D. (1977). Forest before trees: The precedence of global features in visual perception. *Cognitive Psychology*, 9(3), 353–383.
 - Kimchi, R. (1992). Primacy of wholistic processing and global/local paradigm: A critical review. *Psychological Bulletin*, 112(1), 24–38.
 - Fink, G. R., Halligan, P. W., Marshall, J. C., Frith, C. D., Frackowiak, R. S. J., & Dolan, R. J. (1996). Where in the brain does visual attention select the forest and the trees? *Nature*, 382, 626–628.
 
-## Recent References
+## Recent references
 
 - Poirel, N., Pineau, A., & Mellet, E. (2008). What does the nature of the stimuli tell us about the global precedence effect? *Acta Psychologica*, 127(1), 1–11.
 - Beaucousin, V., Cassotti, M., Simon, G., Pineau, A., Kostova, M., Houdé, O., & Poirel, N. (2011). ERP evidence of a meaningfulness impact on visual global/local processing: When meaning captures attention. *Neuropsychologia*, 49(5), 1258–1266.
@@ -85,6 +85,6 @@ This task engages the following cognitive processes:
 - Song, Y., Hakoda, Y., & Sang, B. (2015). Lack of global precedence and global-to-local interference without local processing deficit in children with ADHD. *Journal of Attention Disorders*, 20(8), 671–682.
 - Dale, G., & Bhattacharjee, D. (2023). Global and local processing of letters and faces: The role of visual focal attention. *Frontiers in Psychology*, 14, 1114021.
 
-## External Links
+## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2415cb2e6e3)

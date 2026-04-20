@@ -12,7 +12,7 @@ Blocked or event-related presentation of faces vs. objects (or scrambled faces) 
 
 The FFA Localizer presents alternating blocks of faces and non-face objects (houses, cars, scrambled images) while participants perform passive viewing or a simple task (one-back matching, gender judgment). The contrast of faces > objects identifies face-selective regions, particularly the fusiform face area (FFA) in ventral temporal cortex. The task provides an individually-defined localizer for face-selective cortex and has been fundamental to understanding the neural basis of face perception and the question of domain-specific processing modules.
 
-## Inclusion Test
+## Inclusion test
 
 ```{list-table}
 ---
@@ -56,7 +56,7 @@ header-rows: 1
   - Active task to maintain attention during localizer.
 ```
 
-## Cognitive Processes
+## Cognitive processes
 
 This task engages the following cognitive processes:
 
@@ -64,13 +64,13 @@ This task engages the following cognitive processes:
 - [Visual object recognition](../processes/face_and_object_perception.md#hed-visual-object-recognition)
 - [Visual perception](../processes/face_and_object_perception.md#hed-visual-perception)
 
-## Key References
+## Key references
 
 - Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: A module in human extrastriate cortex specialized for face perception. *Journal of Neuroscience*, 17(11), 4302-4311.
 - Grill-Spector, K., Knouf, N., & Kanwisher, N. (2004). The fusiform face area subserves face perception, not generic within-category identification. *Nature Neuroscience*, 7(5), 555-562.
 - Haxby, J. V., Hoffman, E. A., & Gobbini, M. I. (2000). The distributed human neural system for face perception. *Trends in Cognitive Sciences*, 4(6), 223-233.
 
-## Recent References
+## Recent references
 
 - Kanwisher, N., & Yovel, G. (2006). The fusiform face area: A cortical region specialized for the perception of faces. *Philosophical Transactions of the Royal Society B*, 361(1476), 2109–2128.
 - Weiner, K. S., & Grill-Spector, K. (2012). The improbable simplicity of the fusiform face area. *Trends in Cognitive Sciences*, 16(5), 251–254.

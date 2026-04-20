@@ -1,8 +1,8 @@
-# Cross-Reference: Tasks and Processes
+# Cross-reference: tasks and processes
 
 This page provides bidirectional cross-references between the 103 tasks and 172 processes in the HED catalog.
 
-## Processes by Category → Tasks
+## Processes by category → tasks
 
 ### Associative Learning and Reinforcement
 
@@ -386,7 +386,7 @@ This page provides bidirectional cross-references between the 103 tasks and 172 
 
 **Value-based decision making** (`hed_value_based_decision_making`) : [Balloon Analog Risk Task](tasks/hedtsk_balloon_analog_risk.md), [Delay Discounting Task](tasks/hedtsk_delay_discounting.md), [Effort-Based Decision-Making Task](tasks/hedtsk_effort_based_decision_making.md), [Iowa Gambling Task](tasks/hedtsk_iowa_gambling.md), [Multi-Armed Bandit Task](tasks/hedtsk_multi_armed_bandit.md), [Two-Stage Decision Task](tasks/hedtsk_two_stage_decision.md)
 
-## Tasks → Processes
+## Tasks → processes
 
 **Affective Picture Viewing Task** (`hedtsk_affective_picture_viewing`) : [Emotion recognition](processes/emotion_perception_and_regulation.md#hed-emotion-recognition), [Emotion regulation](processes/emotion_perception_and_regulation.md#hed-emotion-regulation), [Visual perception](processes/face_and_object_perception.md#hed-visual-perception), [Selective attention](processes/selective_and_sustained_attention.md#hed-selective-attention), [Approach motivation](processes/reward_anticipation_and_motivation.md#hed-approach-motivation), [Avoidance motivation](processes/reward_anticipation_and_motivation.md#hed-avoidance-motivation)
 

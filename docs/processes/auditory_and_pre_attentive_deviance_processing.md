@@ -22,11 +22,11 @@ The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental References
+### Fundamental references
 
 - Fletcher (1940) *Reviews of Modern Physics* 12:47–65
 
-### Recent References
+### Recent references
 
 - King, Teki & Willmore (2018) *Neuron* 98:682–690
 
@@ -47,11 +47,11 @@ The following tasks engage this process:
 - [Auditory Masking Task](../tasks/hedtsk_auditory_masking.md)
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental References
+### Fundamental references
 
 - von Békésy (1960) *Experiments in Hearing*
 
-### Recent References
+### Recent references
 
 - King, Teki & Willmore (2018) *Neuron* 98:682–690
 
@@ -71,11 +71,11 @@ The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental References
+### Fundamental references
 
 - Stevens (1957) *Psychological Review* 64:153–181
 
-### Recent References
+### Recent references
 
 - Moore (2012) *An Introduction to the Psychology of Hearing*, 6th ed
 
@@ -95,10 +95,10 @@ The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental References
+### Fundamental references
 
 - Licklider (1951) *Experientia* 7:128–134
 
-### Recent References
+### Recent references
 
 - Oxenham (2012) *Trends in Amplification* 16:174–185
