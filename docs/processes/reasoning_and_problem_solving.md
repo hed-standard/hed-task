@@ -3,20 +3,22 @@
 **Scope:** Deductive, inductive, causal, analogical, mathematical reasoning; hypothesis testing; categorization; insight; means-ends analysis; planning; subgoaling.
 
 **Out of scope:** "Reasoning" as umbrella; "logical reasoning" as umbrella over deductive + inductive; fluid intelligence as an individual-difference construct.
+
 :::{note}
 **Open issues:** None open.
 :::
-:::\{admonition} Category history :class: dropdown
+
+:::{admonition} Category history
+:class: dropdown
 
 Four problem-solving rows added during 2026-04-15: Insight, Means-ends analysis, Planning, Subgoaling. (`hed_planning` had been accidentally duplicated in `process_list.md` and was de-duplicated on 2026-04-17.) `hed_logical_reasoning` dropped 2026-04-19 — umbrella over deductive + inductive; alias added to `hed_deductive_reasoning`.
 :::
 
 This category contains 11 processes.
 
-______________________________________________________________________
+---
 
 (hed-analogical-reasoning)=
-
 ## Analogical reasoning
 
 **Process ID:** `hed_analogical_reasoning`
@@ -33,14 +35,9 @@ The following tasks engage this process:
 
 - Gentner (1983) *Cognitive Science* 7:155–170
 
-### Recent references
-
-- Holyoak (2012) *Oxford Handbook of Thinking and Reasoning*, ch 14
-
-______________________________________________________________________
+---
 
 (hed-categorization)=
-
 ## Categorization
 
 **Process ID:** `hed_categorization`
@@ -68,10 +65,9 @@ The following tasks engage this process:
 
 - Seger & Miller (2010) *Annual Review of Neuroscience* 33:203–219
 
-______________________________________________________________________
+---
 
 (hed-causal-reasoning)=
-
 ## Causal reasoning
 
 **Process ID:** `hed_causal_reasoning`
@@ -88,14 +84,9 @@ The following tasks engage this process:
 
 - Cheng (1997) *Psychological Review* 104:367–405
 
-### Recent references
-
-- Waldmann (2017) *Oxford Handbook of Causal Reasoning*
-
-______________________________________________________________________
+---
 
 (hed-deductive-reasoning)=
-
 ## Deductive reasoning
 
 **Process ID:** `hed_deductive_reasoning`
@@ -112,17 +103,15 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Rips (1994) *The Psychology of Proof*
 - Wason (1968) *Quarterly Journal of Experimental Psychology* 20:273–281
 
 ### Recent references
 
 - Goel (2007) *Trends in Cognitive Sciences* 11:435–441
 
-______________________________________________________________________
+---
 
 (hed-hypothesis-testing)=
-
 ## Hypothesis testing
 
 **Process ID:** `hed_hypothesis_testing`
@@ -136,18 +125,13 @@ The following tasks engage this process:
 - [Wason Selection Task](../tasks/hedtsk_wason_selection.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
 
-### Fundamental references
-
-- Bruner, Goodnow & Austin (1956) *A Study of Thinking*
-
 ### Recent references
 
 - Klayman (1995) *Psychology of Learning and Motivation* 32:385–418
 
-______________________________________________________________________
+---
 
 (hed-inductive-reasoning)=
-
 ## Inductive reasoning
 
 **Process ID:** `hed_inductive_reasoning`
@@ -168,10 +152,9 @@ The following tasks engage this process:
 
 - Kemp & Tenenbaum (2009) *Psychological Review* 116:20–58
 
-______________________________________________________________________
+---
 
 (hed-insight)=
-
 ## Insight
 
 **Process ID:** `hed_insight`
@@ -186,7 +169,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Duncker K (1945) *On problem-solving* Psychological Monographs 58(5):i-113
 - Metcalfe J & Wiebe D (1987) *Memory & Cognition* 15:238-246
 
 ### Recent references
@@ -194,10 +176,9 @@ The following tasks engage this process:
 - Bowden EM & Jung-Beeman M (2003) *Psychonomic Bulletin & Review* 10:730-737
 - Kounios J & Beeman M (2014) *Annual Review of Psychology* 65:71-93
 
-______________________________________________________________________
+---
 
 (hed-mathematical-reasoning)=
-
 ## Mathematical reasoning
 
 **Process ID:** `hed_mathematical_reasoning`
@@ -214,10 +195,9 @@ Manipulation of numerical and algebraic quantities and relations.
 
 - Amalric & Dehaene (2016) *PNAS* 113:4909–4917
 
-______________________________________________________________________
+---
 
 (hed-means-ends-analysis)=
-
 ## Means-ends analysis
 
 **Process ID:** `hed_means_ends_analysis`
@@ -237,13 +217,11 @@ The following tasks engage this process:
 
 ### Recent references
 
-- Anderson JR (2005) *Cognitive Science* 29:313-341
 - Huys QJM et al. (2015) *PLoS Computational Biology* 11:e1004112
 
-______________________________________________________________________
+---
 
 (hed-planning)=
-
 ## Planning
 
 **Process ID:** `hed_planning`
@@ -260,14 +238,9 @@ The following tasks engage this process:
 
 - Shallice (1982) *Philosophical Transactions B* 298:199–209 (Tower of London)
 
-### Recent references
-
-- Kaller, Unterrainer & Stahl (2012) *Neuropsychology* 26:304–315
-
-______________________________________________________________________
+---
 
 (hed-subgoaling)=
-
 ## Subgoaling
 
 **Process ID:** `hed_subgoaling`
@@ -289,3 +262,4 @@ The following tasks engage this process:
 
 - Ribas-Fernandes JJF et al. (2011) *Neuron* 71:370-379
 - Balaguer J et al. (2016) *Neuron* 90:893-903
+

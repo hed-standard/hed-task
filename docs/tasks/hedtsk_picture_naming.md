@@ -1,5 +1,4 @@
 (hedtsk_picture_naming)=
-
 # Picture Naming Task
 
 **HED Task ID:** `hedtsk_picture_naming`
@@ -15,10 +14,9 @@ Participants view photographs or line drawings of common objects, animals, or sc
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - Line drawings or photographs of objects are presented one at a time; participants name each object as quickly as possible.
 * - **Manipulation**
@@ -30,30 +28,39 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Standard Single-Object Naming
   - Name isolated objects as quickly as possible.
+  - Canonical overt naming to pictured objects
 * - Blocked-Cyclic Naming
   - Small sets named repeatedly in semantically homogeneous vs. heterogeneous blocks; measures semantic interference.
+  - Same items repeat in blocked cycles; cumulative interference paradigm
 * - Continuous Naming
   - Large sets with cumulative semantic interference across ordinal position within a category.
+  - Rapid successive naming; tests sustained lexical access
 * - Picture-Word Interference (PWI)
   - Simultaneous distractor word during naming; semantic vs. phonological distractors.
+  - Distractor word accompanies picture; lexical competition paradigm
 * - Delayed Naming
   - See picture → delay → name; separates conceptual/lexical from articulatory processes.
+  - Delay between picture onset and response signal; isolates planning from execution
 * - Object + Action Naming
   - Naming objects, actions, and attributes in separate or mixed blocks.
+  - Name actions as well as objects; different grammatical category
 * - Bilingual Picture Naming
   - Language switching paradigms with mixed-language naming blocks.
+  - Language cue specifies response language; language control demand
 * - Tip-of-the-Tongue (TOT) Paradigm
   - Inducing retrieval failures via low-frequency items.
+  - Naming under word-finding difficulty conditions; different metacognitive state
 * - Naming with Phonological/Semantic Cues
   - Providing partial information to study facilitation.
+  - Partial cues provided after TOT; different cueing structure
 ```
 
 ## Cognitive processes
@@ -69,17 +76,17 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech production. *Behavioral and Brain Sciences*, 22(1), 1-38.
-- Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal signatures of word production components. *Cognition*, 92(1-2), 101-144.
-- DeLeon, J., Gottesman, R. F., Kleinman, J. T., et al. (2007). Neural regions essential for distinct cognitive processes underlying picture naming. *Brain*, 130(5), 1408-1422.
+- {'authors': 'Levelt, W. J. M., Roelofs, A., & Meyer, A. S.', 'year': 1999, 'title': 'A theory of lexical access in speech production', 'venue': 'Behavioral and Brain Sciences', 'venue_type': 'journal', 'journal': 'Behavioral and Brain Sciences', 'volume': '22', 'issue': '1', 'pages': '1-38', 'doi': '10.1017/s0140525x99001776', 'openalex_id': None, 'pmid': None, 'citation_string': 'Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech production. *Behavioral and Brain Sciences*, 22(1), 1-38.', 'url': 'https://doi.org/10.1017/s0140525x99001776', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Indefrey, P., & Levelt, W.', 'year': 2004, 'title': 'The spatial and temporal signatures of word production components', 'venue': 'Cognition', 'venue_type': 'journal', 'journal': 'Cognition', 'volume': '92', 'issue': '1-2', 'pages': '101-144', 'doi': '10.1016/j.cognition.2002.06.001', 'openalex_id': None, 'pmid': None, 'citation_string': 'Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal signatures of word production components. *Cognition*, 92(1-2), 101-144.', 'url': 'https://doi.org/10.1016/j.cognition.2002.06.001', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'DeLeon, J., Gottesman, R. F., Kleinman, J. T., Newhart, M., Davis, C., Heidler-Gary, J., Lee, A., & Hillis, A. E.', 'year': 2007, 'title': 'Neural regions essential for distinct cognitive processes underlying picture naming', 'venue': 'Brain', 'venue_type': 'journal', 'journal': 'Brain', 'volume': '130', 'issue': '5', 'pages': '1408-1422', 'doi': '10.1093/brain/awm011', 'openalex_id': None, 'pmid': None, 'citation_string': 'DeLeon, J., Gottesman, R. F., Kleinman, J. T., et al. (2007). Neural regions essential for distinct cognitive processes underlying picture naming. *Brain*, 130(5), 1408-1422.', 'url': 'https://doi.org/10.1093/brain/awm011', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Indefrey, P. (2011). The spatial and temporal signatures of word production components: A critical update. *Frontiers in Psychology*, 2, 255.
-- Nozari, N., & Hepner, C. R. (2019). To select or to wait? The importance of criterion setting in debates of competitive lexical selection. *Cognitive Neuropsychology*, 36(5-6), 193–207.
-- Piai, V., & Eikelboom, J. (2023). Brain areas critical for picture naming: A systematic review and meta-analysis of lesion-symptom mapping studies. *Neurobiology of Language*, 4(2), 280–296.
-- de Zubicaray, G. I., & Piai, V. (2019). *The Oxford Handbook of Neurolinguistics*. Oxford University Press. [Chapters on picture naming production models]
+- {'authors': 'Indefrey, P.', 'year': 2011, 'title': 'The Spatial and Temporal Signatures of Word Production Components: A Critical Update', 'venue': 'Frontiers in Psychology', 'venue_type': 'journal', 'journal': 'Frontiers in Psychology', 'volume': '2', 'issue': None, 'pages': None, 'doi': '10.3389/fpsyg.2011.00255', 'openalex_id': None, 'pmid': None, 'citation_string': 'Indefrey, P. (2011). The spatial and temporal signatures of word production components: A critical update. *Frontiers in Psychology*, 2, 255.', 'url': 'https://doi.org/10.3389/fpsyg.2011.00255', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Nozari, N., & Hepner, C. R.', 'year': 2019, 'title': 'To select or to wait? Response to the commentaries', 'venue': 'Cognitive Neuropsychology', 'venue_type': 'journal', 'journal': 'Cognitive Neuropsychology', 'volume': '36', 'issue': '5-6', 'pages': '226-233', 'doi': '10.1080/02643294.2019.1632280', 'openalex_id': None, 'pmid': None, 'citation_string': 'Nozari, N., & Hepner, C. R. (2019). To select or to wait? The importance of criterion setting in debates of competitive lexical selection. *Cognitive Neuropsychology*, 36(5-6), 193–207.', 'url': 'https://doi.org/10.1080/02643294.2019.1632280', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Piai, V., & Eikelboom, D.', 'year': 2023, 'title': 'Brain Areas Critical for Picture Naming: A Systematic Review and Meta-Analysis of Lesion-Symptom Mapping Studies', 'venue': 'Neurobiology of Language', 'venue_type': 'journal', 'journal': 'Neurobiology of Language', 'volume': '4', 'issue': '2', 'pages': '280-296', 'doi': '10.1162/nol_a_00097', 'openalex_id': None, 'pmid': None, 'citation_string': 'Piai, V., & Eikelboom, J. (2023). Brain areas critical for picture naming: A systematic review and meta-analysis of lesion-symptom mapping studies. *Neurobiology of Language*, 4(2), 280–296.', 'url': 'https://doi.org/10.1162/nol_a_00097', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949cfb)
+

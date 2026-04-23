@@ -1,8 +1,9 @@
 # Task Selection and Variation Criteria
 
-**Date:** 2026-04-18 (updated) **Purpose:** Reference document specifying how the 103-task HED catalog was scoped, how tasks were selected, and the rules for classifying variations vs. aliases vs. non-variations.
+**Date:** 2026-04-18 (updated)
+**Purpose:** Reference document specifying how the 103-task HED catalog was scoped, how tasks were selected, and the rules for classifying variations vs. aliases vs. non-variations.
 
-______________________________________________________________________
+---
 
 ## 1. Task Selection Criteria
 
@@ -30,7 +31,7 @@ A **task** is a structured experimental paradigm that:
 
 The catalog targets approximately 100 canonical tasks spanning the major domains of cognitive and behavioral neuroscience: attention, memory, executive function, language, perception, motor control, emotion, social cognition, decision-making, and learning. The number 103 is not a hard constraint — it reflects the current state of consolidation from the Cognitive Atlas plus gap-filling. Tasks may be added or removed as the catalog matures.
 
-______________________________________________________________________
+---
 
 ## 2. Naming Conventions
 
@@ -65,7 +66,7 @@ Every term in the catalog is typed by its identifier prefix, so any ID encounter
 
 A reader who sees `hedtsk_balloon_analog_risk` knows it is a task; `hed_response_inhibition` is a process; `BART` is a human-readable abbreviation not an ID. Any cross-reference between the two axes (task-to-process, or process-to-task) must preserve these prefixes verbatim.
 
-______________________________________________________________________
+---
 
 ## 3. The Inclusion Test
 
@@ -91,7 +92,7 @@ A specific experiment is an instance of a given task if and only if:
 
 The procedure field is the most important. Two experiments with different manipulations or measurements but the same procedure are instances of the same task. Two experiments with different procedures are different tasks, even if they target the same cognitive construct.
 
-______________________________________________________________________
+---
 
 ## 4. Variation Criteria
 
@@ -115,21 +116,21 @@ A **variation** is a named version of a task that changes **what the participant
 
 The following do **not** count as task variations because they do not change what the participant experiences or does (EMOT was retired 2026-04-17; see §5.1):
 
-| Code     | Category                                         | Description                                                 | Examples                                                                                                                                                                                                                            |
-| -------- | ------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MEAS** | Measurement modality                             | Adding or changing recording equipment                      | "with fMRI," "with EEG," "with eye-tracking," "with SCR/startle probe," "with MEG," "with TMS recording"                                                                                                                            |
-| **ANAL** | Analysis method                                  | Post-hoc data analysis technique                            | Computational modeling, DDM, ROC analysis, Gratton effect analysis, process dissociation, clustering analysis, strategy analysis, locus-of-slack logic, reverse correlation                                                         |
-| **DESG** | Design/parameter choice                          | Experimenter decisions about trial structure                | Blocked vs. event-related design, varying ISI/SOA (as generic sweep), parametric difficulty, variable set size (as parameter sweep), speed-accuracy tradeoff instructions                                                           |
-| **STIM** | Stimulus substitution                            | Swapping one stimulus set for an equivalent one             | IAPS→OASIS/NAPS, race-specific face sets with identical procedures, alternative word lists, translated stimuli                                                                                                                      |
-| **POPL** | Population/clinical use                          | Testing a different population                              | "in amnesia," "for children" (unless procedure changes), "clinical screening," "developmental version," "in schizophrenia," cross-cultural comparison                                                                               |
-| **IDIF** | Individual differences                           | Using a task as a correlational measure                     | "as individual differences measure," correlational studies                                                                                                                                                                          |
-| **TRAN** | Training/intervention                            | Using repeated task exposure as an intervention             | Bias modification training, working memory training, practice/training interventions, memory specificity training                                                                                                                   |
-| **PHAR** | Pharmacological challenge                        | Administering drugs during the task                         | "under pharmacological challenge," medication on/off designs                                                                                                                                                                        |
-| **SCOR** | Scoring method                                   | How performance is quantified                               | Partial-credit scoring, B-minus-A derived scores, B/A ratio, trial-level bias scores                                                                                                                                                |
-| **ALIA** | Alias/redundant                                  | Restates the canonical task or duplicates another variation | "Standard X" that merely restates the canonical definition, near-duplicate entries from dual-source generation                                                                                                                      |
-| **MOTI** | Motivation/reward add-on                         | Adding incentives without changing task structure           | "Rewarded X," reward modulation, mood induction before task                                                                                                                                                                         |
-| **DUAL** | Dual-task add-on                                 | Adding a concurrent secondary task                          | Articulatory suppression, working memory load, concurrent secondary task (unless it creates a recognized named paradigm)                                                                                                            |
-| **EMOT** | Emotional stimulus swap — **RETIRED 2026-04-17** | ~~Replacing neutral stimuli with emotional ones~~           | This category was retired by user decision on 2026-04-17. All attested Emotional-X paradigms are now kept as variations under their parent tasks. No emotional variations are dropped on EMOT grounds. See §5.1 for the resolution. |
+| Code | Category | Description | Examples |
+|------|----------|-------------|----------|
+| **MEAS** | Measurement modality | Adding or changing recording equipment | "with fMRI," "with EEG," "with eye-tracking," "with SCR/startle probe," "with MEG," "with TMS recording" |
+| **ANAL** | Analysis method | Post-hoc data analysis technique | Computational modeling, DDM, ROC analysis, Gratton effect analysis, process dissociation, clustering analysis, strategy analysis, locus-of-slack logic, reverse correlation |
+| **DESG** | Design/parameter choice | Experimenter decisions about trial structure | Blocked vs. event-related design, varying ISI/SOA (as generic sweep), parametric difficulty, variable set size (as parameter sweep), speed-accuracy tradeoff instructions |
+| **STIM** | Stimulus substitution | Swapping one stimulus set for an equivalent one | IAPS→OASIS/NAPS, race-specific face sets with identical procedures, alternative word lists, translated stimuli |
+| **POPL** | Population/clinical use | Testing a different population | "in amnesia," "for children" (unless procedure changes), "clinical screening," "developmental version," "in schizophrenia," cross-cultural comparison |
+| **IDIF** | Individual differences | Using a task as a correlational measure | "as individual differences measure," correlational studies |
+| **TRAN** | Training/intervention | Using repeated task exposure as an intervention | Bias modification training, working memory training, practice/training interventions, memory specificity training |
+| **PHAR** | Pharmacological challenge | Administering drugs during the task | "under pharmacological challenge," medication on/off designs |
+| **SCOR** | Scoring method | How performance is quantified | Partial-credit scoring, B-minus-A derived scores, B/A ratio, trial-level bias scores |
+| **ALIA** | Alias/redundant | Restates the canonical task or duplicates another variation | "Standard X" that merely restates the canonical definition, near-duplicate entries from dual-source generation |
+| **MOTI** | Motivation/reward add-on | Adding incentives without changing task structure | "Rewarded X," reward modulation, mood induction before task |
+| **DUAL** | Dual-task add-on | Adding a concurrent secondary task | Articulatory suppression, working memory load, concurrent secondary task (unless it creates a recognized named paradigm) |
+| **EMOT** | Emotional stimulus swap — **RETIRED 2026-04-17** | ~~Replacing neutral stimuli with emotional ones~~ | This category was retired by user decision on 2026-04-17. All attested Emotional-X paradigms are now kept as variations under their parent tasks. No emotional variations are dropped on EMOT grounds. See §5.1 for the resolution. |
 
 ### Applying the criteria consistently
 
@@ -137,7 +138,7 @@ The DROP categories are applied uniformly across all 103 tasks. If "with fMRI" i
 
 The one exception is when a modification creates a **recognized named paradigm** with its own literature. For example, the Emotional Stroop Task is kept as a separate top-level task entry because it has a distinct, established identity in the literature. Note that the EMOT category was retired entirely on 2026-04-17 (see §5.1) — all attested Emotional-X paradigms are now kept as variations, whether or not they have independent literatures.
 
-______________________________________________________________________
+---
 
 ## 5. Borderline Cases and Policy Questions
 

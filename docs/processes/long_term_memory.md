@@ -3,20 +3,22 @@
 **Scope:** Encoding, consolidation, retrieval; recall and recognition; recollection and familiarity; source memory; episodic, semantic, autobiographical, verbal memory; pattern completion and separation; proactive and retroactive interference; forgetting; directed forgetting; reconsolidation; prospective memory.
 
 **Out of scope:** "Memory" as an umbrella; semantic representation itself (that lives closer to Language as semantic knowledge); short-term storage (Short-Term and Working Memory).
+
 :::{note}
 **Open issues:** The recollection / familiarity / source-memory sub-distinctions are preserved as separate rows. Further sub-splitting (e.g., recollection by domain) is deferred.
 :::
-:::\{admonition} Category history :class: dropdown
+
+:::{admonition} Category history
+:class: dropdown
 
 Inherited Directed forgetting from the dissolved "Memory Control and Metamemory" category.
 :::
 
 This category contains 21 processes.
 
-______________________________________________________________________
+---
 
 (hed-autobiographical-memory)=
-
 ## Autobiographical memory
 
 **Process ID:** `hed_autobiographical_memory`
@@ -37,10 +39,9 @@ The following tasks engage this process:
 
 - Conway (2009) *Neuropsychologia* 47:2305–2313
 
-______________________________________________________________________
+---
 
 (hed-consolidation)=
-
 ## Consolidation
 
 **Process ID:** `hed_consolidation`
@@ -61,10 +62,9 @@ The following tasks engage this process:
 
 - Dudai, Karni & Born (2015) *Neuron* 88:20–32
 
-______________________________________________________________________
+---
 
 (hed-declarative-memory)=
-
 ## Declarative memory
 
 **Process ID:** `hed_declarative_memory`
@@ -85,10 +85,9 @@ The following tasks engage this process:
 
 - Squire & Wixted (2011) *Annual Review of Neuroscience* 34:259–288
 
-______________________________________________________________________
+---
 
 (hed-directed-forgetting)=
-
 ## Directed forgetting
 
 **Process ID:** `hed_directed_forgetting`
@@ -105,16 +104,14 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Bjork (1970) *Acta Psychologica* 33:288–296
-- MacLeod (1998) in *Intentional Forgetting*
 
 ### Recent references
 
 - Anderson & Hanslmayr (2014) *Trends in Cognitive Sciences* 18:279–292
 
-______________________________________________________________________
+---
 
 (hed-encoding)=
-
 ## Encoding
 
 **Process ID:** `hed_encoding`
@@ -147,10 +144,9 @@ The following tasks engage this process:
 
 - Paller & Wagner (2002) *Trends in Cognitive Sciences* 6:93–102
 
-______________________________________________________________________
+---
 
 (hed-episodic-memory)=
-
 ## Episodic memory
 
 **Process ID:** `hed_episodic_memory`
@@ -177,10 +173,9 @@ The following tasks engage this process:
 
 - Moscovitch, Cabeza, Winocur & Nadel (2016) *Annual Review of Psychology* 67:105–134
 
-______________________________________________________________________
+---
 
 (hed-familiarity)=
-
 ## Familiarity
 
 **Process ID:** `hed_familiarity`
@@ -201,14 +196,9 @@ The following tasks engage this process:
 
 - Mandler (1980) *Psychological Review* 87:252–271
 
-### Recent references
-
-- Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
-
-______________________________________________________________________
+---
 
 (hed-forgetting)=
-
 ## Forgetting
 
 **Process ID:** `hed_forgetting`
@@ -220,16 +210,14 @@ Loss of accessibility of previously encoded information, due to decay, interfere
 ### Fundamental references
 
 - Ebbinghaus (1885) *Über das Gedächtnis*
-- McGeoch (1932) *Psychological Review* 39:352–370
 
 ### Recent references
 
 - Hardt, Nader & Nadel (2013) *Trends in Cognitive Sciences* 17:111–120
 
-______________________________________________________________________
+---
 
 (hed-pattern-completion)=
-
 ## Pattern completion
 
 **Process ID:** `hed_pattern_completion`
@@ -250,10 +238,9 @@ The following tasks engage this process:
 
 - Rolls (2013) *Frontiers in Systems Neuroscience* 7:74
 
-______________________________________________________________________
+---
 
 (hed-pattern-separation)=
-
 ## Pattern separation
 
 **Process ID:** `hed_pattern_separation`
@@ -266,18 +253,13 @@ The following tasks engage this process:
 
 - [Mnemonic Similarity Task](../tasks/hedtsk_mnemonic_similarity.md)
 
-### Fundamental references
-
-- Marr (1971) *Philosophical Transactions B* 262:23–81
-
 ### Recent references
 
 - Yassa & Stark (2011) *Trends in Neurosciences* 34:515–525
 
-______________________________________________________________________
+---
 
 (hed-proactive-interference)=
-
 ## Proactive interference
 
 **Process ID:** `hed_proactive_interference`
@@ -290,18 +272,13 @@ The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental references
-
-- Underwood (1957) *Psychological Review* 64:49–60
-
 ### Recent references
 
 - Jonides & Nee (2006) *Neuroscience* 139:181–193
 
-______________________________________________________________________
+---
 
 (hed-prospective-memory)=
-
 ## Prospective memory
 
 **Process ID:** `hed_prospective_memory`
@@ -322,10 +299,9 @@ The following tasks engage this process:
 
 - McDaniel, Umanath, Einstein & Waldum (2015) *Journal of Applied Research in Memory and Cognition* 4:268–279
 
-______________________________________________________________________
+---
 
 (hed-recall)=
-
 ## Recall
 
 **Process ID:** `hed_recall`
@@ -340,18 +316,9 @@ The following tasks engage this process:
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental references
-
-- Tulving (1962) *Canadian Journal of Psychology* 16:185–191
-
-### Recent references
-
-- Kahana (2012) *Foundations of Human Memory*
-
-______________________________________________________________________
+---
 
 (hed-recognition)=
-
 ## Recognition
 
 **Process ID:** `hed_recognition`
@@ -372,14 +339,9 @@ The following tasks engage this process:
 
 - Mandler (1980) *Psychological Review* 87:252–271
 
-### Recent references
-
-- Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
-
-______________________________________________________________________
+---
 
 (hed-recollection)=
-
 ## Recollection
 
 **Process ID:** `hed_recollection`
@@ -404,10 +366,9 @@ The following tasks engage this process:
 
 - Diana, Yonelinas & Ranganath (2007) *Trends in Cognitive Sciences* 11:379–386
 
-______________________________________________________________________
+---
 
 (hed-reconsolidation)=
-
 ## Reconsolidation
 
 **Process ID:** `hed_reconsolidation`
@@ -424,10 +385,9 @@ Destabilization and re-stabilization of a memory upon retrieval, creating a wind
 
 - Elsey, Van Ast & Kindt (2018) *Psychological Bulletin* 144:797–848
 
-______________________________________________________________________
+---
 
 (hed-retrieval)=
-
 ## Retrieval
 
 **Process ID:** `hed_retrieval`
@@ -461,10 +421,9 @@ The following tasks engage this process:
 
 - Rugg & Vilberg (2013) *Current Opinion in Neurobiology* 23:255–260
 
-______________________________________________________________________
+---
 
 (hed-retroactive-interference)=
-
 ## Retroactive interference
 
 **Process ID:** `hed_retroactive_interference`
@@ -477,18 +436,13 @@ The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 
-### Fundamental references
-
-- Müller & Pilzecker (1900) *Zeitschrift für Psychologie Ergänzungsband* 1:1–300
-
 ### Recent references
 
 - Wixted (2004) *Annual Review of Psychology* 55:235–269
 
-______________________________________________________________________
+---
 
 (hed-semantic-memory)=
-
 ## Semantic memory
 
 **Process ID:** `hed_semantic_memory`
@@ -506,10 +460,9 @@ Long-term store of general knowledge about the world — facts, concepts, and wo
 
 - Binder & Desai (2011) *Trends in Cognitive Sciences* 15:527–536
 
-______________________________________________________________________
+---
 
 (hed-source-memory)=
-
 ## Source memory
 
 **Process ID:** `hed_source_memory`
@@ -530,10 +483,9 @@ The following tasks engage this process:
 
 - Mitchell & Johnson (2009) *Psychological Bulletin* 135:638–677
 
-______________________________________________________________________
+---
 
 (hed-verbal-memory)=
-
 ## Verbal memory
 
 **Process ID:** `hed_verbal_memory`
@@ -553,3 +505,4 @@ The following tasks engage this process:
 ### Recent references
 
 - Schmidt (1996) *Rey Auditory and Verbal Learning Test*
+

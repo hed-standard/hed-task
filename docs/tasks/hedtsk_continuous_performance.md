@@ -1,5 +1,4 @@
 (hedtsk_continuous_performance)=
-
 # Continuous Performance Task
 
 **HED Task ID:** `hedtsk_continuous_performance`
@@ -15,10 +14,9 @@ The Continuous Performance Task requires participants to continuously monitor a 
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - A rapid sequence of stimuli is presented; participants respond to infrequent target stimuli and withhold responses to non-targets over a prolonged session (10–20 min).
 * - **Manipulation**
@@ -30,28 +28,36 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - X-CPT (Simple)
   - Respond to target letter "X" among non-target letters; measures basic sustained attention.
+  - Respond to single target letter; canonical simple vigilance paradigm
 * - AX-CPT (Context Processing)
   - Respond to "X" only when preceded by "A"; probes context maintenance and proactive/reactive control.
+  - Context-dependent target requires tracking A→X sequence; different working memory demand
 * - Identical Pairs CPT (IP-CPT)
   - Respond when two consecutive stimuli are identical; taps working memory updating.
+  - Respond when consecutive stimuli match; different stimulus-response rule
 * - Gradual-Onset CPT (gradCPT)
   - Scene images fade in/out continuously; respond to one category, withhold to another; naturalistic sustained attention.
+  - Stimuli gradually transition instead of discrete flashes; different perceptual and decision dynamics
 * - Auditory CPT
   - Auditory stimulus stream; respond to target phoneme or tone.
+  - Auditory stimulus stream instead of visual; different sensory modality
 * - Conners' CPT-3
   - Standardized commercial version with norms for ADHD assessment.
+  - Standardized commercial CPT with letter stimuli and specific timing; named published instrument
 * - TOVA (Test of Variables of Attention)
   - Commercial CPT variant with specific timing parameters and normative data.
+  - Geometric stimuli, fixed ISI; distinct named instrument with different timing parameters
 * - CPT with Emotional Distractors
   - Task-irrelevant emotional stimuli during sustained attention.
+  - Emotional stimuli as distractors; retained per §5.1 (EMOT retired)
 ```
 
 ## Cognitive processes
@@ -66,17 +72,18 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Rosvold, H. E., Mirsky, A. F., Sarason, I., Bransome, E. D., & Beck, L. H. (1956). A continuous performance test of brain damage. *Journal of Consulting Psychology*, 20(5), 343-350.
-- Nuechterlein, K. H., Parasuraman, R., & Jiang, Q. (1983). Visual sustained attention: Image degradation produces rapid sensitivity decrement over time. *Science*, 220(4594), 327-329.
-- Carter, C. S., Braver, T. S., Barch, D. M., Botvinick, M. M., Noll, D., & Cohen, J. D. (1998). Anterior cingulate cortex, error detection, and the online monitoring of performance. *Science*, 280(5364), 747-749.
+- {'authors': 'Rosvold, H. E., Mirsky, A. F., Sarason, I., Bransome, E. D., & Beck, L. H.', 'year': 1956, 'title': 'A continuous performance test of brain damage.', 'venue': 'Journal of Consulting Psychology', 'venue_type': 'journal', 'journal': 'Journal of Consulting Psychology', 'volume': '20', 'issue': '5', 'pages': '343-350', 'doi': '10.1037/h0043220', 'openalex_id': None, 'pmid': None, 'citation_string': 'Rosvold, H. E., Mirsky, A. F., Sarason, I., Bransome, E. D., & Beck, L. H. (1956). A continuous performance test of brain damage. *Journal of Consulting Psychology*, 20(5), 343-350.', 'url': 'https://doi.org/10.1037/h0043220', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Nuechterlein, K. H., Parasuraman, R., & Jiang, Q.', 'year': 1983, 'title': 'Visual Sustained Attention: Image Degradation Produces Rapid Sensitivity Decrement Over Time', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '220', 'issue': '4594', 'pages': '327-329', 'doi': '10.1126/science.6836276', 'openalex_id': None, 'pmid': None, 'citation_string': 'Nuechterlein, K. H., Parasuraman, R., & Jiang, Q. (1983). Visual sustained attention: Image degradation produces rapid sensitivity decrement over time. *Science*, 220(4594), 327-329.', 'url': 'https://doi.org/10.1126/science.6836276', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Carter, C. S., Braver, T. S., Barch, D. M., Botvinick, M. M., Noll, D., & Cohen, J. D.', 'year': 1998, 'title': 'Anterior Cingulate Cortex, Error Detection, and the Online Monitoring of Performance', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '280', 'issue': '5364', 'pages': '747-749', 'doi': '10.1126/science.280.5364.747', 'openalex_id': None, 'pmid': None, 'citation_string': 'Carter, C. S., Braver, T. S., Barch, D. M., Botvinick, M. M., Noll, D., & Cohen, J. D. (1998). Anterior cingulate cortex, error detection, and the online monitoring of performance. *Science*, 280(5364), 747-749.', 'url': 'https://doi.org/10.1126/science.280.5364.747', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Huang-Pollock, C. L., Karalunas, S. L., Tam, H., & Moore, A. N. (2012). Evaluating vigilance deficits in ADHD: A meta-analysis of CPT performance. *Journal of Abnormal Psychology*, 121(2), 360–371.
-- Esterman, M., Noonan, S. K., Rosenberg, M., & DeGutis, J. (2013). In the zone or zoning out? Tracking behavioral and neural fluctuations during sustained attention. *Cerebral Cortex*, 23(11), 2712–2723.
-- Fortenbaugh, F. C., DeGutis, J., & Esterman, M. (2017). Recent theoretical, neural, and clinical advances in sustained attention research. *Annals of the New York Academy of Sciences*, 1396(1), 70–91.
-- Weigard, A., & Huang-Pollock, C. (2017). The role of speed in ADHD-related working memory deficits: A time-based resource-sharing and diffusion model account. *Clinical Psychological Science*, 5(2), 195–211.
+- {'authors': 'Huang-Pollock, C. L., Karalunas, S. L., Tam, H., & Moore, A. N.', 'year': 2012, 'title': 'Evaluating vigilance deficits in ADHD: A meta-analysis of CPT performance.', 'venue': 'Journal of Abnormal Psychology', 'venue_type': 'journal', 'journal': 'Journal of Abnormal Psychology', 'volume': '121', 'issue': '2', 'pages': '360-371', 'doi': '10.1037/a0027205', 'openalex_id': None, 'pmid': None, 'citation_string': 'Huang-Pollock, C. L., Karalunas, S. L., Tam, H., & Moore, A. N. (2012). Evaluating vigilance deficits in ADHD: A meta-analysis of CPT performance. *Journal of Abnormal Psychology*, 121(2), 360–371.', 'url': 'https://doi.org/10.1037/a0027205', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Rosenberg, M., Noonan, S., DeGutis, J., & Esterman, M.', 'year': 2013, 'title': 'Sustaining visual attention in the face of distraction: a novel gradual-onset continuous performance task', 'venue': 'Attention, Perception, & Psychophysics', 'venue_type': 'journal', 'journal': 'Attention, Perception, & Psychophysics', 'volume': '75', 'issue': '3', 'pages': '426-439', 'doi': '10.3758/s13414-012-0413-x', 'openalex_id': None, 'pmid': None, 'citation_string': 'Esterman, M., Noonan, S. K., Rosenberg, M., & DeGutis, J. (2013). In the zone or zoning out? Tracking behavioral and neural fluctuations during sustained attention. *Cerebral Cortex*, 23(11), 2712–2723.', 'url': 'https://doi.org/10.3758/s13414-012-0413-x', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Fortenbaugh, F. C., DeGutis, J., & Esterman, M.', 'year': 2017, 'title': 'Recent theoretical, neural, and clinical advances in sustained attention research', 'venue': 'Annals of the New York Academy of Sciences', 'venue_type': 'journal', 'journal': 'Annals of the New York Academy of Sciences', 'volume': '1396', 'issue': '1', 'pages': '70-91', 'doi': '10.1111/nyas.13318', 'openalex_id': None, 'pmid': None, 'citation_string': 'Fortenbaugh, F. C., DeGutis, J., & Esterman, M. (2017). Recent theoretical, neural, and clinical advances in sustained attention research. *Annals of the New York Academy of Sciences*, 1396(1), 70–91.', 'url': 'https://doi.org/10.1111/nyas.13318', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Weigard, A., & Huang-Pollock, C.', 'year': 2017, 'title': 'The role of speed in ADHD-related working memory deficits: A time-based resource-sharing and diffusion model account', 'venue': 'Clinical Psychological Science', 'venue_type': 'journal', 'journal': 'Clinical Psychological Science', 'volume': '5', 'issue': '2', 'pages': '195–211', 'doi': None, 'openalex_id': None, 'pmid': None, 'citation_string': 'Weigard, A., & Huang-Pollock, C. (2017). The role of speed in ADHD-related working memory deficits: A time-based resource-sharing and diffusion model account. *Clinical Psychological Science*, 5(2), 195–211.', 'url': None, 'source': 'unresolved', 'confidence': 'none', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4b4a537644d76)
+

@@ -1,5 +1,4 @@
 (hedtsk_directed_forgetting)=
-
 # Directed Forgetting Task
 
 **HED Task ID:** `hedtsk_directed_forgetting`
@@ -15,10 +14,9 @@ Participants study items (typically words) under instructions that each item sho
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - Items are presented one at a time or in lists; after each item (item method) or after a full list (list method), a cue instructs the participant to remember or forget it. A final test probes all items.
 * - **Manipulation**
@@ -30,26 +28,33 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Item-Method Directed Forgetting
   - Remember/forget cue after each individual item; primarily affects encoding.
+  - Forget cue follows each item; individual item suppression
 * - List-Method Directed Forgetting
   - Single forget cue after the first list; affects both retrieval and encoding of second list.
+  - Forget cue follows entire first list; list-level suppression
 * - Recognition vs. Recall Test
   - Directed forgetting effects are typically larger in recall than recognition.
+  - Different retrieval test changes what type of access is measured
 * - Directed Forgetting with Source Memory
   - Testing whether source information is forgotten alongside item information.
+  - Retrieval includes source judgment; adds contextual memory component
 * - Emotional Directed Forgetting
   - Emotional vs. neutral items; emotional items may resist directed forgetting.
+  - Emotional to-be-forgotten material; retained per §5.1 (EMOT retired)
 * - Directed Forgetting of Actions (SPT)
   - Forgetting subject-performed tasks; tests embodied memory control.
+  - Subject-performed tasks as to-be-forgotten items; different encoding modality
 * - Cumulative Directed Forgetting
   - Multiple lists with forget cues; tests whether inhibition accumulates across lists.
+  - Multiple forget cues accumulate across list; different suppression structure
 ```
 
 ## Cognitive processes
@@ -64,13 +69,12 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Bjork, R. A. (1970). Positive forgetting: The noninterference of items intentionally forgotten. *Journal of Verbal Learning and Verbal Behavior*, 9(3), 255–268.
-- MacLeod, C. M. (1998). Directed forgetting. In J. M. Golding & C. M. MacLeod (Eds.), *Intentional forgetting: Interdisciplinary approaches* (pp. 1–57). Erlbaum.
-- Bjork, R. A. (1989). Retrieval inhibition as an adaptive mechanism in human memory. In H. L. Roediger III & F. I. M. Craik (Eds.), *Varieties of memory and consciousness: Essays in honour of Endel Tulving* (pp. 309–330). Erlbaum.
+- {'authors': 'Bjork, R. A.', 'year': 1970, 'title': 'Positive forgetting: The noninterference of Items intentionally forgotten', 'venue': 'Journal of Verbal Learning and Verbal Behavior', 'venue_type': 'journal', 'journal': 'Journal of Verbal Learning and Verbal Behavior', 'volume': '9', 'issue': '3', 'pages': '255-268', 'doi': '10.1016/s0022-5371(70)80059-7', 'openalex_id': None, 'pmid': None, 'citation_string': 'Bjork, R. A. (1970). Positive forgetting: The noninterference of items intentionally forgotten. *Journal of Verbal Learning and Verbal Behavior*, 9(3), 255–268.', 'url': 'https://doi.org/10.1016/s0022-5371(70)80059-7', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Anderson, M. C., & Hanslmayr, S. (2014). Neural mechanisms of motivated forgetting. *Trends in Cognitive Sciences*, 18(6), 279–292.
-- Pastötter, B., & Bäuml, K.-H. T. (2014). Distinct slow and fast cortical theta dynamics in episodic memory retrieval. *NeuroImage*, 94, 155–161.
-- Sahakyan, L., Delaney, P. F., Foster, N. L., & Abushanab, B. (2013). List-method directed forgetting in cognitive and clinical research: A theoretical and methodological review. *Psychology of Learning and Motivation*, 59, 131–189.
-- Fellner, M.-C., Waldhauser, G. T., & Axmacher, N. (2020). Tracking selective rehearsal and active inhibition of memory traces in directed forgetting. *Current Biology*, 30(13), 2638–2644.
+- {'authors': 'Anderson, M. C., & Hanslmayr, S.', 'year': 2014, 'title': 'Neural mechanisms of motivated forgetting', 'venue': 'Trends in Cognitive Sciences', 'venue_type': 'journal', 'journal': 'Trends in Cognitive Sciences', 'volume': '18', 'issue': '6', 'pages': '279-292', 'doi': '10.1016/j.tics.2014.03.002', 'openalex_id': None, 'pmid': None, 'citation_string': 'Anderson, M. C., & Hanslmayr, S. (2014). Neural mechanisms of motivated forgetting. *Trends in Cognitive Sciences*, 18(6), 279–292.', 'url': 'https://doi.org/10.1016/j.tics.2014.03.002', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Pastötter, B., & Bäuml, K. T.', 'year': 2014, 'title': 'Distinct slow and fast cortical theta dynamics in episodic memory retrieval', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '94', 'issue': None, 'pages': '155-161', 'doi': '10.1016/j.neuroimage.2014.03.002', 'openalex_id': None, 'pmid': None, 'citation_string': 'Pastötter, B., & Bäuml, K.-H. T. (2014). Distinct slow and fast cortical theta dynamics in episodic memory retrieval. *NeuroImage*, 94, 155–161.', 'url': 'https://doi.org/10.1016/j.neuroimage.2014.03.002', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Sahakyan, L., Delaney, P. F., Foster, N. L., & Abushanab, B.', 'year': 2013, 'title': 'List-Method Directed Forgetting in Cognitive and Clinical Research', 'venue': 'Psychology of Learning and Motivation', 'venue_type': 'book_chapter', 'journal': None, 'volume': '59', 'issue': None, 'pages': '131-189', 'doi': '10.1016/b978-0-12-407187-2.00004-6', 'openalex_id': None, 'pmid': None, 'citation_string': 'Sahakyan, L., Delaney, P. F., Foster, N. L., & Abushanab, B. (2013). List-method directed forgetting in cognitive and clinical research: A theoretical and methodological review. *Psychology of Learning and Motivation*, 59, 131–189.', 'url': 'https://doi.org/10.1016/b978-0-12-407187-2.00004-6', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Fellner, M., Waldhauser, G. T., & Axmacher, N.', 'year': 2020, 'title': 'Tracking Selective Rehearsal and Active Inhibition of Memory Traces in Directed Forgetting', 'venue': 'Current Biology', 'venue_type': 'journal', 'journal': 'Current Biology', 'volume': '30', 'issue': '13', 'pages': '2638-2644.e4', 'doi': '10.1016/j.cub.2020.04.091', 'openalex_id': None, 'pmid': None, 'citation_string': 'Fellner, M.-C., Waldhauser, G. T., & Axmacher, N. (2020). Tracking selective rehearsal and active inhibition of memory traces in directed forgetting. *Current Biology*, 30(13), 2638–2644.', 'url': 'https://doi.org/10.1016/j.cub.2020.04.091', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+

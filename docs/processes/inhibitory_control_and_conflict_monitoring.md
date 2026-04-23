@@ -3,16 +3,16 @@
 **Scope:** Response inhibition, response conflict, conflict monitoring, interference control, executive attention, proactive control, reactive control, error detection, error correction.
 
 **Out of scope:** Impulsivity as a trait; behavioral inhibition as a temperament construct.
+
 :::{note}
 **Open issues:** Self-monitoring was moved out to Awareness, Agency, and Metacognition during the reframe. The proactive/reactive control split is paradigm-bound (AX-CPT-style designs); retained but worth revisiting if the catalog adds paradigms that dissociate other control modes.
 :::
 
 This category contains 9 processes.
 
-______________________________________________________________________
+---
 
 (hed-conflict-monitoring)=
-
 ## Conflict monitoring
 
 **Process ID:** `hed_conflict_monitoring`
@@ -41,10 +41,9 @@ The following tasks engage this process:
 
 - Shenhav, Botvinick & Cohen (2013) *Neuron* 79:217–240
 
-______________________________________________________________________
+---
 
 (hed-error-correction)=
-
 ## Error correction
 
 **Process ID:** `hed_error_correction`
@@ -62,10 +61,9 @@ Adjustment of behavior following an error, including post-error slowing and impr
 
 - Danielmeier & Ullsperger (2011) *Frontiers in Psychology* 2:233
 
-______________________________________________________________________
+---
 
 (hed-error-detection)=
-
 ## Error detection
 
 **Process ID:** `hed_error_detection`
@@ -85,14 +83,9 @@ The following tasks engage this process:
 - Falkenstein, Hohnsbein, Hoormann & Blanke (1991) *EEG & Clinical Neurophysiology* 78:447–455
 - Gehring, Goss, Coles, Meyer & Donchin (1993) *Psychological Science* 4:385–390
 
-### Recent references
-
-- Ullsperger, Danielmeier & Jocham (2014) *Physiological Reviews* 94:35–79
-
-______________________________________________________________________
+---
 
 (hed-executive-attention)=
-
 ## Executive attention
 
 **Process ID:** `hed_executive_attention`
@@ -115,10 +108,9 @@ The following tasks engage this process:
 
 - Petersen & Posner (2012) *Annual Review of Neuroscience* 35:73–89
 
-______________________________________________________________________
+---
 
 (hed-interference-control)=
-
 ## Interference control
 
 **Process ID:** `hed_interference_control`
@@ -141,17 +133,15 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Stroop (1935) *JEP* 18:643–662
 - Eriksen & Eriksen (1974) *Perception & Psychophysics* 16:143–149
 
 ### Recent references
 
 - Nigg (2017) *Journal of Child Psychology and Psychiatry* 58:361–383
 
-______________________________________________________________________
+---
 
 (hed-proactive-control)=
-
 ## Proactive control
 
 **Process ID:** `hed_proactive_control`
@@ -166,16 +156,15 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Braver, Gray & Burgess (2007) in *Variation in Working Memory*
+- Braver et al. (2021) *Journal of Cognitive Neuroscience* doi:10.1162/jocn_a_01768
 
 ### Recent references
 
 - Braver (2012) *Trends in Cognitive Sciences* 16:106–113
 
-______________________________________________________________________
+---
 
 (hed-reactive-control)=
-
 ## Reactive control
 
 **Process ID:** `hed_reactive_control`
@@ -190,16 +179,15 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Braver, Gray & Burgess (2007) in *Variation in Working Memory*
+- Braver et al. (2021) *Journal of Cognitive Neuroscience* doi:10.1162/jocn_a_01768
 
 ### Recent references
 
 - Braver (2012) *Trends in Cognitive Sciences* 16:106–113
 
-______________________________________________________________________
+---
 
 (hed-response-conflict)=
-
 ## Response conflict
 
 **Process ID:** `hed_response_conflict`
@@ -226,10 +214,9 @@ The following tasks engage this process:
 
 - Botvinick (2007) *Cognitive, Affective, & Behavioral Neuroscience* 7:356–366
 
-______________________________________________________________________
+---
 
 (hed-response-inhibition)=
-
 ## Response inhibition
 
 **Process ID:** `hed_response_inhibition`
@@ -259,3 +246,4 @@ The following tasks engage this process:
 ### Recent references
 
 - Aron, Robbins & Poldrack (2014) *Trends in Cognitive Sciences* 18:177–185
+

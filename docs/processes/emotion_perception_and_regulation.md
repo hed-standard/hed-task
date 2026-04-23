@@ -3,16 +3,16 @@
 **Scope:** Recognition of emotional signals (face, voice, body), affective priming, cognitive reappraisal, expressive suppression, emotion regulation strategies.
 
 **Out of scope:** Specific emotions as states (fear, happiness, disgust, anger, sadness — HED handles these as stimulus/state labels); affect as a trait; mood.
+
 :::{note}
 **Open issues:** This category had heavy non-process pollution in the pre-reframe list (16 of 21 entries were specific emotions, valence, arousal, mood, or empathy-as-trait). Current 5-row count reflects the cleaned process-only version. Coverage of appraisal-stage processes is thin — expected to grow if we add paradigms that specifically target appraisal.
 :::
 
 This category contains 5 processes.
 
-______________________________________________________________________
+---
 
 (hed-affective-priming)=
-
 ## Affective priming
 
 **Process ID:** `hed_affective_priming`
@@ -33,10 +33,9 @@ The following tasks engage this process:
 
 - Herring, White, Jabeen, Hinojos, Terrell, Reyes, Schubert & Crites (2013) *Psychological Bulletin* 139:1062–1089
 
-______________________________________________________________________
+---
 
 (hed-cognitive-reappraisal)=
-
 ## Cognitive reappraisal
 
 **Process ID:** `hed_cognitive_reappraisal`
@@ -57,10 +56,9 @@ The following tasks engage this process:
 
 - Buhle, Silvers, Wager, Lopez, Onyemekwu, Kober, Weber & Ochsner (2014) *Cerebral Cortex* 24:2981–2990
 
-______________________________________________________________________
+---
 
 (hed-emotion-recognition)=
-
 ## Emotion recognition
 
 **Process ID:** `hed_emotion_recognition`
@@ -85,14 +83,9 @@ The following tasks engage this process:
 
 - Ekman & Friesen (1976) *Pictures of Facial Affect*
 
-### Recent references
-
-- Adolphs (2002) *Behavioral and Cognitive Neuroscience Reviews* 1:21–62
-
-______________________________________________________________________
+---
 
 (hed-emotion-regulation)=
-
 ## Emotion regulation
 
 **Process ID:** `hed_emotion_regulation`
@@ -113,14 +106,9 @@ The following tasks engage this process:
 
 - Gross (1998) *Review of General Psychology* 2:271–299
 
-### Recent references
-
-- Gross (2015) *Psychological Inquiry* 26:1–26
-
-______________________________________________________________________
+---
 
 (hed-expressive-suppression)=
-
 ## Expressive suppression
 
 **Process ID:** `hed_expressive_suppression`
@@ -137,6 +125,3 @@ The following tasks engage this process:
 
 - Gross & Levenson (1993) *Journal of Personality and Social Psychology* 64:970–986
 
-### Recent references
-
-- Gross (2015) *Psychological Inquiry* 26:1–26

@@ -1,16 +1,16 @@
 # Auditory and Pre-Attentive Deviance Processing
 
 **Scope:** Pitch perception, auditory tone discrimination, acoustic processing, auditory perception; the family of processes indexed by MMN / oddball paradigms.
+
 :::{note}
 **Open issues:** Tightly coupled to a specific measurement tradition (ERP). If the catalog ever generalizes beyond MMN, the category boundary with Selective and Sustained Attention (feature-based attention) will need review.
 :::
 
 This category contains 4 processes.
 
-______________________________________________________________________
+---
 
 (hed-acoustic-processing)=
-
 ## Acoustic processing
 
 **Process ID:** `hed_acoustic_processing`
@@ -27,14 +27,9 @@ The following tasks engage this process:
 
 - Fletcher (1940) *Reviews of Modern Physics* 12:47–65
 
-### Recent references
-
-- King, Teki & Willmore (2018) *Neuron* 98:682–690
-
-______________________________________________________________________
+---
 
 (hed-auditory-perception)=
-
 ## Auditory perception
 
 **Process ID:** `hed_auditory_perception`
@@ -52,14 +47,9 @@ The following tasks engage this process:
 
 - von Békésy (1960) *Experiments in Hearing*
 
-### Recent references
-
-- King, Teki & Willmore (2018) *Neuron* 98:682–690
-
-______________________________________________________________________
+---
 
 (hed-auditory-tone-discrimination)=
-
 ## Auditory tone discrimination
 
 **Process ID:** `hed_auditory_tone_discrimination`
@@ -72,18 +62,13 @@ The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental references
-
-- Stevens (1957) *Psychological Review* 64:153–181
-
 ### Recent references
 
 - Moore (2012) *An Introduction to the Psychology of Hearing*, 6th ed
 
-______________________________________________________________________
+---
 
 (hed-pitch-perception)=
-
 ## Pitch perception
 
 **Process ID:** `hed_pitch_perception`
@@ -96,10 +81,7 @@ The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
 
-### Fundamental references
-
-- Licklider (1951) *Experientia* 7:128–134
-
 ### Recent references
 
 - Oxenham (2012) *Trends in Amplification* 16:174–185
+

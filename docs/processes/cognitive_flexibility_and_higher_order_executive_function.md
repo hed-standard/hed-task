@@ -3,20 +3,22 @@
 **Scope:** Task-set reconfiguration (set shifting), rule updating, strategy selection, goal maintenance. Current inhabitants: goal maintenance, set shifting, strategy use.
 
 **Out of scope:** Fluid intelligence (an individual-difference construct, not a process); working-memory updating (in Short-Term and Working Memory); "cognitive flexibility" as a capacity-level umbrella (dropped 2026-04-19; alias on `hed_set_shifting`).
+
 :::{note}
 **Open issues:** The user has earlier flagged that **attentional flexibility** and **mental flexibility** should perhaps be separate sub-processes — deferred.
 :::
-:::\{admonition} Category history :class: dropdown
+
+:::{admonition} Category history
+:class: dropdown
 
 `hed_cognitive_flexibility` dropped 2026-04-19 — broader construct (capacity-level) that fails the single-answer inclusion test; set shifting is its primary operationalization. References absorbed into `hed_set_shifting`; 'Cognitive flexibility' added as alias.
 :::
 
 This category contains 3 processes.
 
-______________________________________________________________________
+---
 
 (hed-goal-maintenance)=
-
 ## Goal maintenance
 
 **Process ID:** `hed_goal_maintenance`
@@ -37,10 +39,9 @@ The following tasks engage this process:
 
 - Kane & Engle (2003) *JEP: General* 132:47–70
 
-______________________________________________________________________
+---
 
 (hed-set-shifting)=
-
 ## Set shifting
 
 **Process ID:** `hed_set_shifting`
@@ -61,7 +62,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Berg (1948) *Journal of General Psychology* 39:15–22 (WCST)
 - Monsell (2003) *Trends in Cognitive Sciences* 7:134–140
 - Diamond (2013) *Annual Review of Psychology* 64:135–168
 
@@ -70,10 +70,9 @@ The following tasks engage this process:
 - Kiesel, Steinhauser, Wendt, Falkenstein, Jost, Philipp & Koch (2010) *Psychological Bulletin* 136:849–874
 - Dajani & Uddin (2015) *Trends in Neurosciences* 38:571–578
 
-______________________________________________________________________
+---
 
 (hed-strategy-use)=
-
 ## Strategy use
 
 **Process ID:** `hed_strategy_use`
@@ -95,6 +94,3 @@ The following tasks engage this process:
 
 - Siegler (1987) *JEP: General* 116:250–264
 
-### Recent references
-
-- Lemaire (2016) *Cognitive Development and Aging*

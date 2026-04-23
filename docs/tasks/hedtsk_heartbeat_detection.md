@@ -1,5 +1,4 @@
 (hedtsk_heartbeat_detection)=
-
 # Heartbeat Detection Task
 
 **HED Task ID:** `hedtsk_heartbeat_detection`
@@ -15,10 +14,9 @@ The Heartbeat Detection Task is the standard paradigm for measuring interoceptiv
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - Participants perceive their own heartbeats — either counting them during timed intervals (counting variant) or judging synchrony between external stimuli and cardiac events (discrimination variant) — while actual heartbeats are recorded physiologically.
 * - **Manipulation**
@@ -30,22 +28,27 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Heartbeat Counting (Schandry)
   - Count heartbeats silently during timed intervals. The most widely used variant. Criticized for confounding true perception with beliefs about heart rate.
+  - Count heartbeats over interval; canonical interoception measure
 * - Heartbeat Discrimination (Whitehead)
   - Judge whether a tone is synchronous or asynchronous with the heartbeat. Signal-detection measure (d-prime). Less susceptible to belief confounds than counting.
+  - Judge whether tone is synchronous with heartbeat; different detection task
 * - Confidence-Accuracy Paradigm
   - Garfinkel et al. (2015) three-dimensional model: accuracy (objective performance), sensibility (self-report belief about interoceptive ability), and awareness (metacognitive correspondence between accuracy and sensibility).
+  - Sole confidence-rating exception per §5.5; Garfinkel et al. (2015) interoception model
 * - Interoceptive Attention Manipulation
   - Alternate between interoceptive focus (attend to heartbeat) and exteroceptive focus (attend to external stimuli). Compares directed vs. incidental cardiac processing.
+  - Instructions to attend to vs. distract from heartbeat; changes attentional focus
 * - Respiratory Interoception Variant
   - Breathing resistance detection (inspiratory loading) as a complementary interoceptive channel. Tests whether interoceptive accuracy is domain-general or modality-specific.
+  - Respiratory signals instead of cardiac; different physiological channel
 ```
 
 ## Cognitive processes
@@ -58,13 +61,13 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Schandry, R. (1981). Heart beat perception and emotional experience. *Psychophysiology*, 18(4), 483-488.
-- Whitehead, W. E., Drescher, V. M., Heiman, P., & Blackwell, B. (1977). Relation of heart rate control to heartbeat perception. *Biofeedback and Self-Regulation*, 2(4), 371-392.
-- Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive sensibility. *Biological Psychology*, 104, 65-74.
+- {'authors': 'Schandry, R.', 'year': 1981, 'title': 'Heart Beat Perception and Emotional Experience', 'venue': 'Psychophysiology', 'venue_type': 'journal', 'journal': 'Psychophysiology', 'volume': '18', 'issue': '4', 'pages': '483-488', 'doi': '10.1111/j.1469-8986.1981.tb02486.x', 'openalex_id': None, 'pmid': None, 'citation_string': 'Schandry, R. (1981). Heart beat perception and emotional experience. *Psychophysiology*, 18(4), 483-488.', 'url': 'https://doi.org/10.1111/j.1469-8986.1981.tb02486.x', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Whitehead, W. E., Drescher, V. M., Heiman, P., & Blackwell, B.', 'year': 1977, 'title': 'Relation of heart rate control to heartbeat perception', 'venue': 'Biofeedback and Self-Regulation', 'venue_type': 'journal', 'journal': 'Biofeedback and Self-Regulation', 'volume': '2', 'issue': '4', 'pages': '371-392', 'doi': '10.1007/bf00998623', 'openalex_id': None, 'pmid': None, 'citation_string': 'Whitehead, W. E., Drescher, V. M., Heiman, P., & Blackwell, B. (1977). Relation of heart rate control to heartbeat perception. *Biofeedback and Self-Regulation*, 2(4), 371-392.', 'url': 'https://doi.org/10.1007/bf00998623', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D.', 'year': 2015, 'title': 'Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness', 'venue': 'Biological Psychology', 'venue_type': 'journal', 'journal': 'Biological Psychology', 'volume': '104', 'issue': None, 'pages': '65-74', 'doi': '10.1016/j.biopsycho.2014.11.004', 'openalex_id': None, 'pmid': None, 'citation_string': 'Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive sensibility. *Biological Psychology*, 104, 65-74.', 'url': 'https://doi.org/10.1016/j.biopsycho.2014.11.004', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Murphy, J., Brewer, R., Catmur, C., & Bird, G. (2017). Interoception and psychopathology: A developmental neuroscience perspective. *Developmental Cognitive Neuroscience*, 23, 45-56.
-- Zamariola, G., Maurage, P., Luminet, O., & Corneille, O. (2018). Interoceptive accuracy scores from the heartbeat counting task are problematic: Evidence from simple bivariate correlations. *Biological Psychology*, 137, 12-17.
-- Desmedt, O., Luminet, O., & Corneille, O. (2018). The heartbeat counting task largely measures non-interoceptive processes: Better alternatives exist. *Biological Psychology*, 137, 80-84.
-- Ainley, V., Apps, M. A. J., Fotopoulou, A., & Tsakiris, M. (2016). 'Bodily precision': A predictive coding account of individual differences in interoceptive accuracy. *Philosophical Transactions of the Royal Society B*, 371(1708), 20160003.
+- {'authors': 'Murphy, J., Brewer, R., Catmur, C., & Bird, G.', 'year': 2017, 'title': 'Interoception and psychopathology: A developmental neuroscience perspective', 'venue': 'Developmental Cognitive Neuroscience', 'venue_type': 'journal', 'journal': 'Developmental Cognitive Neuroscience', 'volume': '23', 'issue': None, 'pages': '45-56', 'doi': '10.1016/j.dcn.2016.12.006', 'openalex_id': None, 'pmid': None, 'citation_string': 'Murphy, J., Brewer, R., Catmur, C., & Bird, G. (2017). Interoception and psychopathology: A developmental neuroscience perspective. *Developmental Cognitive Neuroscience*, 23, 45-56.', 'url': 'https://doi.org/10.1016/j.dcn.2016.12.006', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Zamariola, G., Maurage, P., Luminet, O., & Corneille, O.', 'year': 2018, 'title': 'Interoceptive accuracy scores from the heartbeat counting task are problematic: Evidence from simple bivariate correlations', 'venue': 'Biological Psychology', 'venue_type': 'journal', 'journal': 'Biological Psychology', 'volume': '137', 'issue': None, 'pages': '12-17', 'doi': '10.1016/j.biopsycho.2018.06.006', 'openalex_id': None, 'pmid': None, 'citation_string': 'Zamariola, G., Maurage, P., Luminet, O., & Corneille, O. (2018). Interoceptive accuracy scores from the heartbeat counting task are problematic: Evidence from simple bivariate correlations. *Biological Psychology*, 137, 12-17.', 'url': 'https://doi.org/10.1016/j.biopsycho.2018.06.006', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Desmedt, O., Luminet, O., & Corneille, O.', 'year': 2018, 'title': 'The heartbeat counting task largely involves non-interoceptive processes: Evidence from both the original and an adapted counting task', 'venue': 'Biological Psychology', 'venue_type': 'journal', 'journal': 'Biological Psychology', 'volume': '138', 'issue': None, 'pages': '185-188', 'doi': '10.1016/j.biopsycho.2018.09.004', 'openalex_id': None, 'pmid': None, 'citation_string': 'Desmedt, O., Luminet, O., & Corneille, O. (2018). The heartbeat counting task largely measures non-interoceptive processes: Better alternatives exist. *Biological Psychology*, 137, 80-84.', 'url': 'https://doi.org/10.1016/j.biopsycho.2018.09.004', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+

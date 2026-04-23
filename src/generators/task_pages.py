@@ -121,16 +121,19 @@ def _write_task_page(
     if variations:
         parts.append("## Variations\n\n")  # single word — already sentence case
         parts.append("```{list-table}\n")
-        parts.append(":widths: 30 70\n")
+        parts.append(":widths: 25 40 35\n")
         parts.append(":header-rows: 1\n")
         parts.append("\n")
         parts.append("* - Variation\n")
         parts.append("  - Description\n")
+        parts.append("  - Justification\n")
         for var in variations:
             var_name = var.get("name", "")
             var_desc = var.get("description", "")
+            var_just = var.get("justification", "")
             parts.append(f"* - {var_name}\n")
             parts.append(f"  - {var_desc}\n")
+            parts.append(f"  - {var_just}\n")
         parts.append("```\n\n")
 
     # Cognitive processes

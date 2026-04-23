@@ -1,5 +1,4 @@
 (hedtsk_verbal_fluency)=
-
 # Verbal Fluency Task
 
 **HED Task ID:** `hedtsk_verbal_fluency`
@@ -15,10 +14,9 @@ Participants produce as many unique words as possible in a fixed interval (typic
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - Participant generates words aloud matching a letter or category constraint within a timed interval; an examiner records all responses.
 * - **Manipulation**
@@ -30,24 +28,30 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Phonemic / Letter Fluency (FAS)
   - Generate words beginning with a specified letter (typically F, A, S). Loads heavily on left inferior frontal (executive search) systems. The standard clinical measure.
+  - Generate words by initial letter; canonical phonemic fluency
 * - Semantic / Category Fluency
   - Generate exemplars of a semantic category (e.g., animals, fruits, supermarket items). Engages temporal-lobe semantic stores in addition to frontal search. Differentially impaired in Alzheimer's disease vs. frontal lesions.
+  - Generate words from category; different retrieval strategy and structure
 * - Action / Verb Fluency
   - Generate verbs (things people can do). More sensitive to frontal-subcortical pathology than noun-based category fluency; emerging as a clinical complement.
+  - Generate verbs/actions; different grammatical category
 * - Switching Fluency
   - Alternate between two categories (e.g., fruit, furniture, fruit, ...) on each successive word. Adds an explicit set-shifting demand beyond simple generation.
+  - Alternate between two categories; adds cognitive flexibility demand
 * - Design Fluency
   - Non-verbal analogue: generate novel designs by connecting dots in a grid. Tests figural/spatial fluency and right-hemisphere executive function.
+  - Draw novel designs instead of words; different modality
 * - Excluded-Letter Fluency
   - Generate words that do NOT contain a specified letter. Adds an inhibitory constraint to the standard phonemic task.
+  - Generate words avoiding a letter; adds constraint that changes retrieval strategy
 ```
 
 ## Cognitive processes
@@ -61,13 +65,13 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Benton, A. L., Hamsher, K., & Sivan, A. B. (1983). *Multilingual Aphasia Examination* (3rd ed.). Iowa City: AJA Associates.
-- Troyer, A. K., Moscovitch, M., & Winocur, G. (1997). Clustering and switching as two components of verbal fluency: Evidence from younger and older healthy adults. *Neuropsychology*, 11(1), 138-146.
-- Henry, J. D., & Crawford, J. R. (2004). A meta-analytic review of verbal fluency performance following focal cortical lesions. *Neuropsychology*, 18(2), 284-295.
+- {'authors': 'Benton, A. L., Hamsher, d. S. K., & Sivan, A. B.', 'year': 1983, 'title': 'Controlled Oral Word Association Test', 'venue': 'PsycTESTS Dataset', 'venue_type': 'other', 'journal': None, 'volume': None, 'issue': None, 'pages': None, 'doi': '10.1037/t10132-000', 'openalex_id': None, 'pmid': None, 'citation_string': 'Benton, A. L., Hamsher, K., & Sivan, A. B. (1983). *Multilingual Aphasia Examination* (3rd ed.). Iowa City: AJA Associates.', 'url': 'https://doi.org/10.1037/t10132-000', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Troyer, A. K., Moscovitch, M., & Winocur, G.', 'year': 1997, 'title': 'Clustering and switching as two components of verbal fluency: Evidence from younger and older healthy adults.', 'venue': 'Neuropsychology', 'venue_type': 'journal', 'journal': 'Neuropsychology', 'volume': '11', 'issue': '1', 'pages': '138-146', 'doi': '10.1037/0894-4105.11.1.138', 'openalex_id': None, 'pmid': None, 'citation_string': 'Troyer, A. K., Moscovitch, M., & Winocur, G. (1997). Clustering and switching as two components of verbal fluency: Evidence from younger and older healthy adults. *Neuropsychology*, 11(1), 138-146.', 'url': 'https://doi.org/10.1037/0894-4105.11.1.138', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Henry, J. D., & Crawford, J. R.', 'year': 2004, 'title': 'A Meta-Analytic Review of Verbal Fluency Performance Following Focal Cortical Lesions.', 'venue': 'Neuropsychology', 'venue_type': 'journal', 'journal': 'Neuropsychology', 'volume': '18', 'issue': '2', 'pages': '284-295', 'doi': '10.1037/0894-4105.18.2.284', 'openalex_id': None, 'pmid': None, 'citation_string': 'Henry, J. D., & Crawford, J. R. (2004). A meta-analytic review of verbal fluency performance following focal cortical lesions. *Neuropsychology*, 18(2), 284-295.', 'url': 'https://doi.org/10.1037/0894-4105.18.2.284', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Shao, Z., Janse, E., Visser, K., & Meyer, A. S. (2014). What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults. *Frontiers in Psychology*, 5, 772.
-- Aita, S. L., Beach, J. D., Taylor, S. E., et al. (2019). Executive, language, or both? An examination of the construct validity of verbal fluency measures. *Applied Neuropsychology: Adult*, 26(5), 441-451.
-- Tallberg, I. M., Ivachova, E., Jones Tinghag, K., & Ostberg, P. (2008). Swedish norms for word fluency tests: FAS, animals and verbs. *Scandinavian Journal of Psychology*, 49(5), 479-485.
-- Whiteside, D. M., Kealey, T., Semla, M., et al. (2016). Verbal fluency: Language or executive function measure? *Applied Neuropsychology: Adult*, 23(1), 29-34.
+- {'authors': 'Shao, Z., Janse, E., Visser, K., & Meyer, A. S.', 'year': 2014, 'title': 'What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults', 'venue': 'Frontiers in Psychology', 'venue_type': 'journal', 'journal': 'Frontiers in Psychology', 'volume': '5', 'issue': None, 'pages': None, 'doi': '10.3389/fpsyg.2014.00772', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shao, Z., Janse, E., Visser, K., & Meyer, A. S. (2014). What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults. *Frontiers in Psychology*, 5, 772.', 'url': 'https://doi.org/10.3389/fpsyg.2014.00772', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Harrell, M., Taylor, S., Beach, J., Aita, S., McCaskey, V., Calamia, M., & Hill, B.', 'year': 2019, 'title': 'A-29 The Mediating Effects of Personality on Sleep Quality and Executive Dysfunction', 'venue': 'Archives of Clinical Neuropsychology', 'venue_type': 'journal', 'journal': 'Archives of Clinical Neuropsychology', 'volume': '34', 'issue': '6', 'pages': '888-888', 'doi': '10.1093/arclin/acz034.29', 'openalex_id': None, 'pmid': None, 'citation_string': 'Aita, S. L., Beach, J. D., Taylor, S. E., et al. (2019). Executive, language, or both? An examination of the construct validity of verbal fluency measures. *Applied Neuropsychology: Adult*, 26(5), 441-451.', 'url': 'https://doi.org/10.1093/arclin/acz034.29', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'TALLBERG, I. M., IVACHOVA, E., JONES TINGHAG, K., & ÖSTBERG, P.', 'year': 2008, 'title': 'Swedish norms for word fluency tests: FAS, animals and verbs', 'venue': 'Scandinavian Journal of Psychology', 'venue_type': 'journal', 'journal': 'Scandinavian Journal of Psychology', 'volume': '49', 'issue': '5', 'pages': '479-485', 'doi': '10.1111/j.1467-9450.2008.00653.x', 'openalex_id': None, 'pmid': None, 'citation_string': 'Tallberg, I. M., Ivachova, E., Jones Tinghag, K., & Ostberg, P. (2008). Swedish norms for word fluency tests: FAS, animals and verbs. *Scandinavian Journal of Psychology*, 49(5), 479-485.', 'url': 'https://doi.org/10.1111/j.1467-9450.2008.00653.x', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+

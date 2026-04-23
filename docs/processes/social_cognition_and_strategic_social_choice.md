@@ -3,16 +3,16 @@
 **Scope:** Theory of mind (canonical: `hed_perspective_taking`; `hed_mentalizing` was merged during the reframe), self-other distinction, joint attention, imitation, in-group/out-group processing, stereotyping, social decision-making, social perception, cooperation, competition, reciprocity.
 
 **Out of scope:** Empathy as a trait; social anxiety; "social cognition" as umbrella.
+
 :::{note}
 **Open issues:** Trust as a process (vs. trust as a trait) was discussed during the reframe but no dedicated row was added; if a Trust Game process row becomes warranted, it fits here.
 :::
 
 This category contains 11 processes.
 
-______________________________________________________________________
+---
 
 (hed-competition)=
-
 ## Competition
 
 **Process ID:** `hed_competition`
@@ -25,18 +25,13 @@ The following tasks engage this process:
 
 - [Prisoner's Dilemma Task](../tasks/hedtsk_prisoners_dilemma.md)
 
-### Fundamental references
-
-- Trivers (1971) *Quarterly Review of Biology* 46:35–57
-
 ### Recent references
 
 - Declerck, Boone & Emonds (2013) *Brain and Cognition* 81:95–117
 
-______________________________________________________________________
+---
 
 (hed-cooperation)=
-
 ## Cooperation
 
 **Process ID:** `hed_cooperation`
@@ -50,18 +45,13 @@ The following tasks engage this process:
 - [Prisoner's Dilemma Task](../tasks/hedtsk_prisoners_dilemma.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 
-### Fundamental references
-
-- Axelrod (1984) *The Evolution of Cooperation*
-
 ### Recent references
 
 - Rand & Nowak (2013) *Trends in Cognitive Sciences* 17:413–425
 
-______________________________________________________________________
+---
 
 (hed-imitation)=
-
 ## Imitation
 
 **Process ID:** `hed_imitation`
@@ -82,10 +72,9 @@ The following tasks engage this process:
 
 - Heyes (2011) *Psychological Bulletin* 137:463–483
 
-______________________________________________________________________
+---
 
 (hed-in-group-out-group-processing)=
-
 ## In-group/out-group processing
 
 **Process ID:** `hed_in_group_out_group_processing`
@@ -99,18 +88,13 @@ The following tasks engage this process:
 - [Implicit Association Task](../tasks/hedtsk_implicit_association.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental references
-
-- Tajfel, Billig, Bundy & Flament (1971) *European Journal of Social Psychology* 1:149–178
-
 ### Recent references
 
 - Molenberghs (2013) *Neuroscience & Biobehavioral Reviews* 37:1530–1536
 
-______________________________________________________________________
+---
 
 (hed-joint-attention)=
-
 ## Joint attention
 
 **Process ID:** `hed_joint_attention`
@@ -122,16 +106,14 @@ Coordinated focus by two or more agents on the same object or event, involving s
 ### Fundamental references
 
 - Bruner (1975) *Journal of Child Language* 2:1–19
-- Baron-Cohen (1995) *Mindblindness*
 
 ### Recent references
 
 - Mundy (2018) *European Journal of Neuroscience* 47:497–514
 
-______________________________________________________________________
+---
 
 (hed-perspective-taking)=
-
 ## Perspective taking
 
 **Process ID:** `hed_perspective_taking`
@@ -150,18 +132,13 @@ The following tasks engage this process:
 - [Reading the Mind in the Eyes Task](../tasks/hedtsk_reading_the_mind_in_the_eyes.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 
-### Fundamental references
-
-- Piaget & Inhelder (1956) *The Child's Conception of Space*
-
 ### Recent references
 
 - Tamir & Mitchell (2013) *Cerebral Cortex* 23:2375–2382
 
-______________________________________________________________________
+---
 
 (hed-reciprocity)=
-
 ## Reciprocity
 
 **Process ID:** `hed_reciprocity`
@@ -177,18 +154,13 @@ The following tasks engage this process:
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 - [Ultimatum Game Task](../tasks/hedtsk_ultimatum_game.md)
 
-### Fundamental references
-
-- Gouldner (1960) *American Sociological Review* 25:161–178
-
 ### Recent references
 
 - Fehr & Camerer (2007) *Trends in Cognitive Sciences* 11:419–427
 
-______________________________________________________________________
+---
 
 (hed-self-other-distinction)=
-
 ## Self-other distinction
 
 **Process ID:** `hed_self_other_distinction`
@@ -209,10 +181,9 @@ The following tasks engage this process:
 
 - Decety & Sommerville (2003) *Trends in Cognitive Sciences* 7:527–533
 
-______________________________________________________________________
+---
 
 (hed-social-decision-making)=
-
 ## Social decision making
 
 **Process ID:** `hed_social_decision_making`
@@ -236,10 +207,9 @@ The following tasks engage this process:
 
 - Ruff & Fehr (2014) *Nature Reviews Neuroscience* 15:549–562
 
-______________________________________________________________________
+---
 
 (hed-social-perception)=
-
 ## Social perception
 
 **Process ID:** `hed_social_perception`
@@ -265,10 +235,9 @@ The following tasks engage this process:
 
 - Pitcher & Ungerleider (2021) *Trends in Cognitive Sciences* 25:100–110
 
-______________________________________________________________________
+---
 
 (hed-stereotyping)=
-
 ## Stereotyping
 
 **Process ID:** `hed_stereotyping`
@@ -282,10 +251,7 @@ The following tasks engage this process:
 - [Implicit Association Task](../tasks/hedtsk_implicit_association.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental references
-
-- Allport (1954) *The Nature of Prejudice*
-
 ### Recent references
 
 - Amodio (2014) *Nature Reviews Neuroscience* 15:670–682
+

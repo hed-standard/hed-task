@@ -1,5 +1,4 @@
 (hedtsk_imitation_inhibition)=
-
 # Imitation-Inhibition Task
 
 **HED Task ID:** `hedtsk_imitation_inhibition`
@@ -15,10 +14,9 @@ The Imitation-Inhibition Task (Brass, Bekkering, Wohlschlager, & Prinz, 2000) me
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - Participants perform an instructed action (e.g., finger lift) in response to a symbolic cue while simultaneously observing a task-irrelevant video or animation of another agent performing a congruent, incongruent, or neutral action.
 * - **Manipulation**
@@ -30,28 +28,36 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Classic Finger-Lift Paradigm (Brass et al.)
   - Lift index or middle finger in response to a number cue while observing congruent or incongruent finger lifts. The foundational paradigm. Includes spatial compatibility controls.
+  - Canonical: respond to number cue, observe incongruent finger lift
 * - Kinematic Paradigm (Kilner Task)
   - Participants move their arm (e.g., horizontally) while watching a model move horizontally or vertically. Automatic imitation measured by increased trajectory variance when the model's movement is incompatible. Continuous rather than discrete measure.
+  - Perform arm movement while observing congruent/incongruent arm; different motor effector
 * - Hand Open/Close Variant
   - Open or close the hand in response to a cue while observing congruent or incongruent hand movements. Larger effector; may engage different motor representations than finger movements.
+  - Open/close hand in response to/despite observed hand action
 * - Animacy Manipulation
   - Compare automatic imitation of human hand, robotic hand, and non-biological (e.g., geometric) stimuli. Tests whether the mirror system is preferentially tuned to biological agents.
+  - Animate vs. inanimate observed movement; tests social specificity of imitation
 * - Goal-Directed Imitation Variant
   - Observe a model grasping an object; measure whether automatic imitation is driven by the movement kinematics or the action goal. Dissociates kinematic and goal-level motor representations.
+  - Imitate goal vs. means; tests level of imitative representation
 * - Vocal Stimulus-Response Compatibility
   - Hear a speech sound (e.g., 'pa') while producing a different sound (e.g., 'ba'). Vocal analogue of the manual imitation-inhibition task. Tests automatic imitation in the speech domain.
+  - Vocal response to observed action; different response modality
 * - Controlled Imitation Task (Reverse)
   - Participants are cued to act but must mimic the observed action on a subset of trials. Reverses the standard task demands: measures the ability to prioritize imitation over instructed action.
+  - Instructed to imitate or not; tests explicit voluntary control
 * - Counter-Imitation Training
   - Heyes et al. sensorimotor learning paradigm: train incompatible associations (see index lift, execute middle lift) to test whether automatic imitation is learned or innate. Automatic imitation is abolished or reversed after training, supporting associative sequence learning accounts.
+  - Training to suppress imitation; tests plasticity of imitative tendencies
 ```
 
 ## Cognitive processes
@@ -64,13 +70,13 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Brass, M., Bekkering, H., Wohlschlager, A., & Prinz, W. (2000). Compatibility between observed and executed finger movements: Comparing symbolic, spatial, and imitative cues. Brain and Cognition, 44(2), 124-143.
-- Heyes, C. (2011). Automatic imitation. Psychological Bulletin, 137(3), 463-483.
-- Brass, M., Ruby, P., & Spengler, S. (2009). Inhibition of imitative behaviour and social cognition. Philosophical Transactions of the Royal Society B, 364(1528), 2359-2367.
+- {'authors': 'Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W.', 'year': 2000, 'title': 'Compatibility between Observed and Executed Finger Movements: Comparing Symbolic, Spatial, and Imitative Cues', 'venue': 'Brain and Cognition', 'venue_type': 'journal', 'journal': 'Brain and Cognition', 'volume': '44', 'issue': '2', 'pages': '124-143', 'doi': '10.1006/brcg.2000.1225', 'openalex_id': None, 'pmid': None, 'citation_string': 'Brass, M., Bekkering, H., Wohlschlager, A., & Prinz, W. (2000). Compatibility between observed and executed finger movements: Comparing symbolic, spatial, and imitative cues. Brain and Cognition, 44(2), 124-143.', 'url': 'https://doi.org/10.1006/brcg.2000.1225', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Heyes, C.', 'year': 2011, 'title': 'Automatic imitation.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '137', 'issue': '3', 'pages': '463-483', 'doi': '10.1037/a0022288', 'openalex_id': None, 'pmid': None, 'citation_string': 'Heyes, C. (2011). Automatic imitation. Psychological Bulletin, 137(3), 463-483.', 'url': 'https://doi.org/10.1037/a0022288', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Cracco, E., Bardi, L., Desmet, C., Genschow, O., Rigoni, D., De Coster, L., Radkova, I., Deschrijver, E., & Brass, M. (2018). Automatic imitation: A meta-analysis. Psychological Bulletin, 144(5), 453-500.
-- Genschow, O., van Den Bossche, S., Cracco, E., & Brass, M. (2017). Mimicry and automatic imitation are not correlated. PLoS ONE, 12(9), e0183784.
-- Deschrijver, E., Wiersema, J. R., & Brass, M. (2017). Action-based touch observation in adults with high functioning autism. Social Cognitive and Affective Neuroscience, 12(2), 273-282.
-- Kilner, J. M., Paulignan, Y., & Blakemore, S. J. (2003). An interference effect of observed biological movement on action. Current Biology, 13(6), 522-525.
+- {'authors': 'Cracco, E., Bardi, L., Desmet, C., Genschow, O., Rigoni, D., De Coster, L., Radkova, I., Deschrijver, E., & Brass, M.', 'year': 2018, 'title': 'Automatic imitation: A meta-analysis.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '144', 'issue': '5', 'pages': '453-500', 'doi': '10.1037/bul0000143', 'openalex_id': None, 'pmid': None, 'citation_string': 'Cracco, E., Bardi, L., Desmet, C., Genschow, O., Rigoni, D., De Coster, L., Radkova, I., Deschrijver, E., & Brass, M. (2018). Automatic imitation: A meta-analysis. Psychological Bulletin, 144(5), 453-500.', 'url': 'https://doi.org/10.1037/bul0000143', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Genschow, O., van Den Bossche, S., Cracco, E., Bardi, L., Rigoni, D., & Brass, M.', 'year': 2017, 'title': 'Mimicry and automatic imitation are not correlated', 'venue': 'PLOS ONE', 'venue_type': 'journal', 'journal': 'PLOS ONE', 'volume': '12', 'issue': '9', 'pages': 'e0183784', 'doi': '10.1371/journal.pone.0183784', 'openalex_id': None, 'pmid': None, 'citation_string': 'Genschow, O., van Den Bossche, S., Cracco, E., & Brass, M. (2017). Mimicry and automatic imitation are not correlated. PLoS ONE, 12(9), e0183784.', 'url': 'https://doi.org/10.1371/journal.pone.0183784', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'De Coster, L., Wiersema, J. R., Deschrijver, E., & Brass, M.', 'year': 2017, 'title': 'The effect of being imitated on empathy for pain in adults with high-functioning autism: Disturbed self–other distinction leads to altered empathic responding', 'venue': 'Autism', 'venue_type': 'journal', 'journal': 'Autism', 'volume': '22', 'issue': '6', 'pages': '712-727', 'doi': '10.1177/1362361317701268', 'openalex_id': None, 'pmid': None, 'citation_string': 'Deschrijver, E., Wiersema, J. R., & Brass, M. (2017). Action-based touch observation in adults with high functioning autism. Social Cognitive and Affective Neuroscience, 12(2), 273-282.', 'url': 'https://doi.org/10.1177/1362361317701268', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Kilner, J., Paulignan, Y., & Blakemore, S.', 'year': 2003, 'title': 'An Interference Effect of Observed Biological Movement on Action', 'venue': 'Current Biology', 'venue_type': 'journal', 'journal': 'Current Biology', 'volume': '13', 'issue': '6', 'pages': '522-525', 'doi': '10.1016/s0960-9822(03)00165-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kilner, J. M., Paulignan, Y., & Blakemore, S. J. (2003). An interference effect of observed biological movement on action. Current Biology, 13(6), 522-525.', 'url': 'https://doi.org/10.1016/s0960-9822(03)00165-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+

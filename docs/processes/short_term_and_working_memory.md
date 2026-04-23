@@ -3,20 +3,22 @@
 **Scope:** Active maintenance, manipulation, working-memory updating, rehearsal, chunking; visual working memory; verbal working memory; spatial working memory; umbrella `hed_working_memory`.
 
 **Out of scope:** Working memory **load** (task parameter, not process); working memory **capacity** (individual difference); long-term memory; bare "maintenance" (merged into `hed_active_maintenance`).
+
 :::{note}
 **Open issues:** Working-memory SPLIT (umbrella item 3 from the earlier decisions log) still pending — whether `hed_working_memory` should be retained as an umbrella alongside the component rows, or whether pages should link only to the components.
 :::
-:::\{admonition} Category history :class: dropdown
+
+:::{admonition} Category history
+:class: dropdown
 
 The duplicate `hed_updating` / `hed_updating_wm` pair (pre-reframe residue from when Updating was split across the executive-function and working-memory categories) was consolidated on 2026-04-17 into a single `hed_working_memory_updating` row. The renaming also improves specificity — plain "Updating" was memory-context-underspecified. See `.status/working_memory_updating_rename_2026-04-17.md`. `hed_maintenance` merged into `hed_active_maintenance` 2026-04-19 — "active maintenance" is the preferred term; Goldman-Rakic (1995) reference absorbed; "Maintenance" added as alias.
 :::
 
 This category contains 9 processes.
 
-______________________________________________________________________
+---
 
 (hed-active-maintenance)=
-
 ## Active maintenance
 
 **Process ID:** `hed_active_maintenance`
@@ -46,10 +48,9 @@ The following tasks engage this process:
 
 - D'Esposito & Postle (2015) *Annual Review of Psychology* 66:115–142
 
-______________________________________________________________________
+---
 
 (hed-chunking)=
-
 ## Chunking
 
 **Process ID:** `hed_chunking`
@@ -70,10 +71,9 @@ The following tasks engage this process:
 
 - Thalmann, Souza & Oberauer (2019) *JEP: Learning, Memory, and Cognition* 45:37–55
 
-______________________________________________________________________
+---
 
 (hed-manipulation)=
-
 ## Manipulation
 
 **Process ID:** `hed_manipulation`
@@ -95,10 +95,9 @@ The following tasks engage this process:
 
 - Nee, Brown, Askren, Berman, Demiralp, Krawitz & Jonides (2013) *Cerebral Cortex* 23:264–282
 
-______________________________________________________________________
+---
 
 (hed-rehearsal)=
-
 ## Rehearsal
 
 **Process ID:** `hed_rehearsal`
@@ -120,10 +119,9 @@ The following tasks engage this process:
 
 - Camos, Lagner & Barrouillet (2009) *Journal of Memory and Language* 61:457–469
 
-______________________________________________________________________
+---
 
 (hed-spatial-working-memory)=
-
 ## Spatial working memory
 
 **Process ID:** `hed_spatial_working_memory`
@@ -146,10 +144,9 @@ The following tasks engage this process:
 
 - Zimmermann & Eschen (2021) *Current Opinion in Psychology* 38:84–89
 
-______________________________________________________________________
+---
 
 (hed-verbal-working-memory)=
-
 ## Verbal working memory
 
 **Process ID:** `hed_verbal_working_memory`
@@ -173,10 +170,9 @@ The following tasks engage this process:
 
 - Acheson, Hamidi, Binder & Postle (2011) *Journal of Cognitive Neuroscience* 23:1358–1367
 
-______________________________________________________________________
+---
 
 (hed-visual-working-memory)=
-
 ## Visual working memory
 
 **Process ID:** `hed_visual_working_memory`
@@ -199,10 +195,9 @@ The following tasks engage this process:
 
 - Ma, Husain & Bays (2014) *Nature Neuroscience* 17:347–356
 
-______________________________________________________________________
+---
 
 (hed-working-memory)=
-
 ## Working memory
 
 **Process ID:** `hed_working_memory`
@@ -230,10 +225,9 @@ The following tasks engage this process:
 
 - Oberauer, Lewandowsky, Awh, Brown, Conway et al. (2018) *Psychological Bulletin* 144:885–958
 
-______________________________________________________________________
+---
 
 (hed-working-memory-updating)=
-
 ## Working memory updating
 
 **Process ID:** `hed_working_memory_updating`
@@ -252,7 +246,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Morris & Jones (1990) *British Journal of Psychology* 81:111–121
 - Miyake, Friedman, Emerson, Witzki, Howerter & Wager (2000) *Cognitive Psychology* 41:49–100
 
 ### Recent references
@@ -260,3 +253,4 @@ The following tasks engage this process:
 - Ecker, Lewandowsky, Oberauer & Chee (2010) *Journal of Experimental Psychology: Learning, Memory, and Cognition* 36:170–189
 - Frank, Loughry & O'Reilly (2001) *Cognitive, Affective, & Behavioral Neuroscience* 1:137–160
 - Wahlheim & Zacks (2025) *Trends in Cognitive Sciences* 29(4):380–392 — situates working-memory updating within the broader event-segmentation account of memory updating at event boundaries
+

@@ -1,5 +1,4 @@
 (hedtsk_auditory_masking)=
-
 # Auditory Masking Task
 
 **HED Task ID:** `hedtsk_auditory_masking`
@@ -15,10 +14,9 @@ A target sound (tone, speech token, or noise burst) is presented alongside, befo
 ## Inclusion test
 
 ```{list-table}
----
-widths: 15 85
-header-rows: 0
----
+:widths: 15 85
+:header-rows: 0
+
 * - **Procedure**
   - A target sound is presented alongside, before, or after a masker; participants detect, discriminate, or identify the target.
 * - **Manipulation**
@@ -30,32 +28,42 @@ header-rows: 0
 ## Variations
 
 ```{list-table}
----
-widths: 30 70
-header-rows: 1
----
+:widths: 25 40 35
+:header-rows: 1
+
 * - Variation
   - Description
+  - Justification
 * - Simultaneous masking
   - Target and masker overlap in time; measures frequency selectivity via notched-noise or band-reject paradigms.
+  - Masker and target overlap in time; fundamental temporal configuration of masking
 * - Forward masking
   - Masker precedes target by a brief interval; probes temporal resolution and adaptation recovery.
+  - Masker precedes target; different temporal relationship produces distinct masking mechanism
 * - Backward masking
   - Masker follows target; demonstrates retroactive interference in early auditory processing.
+  - Masker follows target; different temporal order from forward masking
 * - Energetic masking (peripheral)
   - Target and masker excite overlapping auditory filters; threshold shift predicted by excitation-pattern models.
+  - Peripheral auditory overlap; mechanistically distinct from informational masking
 * - Informational masking (central)
   - Masker is spectrally remote but perceptually confusable; threshold shift exceeds energetic predictions.
+  - Central/cognitive masking mechanism; different stimulus and processing demands
 * - Comodulation masking release (CMR)
   - Coherent amplitude modulation across frequency bands releases target from masking; indexes across-channel grouping.
+  - Comodulated flanking bands release target from masking; unique stimulus configuration
 * - Speech-in-noise
   - Speech target masked by competing talkers, babble, or steady-state noise; measures speech reception threshold.
+  - Speech target in noise background; distinct task with different linguistic processing demands
 * - Tone-in-noise detection
   - Pure-tone target in broadband or narrowband noise; foundational psychoacoustic paradigm for measuring auditory filter shape.
+  - Pure tone detection in wideband noise; different target type from speech or complex stimuli
 * - Modulation masking
   - Amplitude-modulated masker reduces detection of amplitude modulation on a carrier; probes modulation filter bank.
+  - Masking of temporal amplitude modulation; different perceptual dimension
 * - Spatial release from masking
   - Separating masker and target in space reduces masking; measures binaural and spatial processing.
+  - Spatial separation of target and masker; binaural processing distinguishes it from monaural variants
 ```
 
 ## Cognitive processes
@@ -69,13 +77,9 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Fletcher, H. (1940). Auditory patterns. Reviews of Modern Physics, 12(1), 47–65.
-- Moore, B. C. J. (2012). An Introduction to the Psychology of Hearing (6th ed.). Brill.
-- Brungart, D. S. (2001). Informational and energetic masking effects in the perception of two simultaneous talkers. Journal of the Acoustical Society of America, 109(3), 1101–1109.
+- {'authors': 'Holt, N. J., Simmonds-Moore, C., Luke, D., & French, C. C.', 'year': 2012, 'title': 'Introduction and overview', 'venue': 'Anomalistic Psychology', 'venue_type': 'book_chapter', 'journal': None, 'volume': None, 'issue': None, 'pages': '1-14', 'doi': '10.1007/978-0-230-36409-7_1', 'openalex_id': None, 'pmid': None, 'citation_string': 'Moore, B. C. J. (2012). An Introduction to the Psychology of Hearing (6th ed.). Brill.', 'url': 'https://doi.org/10.1007/978-0-230-36409-7_1', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Kidd, G., Mason, C. R., Richards, V. M., Gallun, F. J., & Durlach, N. I. (2008). Informational masking. In W. A. Yost, A. N. Popper, & R. R. Fay (Eds.), Auditory Perception of Sound Sources (pp. 143–189). Springer.
-- Oxenham, A. J. (2013). Mechanisms and mechanics of auditory masking. Journal of Physiology, 591(10), 2375–2381.
-- Shinn-Cunningham, B. G. (2008). Object-based auditory and visual attention. Trends in Cognitive Sciences, 12(5), 182–186.
-- Dai, H., & Micheyl, C. (2011). Psychometric functions for pure-tone frequency discrimination. Journal of the Acoustical Society of America, 130(1), 263–272.
+- {'authors': 'Shinn-Cunningham, B. G.', 'year': 2008, 'title': 'Object-based auditory and visual attention', 'venue': 'Trends in Cognitive Sciences', 'venue_type': 'journal', 'journal': 'Trends in Cognitive Sciences', 'volume': '12', 'issue': '5', 'pages': '182-186', 'doi': '10.1016/j.tics.2008.02.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shinn-Cunningham, B. G. (2008). Object-based auditory and visual attention. Trends in Cognitive Sciences, 12(5), 182–186.', 'url': 'https://doi.org/10.1016/j.tics.2008.02.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+
