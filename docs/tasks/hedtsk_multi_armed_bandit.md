@@ -1,4 +1,5 @@
 (hedtsk_multi_armed_bandit)=
+
 # Multi-Armed Bandit Task
 
 **HED Task ID:** `hedtsk_multi_armed_bandit`
@@ -14,9 +15,10 @@ Participants choose among multiple options (the "arms" of a slot machine), each 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants choose repeatedly among multiple options (arms) that deliver stochastic rewards drawn from different distributions. They must balance exploring unknown options with exploiting known good ones.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants choose among multiple options (the "arms" of a slot machine), each 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -83,4 +86,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Schulz, E., & Gershman, S. J.', 'year': 2019, 'title': 'The algorithmic architecture of exploration in the human brain', 'venue': 'Current Opinion in Neurobiology', 'venue_type': 'journal', 'journal': 'Current Opinion in Neurobiology', 'volume': '55', 'issue': None, 'pages': '7-14', 'doi': '10.1016/j.conb.2018.11.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Schulz, E., & Gershman, S. J. (2019). The algorithmic architecture of exploration in the human brain. *Current Opinion in Neurobiology*, 55, 7–14.', 'url': 'https://doi.org/10.1016/j.conb.2018.11.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Cogliati Dezza, I., Yu, A. J., Cleeremans, A., & Alexander, W.', 'year': 2017, 'title': 'Learning the value of information and reward over time when solving exploration-exploitation problems', 'venue': 'Scientific Reports', 'venue_type': 'journal', 'journal': 'Scientific Reports', 'volume': '7', 'issue': '1', 'pages': None, 'doi': '10.1038/s41598-017-17237-w', 'openalex_id': None, 'pmid': None, 'citation_string': 'Cogliati Dezza, I., Yu, A. J., Cleeremans, A., & Alexander, W. (2017). Learning the value of information and reward over time when solving exploration–exploitation problems. *Scientific Reports*, 7, 16919.', 'url': 'https://doi.org/10.1038/s41598-017-17237-w', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Chakroun, K., Mathar, D., Wiehler, A., Ganzer, F., & Peters, J.', 'year': 2020, 'title': 'Dopaminergic modulation of the exploration/exploitation trade-off in human decision-making', 'venue': 'eLife', 'venue_type': 'journal', 'journal': 'eLife', 'volume': '9', 'issue': None, 'pages': None, 'doi': '10.7554/elife.51260', 'openalex_id': None, 'pmid': None, 'citation_string': 'Chakroun, K., Mathar, D., Wiehler, A., Ganzer, F., & Peters, J. (2020). Dopaminergic modulation of the exploration/exploitation trade-off in human decision-making. *eLife*, 9, e51260.', 'url': 'https://doi.org/10.7554/elife.51260', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

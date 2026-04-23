@@ -1,4 +1,5 @@
 (hedtsk_dictator_game)=
+
 # Dictator Game Task
 
 **HED Task ID:** `hedtsk_dictator_game`
@@ -14,9 +15,10 @@ One player (dictator) unilaterally decides how much of an endowment to give to a
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants in the dictator role are endowed with a sum and decide how much (if any) to give to an anonymous recipient; the recipient has no choice but to accept.
 * - **Manipulation**
@@ -28,9 +30,10 @@ One player (dictator) unilaterally decides how much of an endowment to give to a
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -86,4 +89,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da6b0d3d5c90)
-

@@ -1,4 +1,5 @@
 (hedtsk_causal_learning)=
+
 # Causal Learning Task
 
 **HED Task ID:** `hedtsk_causal_learning`
@@ -14,9 +15,10 @@ Causal learning tasks measure how people acquire and represent causal relationsh
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants observe a series of trials presenting the presence/absence of candidate causes and occurrence/non-occurrence of outcomes, then judge the causal strength of cause-outcome relationships.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Causal learning tasks measure how people acquire and represent causal relationsh
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -81,4 +84,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Griffiths, T. L., & Tenenbaum, J. B.', 'year': 2005, 'title': 'Structure and strength in causal induction☆', 'venue': 'Cognitive Psychology', 'venue_type': 'journal', 'journal': 'Cognitive Psychology', 'volume': '51', 'issue': '4', 'pages': '334-384', 'doi': '10.1016/j.cogpsych.2005.05.004', 'openalex_id': None, 'pmid': None, 'citation_string': 'Griffiths, T. L., & Tenenbaum, J. B. (2005). Structure and strength in causal induction. *Cognitive Psychology*, 51(4), 334-384.', 'url': 'https://doi.org/10.1016/j.cogpsych.2005.05.004', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Perales, J. C., Catena, A., Shanks, D. R., & González, J. A.', 'year': 2005, 'title': 'Dissociation Between Judgments and Outcome-Expectancy Measures in Covariation Learning: A Signal Detection Theory Approach.', 'venue': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'volume': '31', 'issue': '5', 'pages': '1105-1120', 'doi': '10.1037/0278-7393.31.5.1105', 'openalex_id': None, 'pmid': None, 'citation_string': 'Perales, J. C., Catena, A., Shanks, D. R., & Gonzalez, J. A. (2005). Dissociation between judgments and outcome-expectancy measures in covariation learning: A signal detection theory approach. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 31(5), 1105-1120.', 'url': 'https://doi.org/10.1037/0278-7393.31.5.1105', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Lu, H., Yuille, A. L., Liljeholm, M., Cheng, P. W., & Holyoak, K. J.', 'year': 2008, 'title': 'Bayesian generic priors for causal learning.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '115', 'issue': '4', 'pages': '955-984', 'doi': '10.1037/a0013256', 'openalex_id': None, 'pmid': None, 'citation_string': 'Lu, H., Yuille, A. L., Liljeholm, M., Cheng, P. W., & Holyoak, K. J. (2008). Bayesian generic priors for causal learning. *Psychological Review*, 115(4), 955-984.', 'url': 'https://doi.org/10.1037/a0013256', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

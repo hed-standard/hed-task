@@ -1,4 +1,5 @@
 (hedtsk_source_memory)=
+
 # Source Memory Task
 
 **HED Task ID:** `hedtsk_source_memory`
@@ -14,9 +15,10 @@ Source memory tests assess the ability to remember the contextual details of an 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Items are studied under two or more contextually distinct source conditions; at test, participants recognize studied items and judge the source (context) in which each item was encoded.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Source memory tests assess the ability to remember the contextual details of an 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,4 +85,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Kurkela, K. A., & Dennis, N. A.', 'year': 2016, 'title': 'Event-related fMRI studies of false memory: An Activation Likelihood Estimation meta-analysis', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '81', 'issue': None, 'pages': '149-167', 'doi': '10.1016/j.neuropsychologia.2015.12.006', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kurkela, K. A., & Dennis, N. A. (2016). Event-related fMRI studies of false memory: An Activation Likelihood Estimation meta-analysis. *Neuropsychologia*, 81, 149-167.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2015.12.006', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Bookbinder, S. H., & Brainerd, C. J.', 'year': 2016, 'title': 'Emotion and false memory: The context–content paradox.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '142', 'issue': '12', 'pages': '1315-1351', 'doi': '10.1037/bul0000077', 'openalex_id': None, 'pmid': None, 'citation_string': 'Bookbinder, S. H., & Brainerd, C. J. (2016). Emotion and false memory: A critical review and meta-analysis. *Psychological Bulletin*, 142(12), 1-24.', 'url': 'https://doi.org/10.1037/bul0000077', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Ciaramelli, E., Faggi, G., Scarpazza, C., Mattioli, F., Spaniol, J., Ghetti, S., & Moscovitch, M.', 'year': 2017, 'title': 'Subjective recollection independent from multifeatural context retrieval following damage to the posterior parietal cortex', 'venue': 'Cortex', 'venue_type': 'journal', 'journal': 'Cortex', 'volume': '91', 'issue': None, 'pages': '114-125', 'doi': '10.1016/j.cortex.2017.03.015', 'openalex_id': None, 'pmid': None, 'citation_string': 'Ciaramelli, E., Faggi, G., Scarpazza, C., Mattioli, F., & Spaniol, J. (2017). Subjective recollection independent from multifeatural context retrieval following damage to the posterior parietal cortex. *Cortex*, 91, 168-179.', 'url': 'https://doi.org/10.1016/j.cortex.2017.03.015', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

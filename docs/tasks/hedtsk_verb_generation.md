@@ -1,4 +1,5 @@
 (hedtsk_verb_generation)=
+
 # Verb Generation Task
 
 **HED Task ID:** `hedtsk_verb_generation`
@@ -14,9 +15,10 @@ The Verb Generation Task is a semantic retrieval and language production paradig
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A concrete noun is presented (e.g., HAMMER); participants generate an associated verb (e.g., 'hit' or 'pound') as quickly as possible.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Verb Generation Task is a semantic retrieval and language production paradig
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -67,7 +70,7 @@ This task engages the following cognitive processes:
 ## Key references
 
 - {'authors': 'Petersen, S. E., Fox, P. T., Posner, M. I., Mintun, M., & Raichle, M. E.', 'year': 1988, 'title': 'Positron emission tomographic studies of the cortical anatomy of single-word processing', 'venue': 'Nature', 'venue_type': 'journal', 'journal': 'Nature', 'volume': '331', 'issue': '6157', 'pages': '585-589', 'doi': '10.1038/331585a0', 'openalex_id': None, 'pmid': None, 'citation_string': 'Petersen, S. E., Fox, P. T., Posner, M. I., Mintun, M., & Raichle, M. E. (1988). Positron emission tomographic studies of the cortical anatomy of single-word processing. *Nature*, 331(6157), 585–589.', 'url': 'https://doi.org/10.1038/331585a0', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Thompson-Schill, S. L., D’Esposito, M., Aguirre, G. K., & Farah, M. J.', 'year': 1997, 'title': 'Role of left inferior prefrontal cortex in retrieval of semantic knowledge: A\u2009reevaluation', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '94', 'issue': '26', 'pages': '14792-14797', 'doi': '10.1073/pnas.94.26.14792', 'openalex_id': None, 'pmid': None, 'citation_string': "Thompson-Schill, S. L., D'Esposito, M., Aguirre, G. K., & Farah, M. J. (1997). Role of left inferior prefrontal cortex in retrieval of semantic knowledge: A reevaluation. *Proceedings of the National Academy of Sciences*, 94(26), 14792–14797.", 'url': 'https://doi.org/10.1073/pnas.94.26.14792', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Thompson-Schill, S. L., D’Esposito, M., Aguirre, G. K., & Farah, M. J.', 'year': 1997, 'title': 'Role of left inferior prefrontal cortex in retrieval of semantic knowledge: A\\u2009reevaluation', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '94', 'issue': '26', 'pages': '14792-14797', 'doi': '10.1073/pnas.94.26.14792', 'openalex_id': None, 'pmid': None, 'citation_string': "Thompson-Schill, S. L., D'Esposito, M., Aguirre, G. K., & Farah, M. J. (1997). Role of left inferior prefrontal cortex in retrieval of semantic knowledge: A reevaluation. *Proceedings of the National Academy of Sciences*, 94(26), 14792–14797.", 'url': 'https://doi.org/10.1073/pnas.94.26.14792', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Raichle, M. E., Fiez, J. A., Videen, T. O., MacLeod, A. K., Pardo, J. V., Fox, P. T., & Petersen, S. E.', 'year': 1994, 'title': 'Practice-related Changes in Human Brain Functional Anatomy during Nonmotor Learning', 'venue': 'Cerebral Cortex', 'venue_type': 'journal', 'journal': 'Cerebral Cortex', 'volume': '4', 'issue': '1', 'pages': '8-26', 'doi': '10.1093/cercor/4.1.8', 'openalex_id': None, 'pmid': None, 'citation_string': 'Raichle, M. E., Fiez, J. A., Videen, T. O., MacLeod, A. M. K., Pardo, J. V., Fox, P. T., & Petersen, S. E. (1994). Practice-related changes in human brain functional anatomy during nonmotor learning. *Cerebral Cortex*, 4(1), 8–26.', 'url': 'https://doi.org/10.1093/cercor/4.1.8', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
@@ -80,4 +83,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f24183fe80c6)
-

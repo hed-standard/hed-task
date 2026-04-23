@@ -1,4 +1,5 @@
 (hedtsk_instrumental_conditioning)=
+
 # Instrumental Conditioning Task
 
 **HED Task ID:** `hedtsk_instrumental_conditioning`
@@ -14,9 +15,10 @@ In instrumental conditioning, voluntary actions are associated with rewarding or
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants perform actions (button presses, lever responses) that produce contingent outcomes (rewards or punishments) according to defined reinforcement schedules.
 * - **Manipulation**
@@ -28,9 +30,10 @@ In instrumental conditioning, voluntary actions are associated with rewarding or
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -94,4 +97,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2414059baa8)
-

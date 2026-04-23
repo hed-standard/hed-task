@@ -1,4 +1,5 @@
 (hedtsk_trail_making)=
+
 # Trail Making Task
 
 **HED Task ID:** `hedtsk_trail_making`
@@ -14,9 +15,10 @@ The Trail Making Test is a widely used neuropsychological assessment consisting 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants connect numbered circles in order (Part A: 1-2-3...) or alternate between numbers and letters (Part B: 1-A-2-B-3-C...), drawing lines as quickly as possible.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Trail Making Test is a widely used neuropsychological assessment consisting 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -78,4 +81,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949ec0)
-

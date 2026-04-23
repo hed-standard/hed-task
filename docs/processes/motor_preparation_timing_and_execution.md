@@ -4,15 +4,14 @@
 
 **Out of scope:** Motor traits (handedness, dexterity); motor umbrella concepts.
 
-:::{note}
-**Open issues:** Antisaccade is currently filed here; it could be argued into Inhibitory Control (since it centrally depends on prepotent-saccade inhibition). Retained here because it is an oculomotor output measure. Proprioception is the only pure-perception row here; if it ever moves out it would go to Face and Object Perception's non-visual pocket.
-:::
+:::\{note} **Open issues:** Antisaccade is currently filed here; it could be argued into Inhibitory Control (since it centrally depends on prepotent-saccade inhibition). Retained here because it is an oculomotor output measure. Proprioception is the only pure-perception row here; if it ever moves out it would go to Face and Object Perception's non-visual pocket. :::
 
 This category contains 16 processes.
 
----
+______________________________________________________________________
 
 (hed-action-initiation)=
+
 ## Action initiation
 
 **Process ID:** `hed_action_initiation`
@@ -29,9 +28,10 @@ Triggering of an action after planning is complete.
 
 - Haggard (2008) *Nature Reviews Neuroscience* 9:934–946
 
----
+______________________________________________________________________
 
 (hed-antisaccade)=
+
 ## Antisaccade
 
 **Process ID:** `hed_antisaccade`
@@ -52,9 +52,10 @@ The following tasks engage this process:
 
 - Munoz & Everling (2004) *Nature Reviews Neuroscience* 5:218–228
 
----
+______________________________________________________________________
 
 (hed-fine-motor-control)=
+
 ## Fine motor control
 
 **Process ID:** `hed_fine_motor_control`
@@ -69,9 +70,10 @@ The following tasks engage this process:
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 
----
+______________________________________________________________________
 
 (hed-grasping)=
+
 ## Grasping
 
 **Process ID:** `hed_grasping`
@@ -84,9 +86,10 @@ Shaping and closure of the hand around an object.
 
 - Castiello (2005) *Nature Reviews Neuroscience* 6:726–736
 
----
+______________________________________________________________________
 
 (hed-motor-memory)=
+
 ## Motor memory
 
 **Process ID:** `hed_motor_memory`
@@ -99,9 +102,10 @@ Long-term retention of motor skills and procedures.
 
 - Karni, Meyer, Rey-Hipolito, Jezzard, Adams, Turner & Ungerleider (1998) *PNAS* 95:861–868
 
----
+______________________________________________________________________
 
 (hed-motor-planning)=
+
 ## Motor planning
 
 **Process ID:** `hed_motor_planning`
@@ -121,9 +125,10 @@ The following tasks engage this process:
 
 - Keele (1968) *Psychological Bulletin* 70:387–403
 
----
+______________________________________________________________________
 
 (hed-motor-preparation)=
+
 ## Motor preparation
 
 **Process ID:** `hed_motor_preparation`
@@ -148,9 +153,10 @@ The following tasks engage this process:
 
 - Shibasaki & Hallett (2006) *Clinical Neurophysiology* 117:2341–2356
 
----
+______________________________________________________________________
 
 (hed-motor-sequence-learning)=
+
 ## Motor sequence learning
 
 **Process ID:** `hed_motor_sequence_learning`
@@ -172,9 +178,10 @@ The following tasks engage this process:
 
 - Doyon, Bellec, Amsel, Penhune, Monchi, Carrier, Lehéricy & Benali (2009) *Behavioural Brain Research* 199:61–75
 
----
+______________________________________________________________________
 
 (hed-motor-timing)=
+
 ## Motor timing
 
 **Process ID:** `hed_motor_timing`
@@ -195,9 +202,10 @@ The following tasks engage this process:
 
 - Merchant, Harrington & Meck (2013) *Annual Review of Neuroscience* 36:313–336
 
----
+______________________________________________________________________
 
 (hed-proprioception)=
+
 ## Proprioception
 
 **Process ID:** `hed_proprioception`
@@ -210,9 +218,10 @@ Perception of body position and movement from muscle, tendon, and joint receptor
 
 - Sherrington (1906) *The Integrative Action of the Nervous System*
 
----
+______________________________________________________________________
 
 (hed-reaching)=
+
 ## Reaching
 
 **Process ID:** `hed_reaching`
@@ -229,9 +238,10 @@ Goal-directed arm movement toward a spatial target.
 
 - Shadmehr, Smith & Krakauer (2010) *Annual Review of Neuroscience* 33:89–108
 
----
+______________________________________________________________________
 
 (hed-response-execution)=
+
 ## Response execution
 
 **Process ID:** `hed_response_execution`
@@ -259,9 +269,10 @@ The following tasks engage this process:
 
 - Haith & Krakauer (2013) in *Progress in Motor Control*
 
----
+______________________________________________________________________
 
 (hed-response-selection)=
+
 ## Response selection
 
 **Process ID:** `hed_response_selection`
@@ -288,9 +299,10 @@ The following tasks engage this process:
 
 - Cisek & Kalaska (2010) *Annual Review of Neuroscience* 33:269–298
 
----
+______________________________________________________________________
 
 (hed-saccade)=
+
 ## Saccade
 
 **Process ID:** `hed_saccade`
@@ -311,9 +323,10 @@ The following tasks engage this process:
 
 - Sparks (2002) *Nature Reviews Neuroscience* 3:952–964
 
----
+______________________________________________________________________
 
 (hed-visuomotor-adaptation)=
+
 ## Visuomotor adaptation
 
 **Process ID:** `hed_visuomotor_adaptation`
@@ -326,9 +339,10 @@ The following tasks engage this process:
 
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
 
----
+______________________________________________________________________
 
 (hed-vocal-motor-control)=
+
 ## Vocal-motor control
 
 **Process ID:** `hed_vocal_motor_control`
@@ -344,4 +358,3 @@ Control of the articulators for speech production and vocalization.
 ### Recent references
 
 - Hickok (2012) *Nature Reviews Neuroscience* 13:135–145
-

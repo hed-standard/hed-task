@@ -1,4 +1,5 @@
 (hedtsk_n_back)=
+
 # N-Back Task
 
 **HED Task ID:** `hedtsk_n_back`
@@ -14,9 +15,10 @@ The N-Back task is a continuous performance paradigm in which participants view 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A continuous stream of stimuli is presented; participants indicate when the current item matches the one presented N items back.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The N-Back task is a continuous performance paradigm in which participants view 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -78,7 +81,7 @@ This task engages the following cognitive processes:
 ## Recent references
 
 - {'authors': 'Redick, T. S., & Lindsey, D. R. B.', 'year': 2013, 'title': 'Complex span and n-back measures of working memory: A meta-analysis', 'venue': 'Psychonomic Bulletin & Review', 'venue_type': 'journal', 'journal': 'Psychonomic Bulletin & Review', 'volume': '20', 'issue': '6', 'pages': '1102-1113', 'doi': '10.3758/s13423-013-0453-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Redick, T. S., & Lindsey, D. R. B. (2013). Complex span and n-back measures of working memory: A meta-analysis. *Psychonomic Bulletin & Review*, 20(6), 1102–1113.', 'url': 'https://doi.org/10.3758/s13423-013-0453-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B.', 'year': 2010, 'title': 'The concurrent validity of the\n            <i>N</i>\n            -back task as a working memory measure', 'venue': 'Memory', 'venue_type': 'journal', 'journal': 'Memory', 'volume': '18', 'issue': '4', 'pages': '394-412', 'doi': '10.1080/09658211003702171', 'openalex_id': None, 'pmid': None, 'citation_string': 'Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B. (2010). The concurrent validity of the N-back task as a working memory measure. *Memory*, 18(4), 394–412.', 'url': 'https://doi.org/10.1080/09658211003702171', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B.', 'year': 2010, 'title': 'The concurrent validity of the\\n <i>N</i>\\n -back task as a working memory measure', 'venue': 'Memory', 'venue_type': 'journal', 'journal': 'Memory', 'volume': '18', 'issue': '4', 'pages': '394-412', 'doi': '10.1080/09658211003702171', 'openalex_id': None, 'pmid': None, 'citation_string': 'Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B. (2010). The concurrent validity of the N-back task as a working memory measure. *Memory*, 18(4), 394–412.', 'url': 'https://doi.org/10.1080/09658211003702171', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': "Chatham, C. H., Herd, S. A., Brant, A. M., Hazy, T. E., Miyake, A., O'Reilly, R., & Friedman, N. P.", 'year': 2011, 'title': 'From an Executive Network to Executive Control: A Computational Model of the<i>n</i>-back Task', 'venue': 'Journal of Cognitive Neuroscience', 'venue_type': 'journal', 'journal': 'Journal of Cognitive Neuroscience', 'volume': '23', 'issue': '11', 'pages': '3598-3619', 'doi': '10.1162/jocn_a_00047', 'openalex_id': None, 'pmid': None, 'citation_string': "Chatham, C. H., Herd, S. A., Brant, A. M., Hazy, T. E., Miyake, A., O'Reilly, R., & Friedman, N. P. (2011). From an executive network to executive control: A computational model of the n-back task. *Journal of Cognitive Neuroscience*, 23(11), 3598–3619.", 'url': 'https://doi.org/10.1162/jocn_a_00047', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Soveri, A., Antfolk, J., Karlsson, L., Salo, B., & Laine, M.', 'year': 2017, 'title': 'Working memory training revisited: A multi-level meta-analysis of n-back training studies', 'venue': 'Psychonomic Bulletin & Review', 'venue_type': 'journal', 'journal': 'Psychonomic Bulletin & Review', 'volume': '24', 'issue': '4', 'pages': '1077-1096', 'doi': '10.3758/s13423-016-1217-0', 'openalex_id': None, 'pmid': None, 'citation_string': 'Soveri, A., Antfolk, J., Karlsson, L., Salo, B., & Laine, M. (2017). Working memory training revisited: A multi-level meta-analysis of n-back training studies. *Psychonomic Bulletin & Review*, 24(4), 1077–1096.', 'url': 'https://doi.org/10.3758/s13423-016-1217-0', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Exploring the n-back task: insights, applications, and future directions.', 'year': 2025, 'title': 'Frontiers in Human Neuroscience', 'venue': ', 19, 1721330. doi:10.3389/fnhum.2025.1721330', 'venue_type': 'book', 'journal': None, 'volume': None, 'issue': None, 'pages': None, 'doi': '10.3389/fnhum.2025.1721330', 'openalex_id': None, 'pmid': None, 'citation_string': 'Exploring the n-back task: insights, applications, and future directions. (2025). *Frontiers in Human Neuroscience*, 19, 1721330. doi:10.3389/fnhum.2025.1721330', 'url': None, 'source': 'needs_review', 'confidence': 'low', 'verified_on': '2026-04-20'}
@@ -86,4 +89,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_56674133b666c)
-

@@ -1,4 +1,5 @@
 (hedtsk_intentional_binding)=
+
 # Intentional Binding Task
 
 **HED Task ID:** `hedtsk_intentional_binding`
@@ -14,9 +15,10 @@ The Intentional Binding Task (Haggard, Clark, & Kalogeras, 2002) measures the im
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants make voluntary actions (key presses) that produce delayed sensory effects (tones) while monitoring a Libet clock; they report the perceived time of either the action or the effect in separate blocks.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Intentional Binding Task (Haggard, Clark, & Kalogeras, 2002) measures the im
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -76,4 +79,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P.', 'year': 2010, 'title': 'Altered awareness of action in schizophrenia: a specific deficit in predicting action consequences', 'venue': 'Brain', 'venue_type': 'journal', 'journal': 'Brain', 'volume': '133', 'issue': '10', 'pages': '3104-3112', 'doi': '10.1093/brain/awq152', 'openalex_id': None, 'pmid': None, 'citation_string': 'Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. Brain, 133(10), 3104-3112.', 'url': 'https://doi.org/10.1093/brain/awq152', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Borhani, K., Beck, B., & Haggard, P.', 'year': 2017, 'title': 'Choosing, Doing, and Controlling: Implicit Sense of Agency Over Somatosensory Events', 'venue': 'Psychological Science', 'venue_type': 'journal', 'journal': 'Psychological Science', 'volume': '28', 'issue': '7', 'pages': '882-893', 'doi': '10.1177/0956797617697693', 'openalex_id': None, 'pmid': None, 'citation_string': 'Borhani, K., Beck, B., & Haggard, P. (2017). Choosing, doing, and controlling: Implicit sense of agency over somatosensory events. Psychological Science, 28(7), 882-893.', 'url': 'https://doi.org/10.1177/0956797617697693', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Suzuki, K., Lush, P., Seth, A. K., & Roseboom, W.', 'year': 2019, 'title': 'Intentional Binding Without Intentional Action', 'venue': 'Psychological Science', 'venue_type': 'journal', 'journal': 'Psychological Science', 'volume': '30', 'issue': '6', 'pages': '842-853', 'doi': '10.1177/0956797619842191', 'openalex_id': None, 'pmid': None, 'citation_string': 'Suzuki, K., Lush, P., Seth, A. K., & Roseboom, W. (2019). Intentional binding without intentional action. Psychological Science, 30(6), 842-853.', 'url': 'https://doi.org/10.1177/0956797619842191', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

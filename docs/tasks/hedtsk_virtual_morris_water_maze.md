@@ -1,4 +1,5 @@
 (hedtsk_virtual_morris_water_maze)=
+
 # Virtual Morris Water Maze Task
 
 **HED Task ID:** `hedtsk_virtual_morris_water_maze`
@@ -14,9 +15,10 @@ In the Virtual Morris Water Maze, participants navigate a virtual environment to
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants navigate a virtual circular arena to find a hidden platform using distal visual cues. Across trials, they learn the platform's fixed spatial location.
 * - **Manipulation**
@@ -28,9 +30,10 @@ In the Virtual Morris Water Maze, participants navigate a virtual environment to
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -89,4 +92,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da890a9bd7a3)
-

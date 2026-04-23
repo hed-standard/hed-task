@@ -1,9 +1,8 @@
 # Process Selection and Definition Criteria
 
-**Date:** 2026-04-19 (updated)
-**Purpose:** Reference document specifying how the 172-process HED cognitive process catalog was scoped, how processes were selected, and the rules for definitions, naming, categorization, references, and task linkage. Companion to `tasks_criteria.md` (task-side criteria). Per-category editorial notes (scope, out-of-scope, issues, history) are now in `process_details.json`; The prior reference and categories documents have been archived.
+**Date:** 2026-04-19 (updated) **Purpose:** Reference document specifying how the 172-process HED cognitive process catalog was scoped, how processes were selected, and the rules for definitions, naming, categorization, references, and task linkage. Companion to `tasks_criteria.md` (task-side criteria). Per-category editorial notes (scope, out-of-scope, issues, history) are now in `process_details.json`; The prior reference and categories documents have been archived.
 
----
+______________________________________________________________________
 
 ## 1. Process Selection Criteria
 
@@ -40,7 +39,7 @@ When the literature uses the same noun for both a phenomenon and the process pro
 
 Processes at the process level are modality-abstract when the same mechanism operates across modalities. Masking is a single process row (modality-abstract); the Auditory Masking Task and Visual Masking Task carry the modality distinction on the task side. The same pattern applies to priming and similar constructs: one process row, multiple task rows.
 
----
+______________________________________________________________________
 
 ## 2. Naming Conventions
 
@@ -79,22 +78,22 @@ Schema:
 
 Current resolved aliases:
 
-| Canonical | Alias(es) | Rationale |
-|-----------|-----------|-----------|
-| Instrumental conditioning | Operant conditioning | Skinnerian terminology; emphasizes reinforcement schedules. Merged 2026-04-18. |
-| Perspective taking | Mentalizing, Theory of mind | Mentalizing is the process verb (neuroimaging); Theory of mind is the capacity noun (developmental). |
-| Word recognition | Visual word recognition | "Visual" is the default modality; auditory word recognition has its own name. |
-| Risk processing | Risky decision making | Risk processing names the cognitive operation; risky decision making names the task class. |
-| Emotion recognition | Emotion perception | Recognition is operationalized (identification of a named category); perception is broader. |
-| Working memory updating | Updating, Updating (WM) | Merged 2026-04-17; plain "Updating" was memory-context-underspecified. |
-| Active maintenance | Maintenance | Generic term for holding information over a delay; merged into active maintenance 2026-04-19. |
-| Set shifting | Cognitive flexibility | Cognitive flexibility is a capacity-level construct that fails the single-answer inclusion test; set shifting is its primary experimental operationalization. Dropped as separate process 2026-04-19. |
-| Deductive reasoning | Logical reasoning | Logical reasoning is an umbrella over deductive + inductive; dropped as separate process 2026-04-19. |
-| Gustatory perception | Gustation | Renamed 2026-04-15 for consistency with other modality-perception rows. |
-| Somatosensory perception | Somatosensation | Renamed 2026-04-15 for consistency with other modality-perception rows. |
-| Sustained attention | Vigilance | Synonymous when operationalized as a continuous-performance measure. |
+| Canonical                 | Alias(es)                   | Rationale                                                                                                                                                                                             |
+| ------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Instrumental conditioning | Operant conditioning        | Skinnerian terminology; emphasizes reinforcement schedules. Merged 2026-04-18.                                                                                                                        |
+| Perspective taking        | Mentalizing, Theory of mind | Mentalizing is the process verb (neuroimaging); Theory of mind is the capacity noun (developmental).                                                                                                  |
+| Word recognition          | Visual word recognition     | "Visual" is the default modality; auditory word recognition has its own name.                                                                                                                         |
+| Risk processing           | Risky decision making       | Risk processing names the cognitive operation; risky decision making names the task class.                                                                                                            |
+| Emotion recognition       | Emotion perception          | Recognition is operationalized (identification of a named category); perception is broader.                                                                                                           |
+| Working memory updating   | Updating, Updating (WM)     | Merged 2026-04-17; plain "Updating" was memory-context-underspecified.                                                                                                                                |
+| Active maintenance        | Maintenance                 | Generic term for holding information over a delay; merged into active maintenance 2026-04-19.                                                                                                         |
+| Set shifting              | Cognitive flexibility       | Cognitive flexibility is a capacity-level construct that fails the single-answer inclusion test; set shifting is its primary experimental operationalization. Dropped as separate process 2026-04-19. |
+| Deductive reasoning       | Logical reasoning           | Logical reasoning is an umbrella over deductive + inductive; dropped as separate process 2026-04-19.                                                                                                  |
+| Gustatory perception      | Gustation                   | Renamed 2026-04-15 for consistency with other modality-perception rows.                                                                                                                               |
+| Somatosensory perception  | Somatosensation             | Renamed 2026-04-15 for consistency with other modality-perception rows.                                                                                                                               |
+| Sustained attention       | Vigilance                   | Synonymous when operationalized as a continuous-performance measure.                                                                                                                                  |
 
----
+______________________________________________________________________
 
 ## 3. Definition Standards
 
@@ -119,7 +118,7 @@ Definitions that begin with "See 5.6" or cross-reference a section number from a
 
 If a process definition says "See instrumental conditioning" or similar, this indicates a synonym relationship. The definition should still state what the process is, even if briefly, rather than being a bare pointer.
 
----
+______________________________________________________________________
 
 ## 4. Category Rules
 
@@ -127,15 +126,15 @@ If a process definition says "See instrumental conditioning" or similar, this in
 
 The catalog organizes 172 processes into 19 categories. The categories, their process counts, and their scope are defined in the `categories` array of `process_details.json`. The 19 categories are:
 
-1. Associative Learning and Reinforcement (13)
-2. Auditory and Pre-Attentive Deviance Processing (4)
-3. Awareness, Agency, and Metacognition (13)
-4. Cognitive Flexibility and Higher-Order Executive Function (3)
-5. Emotion Perception and Regulation (5)
-6. Face and Object Perception (12)
-7. Implicit and Statistical Learning (2)
-8. Inhibitory Control and Conflict Monitoring (9)
-9. Language Comprehension and Production (16)
+01. Associative Learning and Reinforcement (13)
+02. Auditory and Pre-Attentive Deviance Processing (4)
+03. Awareness, Agency, and Metacognition (13)
+04. Cognitive Flexibility and Higher-Order Executive Function (3)
+05. Emotion Perception and Regulation (5)
+06. Face and Object Perception (12)
+07. Implicit and Statistical Learning (2)
+08. Inhibitory Control and Conflict Monitoring (9)
+09. Language Comprehension and Production (16)
 10. Long-Term Memory (21)
 11. Motor Preparation, Timing, and Execution (16)
 12. Perceptual Decision-Making (Evidence Accumulation) (1)
@@ -174,7 +173,7 @@ Every process is assigned to exactly one category. When a process could fit two 
 
 Each category entry in `process_details.json` carries a `process_count` field. This must match the actual number of processes assigned to that `category_id` in the `processes` array. Drift between the count and the actual membership is a data quality issue.
 
----
+______________________________________________________________________
 
 ## 5. Reference Standards
 
@@ -200,7 +199,7 @@ As of 2026-04-18, all 407 reference entries in `process_details.json` have **emp
 
 A future enhancement would mark each reference with its source (`atlas`, `supplement`, `gap_analysis`, `claude_generated`, `user_provided`). Currently all references are indistinguishable in origin. Provenance is not a quality signal — `atlas` means "inherited from the Cognitive Atlas starting corpus" (uncurated), not "validated."
 
----
+______________________________________________________________________
 
 ## 6. Task Linkage Rules
 
@@ -226,7 +225,7 @@ A link from task T to process P should satisfy at least one of:
 
 As of 2026-04-19, 19 of 172 processes have `task_count = 0` (no linked tasks). Some of these are legitimate: the process is real but none of the 103 tasks in the current catalog are designed to study it (e.g., gustatory perception — no taste-perception task in the catalog). Others may signal problems: the process is too abstract, or a link was missed.
 
----
+______________________________________________________________________
 
 ## 7. Known Issues and Policy Questions
 
@@ -286,7 +285,7 @@ As of 2026-04-19, 19 of 172 processes have `task_count = 0` (no linked tasks). S
 
 ### 7.8 Stale cross-reference definitions — RESOLVED 2026-04-19
 
-**Issue:** Several process definitions contained stale cross-references from a prior numbered-section document. Three had bare "See 5.6" / "See 5.4" markers (resolved 2026-04-18). Additionally: `hed_speech_production` had "see also 5.9 (motor component)"; `hed_emotion_recognition` had "overlap with 5.10 Emotion perception"; `hed_insight` had a spurious `\!` escape in "Aha\!".
+**Issue:** Several process definitions contained stale cross-references from a prior numbered-section document. Three had bare "See 5.6" / "See 5.4" markers (resolved 2026-04-18). Additionally: `hed_speech_production` had "see also 5.9 (motor component)"; `hed_emotion_recognition` had "overlap with 5.10 Emotion perception"; `hed_insight` had a spurious `\!` escape in "Aha!".
 
 **Resolution:** All definitions rewritten or corrected with substantive content. Final pass completed 2026-04-19. Verified against the prior reference document before archival.
 
@@ -318,16 +317,9 @@ As of 2026-04-19, 19 of 172 processes have `task_count = 0` (no linked tasks). S
 
 **Issue:** All reference objects in `process_details.json` had empty `title` fields.
 
-**Current state:** Resolved. Citation enrichment pass (Phase B) run 2026-04-20. 390/404
-references now have structured metadata (title, authors, venue, venue_type, doi, etc.).
-14 unresolved — all classic books or obscure manuals with no CrossRef/OpenAlex record;
-documented in `.status/citation_gaps_2026-04-20.md` §2.2. 4 false-positive matches
-identified in spot-check and documented in §2.3 of the same file; these need manual
-correction. Original `journal`, `year`, and `citation_string` fields preserved on all refs.
+**Current state:** Resolved. Citation enrichment pass (Phase B) run 2026-04-20. 390/404 references now have structured metadata (title, authors, venue, venue_type, doi, etc.). 14 unresolved — all classic books or obscure manuals with no CrossRef/OpenAlex record; documented in `.status/citation_gaps_2026-04-20.md` §2.2. 4 false-positive matches identified in spot-check and documented in §2.3 of the same file; these need manual correction. Original `journal`, `year`, and `citation_string` fields preserved on all refs.
 
-**Recommended action:** Correct the 4 false positives (§2.3 of gaps doc). Attempt manual
-resolution of O'Keefe & Nadel (1978) and Braver et al. (2007) (§2.2 of gaps doc).
-Proceed to Phase C (task reference enrichment) once process pass is approved.
+**Recommended action:** Correct the 4 false positives (§2.3 of gaps doc). Attempt manual resolution of O'Keefe & Nadel (1978) and Braver et al. (2007) (§2.2 of gaps doc). Proceed to Phase C (task reference enrichment) once process pass is approved.
 
 ### 7.13 Mentalizing → Perspective taking synonym status — RESOLVED
 
@@ -339,7 +331,7 @@ Proceed to Phase C (task reference enrichment) once process pass is approved.
 
 **Issue:** Both the prior reference document and `process_details.json` contained process definitions, with the risk of drift.
 
-**Resolution:** Reconciliation pass completed 2026-04-19. All 172 process definitions and all citation strings were compared programmatically. Five differences found (category field staleness in 3 categories; 2 process definition issues); all resolved in favor of `process_details.json` except `hed_speech_production` (JSON had a stale cross-reference; updated from markdown). the prior reference document and the prior categories document archived to . `process_details.json, and . They are summarized here for reference.
+**Resolution:** Reconciliation pass completed 2026-04-19. All 172 process definitions and all citation strings were compared programmatically. Five differences found (category field staleness in 3 categories; 2 process definition issues); all resolved in favor of `process_details.json` except `hed_speech_production` (JSON had a stale cross-reference; updated from markdown). the prior reference document and the prior categories document archived to . \`process_details.json, and . They are summarized here for reference.
 
 ### Umbrella drops
 

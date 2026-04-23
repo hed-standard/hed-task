@@ -1,4 +1,5 @@
 (hedtsk_ultimatum_game)=
+
 # Ultimatum Game Task
 
 **HED Task ID:** `hedtsk_ultimatum_game`
@@ -14,9 +15,10 @@ Two players divide a sum of money. The proposer suggests a division; the respond
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A proposer splits a sum of money; the responder can accept (both keep their shares) or reject (neither gets anything).
 * - **Manipulation**
@@ -28,9 +30,10 @@ Two players divide a sum of money. The proposer suggests a division; the respond
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -87,4 +90,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_553e8882e3cb6)
-

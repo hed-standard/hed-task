@@ -1,4 +1,5 @@
 (hedtsk_paired_associates_learning)=
+
 # Paired Associates Learning Task
 
 **HED Task ID:** `hedtsk_paired_associates_learning`
@@ -14,9 +15,10 @@ Participants learn arbitrary associations between stimuli and their locations (o
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants study pairs of items (word-word, face-name, object-location) and are later cued with one member to recall the other.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants learn arbitrary associations between stimuli and their locations (o
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,9 +85,8 @@ This task engages the following cognitive processes:
 - {'authors': 'Atkinson, A. L., Berry, E. D., Waterman, A. H., Baddeley, A. D., Hitch, G. J., & Allen, R. J.', 'year': 2018, 'title': 'Are there multiple ways to direct attention in working memory?', 'venue': 'Annals of the New York Academy of Sciences', 'venue_type': 'journal', 'journal': 'Annals of the New York Academy of Sciences', 'volume': '1424', 'issue': '1', 'pages': '115-126', 'doi': '10.1111/nyas.13634', 'openalex_id': None, 'pmid': None, 'citation_string': 'Atkinson, A. L., Berry, E. D. J., Waterman, A. H., Baddeley, A. D., Hitch, G. J., & Allen, R. J. (2018). Are there multiple ways to direct attention in working memory? *Annals of the New York Academy of Sciences*, 1424(1), 115–126.', 'url': 'https://doi.org/10.1111/nyas.13634', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Lim, S., Fiez, J. A., & Holt, L. L.', 'year': 2014, 'title': 'How may the basal ganglia contribute to auditory categorization and speech perception?', 'venue': 'Frontiers in Neuroscience', 'venue_type': 'journal', 'journal': 'Frontiers in Neuroscience', 'volume': '8', 'issue': None, 'pages': None, 'doi': '10.3389/fnins.2014.00230', 'openalex_id': None, 'pmid': None, 'citation_string': 'Lim, S. J., Fiez, J. A., & Holt, L. L. (2014). How may the basal ganglia contribute to auditory categorization and speech perception? *Frontiers in Neuroscience*, 8, 230.', 'url': 'https://doi.org/10.3389/fnins.2014.00230', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Parra, M. A., Abrahams, S., Logie, R. H., Méndez, L. G., Lopera, F., & Della Sala, S.', 'year': 2010, 'title': 'Visual short-term memory binding deficits in familial Alzheimer’s disease', 'venue': 'Brain', 'venue_type': 'journal', 'journal': 'Brain', 'volume': '133', 'issue': '9', 'pages': '2702-2713', 'doi': '10.1093/brain/awq148', 'openalex_id': None, 'pmid': None, 'citation_string': "Parra, M. A., Abrahams, S., Logie, R. H., Méndez, L. G., Lopera, F., & Della Sala, S. (2010). Visual short-term memory binding deficits in familial Alzheimer's disease. *Brain*, 133(9), 2702–2713.", 'url': 'https://doi.org/10.1093/brain/awq148', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Naveh-Benjamin, M.', 'year': 2000, 'title': 'Adult age differences in memory performance: Tests of an associative deficit hypothesis.', 'venue': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'volume': '26', 'issue': '5', 'pages': '1170-1187', 'doi': '10.1037/0278-7393.26.5.1170', 'openalex_id': None, 'pmid': None, 'citation_string': 'Naveh-Benjamin, M. (2000). Adult age differences in memory performance: Tests of an associative deficit hypothesis. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 26(5), 1170–1187. [Updated: Old, S. R., & Naveh-Benjamin, M. (2008). Differential effects of age on item and associative measures of memory. *Psychology and Aging*, 23(1), 104–118.]', 'url': 'https://doi.org/10.1037/0278-7393.26.5.1170', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Naveh-Benjamin, M.', 'year': 2000, 'title': 'Adult age differences in memory performance: Tests of an associative deficit hypothesis.', 'venue': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Learning, Memory, and Cognition', 'volume': '26', 'issue': '5', 'pages': '1170-1187', 'doi': '10.1037/0278-7393.26.5.1170', 'openalex_id': None, 'pmid': None, 'citation_string': 'Naveh-Benjamin, M. (2000). Adult age differences in memory performance: Tests of an associative deficit hypothesis. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 26(5), 1170–1187. \[Updated: Old, S. R., & Naveh-Benjamin, M. (2008). Differential effects of age on item and associative measures of memory. *Psychology and Aging*, 23(1), 104–118.\]', 'url': 'https://doi.org/10.1037/0278-7393.26.5.1170', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da88a2a63d97)
-

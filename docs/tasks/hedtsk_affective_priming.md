@@ -1,4 +1,5 @@
 (hedtsk_affective_priming)=
+
 # Affective Priming Task
 
 **HED Task ID:** `hedtsk_affective_priming`
@@ -14,9 +15,10 @@ Participants categorize target stimuli (e.g., judge words as "good" or "bad") th
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A briefly presented prime (word, face, or image with positive or negative valence) is followed by a target that participants evaluate as good/bad or classify.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants categorize target stimuli (e.g., judge words as "good" or "bad") th
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -78,4 +81,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Herring, D. R., White, K. R., Jabeen, L. N., Hinojos, M., Terrazas, G., Reyes, S. M., Taylor, J. H., & Crites, S. L.', 'year': 2013, 'title': 'On the automatic activation of attitudes: A quarter century of evaluative priming research.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '139', 'issue': '5', 'pages': '1062-1089', 'doi': '10.1037/a0031309', 'openalex_id': None, 'pmid': None, 'citation_string': 'Herring, D. R., White, K. R., Jabeen, L. N., Hinojos, M., Terrazas, G., Reyes, S. M., Taylor, J. H., & Crites, S. L. (2013). On the automatic activation of attitudes: A quarter century of evaluative priming research. *Psychological Bulletin*, 139(5), 1062–1089.', 'url': 'https://doi.org/10.1037/a0031309', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'De Houwer, J., Teige-Mocigemba, S., Spruyt, A., & Moors, A.', 'year': 2009, 'title': 'Implicit measures: A normative analysis and review.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '135', 'issue': '3', 'pages': '347-368', 'doi': '10.1037/a0014211', 'openalex_id': None, 'pmid': None, 'citation_string': 'De Houwer, J., Teige-Mocigemba, S., Spruyt, A., & Moors, A. (2009). Implicit measures: A normative analysis and review. *Psychological Bulletin*, 135(3), 347–368.', 'url': 'https://doi.org/10.1037/a0014211', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Fazio, R. H.', 'year': 2001, 'title': 'On the automatic activation of associated evaluations: An overview', 'venue': 'Cognition & Emotion', 'venue_type': 'journal', 'journal': 'Cognition & Emotion', 'volume': '15', 'issue': '2', 'pages': '115-141', 'doi': '10.1080/02699930125908', 'openalex_id': None, 'pmid': None, 'citation_string': 'Fazio, R. H. (2001). On the automatic activation of associated evaluations: An overview. *Cognition and Emotion*, 15(2), 115–141.', 'url': 'https://doi.org/10.1080/02699930125908', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

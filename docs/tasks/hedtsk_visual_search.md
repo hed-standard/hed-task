@@ -1,4 +1,5 @@
 (hedtsk_visual_search)=
+
 # Visual Search Task
 
 **HED Task ID:** `hedtsk_visual_search`
@@ -14,9 +15,10 @@ Visual Search Tasks present participants with a display containing multiple item
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - An array of items is displayed; participants search for a target defined by a feature or feature conjunction among distractors and indicate its presence/absence or identity.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Visual Search Tasks present participants with a display containing multiple item
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -88,10 +91,9 @@ This task engages the following cognitive processes:
 
 - {'authors': 'Wolfe, J. M.', 'year': 2021, 'title': 'Guided Search 6.0: An updated model of visual search', 'venue': 'Psychonomic Bulletin & Review', 'venue_type': 'journal', 'journal': 'Psychonomic Bulletin & Review', 'volume': '28', 'issue': '4', 'pages': '1060-1092', 'doi': '10.3758/s13423-020-01859-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wolfe, J. M. (2021). Guided Search 6.0: An updated model of visual search. *Psychonomic Bulletin & Review*, 28, 1060–1092.', 'url': 'https://doi.org/10.3758/s13423-020-01859-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Eckstein, M. P.', 'year': 2011, 'title': 'Visual search: A retrospective', 'venue': 'Journal of Vision', 'venue_type': 'journal', 'journal': 'Journal of Vision', 'volume': '11', 'issue': '5', 'pages': '14-14', 'doi': '10.1167/11.5.14', 'openalex_id': None, 'pmid': None, 'citation_string': 'Eckstein, M. P. (2011). Visual search: A retrospective. *Journal of Vision*, 11(5), 14.', 'url': 'https://doi.org/10.1167/11.5.14', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Luck, S. J., & Ford, M. A.', 'year': 1998, 'title': 'On the role of selective attention in visual\u2009perception', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '95', 'issue': '3', 'pages': '825-830', 'doi': '10.1073/pnas.95.3.825', 'openalex_id': None, 'pmid': None, 'citation_string': 'Luck, S. J., & Ford, M. A. (1998). On the role of selective attention in visual perception. *Proceedings of the National Academy of Sciences*, 95(3), 825–830. [Updated by: Liesefeld, H. R., & Müller, H. J. (2019). Distractor handling via dimension weighting. *Current Opinion in Psychology*, 29, 160–167.]', 'url': 'https://doi.org/10.1073/pnas.95.3.825', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Luck, S. J., & Ford, M. A.', 'year': 1998, 'title': 'On the role of selective attention in visual\\u2009perception', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '95', 'issue': '3', 'pages': '825-830', 'doi': '10.1073/pnas.95.3.825', 'openalex_id': None, 'pmid': None, 'citation_string': 'Luck, S. J., & Ford, M. A. (1998). On the role of selective attention in visual perception. *Proceedings of the National Academy of Sciences*, 95(3), 825–830. \[Updated by: Liesefeld, H. R., & Müller, H. J. (2019). Distractor handling via dimension weighting. *Current Opinion in Psychology*, 29, 160–167.\]', 'url': 'https://doi.org/10.1073/pnas.95.3.825', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Wolfe, J. M., & Horowitz, T. S.', 'year': 2017, 'title': 'Five factors that guide attention in visual search', 'venue': 'Nature Human Behaviour', 'venue_type': 'journal', 'journal': 'Nature Human Behaviour', 'volume': '1', 'issue': '3', 'pages': None, 'doi': '10.1038/s41562-017-0058', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wolfe, J. M., & Horowitz, T. S. (2017). Five factors that guide attention in visual search. *Nature Human Behaviour*, 1, 0058.', 'url': 'https://doi.org/10.1038/s41562-017-0058', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2447fe67fb9)
-

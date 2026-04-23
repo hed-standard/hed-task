@@ -1,4 +1,5 @@
 (hedtsk_phonological_awareness)=
+
 # Phonological Awareness Task
 
 **HED Task ID:** `hedtsk_phonological_awareness`
@@ -14,9 +15,10 @@ Participants view or hear pairs of words and judge whether they rhyme. The task 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants make explicit judgments about the sound structure of spoken words: rhyme detection, phoneme deletion, phoneme segmentation, or blending.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view or hear pairs of words and judge whether they rhyme. The task 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -80,7 +83,7 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- {'authors': 'Shaywitz, S. E., Shaywitz, B. A., Pugh, K. R., Fulbright, R. K., Constable, R. T., Mencl, W. E., Shankweiler, D. P., Liberman, A. M., Skudlarski, P., Fletcher, J. M., Katz, L., Marchione, K. E., Lacadie, C., Gatenby, C., & Gore, J. C.', 'year': 1998, 'title': 'Functional disruption in the organization of the brain for reading in\u2009dyslexia', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '95', 'issue': '5', 'pages': '2636-2641', 'doi': '10.1073/pnas.95.5.2636', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shaywitz, S. E., Shaywitz, B. A., Pugh, K. R., et al. (1998). Functional disruption in the organization of the brain for reading in dyslexia. *Proceedings of the National Academy of Sciences*, 95(5), 2636-2641.', 'url': 'https://doi.org/10.1073/pnas.95.5.2636', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Shaywitz, S. E., Shaywitz, B. A., Pugh, K. R., Fulbright, R. K., Constable, R. T., Mencl, W. E., Shankweiler, D. P., Liberman, A. M., Skudlarski, P., Fletcher, J. M., Katz, L., Marchione, K. E., Lacadie, C., Gatenby, C., & Gore, J. C.', 'year': 1998, 'title': 'Functional disruption in the organization of the brain for reading in\\u2009dyslexia', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '95', 'issue': '5', 'pages': '2636-2641', 'doi': '10.1073/pnas.95.5.2636', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shaywitz, S. E., Shaywitz, B. A., Pugh, K. R., et al. (1998). Functional disruption in the organization of the brain for reading in dyslexia. *Proceedings of the National Academy of Sciences*, 95(5), 2636-2641.', 'url': 'https://doi.org/10.1073/pnas.95.5.2636', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M.', 'year': 2004, 'title': 'Development of Brain Mechanisms for Processing Orthographic and Phonologic Representations', 'venue': 'Journal of Cognitive Neuroscience', 'venue_type': 'journal', 'journal': 'Journal of Cognitive Neuroscience', 'volume': '16', 'issue': '7', 'pages': '1234-1249', 'doi': '10.1162/0898929041920496', 'openalex_id': None, 'pmid': None, 'citation_string': 'Booth, J. R., Burman, D. D., Meyer, J. R., et al. (2004). Development of brain mechanisms for processing orthographic and phonological representations. *Journal of Cognitive Neuroscience*, 16(7), 1234-1249.', 'url': 'https://doi.org/10.1162/0898929041920496', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Pugh, K. R., Mencl, W., Jenner, A. R., Katz, L., Frost, S. J., Lee, J. R., Shaywitz, S. E., & Shaywitz, B. A.', 'year': 2001, 'title': 'Neurobiological studies of reading and reading disability', 'venue': 'Journal of Communication Disorders', 'venue_type': 'journal', 'journal': 'Journal of Communication Disorders', 'volume': '34', 'issue': '6', 'pages': '479-492', 'doi': '10.1016/s0021-9924(01)00060-0', 'openalex_id': None, 'pmid': None, 'citation_string': 'Pugh, K. R., Mencl, W. E., Jenner, A. R., et al. (2001). Neurobiological studies of reading and reading disability. *Journal of Communication Disorders*, 34(6), 479-492.', 'url': 'https://doi.org/10.1016/s0021-9924(01)00060-0', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
@@ -93,4 +96,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f243fe622ded)
-

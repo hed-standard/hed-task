@@ -1,4 +1,5 @@
 (hedtsk_feeling_of_knowing)=
+
 # Feeling-of-Knowing Task
 
 **HED Task ID:** `hedtsk_feeling_of_knowing`
@@ -14,9 +15,10 @@ The Feeling-of-Knowing task measures the accuracy of metacognitive judgments abo
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants study cue-target pairs, attempt cued recall, and for each unrecalled item rate their feeling of knowing (likelihood of future recognition); a subsequent recognition test assesses prediction accuracy.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Feeling-of-Knowing task measures the accuracy of metacognitive judgments abo
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -72,4 +75,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Schwartz, B. L., & Metcalfe, J.', 'year': 2011, 'title': 'Tip-of-the-tongue (TOT) states: retrieval, behavior, and experience', 'venue': 'Memory & Cognition', 'venue_type': 'journal', 'journal': 'Memory & Cognition', 'volume': '39', 'issue': '5', 'pages': '737-749', 'doi': '10.3758/s13421-010-0066-8', 'openalex_id': None, 'pmid': None, 'citation_string': 'Schwartz, B. L., & Metcalfe, J. (2011). Tip-of-the-tongue (TOT) states: Retrieval, behavior, and experience. *Memory & Cognition*, 39(5), 737-749.', 'url': 'https://doi.org/10.3758/s13421-010-0066-8', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Izaute, M., & Bacon, E.', 'year': 2005, 'title': 'P.6.009 Effects of chronic mild stress on the development of drug dependence in rats', 'venue': 'European Neuropsychopharmacology', 'venue_type': 'journal', 'journal': 'European Neuropsychopharmacology', 'volume': '15', 'issue': '6', 'pages': 'S577', 'doi': '10.1016/s0924-977x(05)81212-x', 'openalex_id': None, 'pmid': None, 'citation_string': 'Izaute, M., & Bacon, E. (2005). Specific effects of an amnesic drug: Effect of midazolam on study time allocation and on judgment of learning. *Neuropsychopharmacology*, 30(6), 1132-1139.', 'url': 'https://doi.org/10.1016/s0924-977x(05)81212-x', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Reggev, N., Zuckerman, M., & Maril, A.', 'year': 2011, 'title': 'Are all judgments created equal?', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '49', 'issue': '5', 'pages': '1332-1342', 'doi': '10.1016/j.neuropsychologia.2011.01.013', 'openalex_id': None, 'pmid': None, 'citation_string': 'Reggev, N., Zuckerman, M., & Maril, A. (2011). Are all judgments created equal? An fMRI study of semantic and episodic metamemory predictions. *Neuropsychologia*, 49(5), 1332-1342.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2011.01.013', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

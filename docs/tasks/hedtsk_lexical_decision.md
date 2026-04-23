@@ -1,4 +1,5 @@
 (hedtsk_lexical_decision)=
+
 # Lexical Decision Task
 
 **HED Task ID:** `hedtsk_lexical_decision`
@@ -14,9 +15,10 @@ Participants view letter strings and must rapidly determine whether each string 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Letter strings are presented one at a time; participants classify each as a real word or a nonword as quickly and accurately as possible.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view letter strings and must rapidly determine whether each string 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -78,13 +81,12 @@ This task engages the following cognitive processes:
 
 ## Recent references
 
-- {'authors': 'Keuleers, E., & Brysbaert, M.', 'year': 2010, 'title': 'Wuggy: A multilingual pseudoword generator', 'venue': 'Behavior Research Methods', 'venue_type': 'journal', 'journal': 'Behavior Research Methods', 'volume': '42', 'issue': '3', 'pages': '627-633', 'doi': '10.3758/brm.42.3.627', 'openalex_id': None, 'pmid': None, 'citation_string': 'Keuleers, E., & Brysbaert, M. (2010). Wuggy: A multilingual pseudoword generator. *Behavior Research Methods*, 42(3), 627–633. [Updated: Keuleers, E., Lacey, P., Rastle, K., & Brysbaert, M. (2012). The British Lexicon Project. *Quarterly Journal of Experimental Psychology*, 65(8), 1441–1469.]', 'url': 'https://doi.org/10.3758/brm.42.3.627', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Keuleers, E., & Brysbaert, M.', 'year': 2010, 'title': 'Wuggy: A multilingual pseudoword generator', 'venue': 'Behavior Research Methods', 'venue_type': 'journal', 'journal': 'Behavior Research Methods', 'volume': '42', 'issue': '3', 'pages': '627-633', 'doi': '10.3758/brm.42.3.627', 'openalex_id': None, 'pmid': None, 'citation_string': 'Keuleers, E., & Brysbaert, M. (2010). Wuggy: A multilingual pseudoword generator. *Behavior Research Methods*, 42(3), 627–633. \[Updated: Keuleers, E., Lacey, P., Rastle, K., & Brysbaert, M. (2012). The British Lexicon Project. *Quarterly Journal of Experimental Psychology*, 65(8), 1441–1469.\]', 'url': 'https://doi.org/10.3758/brm.42.3.627', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Taylor, J. S. H., Rastle, K., & Davis, M. H.', 'year': 2013, 'title': 'Can cognitive models explain brain activation during word and pseudoword reading? A meta-analysis of 36 neuroimaging studies.', 'venue': 'Psychological Bulletin', 'venue_type': 'journal', 'journal': 'Psychological Bulletin', 'volume': '139', 'issue': '4', 'pages': '766-791', 'doi': '10.1037/a0030266', 'openalex_id': None, 'pmid': None, 'citation_string': 'Taylor, J. S. H., Rastle, K., & Davis, M. H. (2013). Can cognitive models explain brain activation during word and pseudoword reading? A meta-analysis of 36 neuroimaging studies. *Psychological Bulletin*, 139(4), 766–791.', 'url': 'https://doi.org/10.1037/a0030266', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Balota, D. A., Yap, M. J., Hutchison, K. A., Cortese, M. J., Kessler, B., Loftis, B., Neely, J. H., Nelson, D. L., Simpson, G. B., & Treiman, R.', 'year': 2007, 'title': 'The English Lexicon Project', 'venue': 'Behavior Research Methods', 'venue_type': 'journal', 'journal': 'Behavior Research Methods', 'volume': '39', 'issue': '3', 'pages': '445-459', 'doi': '10.3758/bf03193014', 'openalex_id': None, 'pmid': None, 'citation_string': 'Balota, D. A., Yap, M. J., Hutchison, K. A., et al. (2007). The English Lexicon Project. *Behavior Research Methods*, 39(3), 445–459. [Megastudy approach]', 'url': 'https://doi.org/10.3758/bf03193014', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Ratcliff, R., Gomez, P., & McKoon, G.', 'year': 2004, 'title': 'A Diffusion Model Account of the Lexical Decision Task.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '111', 'issue': '1', 'pages': '159-182', 'doi': '10.1037/0033-295x.111.1.159', 'openalex_id': None, 'pmid': None, 'citation_string': 'Ratcliff, R., Gomez, P., & McKoon, G. (2004). A diffusion model account of the lexical decision task. *Psychological Review*, 111(1), 159–182.', 'url': 'https://doi.org/10.1037/0033-295x.111.1.159', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Ball, L. V., Brusini, P., & Bannard, C.', 'year': 2025, 'title': 'Supplemental Material for Unpacking the Sandwich: Which Mechanisms\n\t\t\t\t\t\tUnderlie the Increase in Sandwich Priming During Word\n\t\t\t\t\t\tRecognition?', 'venue': 'Journal of Experimental Psychology: Learning, Memory, and\n\t\t\t\t\tCognition', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Learning, Memory, and\n\t\t\t\t\tCognition', 'volume': '78', 'issue': None, 'pages': None, 'doi': '10.1037/xlm0001426.supp', 'openalex_id': None, 'pmid': None, 'citation_string': 'Ball, L. V., Brusini, P., & Bannard, C. (2025). Revisiting novel word semantic priming: The role of strategic priming mechanisms. *Quarterly Journal of Experimental Psychology*, 78. doi:10.1177/17470218241306747', 'url': 'https://doi.org/10.1037/xlm0001426.supp', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Ball, L. V., Brusini, P., & Bannard, C.', 'year': 2025, 'title': 'Supplemental Material for Unpacking the Sandwich: Which Mechanisms\\n\\t\\t\\t\\t\\t\\tUnderlie the Increase in Sandwich Priming During Word\\n\\t\\t\\t\\t\\t\\tRecognition?', 'venue': 'Journal of Experimental Psychology: Learning, Memory, and\\n\\t\\t\\t\\t\\tCognition', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Learning, Memory, and\\n\\t\\t\\t\\t\\tCognition', 'volume': '78', 'issue': None, 'pages': None, 'doi': '10.1037/xlm0001426.supp', 'openalex_id': None, 'pmid': None, 'citation_string': 'Ball, L. V., Brusini, P., & Bannard, C. (2025). Revisiting novel word semantic priming: The role of strategic priming mechanisms. *Quarterly Journal of Experimental Psychology*, 78. doi:10.1177/17470218241306747', 'url': 'https://doi.org/10.1037/xlm0001426.supp', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c40d325977f0)
-

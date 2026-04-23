@@ -1,4 +1,5 @@
 (hedtsk_serial_reaction_time)=
+
 # Serial Reaction Time Task
 
 **HED Task ID:** `hedtsk_serial_reaction_time`
@@ -14,9 +15,10 @@ The SRTT measures implicit motor sequence learning. Visual stimuli appear sequen
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Stimuli appear at one of several spatial locations in a repeating (but covert) sequence; participants respond to each location with a spatially mapped keypress. Sequence awareness is typically not disclosed.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The SRTT measures implicit motor sequence learning. Visual stimuli appear sequen
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -77,9 +80,8 @@ This task engages the following cognitive processes:
 
 - {'authors': 'Janacsek, K., & Nemeth, D.', 'year': 2012, 'title': 'Predicting the future: From implicit learning to consolidation', 'venue': 'International Journal of Psychophysiology', 'venue_type': 'journal', 'journal': 'International Journal of Psychophysiology', 'volume': '83', 'issue': '2', 'pages': '213-221', 'doi': '10.1016/j.ijpsycho.2011.11.012', 'openalex_id': None, 'pmid': None, 'citation_string': 'Janacsek, K., & Nemeth, D. (2012). Predicting the future: From implicit learning to consolidation. *International Journal of Psychophysiology*, 83(2), 213–221.', 'url': 'https://doi.org/10.1016/j.ijpsycho.2011.11.012', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Abrahamse, E. L., Jiménez, L., Verwey, W. B., & Clegg, B. A.', 'year': 2010, 'title': 'Representing serial action and perception', 'venue': 'Psychonomic Bulletin & Review', 'venue_type': 'journal', 'journal': 'Psychonomic Bulletin & Review', 'volume': '17', 'issue': '5', 'pages': '603-623', 'doi': '10.3758/pbr.17.5.603', 'openalex_id': None, 'pmid': None, 'citation_string': 'Abrahamse, E. L., Jiménez, L., Verwey, W. B., & Clegg, B. A. (2010). Representing serial action and perception. *Psychonomic Bulletin & Review*, 17(5), 603–623.', 'url': 'https://doi.org/10.3758/pbr.17.5.603', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Siegert, R. J., Taylor, K. D., Weatherall, M., & Abernethy, D. A.', 'year': 2006, 'title': "Is implicit sequence learning impaired in Parkinson's disease? A meta-analysis.", 'venue': 'Neuropsychology', 'venue_type': 'journal', 'journal': 'Neuropsychology', 'volume': '20', 'issue': '4', 'pages': '490-495', 'doi': '10.1037/0894-4105.20.4.490', 'openalex_id': None, 'pmid': None, 'citation_string': "Siegert, R. J., Taylor, K. D., Weatherall, M., & Abernethy, D. A. (2006). Is implicit sequence learning impaired in Parkinson's disease? A meta-analysis. *Neuropsychology*, 20(4), 490–495. [Updated: Clark, G. M., Lum, J. A., & Ullman, M. T. (2014). A meta-analysis and meta-regression of serial reaction time task performance in Parkinson's disease. *Neuropsychology*, 28(6), 945–958.]", 'url': 'https://doi.org/10.1037/0894-4105.20.4.490', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Siegert, R. J., Taylor, K. D., Weatherall, M., & Abernethy, D. A.', 'year': 2006, 'title': "Is implicit sequence learning impaired in Parkinson's disease? A meta-analysis.", 'venue': 'Neuropsychology', 'venue_type': 'journal', 'journal': 'Neuropsychology', 'volume': '20', 'issue': '4', 'pages': '490-495', 'doi': '10.1037/0894-4105.20.4.490', 'openalex_id': None, 'pmid': None, 'citation_string': "Siegert, R. J., Taylor, K. D., Weatherall, M., & Abernethy, D. A. (2006). Is implicit sequence learning impaired in Parkinson's disease? A meta-analysis. *Neuropsychology*, 20(4), 490–495. \[Updated: Clark, G. M., Lum, J. A., & Ullman, M. T. (2014). A meta-analysis and meta-regression of serial reaction time task performance in Parkinson's disease. *Neuropsychology*, 28(6), 945–958.\]", 'url': 'https://doi.org/10.1037/0894-4105.20.4.490', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f241c735e7f6)
-

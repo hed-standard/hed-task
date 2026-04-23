@@ -4,15 +4,14 @@
 
 **Out of scope:** "Language" as a faculty; linguistic representations themselves; motor aspects of articulation (those live in Motor Preparation, Timing, and Execution as vocal-motor control, with a pointer from here).
 
-:::{note}
-**Open issues:** Visual word recognition ≡ word recognition — merged during the reframe (canonical: `hed_word_recognition`). Reading as a process vs. reading as a behavior is still somewhat conflated in `hed_reading` — an open question.
-:::
+:::\{note} **Open issues:** Visual word recognition ≡ word recognition — merged during the reframe (canonical: `hed_word_recognition`). Reading as a process vs. reading as a behavior is still somewhat conflated in `hed_reading` — an open question. :::
 
 This category contains 16 processes.
 
----
+______________________________________________________________________
 
 (hed-discourse-processing)=
+
 ## Discourse processing
 
 **Process ID:** `hed_discourse_processing`
@@ -33,9 +32,10 @@ The following tasks engage this process:
 
 - Ferstl, Neumann, Bogler & von Cramon (2008) *Human Brain Mapping* 29:581–593
 
----
+______________________________________________________________________
 
 (hed-language-comprehension)=
+
 ## Language comprehension
 
 **Process ID:** `hed_language_comprehension`
@@ -57,9 +57,10 @@ The following tasks engage this process:
 
 - Hagoort (2013) *Frontiers in Psychology* 4:416
 
----
+______________________________________________________________________
 
 (hed-language-production)=
+
 ## Language production
 
 **Process ID:** `hed_language_production`
@@ -77,9 +78,10 @@ The following tasks engage this process:
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
----
+______________________________________________________________________
 
 (hed-lexical-access)=
+
 ## Lexical access
 
 **Process ID:** `hed_lexical_access`
@@ -102,9 +104,10 @@ The following tasks engage this process:
 
 - Morton (1969) *Psychological Review* 76:165–178
 
----
+______________________________________________________________________
 
 (hed-naming)=
+
 ## Naming
 
 **Process ID:** `hed_naming`
@@ -125,9 +128,10 @@ The following tasks engage this process:
 
 - Indefrey & Levelt (2004) *Cognition* 92:101–144
 
----
+______________________________________________________________________
 
 (hed-phonological-awareness)=
+
 ## Phonological awareness
 
 **Process ID:** `hed_phonological_awareness`
@@ -148,9 +152,10 @@ The following tasks engage this process:
 
 - Melby-Lervåg, Lyster & Hulme (2012) *Psychological Bulletin* 138:322–352
 
----
+______________________________________________________________________
 
 (hed-phonological-encoding)=
+
 ## Phonological encoding
 
 **Process ID:** `hed_phonological_encoding`
@@ -171,9 +176,10 @@ The following tasks engage this process:
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
----
+______________________________________________________________________
 
 (hed-reading)=
+
 ## Reading
 
 **Process ID:** `hed_reading`
@@ -196,9 +202,10 @@ The following tasks engage this process:
 
 - Dehaene, Cohen, Morais & Kolinsky (2015) *Nature Reviews Neuroscience* 16:234–244
 
----
+______________________________________________________________________
 
 (hed-semantic-knowledge)=
+
 ## Semantic knowledge
 
 **Process ID:** `hed_semantic_knowledge`
@@ -221,9 +228,10 @@ The following tasks engage this process:
 
 - Ralph, Jefferies, Patterson & Rogers (2017) *Nature Reviews Neuroscience* 18:42–55
 
----
+______________________________________________________________________
 
 (hed-semantic-processing)=
+
 ## Semantic processing
 
 **Process ID:** `hed_semantic_processing`
@@ -251,9 +259,10 @@ The following tasks engage this process:
 
 - Kutas & Federmeier (2011) *Annual Review of Psychology* 62:621–647
 
----
+______________________________________________________________________
 
 (hed-sentence-comprehension)=
+
 ## Sentence comprehension
 
 **Process ID:** `hed_sentence_comprehension`
@@ -274,9 +283,10 @@ The following tasks engage this process:
 
 - Hagoort & Indefrey (2014) *Annual Review of Neuroscience* 37:347–362
 
----
+______________________________________________________________________
 
 (hed-speech-perception)=
+
 ## Speech perception
 
 **Process ID:** `hed_speech_perception`
@@ -297,9 +307,10 @@ The following tasks engage this process:
 
 - Diehl, Lotto & Holt (2004) *Annual Review of Psychology* 55:149–179
 
----
+______________________________________________________________________
 
 (hed-speech-production)=
+
 ## Speech production
 
 **Process ID:** `hed_speech_production`
@@ -321,9 +332,10 @@ The following tasks engage this process:
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
 
----
+______________________________________________________________________
 
 (hed-syntactic-parsing)=
+
 ## Syntactic parsing
 
 **Process ID:** `hed_syntactic_parsing`
@@ -340,9 +352,10 @@ The following tasks engage this process:
 
 - Frazier & Rayner (1982) *Cognitive Psychology* 14:178–210
 
----
+______________________________________________________________________
 
 (hed-verbal-fluency)=
+
 ## Verbal fluency
 
 **Process ID:** `hed_verbal_fluency`
@@ -363,9 +376,10 @@ The following tasks engage this process:
 
 - Shao, Janse, Visser & Meyer (2014) *Frontiers in Psychology* 5:772
 
----
+______________________________________________________________________
 
 (hed-word-recognition)=
+
 ## Word recognition
 
 **Process ID:** `hed_word_recognition`
@@ -385,4 +399,3 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Morton (1969) *Psychological Review* 76:165–178
-

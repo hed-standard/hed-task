@@ -1,4 +1,5 @@
 (hedtsk_attention_network)=
+
 # Attention Network Task
 
 **HED Task ID:** `hedtsk_attention_network`
@@ -14,9 +15,10 @@ The Attention Network Test (ANT) combines elements of the Posner cueing paradigm
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Flanker task with preceding spatial and temporal cues; participants identify the direction of a central arrow flanked by congruent or incongruent arrows.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Attention Network Test (ANT) combines elements of the Posner cueing paradigm
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -81,4 +84,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da6304c9aa23)
-

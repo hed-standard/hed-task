@@ -1,4 +1,5 @@
 (hedtsk_effort_based_decision_making)=
+
 # Effort-Based Decision-Making Task
 
 **HED Task ID:** `hedtsk_effort_based_decision_making`
@@ -14,9 +15,10 @@ Effort-based decision-making tasks measure the willingness to exert physical or 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - On each trial, participants choose between a low-effort/low-reward option and a high-effort/high-reward option, then execute the chosen action; trials vary reward magnitude and probability.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Effort-based decision-making tasks measure the willingness to exert physical or 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -79,4 +82,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Reddy, L. F., Horan, W. P., Barch, D. M., Buchanan, R. W., Dunayevich, E., Gold, J. M., Lyons, N., Marder, S. R., Treadway, M. T., Wynn, J. K., Young, J. W., & Green, M. F.', 'year': 2015, 'title': 'Effort-Based Decision-Making Paradigms for Clinical Trials in Schizophrenia: Part 1—Psychometric Characteristics of 5 Paradigms', 'venue': 'Schizophrenia Bulletin', 'venue_type': 'journal', 'journal': 'Schizophrenia Bulletin', 'volume': '41', 'issue': '5', 'pages': '1045-1054', 'doi': '10.1093/schbul/sbv089', 'openalex_id': None, 'pmid': None, 'citation_string': 'Reddy, L. F., Horan, W. P., Barch, D. M., Buchanan, R. W., et al. (2015). Effort-Based Decision-Making Paradigms for Clinical Trials in Schizophrenia: Part 1 — Psychometric Characteristics of 5 Paradigms. *Schizophrenia Bulletin*, 41(5), 1045-1054.', 'url': 'https://doi.org/10.1093/schbul/sbv089', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Husain, M., & Roiser, J. P.', 'year': 2018, 'title': 'Neuroscience of apathy and anhedonia: a transdiagnostic approach', 'venue': 'Nature Reviews Neuroscience', 'venue_type': 'journal', 'journal': 'Nature Reviews Neuroscience', 'volume': '19', 'issue': '8', 'pages': '470-484', 'doi': '10.1038/s41583-018-0029-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Husain, M., & Roiser, J. P. (2018). Neuroscience of apathy and anhedonia: a transdiagnostic approach. *Nature Reviews Neuroscience*, 19(3), 164-178.', 'url': 'https://doi.org/10.1038/s41583-018-0029-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Lopez-Gamundi, P., Yao, Y., Chong, T. T., Heekeren, H. R., Mas-Herrero, E., & Marco-Pallarés, J.', 'year': 2021, 'title': 'The neural basis of effort valuation: A meta-analysis of functional magnetic resonance imaging studies', 'venue': 'Neuroscience & Biobehavioral Reviews', 'venue_type': 'journal', 'journal': 'Neuroscience & Biobehavioral Reviews', 'volume': '131', 'issue': None, 'pages': '1275-1287', 'doi': '10.1016/j.neubiorev.2021.10.024', 'openalex_id': None, 'pmid': None, 'citation_string': 'Lopez-Gamundi, P., Yao, Y.-W., Chong, T. T.-J., Heekeren, H. R., Mas-Herrero, E., & Marco-Pallares, J. (2021). The neural basis of effort valuation: A meta-analysis of functional magnetic resonance imaging studies. *Neuroscience & Biobehavioral Reviews*, 131, 1275-1287.', 'url': 'https://doi.org/10.1016/j.neubiorev.2021.10.024', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

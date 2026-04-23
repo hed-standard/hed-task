@@ -1,4 +1,5 @@
 (hedtsk_think_no_think)=
+
 # Think/No-Think Task
 
 **HED Task ID:** `hedtsk_think_no_think`
@@ -14,9 +15,10 @@ Participants first learn cue-target word pairs (e.g., "ordeal–roach"). In the 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants learn cue-target word pairs to criterion. In the critical phase, cues are presented and participants either actively recall the target (think) or suppress retrieval (no-think). A final test probes all pairs.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants first learn cue-target word pairs (e.g., "ordeal–roach"). In the 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -76,4 +79,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Benoit, R. G., & Anderson, M. C.', 'year': 2012, 'title': 'Opposing Mechanisms Support the Voluntary Forgetting of Unwanted Memories', 'venue': 'Neuron', 'venue_type': 'journal', 'journal': 'Neuron', 'volume': '76', 'issue': '2', 'pages': '450-460', 'doi': '10.1016/j.neuron.2012.07.025', 'openalex_id': None, 'pmid': None, 'citation_string': 'Benoit, R. G., & Anderson, M. C. (2012). Opposing mechanisms support the voluntary forgetting of unwanted memories. *Neuron*, 76(2), 450–460.', 'url': 'https://doi.org/10.1016/j.neuron.2012.07.025', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Stramaccia, D. F., Meyer, A., Rischer, K. M., Fawcett, J. M., & Benoit, R. G.', 'year': 2021, 'title': 'Memory suppression and its deficiency in psychological disorders: A focused meta-analysis.', 'venue': 'Journal of Experimental Psychology: General', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: General', 'volume': '150', 'issue': '5', 'pages': '828-850', 'doi': '10.1037/xge0000971', 'openalex_id': None, 'pmid': None, 'citation_string': 'Stramaccia, D. F., Meyer, A.-K., Rischer, K. M., Fawcett, J. M., & Benoit, R. G. (2021). Memory suppression and its deficiency in psychological disorders: A focused review. *Journal of Experimental Psychology: General*, 150(5), 828–850.', 'url': 'https://doi.org/10.1037/xge0000971', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Hu, X., Bergström, Z. M., Gagnepain, P., & Anderson, M. C.', 'year': 2017, 'title': 'Suppressing Unwanted Memories Reduces Their Unintended Influences', 'venue': 'Current Directions in Psychological Science', 'venue_type': 'journal', 'journal': 'Current Directions in Psychological Science', 'volume': '26', 'issue': '2', 'pages': '197-206', 'doi': '10.1177/0963721417689881', 'openalex_id': None, 'pmid': None, 'citation_string': 'Hu, X., Bergström, Z. M., Gagnepain, P., & Anderson, M. C. (2017). Suppressing unwanted memories reduces their unintended influences. *Current Directions in Psychological Science*, 26(2), 197–206.', 'url': 'https://doi.org/10.1177/0963721417689881', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

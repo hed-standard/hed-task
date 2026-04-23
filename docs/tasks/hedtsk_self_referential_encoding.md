@@ -1,4 +1,5 @@
 (hedtsk_self_referential_encoding)=
+
 # Self-Referential Encoding Task
 
 **HED Task ID:** `hedtsk_self_referential_encoding`
@@ -14,9 +15,10 @@ The Self-Referential Encoding Task exploits the robust finding that information 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants judge trait adjectives under self-reference and comparison encoding conditions (other-reference, semantic, structural); a subsequent memory test assesses the self-reference effect on recall or recognition.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Self-Referential Encoding Task exploits the robust finding that information 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -75,4 +78,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Northoff, G., Heinzel, A., de Greck, M., Bermpohl, F., Dobrowolny, H., & Panksepp, J.', 'year': 2006, 'title': 'Self-referential processing in our brain—A meta-analysis of imaging studies on the self', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '31', 'issue': '1', 'pages': '440-457', 'doi': '10.1016/j.neuroimage.2005.12.002', 'openalex_id': None, 'pmid': None, 'citation_string': 'Northoff, G., Heinzel, A., de Greck, M., Bermpohl, F., Dobrowolny, H., & Panksepp, J. (2006). Self-referential processing in our brain — A meta-analysis of imaging studies on the self. *NeuroImage*, 31(1), 440-457.', 'url': 'https://doi.org/10.1016/j.neuroimage.2005.12.002', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Herbert, C., Herbert, B. M., & Pauli, P.', 'year': 2011, 'title': "Emotional self-reference: Brain structures involved in the processing of words describing one's own emotions", 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '49', 'issue': '10', 'pages': '2947-2956', 'doi': '10.1016/j.neuropsychologia.2011.06.026', 'openalex_id': None, 'pmid': None, 'citation_string': 'Herbert, C., Pauli, P., & Herbert, B. M. (2011). Self-reference modulates the processing of emotional stimuli in the absence of explicit self-referential appraisal instructions. *Social Cognitive and Affective Neuroscience*, 6(5), 653-661.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2011.06.026', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Fossati, P.', 'year': 2012, 'title': 'Neural correlates of emotion processing: From emotional to social brain', 'venue': 'European Neuropsychopharmacology', 'venue_type': 'journal', 'journal': 'European Neuropsychopharmacology', 'volume': '22', 'issue': '5', 'pages': 'S487-S491', 'doi': '10.1016/j.euroneuro.2012.07.008', 'openalex_id': None, 'pmid': None, 'citation_string': 'Fossati, P. (2012). Neural correlates of self-referential processing in depression. *World Journal of Biological Psychiatry*, 13(5), 329-339.', 'url': 'https://doi.org/10.1016/j.euroneuro.2012.07.008', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

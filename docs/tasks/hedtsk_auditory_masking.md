@@ -1,4 +1,5 @@
 (hedtsk_auditory_masking)=
+
 # Auditory Masking Task
 
 **HED Task ID:** `hedtsk_auditory_masking`
@@ -14,9 +15,10 @@ A target sound (tone, speech token, or noise burst) is presented alongside, befo
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A target sound is presented alongside, before, or after a masker; participants detect, discriminate, or identify the target.
 * - **Manipulation**
@@ -28,9 +30,10 @@ A target sound (tone, speech token, or noise burst) is presented alongside, befo
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,4 +85,3 @@ This task engages the following cognitive processes:
 ## Recent references
 
 - {'authors': 'Shinn-Cunningham, B. G.', 'year': 2008, 'title': 'Object-based auditory and visual attention', 'venue': 'Trends in Cognitive Sciences', 'venue_type': 'journal', 'journal': 'Trends in Cognitive Sciences', 'volume': '12', 'issue': '5', 'pages': '182-186', 'doi': '10.1016/j.tics.2008.02.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shinn-Cunningham, B. G. (2008). Object-based auditory and visual attention. Trends in Cognitive Sciences, 12(5), 182–186.', 'url': 'https://doi.org/10.1016/j.tics.2008.02.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

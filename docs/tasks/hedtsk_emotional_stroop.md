@@ -1,4 +1,5 @@
 (hedtsk_emotional_stroop)=
+
 # Emotional Stroop Task
 
 **HED Task ID:** `hedtsk_emotional_stroop`
@@ -14,9 +15,10 @@ A variant of the classic Stroop in which participants name the ink color of word
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Color words are replaced by emotionally valenced or threat-related words; participants name the ink color while ignoring word meaning.
 * - **Manipulation**
@@ -28,9 +30,10 @@ A variant of the classic Stroop in which participants name the ink color of word
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -74,9 +77,8 @@ This task engages the following cognitive processes:
 
 - {'authors': 'Phaf, R. H., & Kan, K.', 'year': 2007, 'title': 'The automaticity of emotional Stroop: A meta-analysis', 'venue': 'Journal of Behavior Therapy and Experimental Psychiatry', 'venue_type': 'journal', 'journal': 'Journal of Behavior Therapy and Experimental Psychiatry', 'volume': '38', 'issue': '2', 'pages': '184-199', 'doi': '10.1016/j.jbtep.2006.10.008', 'openalex_id': None, 'pmid': None, 'citation_string': 'Phaf, R. H., & Kan, K. J. (2007). The automaticity of emotional Stroop: A meta-analysis. *Journal of Behavior Therapy and Experimental Psychiatry*, 38(2), 184–199.', 'url': 'https://doi.org/10.1016/j.jbtep.2006.10.008', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Cisler, J. M., & Koster, E. H.', 'year': 2010, 'title': 'Mechanisms of attentional biases towards threat in anxiety disorders: An integrative review', 'venue': 'Clinical Psychology Review', 'venue_type': 'journal', 'journal': 'Clinical Psychology Review', 'volume': '30', 'issue': '2', 'pages': '203-216', 'doi': '10.1016/j.cpr.2009.11.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Cisler, J. M., & Koster, E. H. (2010). Mechanisms of attentional biases toward threat in anxiety disorders. *Clinical Psychology Review*, 30(2), 203–216.', 'url': 'https://doi.org/10.1016/j.cpr.2009.11.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Algom, D., Chajut, E., & Lev, S.', 'year': 2004, 'title': 'A Rational Look at the Emotional Stroop Phenomenon: A Generic Slowdown, Not a Stroop Effect.', 'venue': 'Journal of Experimental Psychology: General', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: General', 'volume': '133', 'issue': '3', 'pages': '323-338', 'doi': '10.1037/0096-3445.133.3.323', 'openalex_id': None, 'pmid': None, 'citation_string': 'Algom, D., Chajut, E., & Lev, S. (2004). A rational look at the emotional Stroop phenomenon: A generic slowdown, not a Stroop effect. *Journal of Experimental Psychology: General*, 133(3), 323–338. [Updated: Dalgleish, T. (2005). Putting some feeling into it—the conceptual and empirical relationships between the classic and emotional Stroop tasks: Comment on Algom et al. *Journal of Experimental Psychology: General*, 134(4), 585–591.]', 'url': 'https://doi.org/10.1037/0096-3445.133.3.323', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Algom, D., Chajut, E., & Lev, S.', 'year': 2004, 'title': 'A Rational Look at the Emotional Stroop Phenomenon: A Generic Slowdown, Not a Stroop Effect.', 'venue': 'Journal of Experimental Psychology: General', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: General', 'volume': '133', 'issue': '3', 'pages': '323-338', 'doi': '10.1037/0096-3445.133.3.323', 'openalex_id': None, 'pmid': None, 'citation_string': 'Algom, D., Chajut, E., & Lev, S. (2004). A rational look at the emotional Stroop phenomenon: A generic slowdown, not a Stroop effect. *Journal of Experimental Psychology: General*, 133(3), 323–338. \[Updated: Dalgleish, T. (2005). Putting some feeling into it—the conceptual and empirical relationships between the classic and emotional Stroop tasks: Comment on Algom et al. *Journal of Experimental Psychology: General*, 134(4), 585–591.\]', 'url': 'https://doi.org/10.1037/0096-3445.133.3.323', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da6afc9c1c9e)
-

@@ -1,4 +1,5 @@
 (hedtsk_reading_the_mind_in_the_eyes)=
+
 # Reading the Mind in the Eyes Task
 
 **HED Task ID:** `hedtsk_reading_the_mind_in_the_eyes`
@@ -14,9 +15,10 @@ Participants view photographs showing only the eye and eyebrow region of actors 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants view photographs of the eye region of faces and select the mental state (from four word options) that best describes what the person is thinking or feeling.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view photographs showing only the eye and eyebrow region of actors 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -76,4 +79,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da6b10e83517)
-

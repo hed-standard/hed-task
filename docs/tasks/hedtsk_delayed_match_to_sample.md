@@ -1,4 +1,5 @@
 (hedtsk_delayed_match_to_sample)=
+
 # Delayed Match-to-Sample Task
 
 **HED Task ID:** `hedtsk_delayed_match_to_sample`
@@ -14,9 +15,10 @@ The Delayed Match-to-Sample (DMTS) task consists of three phases: sample, delay,
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A sample stimulus is presented, followed by a retention interval (delay), then a test stimulus; participants indicate whether the test matches the sample.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Delayed Match-to-Sample (DMTS) task consists of three phases: sample, delay,
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,4 +85,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c40d10cd776e)
-

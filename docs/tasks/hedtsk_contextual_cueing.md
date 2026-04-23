@@ -1,4 +1,5 @@
 (hedtsk_contextual_cueing)=
+
 # Contextual Cueing Task
 
 **HED Task ID:** `hedtsk_contextual_cueing`
@@ -14,9 +15,10 @@ Participants perform visual search for a T-shaped target among L-shaped distract
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Visual search through letter arrays; some spatial configurations repeat across blocks while others are novel. Participants find and respond to a target embedded in the display.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants perform visual search for a T-shaped target among L-shaped distract
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -75,4 +78,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Zinchenko, A., Conci, M., Müller, H. J., & Geyer, T.', 'year': 2018, 'title': 'Predictive visual search: Role of environmental regularities in the learning of context cues', 'venue': 'Attention, Perception, & Psychophysics', 'venue_type': 'journal', 'journal': 'Attention, Perception, & Psychophysics', 'volume': '80', 'issue': '5', 'pages': '1096-1109', 'doi': '10.3758/s13414-018-1500-4', 'openalex_id': None, 'pmid': None, 'citation_string': 'Zinchenko, A., Conci, M., Müller, H. J., & Geyer, T. (2018). Predictive visual search: Role of environmental regularities in the learning of context cues. *Attention, Perception, & Psychophysics*, 80, 1096–1109.', 'url': 'https://doi.org/10.3758/s13414-018-1500-4', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Sisk, C. A., Remington, R. W., & Jiang, Y. V.', 'year': 2019, 'title': 'Mechanisms of contextual cueing: A tutorial review', 'venue': 'Attention, Perception, & Psychophysics', 'venue_type': 'journal', 'journal': 'Attention, Perception, & Psychophysics', 'volume': '81', 'issue': '8', 'pages': '2571-2589', 'doi': '10.3758/s13414-019-01832-2', 'openalex_id': None, 'pmid': None, 'citation_string': 'Sisk, C. A., Remington, R. W., & Jiang, Y. V. (2019). Mechanisms of contextual cueing: A tutorial review. *Attention, Perception, & Psychophysics*, 81, 2571–2589.', 'url': 'https://doi.org/10.3758/s13414-019-01832-2', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Annac, E., Conci, M., Müller, H. J., & Geyer, T.', 'year': 2017, 'title': 'Local item density modulates adaptation of learned contextual cues', 'venue': 'Visual Cognition', 'venue_type': 'journal', 'journal': 'Visual Cognition', 'volume': '25', 'issue': '1-3', 'pages': '262-277', 'doi': '10.1080/13506285.2017.1339158', 'openalex_id': None, 'pmid': None, 'citation_string': 'Annac, E., Conci, M., Müller, H. J., & Geyer, T. (2017). Local item density modulates adaptation of learned contextual cues. *Visual Cognition*, 25(1–3), 262–277.', 'url': 'https://doi.org/10.1080/13506285.2017.1339158', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

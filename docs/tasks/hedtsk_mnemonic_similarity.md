@@ -1,4 +1,5 @@
 (hedtsk_mnemonic_similarity)=
+
 # Mnemonic Similarity Task
 
 **HED Task ID:** `hedtsk_mnemonic_similarity`
@@ -14,9 +15,10 @@ The Mnemonic Similarity Task measures hippocampal pattern separation—the abili
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants study a set of images, then view old items, new items, and similar lures (items resembling studied items). They classify each as old, new, or similar.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Mnemonic Similarity Task measures hippocampal pattern separation—the abili
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -80,4 +83,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Bakker, A., Kirwan, C. B., Miller, M., & Stark, C. E. L.', 'year': 2008, 'title': 'Pattern Separation in the Human Hippocampal CA3 and Dentate Gyrus', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '319', 'issue': '5870', 'pages': '1640-1642', 'doi': '10.1126/science.1152882', 'openalex_id': None, 'pmid': None, 'citation_string': 'Bakker, A., Kirwan, C. B., Miller, M., & Stark, C. E. L. (2008). Pattern separation in the human hippocampal CA3 and dentate gyrus. *Science*, 319(5870), 1640–1642.', 'url': 'https://doi.org/10.1126/science.1152882', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Stark, S. M., & Stark, C. E.', 'year': 2017, 'title': 'Age-related deficits in the mnemonic similarity task for objects and scenes', 'venue': 'Behavioural Brain Research', 'venue_type': 'journal', 'journal': 'Behavioural Brain Research', 'volume': '333', 'issue': None, 'pages': '109-117', 'doi': '10.1016/j.bbr.2017.06.049', 'openalex_id': None, 'pmid': None, 'citation_string': 'Stark, S. M., & Stark, C. E. L. (2017). Age-related deficits in the mnemonic similarity task for objects and scenes. *Behavioural Brain Research*, 333, 109–117.', 'url': 'https://doi.org/10.1016/j.bbr.2017.06.049', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Reagh, Z. M., & Yassa, M. A.', 'year': 2014, 'title': 'Object and spatial mnemonic interference differentially engage lateral and medial entorhinal cortex in humans', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '111', 'issue': '40', 'pages': 'E4264–E4273', 'doi': '10.1073/pnas.1411250111', 'openalex_id': None, 'pmid': None, 'citation_string': 'Reagh, Z. M., & Yassa, M. A. (2014). Object and spatial mnemonic interference differentially engage lateral and medial entorhinal cortex in humans. *Proceedings of the National Academy of Sciences*, 111(40), E4264–E4273.', 'url': 'https://doi.org/10.1073/pnas.1411250111', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

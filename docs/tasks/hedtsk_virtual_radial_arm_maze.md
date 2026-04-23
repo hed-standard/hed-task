@@ -1,4 +1,5 @@
 (hedtsk_virtual_radial_arm_maze)=
+
 # Virtual Radial Arm Maze Task
 
 **HED Task ID:** `hedtsk_virtual_radial_arm_maze`
@@ -14,9 +15,10 @@ The Virtual Radial Arm Maze is a spatial memory task adapted from the rodent par
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - In a virtual radial arm maze (typically 8 arms radiating from a center), some arms are baited with reward. Participants visit arms to collect rewards, using spatial cues to remember which arms have been visited.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Virtual Radial Arm Maze is a spatial memory task adapted from the rodent par
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -84,4 +87,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Korthauer, L., Nowak, N., Frahmand, M., & Driscoll, I.', 'year': 2017, 'title': 'Cognitive correlates of spatial navigation: Associations between executive functioning and the virtual Morris Water Task', 'venue': 'Behavioural Brain Research', 'venue_type': 'journal', 'journal': 'Behavioural Brain Research', 'volume': '317', 'issue': None, 'pages': '470-478', 'doi': '10.1016/j.bbr.2016.10.007', 'openalex_id': None, 'pmid': None, 'citation_string': 'Korthauer, L. E., Nowak, N. T., Frahmand, M., & Driscoll, I. (2017). Cognitive correlates of spatial navigation: Associations between executive function and the virtual radial arm maze. *Behavioural Brain Research*, 317, 82–92.', 'url': 'https://doi.org/10.1016/j.bbr.2016.10.007', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Cánovas, R., Espínola, M., Iribarne, L., & Cimadevilla, J. M.', 'year': 2008, 'title': 'A new virtual task to evaluate human place learning', 'venue': 'Behavioural Brain Research', 'venue_type': 'journal', 'journal': 'Behavioural Brain Research', 'volume': '190', 'issue': '1', 'pages': '112-118', 'doi': '10.1016/j.bbr.2008.02.024', 'openalex_id': None, 'pmid': None, 'citation_string': 'Cánovas, R., Espínola, M., Iribarne, L., & Cimadevilla, J. M. (2008). A new virtual task to evaluate human place learning. *Behavioural Brain Research*, 190(1), 112–118.', 'url': 'https://doi.org/10.1016/j.bbr.2008.02.024', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Wiener, J. M., de Condappa, O., Harris, M. A., & Wolbers, T.', 'year': 2013, 'title': 'Maladaptive Bias for Extrahippocampal Navigation Strategies in Aging Humans', 'venue': 'The Journal of Neuroscience', 'venue_type': 'journal', 'journal': 'The Journal of Neuroscience', 'volume': '33', 'issue': '14', 'pages': '6012-6017', 'doi': '10.1523/jneurosci.0717-12.2013', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wiener, J. M., de Condappa, O., Harris, M. A., & Wolbers, T. (2013). Maladaptive bias for extrahippocampal navigation strategies in aging humans. *Journal of Neuroscience*, 33(14), 6012–6017.', 'url': 'https://doi.org/10.1523/jneurosci.0717-12.2013', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

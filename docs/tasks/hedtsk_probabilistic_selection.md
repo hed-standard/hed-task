@@ -1,4 +1,5 @@
 (hedtsk_probabilistic_selection)=
+
 # Probabilistic Selection Task
 
 **HED Task ID:** `hedtsk_probabilistic_selection`
@@ -14,9 +15,10 @@ The Probabilistic Selection Task, developed by Frank and colleagues, assesses th
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants learn to choose between stimulus pairs through probabilistic feedback (80/20 or 70/30 contingencies), then are tested on novel recombinations without feedback to dissociate Go learning (choose A) from NoGo learning (avoid B).
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Probabilistic Selection Task, developed by Frank and colleagues, assesses th
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -73,4 +76,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Cavanagh, J. F., Frank, M. J., Klein, T. J., & Allen, J. J.', 'year': 2010, 'title': 'Frontal theta links prediction errors to behavioral adaptation in reinforcement learning', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '49', 'issue': '4', 'pages': '3198-3209', 'doi': '10.1016/j.neuroimage.2009.11.080', 'openalex_id': None, 'pmid': None, 'citation_string': 'Cavanagh, J. F., Frank, M. J., Klein, T. J., & Allen, J. J. B. (2010). Frontal theta links prediction errors to behavioral adaptation in reinforcement learning. *NeuroImage*, 49(4), 3198–3209.', 'url': 'https://doi.org/10.1016/j.neuroimage.2009.11.080', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Doll, B. B., Jacobs, W. J., Sanfey, A. G., & Frank, M. J.', 'year': 2009, 'title': 'Instructional control of reinforcement learning: A behavioral and neurocomputational investigation', 'venue': 'Brain Research', 'venue_type': 'journal', 'journal': 'Brain Research', 'volume': '1299', 'issue': None, 'pages': '74-94', 'doi': '10.1016/j.brainres.2009.07.007', 'openalex_id': None, 'pmid': None, 'citation_string': 'Doll, B. B., Jacobs, W. J., Sanfey, A. G., & Frank, M. J. (2009). Instructional control of reinforcement learning: A behavioral and neurocomputational investigation. *Brain Research*, 1299, 74–94.', 'url': 'https://doi.org/10.1016/j.brainres.2009.07.007', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Bodi, N., Keri, S., Nagy, H., Moustafa, A., Myers, C. E., Daw, N., Dibo, G., Takats, A., Bereczki, D., & Gluck, M. A.', 'year': 2009, 'title': "Reward-learning and the novelty-seeking personality: a between- and within-subjects study of the effects of dopamine agonists on young Parkinson's patients", 'venue': 'Brain', 'venue_type': 'journal', 'journal': 'Brain', 'volume': '132', 'issue': '9', 'pages': '2385-2395', 'doi': '10.1093/brain/awp094', 'openalex_id': None, 'pmid': None, 'citation_string': "Bodi, N., Keri, S., Nagy, H., Moustafa, A., Myers, C. E., Daw, N., ... & Gluck, M. A. (2009). Reward-learning and the novelty-seeking personality: A between- and within-subjects study of the effects of dopamine agonists on young Parkinson's patients. *Brain*, 132(9), 2385–2395.", 'url': 'https://doi.org/10.1093/brain/awp094', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

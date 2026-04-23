@@ -1,4 +1,5 @@
 (hedtsk_trust_game)=
+
 # Trust Game Task
 
 **HED Task ID:** `hedtsk_trust_game`
@@ -14,9 +15,10 @@ A sequential two-player game in which the investor decides how much of an endowm
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - An investor receives an endowment and chooses how much to send to a trustee; the amount is multiplied (typically tripled). The trustee decides how much to return to the investor.
 * - **Manipulation**
@@ -28,9 +30,10 @@ A sequential two-player game in which the investor decides how much of an endowm
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -83,4 +86,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_uzol7erTzr9Ix)
-

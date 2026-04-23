@@ -1,4 +1,5 @@
 (hedtsk_autobiographical_memory)=
+
 # Autobiographical Memory Task
 
 **HED Task ID:** `hedtsk_autobiographical_memory`
@@ -14,9 +15,10 @@ Autobiographical memory tasks assess the ability to retrieve specific personal e
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants retrieve specific personal memories in response to cue words, category prompts, or structured interview questions; retrieved memories are scored for specificity, detail, emotional content, and temporal distribution.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Autobiographical memory tasks assess the ability to retrieve specific personal e
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -75,4 +78,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Addis, D. R., Wong, A. T., & Schacter, D. L.', 'year': 2007, 'title': 'Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '45', 'issue': '7', 'pages': '1363-1377', 'doi': '10.1016/j.neuropsychologia.2006.10.016', 'openalex_id': None, 'pmid': None, 'citation_string': 'Addis, D. R., Wong, A. T., & Schacter, D. L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. *Neuropsychologia*, 45(7), 1363-1377.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2006.10.016', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Hitchcock, C., Werner-Seidler, A., Blackwell, S. E., & Dalgleish, T.', 'year': 2017, 'title': 'Autobiographical episodic memory-based training for the treatment of mood, anxiety and stress-related disorders: A systematic review and meta-analysis', 'venue': 'Clinical Psychology Review', 'venue_type': 'journal', 'journal': 'Clinical Psychology Review', 'volume': '52', 'issue': None, 'pages': '92-107', 'doi': '10.1016/j.cpr.2016.12.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Hitchcock, C., Werner-Seidler, A., Blackwell, S. E., & Dalgleish, T. (2017). Autobiographical episodic memory-based training for the treatment of mood, anxiety and stress-related disorders: A systematic review and meta-analysis. *Clinical Psychology Review*, 52, 92-107.', 'url': 'https://doi.org/10.1016/j.cpr.2016.12.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Rubin, D. C., & Schulkind, M. D.', 'year': 1997, 'title': 'The distribution of autobiographical memories across the lifespan', 'venue': 'Memory & Cognition', 'venue_type': 'journal', 'journal': 'Memory & Cognition', 'volume': '25', 'issue': '6', 'pages': '859-866', 'doi': '10.3758/bf03211330', 'openalex_id': None, 'pmid': None, 'citation_string': 'Rubin, D. C., & Schulkind, M. D. (1997). The distribution of autobiographical memories across the lifespan. *Memory & Cognition*, 25(6), 859-866.', 'url': 'https://doi.org/10.3758/bf03211330', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

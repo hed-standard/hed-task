@@ -1,4 +1,5 @@
 (hedtsk_affective_picture_viewing)=
+
 # Affective Picture Viewing Task
 
 **HED Task ID:** `hedtsk_affective_picture_viewing`
@@ -14,9 +15,10 @@ Participants passively view color photographs from the International Affective P
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants view emotionally valenced images (e.g., IAPS) presented for several seconds each; may rate valence/arousal or simply view while physiological signals are recorded.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants passively view color photographs from the International Affective P
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -63,4 +66,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949aca)
-

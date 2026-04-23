@@ -1,4 +1,5 @@
 (hedtsk_continuous_performance)=
+
 # Continuous Performance Task
 
 **HED Task ID:** `hedtsk_continuous_performance`
@@ -14,9 +15,10 @@ The Continuous Performance Task requires participants to continuously monitor a 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A rapid sequence of stimuli is presented; participants respond to infrequent target stimuli and withhold responses to non-targets over a prolonged session (10–20 min).
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Continuous Performance Task requires participants to continuously monitor a 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -86,4 +89,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4b4a537644d76)
-

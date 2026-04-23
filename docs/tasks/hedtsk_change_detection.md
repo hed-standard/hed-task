@@ -1,4 +1,5 @@
 (hedtsk_change_detection)=
+
 # Change Detection Task
 
 **HED Task ID:** `hedtsk_change_detection`
@@ -14,9 +15,10 @@ The Change Detection Task, developed by Luck and Vogel (1997), is the standard p
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A brief memory array of colored squares (or oriented bars) is followed by a retention interval and a test array; participants indicate whether a change occurred.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Change Detection Task, developed by Luck and Vogel (1997), is the standard p
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,4 +85,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_5154906cbead5)
-

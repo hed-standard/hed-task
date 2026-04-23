@@ -1,4 +1,5 @@
 (hedtsk_imitation_inhibition)=
+
 # Imitation-Inhibition Task
 
 **HED Task ID:** `hedtsk_imitation_inhibition`
@@ -14,9 +15,10 @@ The Imitation-Inhibition Task (Brass, Bekkering, Wohlschlager, & Prinz, 2000) me
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants perform an instructed action (e.g., finger lift) in response to a symbolic cue while simultaneously observing a task-irrelevant video or animation of another agent performing a congruent, incongruent, or neutral action.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Imitation-Inhibition Task (Brass, Bekkering, Wohlschlager, & Prinz, 2000) me
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -79,4 +82,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Genschow, O., van Den Bossche, S., Cracco, E., Bardi, L., Rigoni, D., & Brass, M.', 'year': 2017, 'title': 'Mimicry and automatic imitation are not correlated', 'venue': 'PLOS ONE', 'venue_type': 'journal', 'journal': 'PLOS ONE', 'volume': '12', 'issue': '9', 'pages': 'e0183784', 'doi': '10.1371/journal.pone.0183784', 'openalex_id': None, 'pmid': None, 'citation_string': 'Genschow, O., van Den Bossche, S., Cracco, E., & Brass, M. (2017). Mimicry and automatic imitation are not correlated. PLoS ONE, 12(9), e0183784.', 'url': 'https://doi.org/10.1371/journal.pone.0183784', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'De Coster, L., Wiersema, J. R., Deschrijver, E., & Brass, M.', 'year': 2017, 'title': 'The effect of being imitated on empathy for pain in adults with high-functioning autism: Disturbed self–other distinction leads to altered empathic responding', 'venue': 'Autism', 'venue_type': 'journal', 'journal': 'Autism', 'volume': '22', 'issue': '6', 'pages': '712-727', 'doi': '10.1177/1362361317701268', 'openalex_id': None, 'pmid': None, 'citation_string': 'Deschrijver, E., Wiersema, J. R., & Brass, M. (2017). Action-based touch observation in adults with high functioning autism. Social Cognitive and Affective Neuroscience, 12(2), 273-282.', 'url': 'https://doi.org/10.1177/1362361317701268', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Kilner, J., Paulignan, Y., & Blakemore, S.', 'year': 2003, 'title': 'An Interference Effect of Observed Biological Movement on Action', 'venue': 'Current Biology', 'venue_type': 'journal', 'journal': 'Current Biology', 'volume': '13', 'issue': '6', 'pages': '522-525', 'doi': '10.1016/s0960-9822(03)00165-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kilner, J. M., Paulignan, Y., & Blakemore, S. J. (2003). An interference effect of observed biological movement on action. Current Biology, 13(6), 522-525.', 'url': 'https://doi.org/10.1016/s0960-9822(03)00165-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

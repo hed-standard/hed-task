@@ -1,4 +1,5 @@
 (hedtsk_wason_selection)=
+
 # Wason Selection Task
 
 **HED Task ID:** `hedtsk_wason_selection`
@@ -14,9 +15,10 @@ The Wason Selection Task is the classic test of conditional reasoning. Participa
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants see four cards showing one side each and a conditional rule (if P then Q). They select which cards must be turned over to test the rule.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Wason Selection Task is the classic test of conditional reasoning. Participa
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -83,4 +86,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2449bdcb0b1)
-

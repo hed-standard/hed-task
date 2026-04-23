@@ -1,4 +1,5 @@
 (hedtsk_directed_forgetting)=
+
 # Directed Forgetting Task
 
 **HED Task ID:** `hedtsk_directed_forgetting`
@@ -14,9 +15,10 @@ Participants study items (typically words) under instructions that each item sho
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Items are presented one at a time or in lists; after each item (item method) or after a full list (list method), a cue instructs the participant to remember or forget it. A final test probes all items.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants study items (typically words) under instructions that each item sho
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -77,4 +80,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Pastötter, B., & Bäuml, K. T.', 'year': 2014, 'title': 'Distinct slow and fast cortical theta dynamics in episodic memory retrieval', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '94', 'issue': None, 'pages': '155-161', 'doi': '10.1016/j.neuroimage.2014.03.002', 'openalex_id': None, 'pmid': None, 'citation_string': 'Pastötter, B., & Bäuml, K.-H. T. (2014). Distinct slow and fast cortical theta dynamics in episodic memory retrieval. *NeuroImage*, 94, 155–161.', 'url': 'https://doi.org/10.1016/j.neuroimage.2014.03.002', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Sahakyan, L., Delaney, P. F., Foster, N. L., & Abushanab, B.', 'year': 2013, 'title': 'List-Method Directed Forgetting in Cognitive and Clinical Research', 'venue': 'Psychology of Learning and Motivation', 'venue_type': 'book_chapter', 'journal': None, 'volume': '59', 'issue': None, 'pages': '131-189', 'doi': '10.1016/b978-0-12-407187-2.00004-6', 'openalex_id': None, 'pmid': None, 'citation_string': 'Sahakyan, L., Delaney, P. F., Foster, N. L., & Abushanab, B. (2013). List-method directed forgetting in cognitive and clinical research: A theoretical and methodological review. *Psychology of Learning and Motivation*, 59, 131–189.', 'url': 'https://doi.org/10.1016/b978-0-12-407187-2.00004-6', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Fellner, M., Waldhauser, G. T., & Axmacher, N.', 'year': 2020, 'title': 'Tracking Selective Rehearsal and Active Inhibition of Memory Traces in Directed Forgetting', 'venue': 'Current Biology', 'venue_type': 'journal', 'journal': 'Current Biology', 'volume': '30', 'issue': '13', 'pages': '2638-2644.e4', 'doi': '10.1016/j.cub.2020.04.091', 'openalex_id': None, 'pmid': None, 'citation_string': 'Fellner, M.-C., Waldhauser, G. T., & Axmacher, N. (2020). Tracking selective rehearsal and active inhibition of memory traces in directed forgetting. *Current Biology*, 30(13), 2638–2644.', 'url': 'https://doi.org/10.1016/j.cub.2020.04.091', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

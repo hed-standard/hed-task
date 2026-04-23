@@ -1,4 +1,5 @@
 (hedtsk_remember_know)=
+
 # Remember/Know Task
 
 **HED Task ID:** `hedtsk_remember_know`
@@ -14,9 +15,10 @@ During a recognition memory test, participants classify each item they judge as 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - During a recognition memory test, participants first judge each item as old or new, then classify old responses as 'remember' (vivid recollection of encoding context) or 'know' (familiarity without recollection).
 * - **Manipulation**
@@ -28,9 +30,10 @@ During a recognition memory test, participants classify each item they judge as 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -69,4 +72,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Wixted, J. T., & Mickes, L.', 'year': 2010, 'title': 'A continuous dual-process model of remember/know judgments.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '117', 'issue': '4', 'pages': '1025-1054', 'doi': '10.1037/a0020874', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wixted, J. T., & Mickes, L. (2010). A continuous dual-process model of remember/know judgments. *Psychological Review*, 117(4), 1025–1054.', 'url': 'https://doi.org/10.1037/a0020874', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Migo, E. M., Mayes, A. R., & Montaldi, D.', 'year': 2012, 'title': 'Measuring recollection and familiarity: Improving the remember/know procedure', 'venue': 'Consciousness and Cognition', 'venue_type': 'journal', 'journal': 'Consciousness and Cognition', 'volume': '21', 'issue': '3', 'pages': '1435-1455', 'doi': '10.1016/j.concog.2012.04.014', 'openalex_id': None, 'pmid': None, 'citation_string': 'Migo, E. M., Mayes, A. R., & Montaldi, D. (2012). Measuring recollection and familiarity: Improving the remember/know procedure. *Consciousness and Cognition*, 21(3), 1435–1455.', 'url': 'https://doi.org/10.1016/j.concog.2012.04.014', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Bastin, C., Besson, G., Simon, J., Delhaye, E., Geurten, M., Willems, S., & Salmon, E.', 'year': 2019, 'title': 'An integrative memory model of recollection and familiarity to understand memory deficits', 'venue': 'Behavioral and Brain Sciences', 'venue_type': 'journal', 'journal': 'Behavioral and Brain Sciences', 'volume': '42', 'issue': None, 'pages': None, 'doi': '10.1017/s0140525x19000621', 'openalex_id': None, 'pmid': None, 'citation_string': 'Bastin, C., Besson, G., Simon, J., Delhaye, E., Geurten, M., Willems, S., & Salmon, E. (2019). An integrative memory model of recollection and familiarity to understand memory deficits. *Behavioral and Brain Sciences*, 42, e281.', 'url': 'https://doi.org/10.1017/s0140525x19000621', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

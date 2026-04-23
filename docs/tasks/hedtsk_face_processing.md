@@ -1,4 +1,5 @@
 (hedtsk_face_processing)=
+
 # Face Processing Task
 
 **HED Task ID:** `hedtsk_face_processing`
@@ -14,9 +15,10 @@ The FFA Localizer presents alternating blocks of faces and non-face objects (hou
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Blocks of faces alternate with blocks of non-face objects (houses, scrambled images) while participants perform a simple repetition-detection task. The contrast localizes face-selective cortex.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The FFA Localizer presents alternating blocks of faces and non-face objects (hou
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -79,4 +82,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Weiner, K. S., & Grill-Spector, K.', 'year': 2012, 'title': 'The improbable simplicity of the fusiform face area', 'venue': 'Trends in Cognitive Sciences', 'venue_type': 'journal', 'journal': 'Trends in Cognitive Sciences', 'volume': '16', 'issue': '5', 'pages': '251-254', 'doi': '10.1016/j.tics.2012.03.003', 'openalex_id': None, 'pmid': None, 'citation_string': 'Weiner, K. S., & Grill-Spector, K. (2012). The improbable simplicity of the fusiform face area. *Trends in Cognitive Sciences*, 16(5), 251–254.', 'url': 'https://doi.org/10.1016/j.tics.2012.03.003', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Pitcher, D., Walsh, V., & Duchaine, B.', 'year': 2011, 'title': 'The role of the occipital face area in the cortical face perception network', 'venue': 'Experimental Brain Research', 'venue_type': 'journal', 'journal': 'Experimental Brain Research', 'volume': '209', 'issue': '4', 'pages': '481-493', 'doi': '10.1007/s00221-011-2579-1', 'openalex_id': None, 'pmid': None, 'citation_string': 'Pitcher, D., Walsh, V., & Duchaine, B. (2011). The role of the occipital face area in the cortical face perception network. *Experimental Brain Research*, 209(4), 481–493.', 'url': 'https://doi.org/10.1007/s00221-011-2579-1', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Grill-Spector, K., Weiner, K. S., Kay, K., & Gomez, J.', 'year': 2017, 'title': 'The Functional Neuroanatomy of Human Face Perception', 'venue': 'Annual Review of Vision Science', 'venue_type': 'journal', 'journal': 'Annual Review of Vision Science', 'volume': '3', 'issue': '1', 'pages': '167-196', 'doi': '10.1146/annurev-vision-102016-061214', 'openalex_id': None, 'pmid': None, 'citation_string': 'Grill-Spector, K., Weiner, K. S., Kay, K., & Gomez, J. (2017). The functional neuroanatomy of human face perception. *Annual Review of Vision Science*, 3, 167–196.', 'url': 'https://doi.org/10.1146/annurev-vision-102016-061214', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

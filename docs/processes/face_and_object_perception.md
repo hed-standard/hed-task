@@ -4,15 +4,14 @@
 
 **Out of scope:** Faces and objects as *stimulus categories* — HED handles those on the stimulus axis.
 
-:::{note}
-**Open issues:** The non-visual perceptual rows (gustatory, olfactory, somatosensory) are grouped here pragmatically rather than because they belong with faces and objects. If a separate "Non-visual perception" category is ever needed, it would pull them out. For now the grouping reflects "perception of form across modalities".
-:::
+:::\{note} **Open issues:** The non-visual perceptual rows (gustatory, olfactory, somatosensory) are grouped here pragmatically rather than because they belong with faces and objects. If a separate "Non-visual perception" category is ever needed, it would pull them out. For now the grouping reflects "perception of form across modalities". :::
 
 This category contains 12 processes.
 
----
+______________________________________________________________________
 
 (hed-biological-motion-perception)=
+
 ## Biological motion perception
 
 **Process ID:** `hed_biological_motion_perception`
@@ -33,9 +32,10 @@ The following tasks engage this process:
 
 - Pavlova (2012) *Cerebral Cortex* 22:981–995
 
----
+______________________________________________________________________
 
 (hed-depth-perception)=
+
 ## Depth perception
 
 **Process ID:** `hed_depth_perception`
@@ -52,9 +52,10 @@ Perception of distance and three-dimensional structure from monocular and binocu
 
 - Parker (2007) *Nature Reviews Neuroscience* 8:379–391
 
----
+______________________________________________________________________
 
 (hed-face-identity-recognition)=
+
 ## Face identity recognition
 
 **Process ID:** `hed_face_identity_recognition`
@@ -75,9 +76,10 @@ The following tasks engage this process:
 
 - Duchaine & Yovel (2015) *Annual Review of Vision Science* 1:393–416
 
----
+______________________________________________________________________
 
 (hed-face-perception)=
+
 ## Face perception
 
 **Process ID:** `hed_face_perception`
@@ -102,9 +104,10 @@ The following tasks engage this process:
 
 - Tsao & Livingstone (2008) *Annual Review of Neuroscience* 31:411–437
 
----
+______________________________________________________________________
 
 (hed-gustatory-perception)=
+
 ## Gustatory perception
 
 **Process ID:** `hed_gustatory_perception`
@@ -119,9 +122,10 @@ Perception of taste qualities (sweet, sour, salty, bitter, umami).
 
 - Chandrashekar, Hoon, Ryba & Zuker (2006) *Nature* 444:288–294
 
----
+______________________________________________________________________
 
 (hed-motion-perception)=
+
 ## Motion perception
 
 **Process ID:** `hed_motion_perception`
@@ -143,9 +147,10 @@ The following tasks engage this process:
 
 - Nishida (2011) *Vision Research* 51:645–673
 
----
+______________________________________________________________________
 
 (hed-olfactory-perception)=
+
 ## Olfactory perception
 
 **Process ID:** `hed_olfactory_perception`
@@ -162,9 +167,10 @@ Perception of odor via the olfactory system.
 
 - Wilson & Sullivan (2011) *Neuron* 72:506–519
 
----
+______________________________________________________________________
 
 (hed-pattern-recognition)=
+
 ## Pattern recognition
 
 **Process ID:** `hed_pattern_recognition`
@@ -183,9 +189,10 @@ The following tasks engage this process:
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
----
+______________________________________________________________________
 
 (hed-somatosensory-perception)=
+
 ## Somatosensory perception
 
 **Process ID:** `hed_somatosensory_perception`
@@ -200,9 +207,10 @@ Perception of bodily sensations, including touch, proprioception, temperature, a
 
 - Abraira & Ginty (2013) *Neuron* 79:618–639
 
----
+______________________________________________________________________
 
 (hed-visual-form-recognition)=
+
 ## Visual form recognition
 
 **Process ID:** `hed_visual_form_recognition`
@@ -219,9 +227,10 @@ Assignment of visual input to a shape category prior to semantic identification.
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
----
+______________________________________________________________________
 
 (hed-visual-object-recognition)=
+
 ## Visual object recognition
 
 **Process ID:** `hed_visual_object_recognition`
@@ -240,9 +249,10 @@ The following tasks engage this process:
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
 
----
+______________________________________________________________________
 
 (hed-visual-perception)=
+
 ## Visual perception
 
 **Process ID:** `hed_visual_perception`
@@ -273,4 +283,3 @@ The following tasks engage this process:
 ### Recent references
 
 - Kravitz, Saleem, Baker, Ungerleider & Mishkin (2013) *Trends in Cognitive Sciences* 17:26–49
-

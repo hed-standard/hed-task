@@ -1,4 +1,5 @@
 (hedtsk_judgment_of_learning)=
+
 # Judgment-of-Learning Task
 
 **HED Task ID:** `hedtsk_judgment_of_learning`
@@ -14,9 +15,10 @@ The Judgment-of-Learning task measures the accuracy of metacognitive predictions
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants study items (typically word pairs), then predict the likelihood of recalling each item on a future test; a subsequent recall test assesses prediction accuracy.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Judgment-of-Learning task measures the accuracy of metacognitive predictions
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -75,4 +78,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Undorf, M., & Erdfelder, E.', 'year': 2015, 'title': 'The relatedness effect on judgments of learning: A closer look at the contribution of processing fluency', 'venue': 'Memory & Cognition', 'venue_type': 'journal', 'journal': 'Memory & Cognition', 'volume': '43', 'issue': '3', 'pages': '480-493', 'doi': None, 'openalex_id': None, 'pmid': None, 'citation_string': 'Undorf, M., & Erdfelder, E. (2015). The relatedness effect on judgments of learning: A closer look at the contribution of processing fluency. *Memory & Cognition*, 43(3), 480-493.', 'url': None, 'source': 'unresolved', 'confidence': 'none', 'verified_on': '2026-04-20'}
 - {'authors': 'Soderstrom, N. C., & Bjork, R. A.', 'year': 2015, 'title': 'Learning Versus Performance', 'venue': 'Perspectives on Psychological Science', 'venue_type': 'journal', 'journal': 'Perspectives on Psychological Science', 'volume': '10', 'issue': '2', 'pages': '176-199', 'doi': '10.1177/1745691615569000', 'openalex_id': None, 'pmid': None, 'citation_string': 'Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. *Perspectives on Psychological Science*, 10(2), 176-199.', 'url': 'https://doi.org/10.1177/1745691615569000', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Double, K. S., & Birney, D. P.', 'year': 2018, 'title': 'Reactivity to confidence ratings in older individuals performing the latin square task', 'venue': 'Metacognition and Learning', 'venue_type': 'journal', 'journal': 'Metacognition and Learning', 'volume': '13', 'issue': '3', 'pages': '309-326', 'doi': '10.1007/s11409-018-9186-5', 'openalex_id': None, 'pmid': None, 'citation_string': 'Double, K. S., Birney, D. P., & Walker, S. A. (2018). A meta-analysis and systematic review of reactivity to judgments of learning. *Memory*, 26(6), 741-750.', 'url': 'https://doi.org/10.1007/s11409-018-9186-5', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

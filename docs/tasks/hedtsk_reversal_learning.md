@@ -1,4 +1,5 @@
 (hedtsk_reversal_learning)=
+
 # Reversal Learning Task
 
 **HED Task ID:** `hedtsk_reversal_learning`
@@ -14,9 +15,10 @@ Participants learn a stimulus-outcome association (e.g., stimulus A is rewarded,
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants learn to choose the rewarded stimulus over an unrewarded one. After reaching criterion, contingencies reverse — the previously correct stimulus becomes incorrect and vice versa.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants learn a stimulus-outcome association (e.g., stimulus A is rewarded,
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -71,11 +74,10 @@ This task engages the following cognitive processes:
 ## Recent references
 
 - {'authors': 'Izquierdo, A., Brigman, J., Radke, A., Rudebeck, P., & Holmes, A.', 'year': 2017, 'title': 'The neural basis of reversal learning: An updated perspective', 'venue': 'Neuroscience', 'venue_type': 'journal', 'journal': 'Neuroscience', 'volume': '345', 'issue': None, 'pages': '12-26', 'doi': '10.1016/j.neuroscience.2016.03.021', 'openalex_id': None, 'pmid': None, 'citation_string': 'Izquierdo, A., Brigman, J. L., Bhatt, D. K., et al. (2017). The neural basis of reversal learning: An updated perspective. *Neuroscience*, 345, 12–26.', 'url': 'https://doi.org/10.1016/j.neuroscience.2016.03.021', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'den\xa0Ouden, H. E., Daw, N. D., Fernandez, G., Elshout, J. A., Rijpkema, M., Hoogman, M., Franke, B., & Cools, R.', 'year': 2013, 'title': 'Dissociable Effects of Dopamine and Serotonin on Reversal Learning', 'venue': 'Neuron', 'venue_type': 'journal', 'journal': 'Neuron', 'volume': '80', 'issue': '4', 'pages': '1090-1100', 'doi': '10.1016/j.neuron.2013.08.030', 'openalex_id': None, 'pmid': None, 'citation_string': 'den Ouden, H. E. M., Daw, N. D., Fernandez, G., et al. (2013). Dissociable effects of dopamine and serotonin on reversal learning. *Neuron*, 80(4), 1090–1100.', 'url': 'https://doi.org/10.1016/j.neuron.2013.08.030', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'den\\xa0Ouden, H. E., Daw, N. D., Fernandez, G., Elshout, J. A., Rijpkema, M., Hoogman, M., Franke, B., & Cools, R.', 'year': 2013, 'title': 'Dissociable Effects of Dopamine and Serotonin on Reversal Learning', 'venue': 'Neuron', 'venue_type': 'journal', 'journal': 'Neuron', 'volume': '80', 'issue': '4', 'pages': '1090-1100', 'doi': '10.1016/j.neuron.2013.08.030', 'openalex_id': None, 'pmid': None, 'citation_string': 'den Ouden, H. E. M., Daw, N. D., Fernandez, G., et al. (2013). Dissociable effects of dopamine and serotonin on reversal learning. *Neuron*, 80(4), 1090–1100.', 'url': 'https://doi.org/10.1016/j.neuron.2013.08.030', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Schlagenhauf, F., Huys, Q. J., Deserno, L., Rapp, M. A., Beck, A., Heinze, H., Dolan, R., & Heinz, A.', 'year': 2014, 'title': 'Striatal dysfunction during reversal learning in unmedicated schizophrenia patients', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '89', 'issue': None, 'pages': '171-180', 'doi': '10.1016/j.neuroimage.2013.11.034', 'openalex_id': None, 'pmid': None, 'citation_string': 'Schlagenhauf, F., Huys, Q. J. M., Deserno, L., Rapp, M. A., Beck, A., Heinze, H. J., Dolan, R., & Heinz, A. (2014). Striatal dysfunction during reversal learning in unmedicated schizophrenia patients. *NeuroImage*, 89, 171–180.', 'url': 'https://doi.org/10.1016/j.neuroimage.2013.11.034', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Costa, V. D., Tran, V. L., Turchi, J., & Averbeck, B. B.', 'year': 2015, 'title': 'Reversal Learning and Dopamine: A Bayesian Perspective', 'venue': 'The Journal of Neuroscience', 'venue_type': 'journal', 'journal': 'The Journal of Neuroscience', 'volume': '35', 'issue': '6', 'pages': '2407-2416', 'doi': '10.1523/jneurosci.1989-14.2015', 'openalex_id': None, 'pmid': None, 'citation_string': 'Costa, V. D., Tran, V. L., Turchi, J., & Averbeck, B. B. (2015). Reversal learning and dopamine: A Bayesian perspective. *Journal of Neuroscience*, 35(6), 2407–2416.', 'url': 'https://doi.org/10.1523/jneurosci.1989-14.2015', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d4e)
-

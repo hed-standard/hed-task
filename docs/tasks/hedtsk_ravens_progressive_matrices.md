@@ -1,4 +1,5 @@
 (hedtsk_ravens_progressive_matrices)=
+
 # Raven's Progressive Matrices Task
 
 **HED Task ID:** `hedtsk_ravens_progressive_matrices`
@@ -14,9 +15,10 @@ Participants view a matrix pattern with a missing element and select the correct
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants view a 3×3 matrix of geometric patterns with one cell missing and select the pattern that completes the matrix from a set of alternatives.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view a matrix pattern with a missing element and select the correct
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -81,4 +84,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Kievit, R. A., Davis, S. W., Griffiths, J., Correia, M. M., Cam-CAN, & Henson, R. N.', 'year': 2016, 'title': 'A watershed model of individual differences in fluid intelligence', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '91', 'issue': None, 'pages': '186-198', 'doi': '10.1016/j.neuropsychologia.2016.08.008', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kievit, R. A., Davis, S. W., Griffiths, J., Correia, M. M., Cam-CAN, & Henson, R. N. (2016). A watershed model of individual differences in fluid intelligence. *Neuropsychologia*, 91, 186–198.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2016.08.008', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Matzen, L. E., Benz, Z. O., Dixon, K. R., Posey, J., Kroger, J. K., & Speed, A. E.', 'year': 2010, 'title': 'Recreating Raven’s: Software for systematically generating large numbers of Raven-like matrix problems with normed properties', 'venue': 'Behavior Research Methods', 'venue_type': 'journal', 'journal': 'Behavior Research Methods', 'volume': '42', 'issue': '2', 'pages': '525-541', 'doi': '10.3758/brm.42.2.525', 'openalex_id': None, 'pmid': None, 'citation_string': "Matzen, L. E., Benz, Z. O., Dixon, K. R., Posey, J., Kroger, J. K., & Speed, A. E. (2010). Recreating Raven's: Software for systematically generating large numbers of Raven-like matrix problems with normed properties. *Behavior Research Methods*, 42(2), 525–541.", 'url': 'https://doi.org/10.3758/brm.42.2.525', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Hayes, T. R., Petrov, A. A., & Sederberg, P. B.', 'year': 2015, 'title': 'Do we really become smarter when our fluid-intelligence test scores improve?', 'venue': 'Intelligence', 'venue_type': 'journal', 'journal': 'Intelligence', 'volume': '48', 'issue': None, 'pages': '1-14', 'doi': '10.1016/j.intell.2014.10.005', 'openalex_id': None, 'pmid': None, 'citation_string': 'Hayes, T. R., Petrov, A. A., & Sederberg, P. B. (2015). Do we really become smarter when our fluid-intelligence test scores improve? *Intelligence*, 48, 1–14.', 'url': 'https://doi.org/10.1016/j.intell.2014.10.005', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

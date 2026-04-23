@@ -1,4 +1,5 @@
 (hedtsk_operation_span)=
+
 # Operation Span Task
 
 **HED Task ID:** `hedtsk_operation_span`
@@ -14,9 +15,10 @@ The Operation Span Task is a complex span measure of working memory capacity. Pa
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants alternate between processing a distractor task (verifying math equations) and remembering items (letters or words). At the end of each set, they recall items in order.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Operation Span Task is a complex span measure of working memory capacity. Pa
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -79,4 +82,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_551f0a5c1e154)
-

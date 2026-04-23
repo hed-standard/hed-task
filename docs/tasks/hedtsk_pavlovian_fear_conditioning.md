@@ -1,4 +1,5 @@
 (hedtsk_pavlovian_fear_conditioning)=
+
 # Pavlovian Fear Conditioning Task
 
 **HED Task ID:** `hedtsk_pavlovian_fear_conditioning`
@@ -14,9 +15,10 @@ A neutral conditioned stimulus (CS; auditory tone or visual cue) is paired with 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants view a neutral stimulus (CS+) paired with an aversive unconditioned stimulus (US, typically mild shock or loud noise); another stimulus (CS−) is never paired. Acquisition is followed by extinction (CS+ presented without US).
 * - **Manipulation**
@@ -28,9 +30,10 @@ A neutral conditioned stimulus (CS; auditory tone or visual cue) is paired with 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -99,4 +102,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c898acd1f28e)
-

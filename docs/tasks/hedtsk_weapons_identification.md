@@ -1,4 +1,5 @@
 (hedtsk_weapons_identification)=
+
 # Weapons Identification Task
 
 **HED Task ID:** `hedtsk_weapons_identification`
@@ -14,9 +15,10 @@ Participants view face primes (typically Black and White faces, presented briefl
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A face (Black or White) is flashed briefly, followed by an object (weapon or tool); participants classify the object. Racial bias is indexed by differential accuracy or speed.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view face primes (typically Black and White faces, presented briefl
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -65,4 +68,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Correll, J., Park, B., Judd, C. M., & Wittenbrink, B.', 'year': 2002, 'title': "The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals.", 'venue': 'Journal of Personality and Social Psychology', 'venue_type': 'journal', 'journal': 'Journal of Personality and Social Psychology', 'volume': '83', 'issue': '6', 'pages': '1314-1329', 'doi': '10.1037/0022-3514.83.6.1314', 'openalex_id': None, 'pmid': None, 'citation_string': "Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals. *Journal of Personality and Social Psychology*, 83(6), 1314–1329.", 'url': 'https://doi.org/10.1037/0022-3514.83.6.1314', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Amodio, D. M., & Cikara, M.', 'year': 2021, 'title': 'The Social Neuroscience of Prejudice', 'venue': 'Annual Review of Psychology', 'venue_type': 'journal', 'journal': 'Annual Review of Psychology', 'volume': '72', 'issue': '1', 'pages': '439-469', 'doi': '10.1146/annurev-psych-010419-050928', 'openalex_id': None, 'pmid': None, 'citation_string': 'Amodio, D. M., & Cikara, M. (2021). The social neuroscience of prejudice. *Annual Review of Psychology*, 72, 439–469.', 'url': 'https://doi.org/10.1146/annurev-psych-010419-050928', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Correll, J., Hudson, S. M., Guillermo, S., & Ma, D. S.', 'year': 2014, 'title': "The Police Officer's Dilemma: A Decade of Research on Racial Bias in the Decision to Shoot", 'venue': 'Social and Personality Psychology Compass', 'venue_type': 'journal', 'journal': 'Social and Personality Psychology Compass', 'volume': '8', 'issue': '5', 'pages': '201-213', 'doi': '10.1111/spc3.12099', 'openalex_id': None, 'pmid': None, 'citation_string': "Correll, J., Hudson, S. M., Guillermo, S., & Ma, D. S. (2014). The police officer's dilemma: A decade of research on racial bias in the decision to shoot. *Social and Personality Psychology Compass*, 8(5), 201–213.", 'url': 'https://doi.org/10.1111/spc3.12099', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

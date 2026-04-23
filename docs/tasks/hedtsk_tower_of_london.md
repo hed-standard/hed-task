@@ -1,4 +1,5 @@
 (hedtsk_tower_of_london)=
+
 # Tower of London Task
 
 **HED Task ID:** `hedtsk_tower_of_london`
@@ -14,9 +15,10 @@ The Tower of London Task is a planning and problem-solving task. Participants ar
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Three pegs hold colored discs in a start configuration; participants move discs one at a time to reach a goal configuration in the minimum number of moves.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Tower of London Task is a planning and problem-solving task. Participants ar
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -73,11 +76,10 @@ This task engages the following cognitive processes:
 ## Recent references
 
 - {'authors': 'Kaller, C. P., Heinze, K., Frenkel, A., Läppchen, C. H., Unterrainer, J. M., Weiller, C., Lange, R., & Rahm, B.', 'year': 2011, 'title': 'Differential impact of continuous theta‐burst stimulation over left and right DLPFC on planning', 'venue': 'Human Brain Mapping', 'venue_type': 'journal', 'journal': 'Human Brain Mapping', 'volume': '34', 'issue': '1', 'pages': '36-51', 'doi': '10.1002/hbm.21423', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kaller, C. P., Rahm, B., Spreer, J., Weiller, C., & Unterrainer, J. M. (2011). Dissociable contributions of left and right dorsolateral prefrontal cortex in planning. *Cerebral Cortex*, 21(2), 307–317.', 'url': 'https://doi.org/10.1002/hbm.21423', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Andrés, P.', 'year': 2003, 'title': 'Frontal cortex as the central executive of working memory: Time to revise our view', 'venue': 'Cortex', 'venue_type': 'journal', 'journal': 'Cortex', 'volume': '39', 'issue': None, 'pages': None, 'doi': None, 'openalex_id': None, 'pmid': None, 'citation_string': 'Andrés, P. (2003). Frontal cortex as the central executive of working memory: Time to revise our view. *Cortex*, 39(4-5), 871–895. [Updated context: Newman, L. M., et al. (2021). Planning and tower tasks: A systematic review and meta-analysis of structural neuroimaging. *NeuroImage: Clinical*, 30, 102662.]', 'url': None, 'source': 'unresolved', 'confidence': 'none', 'verified_on': '2026-04-20'}
+- {'authors': 'Andrés, P.', 'year': 2003, 'title': 'Frontal cortex as the central executive of working memory: Time to revise our view', 'venue': 'Cortex', 'venue_type': 'journal', 'journal': 'Cortex', 'volume': '39', 'issue': None, 'pages': None, 'doi': None, 'openalex_id': None, 'pmid': None, 'citation_string': 'Andrés, P. (2003). Frontal cortex as the central executive of working memory: Time to revise our view. *Cortex*, 39(4-5), 871–895. \[Updated context: Newman, L. M., et al. (2021). Planning and tower tasks: A systematic review and meta-analysis of structural neuroimaging. *NeuroImage: Clinical*, 30, 102662.\]', 'url': None, 'source': 'unresolved', 'confidence': 'none', 'verified_on': '2026-04-20'}
 - {'authors': 'Köstering, L., Schmidt, C. S., Egger, K., Amtage, F., Peter, J., Klöppel, S., Beume, L., Hoeren, M., Weiller, C., & Kaller, C. P.', 'year': 2015, 'title': 'Assessment of planning performance in clinical samples: Reliability and validity of the Tower of London task (TOL-F)', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '75', 'issue': None, 'pages': '646-655', 'doi': '10.1016/j.neuropsychologia.2015.07.017', 'openalex_id': None, 'pmid': None, 'citation_string': 'Köstering, L., Nitschke, K., Schumacher, F. K., et al. (2015). Assessment of planning performance in clinical samples: Reliability and validity of the Tower of London task (TOL-F). *Neuropsychologia*, 75, 646–655.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2015.07.017', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Unterrainer, J., Rahm, B., Kaller, C., Leonhart, R., Quiske, K., Hoppe-Seyler, K., Meier, C., Müller, C., & Halsband, U.', 'year': 2004, 'title': 'Planning Abilities and the Tower of London: Is This Task Measuring a Discrete Cognitive Function?', 'venue': 'Journal of Clinical and Experimental Neuropsychology', 'venue_type': 'journal', 'journal': 'Journal of Clinical and Experimental Neuropsychology', 'volume': '26', 'issue': '6', 'pages': '846-856', 'doi': '10.1080/13803390490509574', 'openalex_id': None, 'pmid': None, 'citation_string': 'Unterrainer, J. M., Rahm, B., Kaller, C. P., et al. (2004). Planning abilities and the Tower of London: Is this task measuring a discrete cognitive function? *Journal of Clinical and Experimental Neuropsychology*, 26(6), 846–856. [Updated: Ward, G., & Morris, R. (2005). Introduction to the psychology of planning. In *The Cognitive Psychology of Planning* (pp. 1–34). Psychology Press.]', 'url': 'https://doi.org/10.1080/13803390490509574', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Unterrainer, J., Rahm, B., Kaller, C., Leonhart, R., Quiske, K., Hoppe-Seyler, K., Meier, C., Müller, C., & Halsband, U.', 'year': 2004, 'title': 'Planning Abilities and the Tower of London: Is This Task Measuring a Discrete Cognitive Function?', 'venue': 'Journal of Clinical and Experimental Neuropsychology', 'venue_type': 'journal', 'journal': 'Journal of Clinical and Experimental Neuropsychology', 'volume': '26', 'issue': '6', 'pages': '846-856', 'doi': '10.1080/13803390490509574', 'openalex_id': None, 'pmid': None, 'citation_string': 'Unterrainer, J. M., Rahm, B., Kaller, C. P., et al. (2004). Planning abilities and the Tower of London: Is this task measuring a discrete cognitive function? *Journal of Clinical and Experimental Neuropsychology*, 26(6), 846–856. \[Updated: Ward, G., & Morris, R. (2005). Introduction to the psychology of planning. In *The Cognitive Psychology of Planning* (pp. 1–34). Psychology Press.\]', 'url': 'https://doi.org/10.1080/13803390490509574', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4da87e439c411)
-

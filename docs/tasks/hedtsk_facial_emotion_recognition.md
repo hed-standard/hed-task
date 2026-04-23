@@ -1,4 +1,5 @@
 (hedtsk_facial_emotion_recognition)=
+
 # Facial Emotion Recognition Task
 
 **HED Task ID:** `hedtsk_facial_emotion_recognition`
@@ -14,9 +15,10 @@ Participants view photographs of facial expressions (typically from the Ekman an
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants view face photographs displaying basic emotions and identify the expressed emotion from a fixed set (happy, sad, angry, fearful, disgusted, surprised, neutral).
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants view photographs of facial expressions (typically from the Ekman an
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -79,9 +82,8 @@ This task engages the following cognitive processes:
 - {'authors': 'Calvo, M., & Gutiérrez-García, A.', 'year': 2016, 'title': 'Cognition and Stress', 'venue': 'Stress: Concepts, Cognition, Emotion, and Behavior', 'venue_type': 'book_chapter', 'journal': None, 'volume': '30', 'issue': '6', 'pages': '139-144', 'doi': '10.1016/b978-0-12-800951-2.00016-9', 'openalex_id': None, 'pmid': None, 'citation_string': 'Calvo, M. G., & Nummenmaa, L. (2016). Perceptual and affective mechanisms in facial expression recognition: An integrative review. *Cognition and Emotion*, 30(6), 1081–1106.', 'url': 'https://doi.org/10.1016/b978-0-12-800951-2.00016-9', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Kret, M., & De Gelder, B.', 'year': 2012, 'title': 'A review on sex differences in processing emotional signals', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '50', 'issue': '7', 'pages': '1211-1221', 'doi': '10.1016/j.neuropsychologia.2011.12.022', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kret, M. E., & De Gelder, B. (2012). A review on sex differences in processing emotional signals. *Neuropsychologia*, 50(7), 1211–1221.', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2011.12.022', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Dobs, K., Isik, L., Pantazis, D., & Kanwisher, N.', 'year': 2019, 'title': 'How face perception unfolds over time', 'venue': 'Nature Communications', 'venue_type': 'journal', 'journal': 'Nature Communications', 'volume': '10', 'issue': '1', 'pages': None, 'doi': '10.1038/s41467-019-09239-1', 'openalex_id': None, 'pmid': None, 'citation_string': 'Dobs, K., Isik, L., Pantazis, D., & Kanwisher, N. (2019). How face perception unfolds over time. *Nature Communications*, 10(1), 1258.', 'url': 'https://doi.org/10.1038/s41467-019-09239-1', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Palermo, R., & Rhodes, G.', 'year': 2007, 'title': 'Are you always on my mind? A review of how face perception and attention interact', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '45', 'issue': '1', 'pages': '75-92', 'doi': '10.1016/j.neuropsychologia.2006.04.025', 'openalex_id': None, 'pmid': None, 'citation_string': 'Palermo, R., & Rhodes, G. (2007). Are you always on my mind? A review of how face perception and attention interact. *Neuropsychologia*, 45(1), 75–92. [Updated: Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M., & Pollak, S. D. (2019). Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements. *Psychological Science in the Public Interest*, 20(1), 1–68.]', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2006.04.025', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Palermo, R., & Rhodes, G.', 'year': 2007, 'title': 'Are you always on my mind? A review of how face perception and attention interact', 'venue': 'Neuropsychologia', 'venue_type': 'journal', 'journal': 'Neuropsychologia', 'volume': '45', 'issue': '1', 'pages': '75-92', 'doi': '10.1016/j.neuropsychologia.2006.04.025', 'openalex_id': None, 'pmid': None, 'citation_string': 'Palermo, R., & Rhodes, G. (2007). Are you always on my mind? A review of how face perception and attention interact. *Neuropsychologia*, 45(1), 75–92. \[Updated: Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M., & Pollak, S. D. (2019). Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements. *Psychological Science in the Public Interest*, 20(1), 1–68.\]', 'url': 'https://doi.org/10.1016/j.neuropsychologia.2006.04.025', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_50f734f86b11a)
-

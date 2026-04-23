@@ -1,4 +1,5 @@
 (hedtsk_oddball)=
+
 # Oddball Task
 
 **HED Task ID:** `hedtsk_oddball`
@@ -14,9 +15,10 @@ Participants are presented with a stimulus stream containing frequent standard s
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - A sequence of frequent standard stimuli is occasionally interrupted by rare target (and sometimes novel) stimuli; participants count or respond to targets.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants are presented with a stimulus stream containing frequent standard s
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -82,11 +85,10 @@ This task engages the following cognitive processes:
 ## Recent references
 
 - {'authors': 'Polich, J.', 'year': 2007, 'title': 'Updating P300: An integrative theory of P3a and P3b', 'venue': 'Clinical Neurophysiology', 'venue_type': 'journal', 'journal': 'Clinical Neurophysiology', 'volume': '118', 'issue': '10', 'pages': '2128-2148', 'doi': '10.1016/j.clinph.2007.04.019', 'openalex_id': None, 'pmid': None, 'citation_string': 'Polich, J. (2007). Updating P300: An integrative theory of P3a and P3b. *Clinical Neurophysiology*, 118(10), 2128–2148.', 'url': 'https://doi.org/10.1016/j.clinph.2007.04.019', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Linden, D. E. J.', 'year': 2005, 'title': 'The P300: Where in the Brain Is It Produced and What Does It Tell Us?', 'venue': 'The Neuroscientist', 'venue_type': 'journal', 'journal': 'The Neuroscientist', 'volume': '11', 'issue': '6', 'pages': '563-576', 'doi': '10.1177/1073858405280524', 'openalex_id': None, 'pmid': None, 'citation_string': 'Linden, D. E. J. (2005). The P300: Where in the brain is it produced and what does it tell us? *Neuroscientist*, 11(6), 563–576. [Updated: Bledowski, C., et al. (2004). Localizing P300 generators in visual target and distractor processing: A combined event-related potential and functional magnetic resonance imaging study. *Journal of Neuroscience*, 24(42), 9353–9360.]', 'url': 'https://doi.org/10.1177/1073858405280524', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Linden, D. E. J.', 'year': 2005, 'title': 'The P300: Where in the Brain Is It Produced and What Does It Tell Us?', 'venue': 'The Neuroscientist', 'venue_type': 'journal', 'journal': 'The Neuroscientist', 'volume': '11', 'issue': '6', 'pages': '563-576', 'doi': '10.1177/1073858405280524', 'openalex_id': None, 'pmid': None, 'citation_string': 'Linden, D. E. J. (2005). The P300: Where in the brain is it produced and what does it tell us? *Neuroscientist*, 11(6), 563–576. \[Updated: Bledowski, C., et al. (2004). Localizing P300 generators in visual target and distractor processing: A combined event-related potential and functional magnetic resonance imaging study. *Journal of Neuroscience*, 24(42), 9353–9360.\]', 'url': 'https://doi.org/10.1177/1073858405280524', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': "Twomey, D. M., Murphy, P. R., Kelly, S. P., & O'Connell, R. G.", 'year': 2015, 'title': 'The classic P300 encodes a build‐to‐threshold decision variable', 'venue': 'European Journal of Neuroscience', 'venue_type': 'journal', 'journal': 'European Journal of Neuroscience', 'volume': '42', 'issue': '1', 'pages': '1636-1643', 'doi': '10.1111/ejn.12936', 'openalex_id': None, 'pmid': None, 'citation_string': "Twomey, D. M., Murphy, P. R., Kelly, S. P., & O'Connell, R. G. (2015). The classic P300 encodes a build-to-threshold decision variable. *European Journal of Neuroscience*, 42(1), 1636–1643.", 'url': 'https://doi.org/10.1111/ejn.12936', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': "Kelly, S. P., & O'Connell, R. G.", 'year': 2013, 'title': 'Internal and External Influences on the Rate of Sensory Evidence Accumulation in the Human Brain', 'venue': 'The Journal of Neuroscience', 'venue_type': 'journal', 'journal': 'The Journal of Neuroscience', 'volume': '33', 'issue': '50', 'pages': '19434-19441', 'doi': '10.1523/jneurosci.3355-13.2013', 'openalex_id': None, 'pmid': None, 'citation_string': "Kelly, S. P., & O'Connell, R. G. (2013). Internal and external influences on the rate of sensory evidence accumulation in the human brain. *Journal of Neuroscience*, 33(50), 19434–19441.", 'url': 'https://doi.org/10.1523/jneurosci.3355-13.2013', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949bf6)
-

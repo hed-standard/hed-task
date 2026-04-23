@@ -1,4 +1,5 @@
 (hedtsk_false_belief)=
+
 # False Belief Task
 
 **HED Task ID:** `hedtsk_false_belief`
@@ -14,9 +15,10 @@ The False Belief Task assesses the ability to attribute mental states to others 
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants hear or read vignettes in which a character holds a belief that conflicts with reality (e.g., Sally-Anne scenario), then predict the character's behavior.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The False Belief Task assesses the ability to attribute mental states to others 
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -89,11 +92,10 @@ This task engages the following cognitive processes:
 - {'authors': 'Schurz, M., Radua, J., Aichhorn, M., Richlan, F., & Perner, J.', 'year': 2014, 'title': 'Fractionating theory of mind: A meta-analysis of functional brain imaging studies', 'venue': 'Neuroscience & Biobehavioral Reviews', 'venue_type': 'journal', 'journal': 'Neuroscience & Biobehavioral Reviews', 'volume': '42', 'issue': None, 'pages': '9-34', 'doi': '10.1016/j.neubiorev.2014.01.009', 'openalex_id': None, 'pmid': None, 'citation_string': 'Schurz, M., Radua, J., Aichhorn, M., Richlan, F., & Perner, J. (2014). Fractionating theory of mind: A meta-analysis of functional brain imaging studies. *Neuroscience & Biobehavioral Reviews*, 42, 9–34.', 'url': 'https://doi.org/10.1016/j.neubiorev.2014.01.009', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Apperly, I. A.', 'year': 2012, 'title': 'What is “theory of mind”? Concepts, cognitive processes and individual differences', 'venue': 'Quarterly Journal of Experimental Psychology', 'venue_type': 'journal', 'journal': 'Quarterly Journal of Experimental Psychology', 'volume': '65', 'issue': '5', 'pages': '825-839', 'doi': '10.1080/17470218.2012.676055', 'openalex_id': None, 'pmid': None, 'citation_string': 'Apperly, I. A. (2012). What is "theory of mind"? Concepts, cognitive processes and individual differences. *Quarterly Journal of Experimental Psychology*, 65(5), 825–839.', 'url': 'https://doi.org/10.1080/17470218.2012.676055', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Wellman, H. M., Cross, D., & Watson, J.', 'year': 2001, 'title': 'Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief', 'venue': 'Child Development', 'venue_type': 'journal', 'journal': 'Child Development', 'volume': '72', 'issue': '3', 'pages': '655-684', 'doi': '10.1111/1467-8624.00304', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655–684.', 'url': 'https://doi.org/10.1111/1467-8624.00304', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-- {'authors': 'Onishi, K. H., & Baillargeon, R.', 'year': 2005, 'title': 'Do 15-Month-Old Infants Understand False Beliefs?', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '308', 'issue': '5719', 'pages': '255-258', 'doi': '10.1126/science.1107621', 'openalex_id': None, 'pmid': None, 'citation_string': 'Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? *Science*, 308(5719), 255–258. [Updated: Baillargeon, R., Scott, R. M., & Bian, L. (2016). Psychological reasoning in infancy. *Annual Review of Psychology*, 67, 159–186.]', 'url': 'https://doi.org/10.1126/science.1107621', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Onishi, K. H., & Baillargeon, R.', 'year': 2005, 'title': 'Do 15-Month-Old Infants Understand False Beliefs?', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '308', 'issue': '5719', 'pages': '255-258', 'doi': '10.1126/science.1107621', 'openalex_id': None, 'pmid': None, 'citation_string': 'Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? *Science*, 308(5719), 255–258. \[Updated: Baillargeon, R., Scott, R. M., & Bian, L. (2016). Psychological reasoning in infancy. *Annual Review of Psychology*, 67, 159–186.\]', 'url': 'https://doi.org/10.1126/science.1107621', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Apperly, I. A., & Butterfill, S. A.', 'year': 2009, 'title': 'Do humans have two systems to track beliefs and belief-like states?', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '116', 'issue': '4', 'pages': '953-970', 'doi': '10.1037/a0016923', 'openalex_id': None, 'pmid': None, 'citation_string': 'Apperly, I. A., & Butterfill, S. A. (2009). Do humans have two systems to track beliefs and belief-like states? *Psychological Review*, 116(4), 953–970.', 'url': 'https://doi.org/10.1037/a0016923', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Kulke, L., & Rakoczy, H.', 'year': 2018, 'title': 'Implicit Theory of Mind – An overview of current replications and non-replications', 'venue': 'Data in Brief', 'venue_type': 'journal', 'journal': 'Data in Brief', 'volume': '16', 'issue': None, 'pages': '101-104', 'doi': '10.1016/j.dib.2017.11.016', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kulke, L., & Rakoczy, H. (2018). Implicit Theory of Mind: An overview of current replications and non-replications. *Data in Brief*, 16, 101–104.', 'url': 'https://doi.org/10.1016/j.dib.2017.11.016', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f2456027809f)
-

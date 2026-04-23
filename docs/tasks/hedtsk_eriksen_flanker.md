@@ -1,4 +1,5 @@
 (hedtsk_eriksen_flanker)=
+
 # Eriksen Flanker Task
 
 **HED Task ID:** `hedtsk_eriksen_flanker`
@@ -14,9 +15,10 @@ The Eriksen Flanker Task measures selective attention and the ability to inhibit
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants identify a central target (arrow or letter) flanked by congruent, incongruent, or neutral distractors.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Eriksen Flanker Task measures selective attention and the ability to inhibit
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -83,4 +86,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4c898a20eb254)
-

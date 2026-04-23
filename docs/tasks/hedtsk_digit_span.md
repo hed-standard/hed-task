@@ -1,4 +1,5 @@
 (hedtsk_digit_span)=
+
 # Digit Span Task
 
 **HED Task ID:** `hedtsk_digit_span`
@@ -14,9 +15,10 @@ The Digit Span task measures verbal short-term and working memory capacity. In t
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Sequences of digits are presented at a rate of one per second; participants reproduce the sequence in forward, backward, or sequencing order. Length increases until two consecutive failures.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Digit Span task measures verbal short-term and working memory capacity. In t
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -91,4 +94,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949a0d)
-

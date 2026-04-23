@@ -4,21 +4,18 @@
 
 **Out of scope:** Reward learning (Associative Learning and Reinforcement).
 
-:::{note}
-**Open issues:** None open.
-:::
+:::\{note} **Open issues:** None open. :::
 
-:::{admonition} Category history
-:class: dropdown
+:::\{admonition} Category history :class: dropdown
 
-Two valuation rows added during 2026-04-15: Valuation, Choice commitment. A duplicate `Value-based decision making` tail entry introduced by an earlier aborted edit was removed from `process_reference.md` on 2026-04-17.
-:::
+Two valuation rows added during 2026-04-15: Valuation, Choice commitment. A duplicate `Value-based decision making` tail entry introduced by an earlier aborted edit was removed from `process_reference.md` on 2026-04-17. :::
 
 This category contains 7 processes.
 
----
+______________________________________________________________________
 
 (hed-choice-commitment)=
+
 ## Choice commitment
 
 **Process ID:** `hed_choice_commitment`
@@ -37,9 +34,10 @@ The act of locking in a selected option once accumulated evidence or value cross
 - Gold JI & Shadlen MN (2007) *Annual Review of Neuroscience* 30:535-574
 - Ratcliff R, Smith PL, Brown SD & McKoon G (2016) *Trends in Cognitive Sciences* 20:260-281
 
----
+______________________________________________________________________
 
 (hed-delay-discounting)=
+
 ## Delay discounting
 
 **Process ID:** `hed_delay_discounting`
@@ -56,9 +54,10 @@ The following tasks engage this process:
 
 - Peters & Büchel (2011) *Trends in Cognitive Sciences* 15:227–239
 
----
+______________________________________________________________________
 
 (hed-intertemporal-choice)=
+
 ## Intertemporal choice
 
 **Process ID:** `hed_intertemporal_choice`
@@ -79,9 +78,10 @@ The following tasks engage this process:
 
 - Peters & Büchel (2011) *Trends in Cognitive Sciences* 15:227–239
 
----
+______________________________________________________________________
 
 (hed-probability-judgment)=
+
 ## Probability judgment
 
 **Process ID:** `hed_probability_judgment`
@@ -98,9 +98,10 @@ The following tasks engage this process:
 
 - Tversky & Kahneman (1974) *Science* 185:1124–1131
 
----
+______________________________________________________________________
 
 (hed-risk-processing)=
+
 ## Risk processing
 
 **Process ID:** `hed_risk_processing`
@@ -125,9 +126,10 @@ The following tasks engage this process:
 
 - Mohr, Biele & Heekeren (2010) *Journal of Neuroscience* 30:6613–6619
 
----
+______________________________________________________________________
 
 (hed-valuation)=
+
 ## Valuation
 
 **Process ID:** `hed_valuation`
@@ -148,9 +150,10 @@ The following tasks engage this process:
 - Bartra O, McGuire JT & Kable JW (2013) *NeuroImage* 76:412-427
 - Levy DJ & Glimcher PW (2012) *Current Opinion in Neurobiology* 22:1027-1038
 
----
+______________________________________________________________________
 
 (hed-value-based-decision-making)=
+
 ## Value-based decision making
 
 **Process ID:** `hed_value_based_decision_making`
@@ -176,4 +179,3 @@ The following tasks engage this process:
 
 - Levy DJ & Glimcher PW (2012) *Current Opinion in Neurobiology* 22:1027–1038
 - Krajbich, Armel & Rangel (2010) *Nature Neuroscience* 13:1292–1298
-

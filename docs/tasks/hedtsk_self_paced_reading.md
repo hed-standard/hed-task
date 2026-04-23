@@ -1,4 +1,5 @@
 (hedtsk_self_paced_reading)=
+
 # Self-Paced Reading Task
 
 **HED Task ID:** `hedtsk_self_paced_reading`
@@ -14,9 +15,10 @@ Self-Paced Reading is the primary behavioral paradigm for studying online langua
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants read sentences or passages presented one word or phrase at a time, advancing by button press; reading time at each region is recorded. Comprehension questions follow each trial.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Self-Paced Reading is the primary behavioral paradigm for studying online langua
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -74,4 +77,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Vasishth, S., & Nicenboim, B.', 'year': 2016, 'title': 'Statistical Methods for Linguistic Research: Foundational Ideas – Part I', 'venue': 'Language and Linguistics Compass', 'venue_type': 'journal', 'journal': 'Language and Linguistics Compass', 'volume': '10', 'issue': '8', 'pages': '349-369', 'doi': '10.1111/lnc3.12201', 'openalex_id': None, 'pmid': None, 'citation_string': 'Vasishth, S., & Nicenboim, B. (2016). Statistical methods for linguistic research: Foundational ideas -- Part I. Language and Linguistics Compass, 10(8), 349-369.', 'url': 'https://doi.org/10.1111/lnc3.12201', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Smith, N. J., & Levy, R.', 'year': 2013, 'title': 'The effect of word predictability on reading time is logarithmic', 'venue': 'Cognition', 'venue_type': 'journal', 'journal': 'Cognition', 'volume': '128', 'issue': '3', 'pages': '302-319', 'doi': '10.1016/j.cognition.2013.02.013', 'openalex_id': None, 'pmid': None, 'citation_string': 'Smith, N. J., & Levy, R. (2013). The effect of word predictability on reading time is logarithmic. Cognition, 128(3), 302-319.', 'url': 'https://doi.org/10.1016/j.cognition.2013.02.013', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Boyce, V., Futrell, R., & Levy, R. P.', 'year': 2020, 'title': 'Maze Made Easy: Better and easier measurement of incremental processing difficulty', 'venue': 'Journal of Memory and Language', 'venue_type': 'journal', 'journal': 'Journal of Memory and Language', 'volume': '111', 'issue': None, 'pages': '104082', 'doi': '10.1016/j.jml.2019.104082', 'openalex_id': None, 'pmid': None, 'citation_string': 'Boyce, V., Futrell, R., & Levy, R. P. (2020). Maze made easy: Better and easier measurement of incremental processing difficulty. Journal of Memory and Language, 111, 104082.', 'url': 'https://doi.org/10.1016/j.jml.2019.104082', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

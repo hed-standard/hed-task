@@ -1,4 +1,5 @@
 (hedtsk_two_stage_decision)=
+
 # Two-Stage Decision Task
 
 **HED Task ID:** `hedtsk_two_stage_decision`
@@ -14,9 +15,10 @@ Participants make two sequential choices per trial. The first-stage choice leads
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - First stage: choose between two options that lead probabilistically (70/30) to one of two second-stage choice sets. Second stage: choose between two options with drifting reward probabilities. This separates model-based from model-free learning.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants make two sequential choices per trial. The first-stage choice leads
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -73,4 +76,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Gillan, C. M., Kosinski, M., Whelan, R., Phelps, E. A., & Daw, N. D.', 'year': 2016, 'title': 'Characterizing a psychiatric symptom dimension related to deficits in goal-directed control', 'venue': 'eLife', 'venue_type': 'journal', 'journal': 'eLife', 'volume': '5', 'issue': None, 'pages': None, 'doi': '10.7554/elife.11305', 'openalex_id': None, 'pmid': None, 'citation_string': 'Gillan, C. M., Kosinski, M., Whelan, R., Phelps, E. A., & Daw, N. D. (2016). Characterizing a psychiatric symptom dimension related to deficits in goal-directed control. *eLife*, 5, e11305.', 'url': 'https://doi.org/10.7554/elife.11305', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Feher da Silva, C., & Hare, T. A.', 'year': 2020, 'title': 'Humans primarily use model-based inference in the two-stage task', 'venue': 'Nature Human Behaviour', 'venue_type': 'journal', 'journal': 'Nature Human Behaviour', 'volume': '4', 'issue': '10', 'pages': '1053-1066', 'doi': '10.1038/s41562-020-0905-y', 'openalex_id': None, 'pmid': None, 'citation_string': 'da Silva, C. F., & Hare, T. A. (2020). Humans primarily use model-based inference in the two-stage task. *Nature Human Behaviour*, 4, 1053–1066.', 'url': 'https://doi.org/10.1038/s41562-020-0905-y', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Feher da Silva, C., & Hare, T. A.', 'year': 2018, 'title': 'A note on the analysis of two-stage task results: How changes in task structure affect what model-free and model-based strategies predict about the effects of reward and transition on the stay probability', 'venue': 'PLOS ONE', 'venue_type': 'journal', 'journal': 'PLOS ONE', 'volume': '13', 'issue': '4', 'pages': 'e0195328', 'doi': '10.1371/journal.pone.0195328', 'openalex_id': None, 'pmid': None, 'citation_string': 'Feher da Silva, C., & Hare, T. A. (2018). A note on the analysis of two-stage task results: How changes in task structure affect what model-free and model-based strategies predict about the effects of reward and transition on the stay probability. *PLoS ONE*, 13(4), e0195328.', 'url': 'https://doi.org/10.1371/journal.pone.0195328', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

@@ -1,4 +1,5 @@
 (hedtsk_probabilistic_classification_learning)=
+
 # Probabilistic Classification Learning Task
 
 **HED Task ID:** `hedtsk_probabilistic_classification_learning`
@@ -14,9 +15,10 @@ The Weather Prediction Task presents 1-3 cues from a set of 4 possible cards; pa
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants predict an outcome (e.g., rain/sun) based on combinations of cues (cards), where each cue is probabilistically (not deterministically) related to outcomes. Learning is incremental across hundreds of trials.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Weather Prediction Task presents 1-3 cues from a set of 4 possible cards; pa
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -83,4 +86,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4cacf22a22d80)
-

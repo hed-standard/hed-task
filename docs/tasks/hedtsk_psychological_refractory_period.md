@@ -1,4 +1,5 @@
 (hedtsk_psychological_refractory_period)=
+
 # Psychological Refractory Period Task
 
 **HED Task ID:** `hedtsk_psychological_refractory_period`
@@ -14,9 +15,10 @@ Two stimuli are presented in rapid succession (S1 then S2, separated by a variab
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Two stimuli requiring separate speeded responses are presented in rapid succession with a variable stimulus-onset asynchrony (SOA). Both responses are required.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Two stimuli are presented in rapid succession (S1 then S2, separated by a variab
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -74,4 +77,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Sigman, M., & Dehaene, S.', 'year': 2008, 'title': 'Brain Mechanisms of Serial and Parallel Processing during Dual-Task Performance', 'venue': 'The Journal of Neuroscience', 'venue_type': 'journal', 'journal': 'The Journal of Neuroscience', 'volume': '28', 'issue': '30', 'pages': '7585-7598', 'doi': '10.1523/jneurosci.0948-08.2008', 'openalex_id': None, 'pmid': None, 'citation_string': 'Sigman, M., & Dehaene, S. (2008). Brain mechanisms of serial and parallel processing during dual-task performance. *Journal of Neuroscience*, 28(30), 7585–7598.', 'url': 'https://doi.org/10.1523/jneurosci.0948-08.2008', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Strobach, T., Schubert, T., Pashler, H., & Rickard, T.', 'year': 2014, 'title': 'The specificity of stimulus-response and response-response compatibility effects in dual tasks', 'venue': 'Journal of Experimental Psychology: Human Perception and Performance', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Human Perception and Performance', 'volume': '40', 'issue': '5', 'pages': '1966–1984', 'doi': None, 'openalex_id': None, 'pmid': None, 'citation_string': 'Strobach, T., Schubert, T., Pashler, H., & Rickard, T. (2014). The specificity of stimulus-response and response-response compatibility effects in dual tasks. *Journal of Experimental Psychology: Human Perception and Performance*, 40(5), 1966–1984.', 'url': None, 'source': 'unresolved', 'confidence': 'none', 'verified_on': '2026-04-20'}
 - {'authors': 'Thönes, S., Arnau, S., Wascher, E., & Schneider, D.', 'year': 2021, 'title': 'Boosting working memory with accelerated clocks', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '226', 'issue': '5', 'pages': '117601', 'doi': '10.1016/j.neuroimage.2020.117601', 'openalex_id': None, 'pmid': None, 'citation_string': 'Zickerick, B., Thönes, S., Kobald, S. O., Wascher, E., Schneider, D., & Küper, K. (2021). Differential effects of the psychological refractory period on early perceptual processing. *Psychophysiology*, 58(5), e13791.', 'url': 'https://doi.org/10.1016/j.neuroimage.2020.117601', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-

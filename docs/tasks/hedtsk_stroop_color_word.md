@@ -1,4 +1,5 @@
 (hedtsk_stroop_color_word)=
+
 # Stroop Color-Word Task
 
 **HED Task ID:** `hedtsk_stroop_color_word`
@@ -14,9 +15,10 @@ The Stroop Color-Word Task is a classic measure of selective attention and cogni
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Color words (RED, BLUE) are printed in incongruent ink colors; participants name the ink color while ignoring the word.
 * - **Manipulation**
@@ -28,9 +30,10 @@ The Stroop Color-Word Task is a classic measure of selective attention and cogni
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -99,4 +102,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4b1968619b00b)
-

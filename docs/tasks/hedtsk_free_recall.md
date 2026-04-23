@@ -1,4 +1,5 @@
 (hedtsk_free_recall)=
+
 # Free Recall Task
 
 **HED Task ID:** `hedtsk_free_recall`
@@ -14,9 +15,10 @@ Participants study a list of items (typically words) presented sequentially, the
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participants study a list of items (words, pictures) presented one at a time, then recall as many as possible in any order after the last item.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants study a list of items (typically words) presented sequentially, the
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -78,7 +81,7 @@ This task engages the following cognitive processes:
 
 ## Recent references
 
-- {'authors': 'Manning, J. R., & Kahana, M. J.', 'year': 2012, 'title': 'Interpreting semantic clustering effects in free recall', 'venue': 'Memory', 'venue_type': 'journal', 'journal': 'Memory', 'volume': '20', 'issue': '5', 'pages': '511-517', 'doi': '10.1080/09658211.2012.683010', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kahana, M. J. (2012). *Foundations of Human Memory*. Oxford University Press. [Updated: Kahana, M. J. (2020). Computational models of memory search. *Annual Review of Psychology*, 71, 107–138.]', 'url': 'https://doi.org/10.1080/09658211.2012.683010', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Manning, J. R., & Kahana, M. J.', 'year': 2012, 'title': 'Interpreting semantic clustering effects in free recall', 'venue': 'Memory', 'venue_type': 'journal', 'journal': 'Memory', 'volume': '20', 'issue': '5', 'pages': '511-517', 'doi': '10.1080/09658211.2012.683010', 'openalex_id': None, 'pmid': None, 'citation_string': 'Kahana, M. J. (2012). *Foundations of Human Memory*. Oxford University Press. \[Updated: Kahana, M. J. (2020). Computational models of memory search. *Annual Review of Psychology*, 71, 107–138.\]', 'url': 'https://doi.org/10.1080/09658211.2012.683010', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Polyn, S. M., Norman, K. A., & Kahana, M. J.', 'year': 2009, 'title': 'A context maintenance and retrieval model of organizational processes in free recall.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '116', 'issue': '1', 'pages': '129-156', 'doi': '10.1037/a0014420', 'openalex_id': None, 'pmid': None, 'citation_string': 'Polyn, S. M., Norman, K. A., & Kahana, M. J. (2009). A context maintenance and retrieval model of organizational processes in free recall. *Psychological Review*, 116(1), 129–156.', 'url': 'https://doi.org/10.1037/a0014420', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Lohnas, L. J., Polyn, S. M., & Kahana, M. J.', 'year': 2015, 'title': 'Expanding the scope of memory search: Modeling intralist and interlist effects in free recall.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '122', 'issue': '2', 'pages': '337-363', 'doi': '10.1037/a0039036', 'openalex_id': None, 'pmid': None, 'citation_string': 'Lohnas, L. J., Polyn, S. M., & Kahana, M. J. (2015). Expanding the scope of memory search: Modeling intralist and interlist effects in free recall. *Psychological Review*, 122(2), 337–363.', 'url': 'https://doi.org/10.1037/a0039036', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Morton, N. W., Sherrill, K. R., & Preston, A. R.', 'year': 2017, 'title': 'Memory integration constructs maps of space, time, and concepts', 'venue': 'Current Opinion in Behavioral Sciences', 'venue_type': 'journal', 'journal': 'Current Opinion in Behavioral Sciences', 'volume': '17', 'issue': None, 'pages': '161-168', 'doi': '10.1016/j.cobeha.2017.08.007', 'openalex_id': None, 'pmid': None, 'citation_string': 'Morton, N. W., Sherrill, K. R., & Preston, A. R. (2017). Memory integration constructs maps of space, time, and concepts. *Current Opinion in Behavioral Sciences*, 17, 161–168.', 'url': 'https://doi.org/10.1016/j.cobeha.2017.08.007', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
@@ -86,4 +89,3 @@ This task engages the following cognitive processes:
 ## External links
 
 - [Cognitive Atlas entry](https://www.cognitiveatlas.org/task/id/trm_4f24448c35e04)
-

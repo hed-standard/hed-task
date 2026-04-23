@@ -1,4 +1,5 @@
 (hedtsk_verbal_fluency)=
+
 # Verbal Fluency Task
 
 **HED Task ID:** `hedtsk_verbal_fluency`
@@ -14,9 +15,10 @@ Participants produce as many unique words as possible in a fixed interval (typic
 ## Inclusion test
 
 ```{list-table}
-:widths: 15 85
-:header-rows: 0
-
+---
+widths: 15 85
+header-rows: 0
+---
 * - **Procedure**
   - Participant generates words aloud matching a letter or category constraint within a timed interval; an examiner records all responses.
 * - **Manipulation**
@@ -28,9 +30,10 @@ Participants produce as many unique words as possible in a fixed interval (typic
 ## Variations
 
 ```{list-table}
-:widths: 25 40 35
-:header-rows: 1
-
+---
+widths: 25 40 35
+header-rows: 1
+---
 * - Variation
   - Description
   - Justification
@@ -74,4 +77,3 @@ This task engages the following cognitive processes:
 - {'authors': 'Shao, Z., Janse, E., Visser, K., & Meyer, A. S.', 'year': 2014, 'title': 'What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults', 'venue': 'Frontiers in Psychology', 'venue_type': 'journal', 'journal': 'Frontiers in Psychology', 'volume': '5', 'issue': None, 'pages': None, 'doi': '10.3389/fpsyg.2014.00772', 'openalex_id': None, 'pmid': None, 'citation_string': 'Shao, Z., Janse, E., Visser, K., & Meyer, A. S. (2014). What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults. *Frontiers in Psychology*, 5, 772.', 'url': 'https://doi.org/10.3389/fpsyg.2014.00772', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'Harrell, M., Taylor, S., Beach, J., Aita, S., McCaskey, V., Calamia, M., & Hill, B.', 'year': 2019, 'title': 'A-29 The Mediating Effects of Personality on Sleep Quality and Executive Dysfunction', 'venue': 'Archives of Clinical Neuropsychology', 'venue_type': 'journal', 'journal': 'Archives of Clinical Neuropsychology', 'volume': '34', 'issue': '6', 'pages': '888-888', 'doi': '10.1093/arclin/acz034.29', 'openalex_id': None, 'pmid': None, 'citation_string': 'Aita, S. L., Beach, J. D., Taylor, S. E., et al. (2019). Executive, language, or both? An examination of the construct validity of verbal fluency measures. *Applied Neuropsychology: Adult*, 26(5), 441-451.', 'url': 'https://doi.org/10.1093/arclin/acz034.29', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 - {'authors': 'TALLBERG, I. M., IVACHOVA, E., JONES TINGHAG, K., & ÖSTBERG, P.', 'year': 2008, 'title': 'Swedish norms for word fluency tests: FAS, animals and verbs', 'venue': 'Scandinavian Journal of Psychology', 'venue_type': 'journal', 'journal': 'Scandinavian Journal of Psychology', 'volume': '49', 'issue': '5', 'pages': '479-485', 'doi': '10.1111/j.1467-9450.2008.00653.x', 'openalex_id': None, 'pmid': None, 'citation_string': 'Tallberg, I. M., Ivachova, E., Jones Tinghag, K., & Ostberg, P. (2008). Swedish norms for word fluency tests: FAS, animals and verbs. *Scandinavian Journal of Psychology*, 49(5), 479-485.', 'url': 'https://doi.org/10.1111/j.1467-9450.2008.00653.x', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
-
