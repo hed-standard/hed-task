@@ -98,7 +98,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Bruce & Young (1986) *British Journal of Psychology* 77:305–327
 - Kanwisher, McDermott & Chun (1997) *Journal of Neuroscience* 17:4302–4311
 
 ### Recent references
@@ -118,10 +117,6 @@ ______________________________________________________________________
 Perception of taste qualities (sweet, sour, salty, bitter, umami).
 
 *No tasks in the current catalog are linked to this process.*
-
-### Fundamental references
-
-- Bartoshuk (1978) *Chemical Senses* 3:29–38
 
 ### Recent references
 
@@ -146,7 +141,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Wertheimer (1912) *Zeitschrift für Psychologie* 61:161–265
 - Newsome & Paré (1988) *Journal of Neuroscience* 8:2201–2211
 
 ### Recent references
@@ -191,10 +185,6 @@ The following tasks engage this process:
 - [Biological Motion Perception Task](../tasks/hedtsk_biological_motion_perception.md)
 - [Raven's Progressive Matrices Task](../tasks/hedtsk_ravens_progressive_matrices.md)
 
-### Fundamental references
-
-- Selfridge (1959) in *Symposium on the Mechanisation of Thought Processes*
-
 ### Recent references
 
 - DiCarlo, Zoccolan & Rust (2012) *Neuron* 73:415–434
@@ -212,10 +202,6 @@ ______________________________________________________________________
 Perception of bodily sensations, including touch, proprioception, temperature, and pain.
 
 *No tasks in the current catalog are linked to this process.*
-
-### Fundamental references
-
-- Mountcastle (1957) *Journal of Neurophysiology* 20:408–434
 
 ### Recent references
 
@@ -258,10 +244,6 @@ The following tasks engage this process:
 - [Face Processing Task](../tasks/hedtsk_face_processing.md)
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
-
-### Fundamental references
-
-- Marr & Nishihara (1978) *Philosophical Transactions B* 200:269–294
 
 ### Recent references
 

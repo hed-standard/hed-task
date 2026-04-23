@@ -31,37 +31,51 @@ header-rows: 0
 
 ```{list-table}
 ---
-widths: 30 70
+widths: 25 40 35
 header-rows: 1
 ---
 * - Variation
   - Description
+  - Justification
 * - Dual-Target Attentional Blink
   - Two targets in a single stream; T2 accuracy at varying lags from T1. The canonical paradigm for studying the attentional blink. Raymond et al. (1992).
+  - Canonical AB: T2 missed when presented shortly after T1
 * - Single-Target RSVP
   - One target in the stream; measures basic temporal attention and target detection at rapid rates. Baseline for attentional blink studies.
+  - Detect or identify one target in stream; no AB protocol
 * - Emotion-Induced Blindness
   - Emotionally arousing distractor (e.g., threat image) impairs detection of a subsequent neutral target. Emotional analogue of the attentional blink. Most et al. (2005).
+  - Emotional T1 causes blindness to T2; retained per §5.1 (EMOT retired)
 * - Rapid Scene Categorization
   - Natural scene images presented at high rates (20 ms per image); participants detect a target category (animal, vehicle). Demonstrates rapid perceptual gist extraction. Potter (1976).
+  - Categorize natural scenes at rapid presentation rates; different stimulus class
 * - RSVP Image Triage (BCI)
   - Participants view rapid streams of images (e.g., satellite imagery, surveillance footage) while EEG detects P300 responses to target-category images. Used in brain-computer interface applications for rapid image screening.
+  - Brain-computer interface using RSVP for rapid image tagging; different application and response structure
 * - Triple-RSVP (Multiple Streams)
   - Three concurrent RSVP streams; target can appear in any stream. Increases target detection rate for BCI applications; adds spatial competition to temporal attention demands.
+  - Three simultaneous streams; different attentional load structure
 * - Whole-Report RSVP
   - Report all items from a short RSVP stream (4-8 items). Measures visual short-term memory capacity under rapid presentation conditions.
+  - Report all items seen; different response requirement
 * - RSVP with Task Switch
   - T1 and T2 require different judgments (e.g., identify T1 letter, detect T2 presence). Task switch between targets amplifies the attentional blink.
+  - Task changes within or between streams; adds switching demand
 * - Detection vs. Identification
   - T2 requiring simple presence detection vs. full identity report; manipulates the depth of processing needed to reveal the blink.
+  - Detect presence vs. identify identity; different judgment type
 * - Three-Target Variant
   - Third target added to probe extended temporal limits of attention beyond the standard T1-T2 paradigm.
+  - Three targets in stream; extends AB to three-target scenario
 * - Cross-Modal Attentional Blink
   - Targets in different modalities (e.g., auditory T1, visual T2); tests whether the attentional bottleneck is supramodal.
+  - T1 and T2 in different modalities; tests cross-modal attentional resources
 * - Emotional Attentional Blink
   - Emotional stimuli (faces, words) as T1 or T2; emotional targets modulate blink magnitude. Distinct from emotion-induced blindness (which uses emotional distractors).
+  - Emotional T2; retained per §5.1 (EMOT retired)
 * - Spatial Two-Stream RSVP
   - Two concurrent RSVP streams at different locations; targets may appear in either stream, separating spatial and temporal attention limits.
+  - Two streams at different spatial locations; tests spatial attention in RSVP
 ```
 
 ## Cognitive processes
@@ -78,19 +92,17 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Raymond, J. E., Shapiro, K. L., & Arnell, K. M. (1992). Temporary suppression of visual processing in an RSVP task: An attentional blink? Journal of Experimental Psychology: Human Perception and Performance, 18(3), 849-860.
-- Chun, M. M., & Potter, M. C. (1995). A two-stage model for multiple target detection in rapid serial visual presentation. Journal of Experimental Psychology: Human Perception and Performance, 21(1), 109-127.
-- Potter, M. C. (1976). Short-term conceptual memory for pictures. Journal of Experimental Psychology: Human Learning and Memory, 2(5), 509-522.
+- {'authors': 'Raymond, J. E., Shapiro, K. L., & Arnell, K. M.', 'year': 1992, 'title': 'Temporary suppression of visual processing in an RSVP task: An attentional blink?', 'venue': 'Journal of Experimental Psychology: Human Perception and Performance', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Human Perception and Performance', 'volume': '18', 'issue': '3', 'pages': '849-860', 'doi': '10.1037/0096-1523.18.3.849', 'openalex_id': None, 'pmid': None, 'citation_string': 'Raymond, J. E., Shapiro, K. L., & Arnell, K. M. (1992). Temporary suppression of visual processing in an RSVP task: An attentional blink? Journal of Experimental Psychology: Human Perception and Performance, 18(3), 849-860.', 'url': 'https://doi.org/10.1037/0096-1523.18.3.849', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Chun, M. M., & Potter, M. C.', 'year': 1995, 'title': 'A two-stage model for multiple target detection in rapid serial visual presentation.', 'venue': 'Journal of Experimental Psychology: Human Perception and Performance', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Human Perception and Performance', 'volume': '21', 'issue': '1', 'pages': '109-127', 'doi': '10.1037/0096-1523.21.1.109', 'openalex_id': None, 'pmid': None, 'citation_string': 'Chun, M. M., & Potter, M. C. (1995). A two-stage model for multiple target detection in rapid serial visual presentation. Journal of Experimental Psychology: Human Perception and Performance, 21(1), 109-127.', 'url': 'https://doi.org/10.1037/0096-1523.21.1.109', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Potter, M. C.', 'year': 1976, 'title': 'Short-term conceptual memory for pictures.', 'venue': 'Journal of Experimental Psychology: Human Learning and Memory', 'venue_type': 'journal', 'journal': 'Journal of Experimental Psychology: Human Learning and Memory', 'volume': '2', 'issue': '5', 'pages': '509-522', 'doi': '10.1037/0278-7393.2.5.509', 'openalex_id': None, 'pmid': None, 'citation_string': 'Potter, M. C. (1976). Short-term conceptual memory for pictures. Journal of Experimental Psychology: Human Learning and Memory, 2(5), 509-522.', 'url': 'https://doi.org/10.1037/0278-7393.2.5.509', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Dux, P. E., & Marois, R. (2009). The attentional blink: A review of data and theory. Attention, Perception, & Psychophysics, 71(8), 1683-1700.
-- Olivers, C. N. L., & Meeter, M. (2008). A boost and bounce theory of temporal attention. Psychological Review, 115(4), 836-863.
-- Cecotti, H., Eckstein, M. P., & Giesbrecht, B. (2014). Single-trial classification of event-related potentials in rapid serial visual presentation tasks using supervised spatial filtering. IEEE Transactions on Neural Networks and Learning Systems, 25(11), 2030-2042.
-- Most, S. B., Chun, M. M., Widders, D. M., & Zald, D. H. (2005). Attentional rubbernecking: Cognitive control and personality in emotion-induced blindness. Psychonomic Bulletin & Review, 12(4), 654-661.
-- Willems, C., & Martens, S. (2022). The Attentional Blink at 30: Current and future directions. Attention, Perception, & Psychophysics, 84, 1643-1652.
-- Marois, R., & Ivanoff, J. (2005). Capacity limits of information processing in the brain. Trends in Cognitive Sciences, 9(6), 296-305.
-- Asplund, C. L., Fougnie, D., Zughni, S., Martin, J. W., & Marois, R. (2014). The attentional blink reveals the probabilistic nature of discrete conscious perception. Psychological Science, 25(3), 824-831.
+- {'authors': 'Dux, P. E., & Marois, R.', 'year': 2009, 'title': 'The attentional blink: A review of data and theory', 'venue': 'Attention, Perception & Psychophysics', 'venue_type': 'journal', 'journal': 'Attention, Perception & Psychophysics', 'volume': '71', 'issue': '8', 'pages': '1683-1700', 'doi': '10.3758/app.71.8.1683', 'openalex_id': None, 'pmid': None, 'citation_string': 'Dux, P. E., & Marois, R. (2009). The attentional blink: A review of data and theory. Attention, Perception, & Psychophysics, 71(8), 1683-1700.', 'url': 'https://doi.org/10.3758/app.71.8.1683', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Olivers, C. N. L., & Meeter, M.', 'year': 2008, 'title': 'A boost and bounce theory of temporal attention.', 'venue': 'Psychological Review', 'venue_type': 'journal', 'journal': 'Psychological Review', 'volume': '115', 'issue': '4', 'pages': '836-863', 'doi': '10.1037/a0013395', 'openalex_id': None, 'pmid': None, 'citation_string': 'Olivers, C. N. L., & Meeter, M. (2008). A boost and bounce theory of temporal attention. Psychological Review, 115(4), 836-863.', 'url': 'https://doi.org/10.1037/a0013395', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Most, S. B., Chun, M. M., Widders, D. M., & Zald, D. H.', 'year': 2005, 'title': 'Attentional rubbernecking: Cognitive control and personality in emotion-induced blindness', 'venue': 'Psychonomic Bulletin & Review', 'venue_type': 'journal', 'journal': 'Psychonomic Bulletin & Review', 'volume': '12', 'issue': '4', 'pages': '654-661', 'doi': '10.3758/bf03196754', 'openalex_id': None, 'pmid': None, 'citation_string': 'Most, S. B., Chun, M. M., Widders, D. M., & Zald, D. H. (2005). Attentional rubbernecking: Cognitive control and personality in emotion-induced blindness. Psychonomic Bulletin & Review, 12(4), 654-661.', 'url': 'https://doi.org/10.3758/bf03196754', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Marois, R., & Ivanoff, J.', 'year': 2005, 'title': 'Capacity limits of information processing in the brain', 'venue': 'Trends in Cognitive Sciences', 'venue_type': 'journal', 'journal': 'Trends in Cognitive Sciences', 'volume': '9', 'issue': '6', 'pages': '296-305', 'doi': '10.1016/j.tics.2005.04.010', 'openalex_id': None, 'pmid': None, 'citation_string': 'Marois, R., & Ivanoff, J. (2005). Capacity limits of information processing in the brain. Trends in Cognitive Sciences, 9(6), 296-305.', 'url': 'https://doi.org/10.1016/j.tics.2005.04.010', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Asplund, C. L., Fougnie, D., Zughni, S., Martin, J. W., & Marois, R.', 'year': 2014, 'title': 'The Attentional Blink Reveals the Probabilistic Nature of Discrete Conscious Perception', 'venue': 'Psychological Science', 'venue_type': 'journal', 'journal': 'Psychological Science', 'volume': '25', 'issue': '3', 'pages': '824-831', 'doi': '10.1177/0956797613513810', 'openalex_id': None, 'pmid': None, 'citation_string': 'Asplund, C. L., Fougnie, D., Zughni, S., Martin, J. W., & Marois, R. (2014). The attentional blink reveals the probabilistic nature of discrete conscious perception. Psychological Science, 25(3), 824-831.', 'url': 'https://doi.org/10.1177/0956797613513810', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 

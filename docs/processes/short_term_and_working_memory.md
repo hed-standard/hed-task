@@ -251,7 +251,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Morris & Jones (1990) *British Journal of Psychology* 81:111–121
 - Miyake, Friedman, Emerson, Witzki, Howerter & Wager (2000) *Cognitive Psychology* 41:49–100
 
 ### Recent references

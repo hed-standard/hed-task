@@ -79,14 +79,6 @@ The following tasks engage this process:
 
 - [Feeling-of-Knowing Task](../tasks/hedtsk_feeling_of_knowing.md)
 
-### Fundamental references
-
-- Hart (1965) *Journal of Educational Psychology* 56:208–216
-
-### Recent references
-
-- Schwartz & Cleary (2016) in *The Oxford Handbook of Metamemory*
-
 ______________________________________________________________________
 
 (hed-interoceptive-awareness)=
@@ -133,10 +125,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Arbuckle & Cuddy (1969) *Journal of Verbal Learning and Verbal Behavior* 8:126–131
-
-### Recent references
-
-- Rhodes (2016) *Memory* 24:1–4
 
 ______________________________________________________________________
 
@@ -298,10 +286,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Nelson & Narens (1990) in *The Psychology of Learning and Motivation*
-
-### Recent references
-
-- Fleming & Dolan (2012) *Philosophical Transactions B* 367:1338–1349
 
 ______________________________________________________________________
 

@@ -24,10 +24,6 @@ The following tasks engage this process:
 
 - [Prisoner's Dilemma Task](../tasks/hedtsk_prisoners_dilemma.md)
 
-### Fundamental references
-
-- Trivers (1971) *Quarterly Review of Biology* 46:35–57
-
 ### Recent references
 
 - Declerck, Boone & Emonds (2013) *Brain and Cognition* 81:95–117
@@ -48,10 +44,6 @@ The following tasks engage this process:
 
 - [Prisoner's Dilemma Task](../tasks/hedtsk_prisoners_dilemma.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
-
-### Fundamental references
-
-- Axelrod (1984) *The Evolution of Cooperation*
 
 ### Recent references
 
@@ -98,10 +90,6 @@ The following tasks engage this process:
 - [Implicit Association Task](../tasks/hedtsk_implicit_association.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
 
-### Fundamental references
-
-- Tajfel, Billig, Bundy & Flament (1971) *European Journal of Social Psychology* 1:149–178
-
 ### Recent references
 
 - Molenberghs (2013) *Neuroscience & Biobehavioral Reviews* 37:1530–1536
@@ -121,7 +109,6 @@ Coordinated focus by two or more agents on the same object or event, involving s
 ### Fundamental references
 
 - Bruner (1975) *Journal of Child Language* 2:1–19
-- Baron-Cohen (1995) *Mindblindness*
 
 ### Recent references
 
@@ -149,10 +136,6 @@ The following tasks engage this process:
 - [Reading the Mind in the Eyes Task](../tasks/hedtsk_reading_the_mind_in_the_eyes.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 
-### Fundamental references
-
-- Piaget & Inhelder (1956) *The Child's Conception of Space*
-
 ### Recent references
 
 - Tamir & Mitchell (2013) *Cerebral Cortex* 23:2375–2382
@@ -175,10 +158,6 @@ The following tasks engage this process:
 - [Prisoner's Dilemma Task](../tasks/hedtsk_prisoners_dilemma.md)
 - [Trust Game Task](../tasks/hedtsk_trust_game.md)
 - [Ultimatum Game Task](../tasks/hedtsk_ultimatum_game.md)
-
-### Fundamental references
-
-- Gouldner (1960) *American Sociological Review* 25:161–178
 
 ### Recent references
 
@@ -280,10 +259,6 @@ The following tasks engage this process:
 
 - [Implicit Association Task](../tasks/hedtsk_implicit_association.md)
 - [Weapons Identification Task](../tasks/hedtsk_weapons_identification.md)
-
-### Fundamental references
-
-- Allport (1954) *The Nature of Prejudice*
 
 ### Recent references
 

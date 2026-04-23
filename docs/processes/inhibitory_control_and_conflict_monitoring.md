@@ -84,10 +84,6 @@ The following tasks engage this process:
 - Falkenstein, Hohnsbein, Hoormann & Blanke (1991) *EEG & Clinical Neurophysiology* 78:447–455
 - Gehring, Goss, Coles, Meyer & Donchin (1993) *Psychological Science* 4:385–390
 
-### Recent references
-
-- Ullsperger, Danielmeier & Jocham (2014) *Physiological Reviews* 94:35–79
-
 ______________________________________________________________________
 
 (hed-executive-attention)=
@@ -140,7 +136,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Stroop (1935) *JEP* 18:643–662
 - Eriksen & Eriksen (1974) *Perception & Psychophysics* 16:143–149
 
 ### Recent references
@@ -165,7 +160,7 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Braver, Gray & Burgess (2007) in *Variation in Working Memory*
+- Braver et al. (2021) *Journal of Cognitive Neuroscience* doi:10.1162/jocn_a_01768
 
 ### Recent references
 
@@ -189,7 +184,7 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Braver, Gray & Burgess (2007) in *Variation in Working Memory*
+- Braver et al. (2021) *Journal of Cognitive Neuroscience* doi:10.1162/jocn_a_01768
 
 ### Recent references
 

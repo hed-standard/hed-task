@@ -113,10 +113,6 @@ The following tasks engage this process:
 
 - Berridge & Robinson (1998) *Brain Research Reviews* 28:309–369
 
-### Recent references
-
-- Berridge (2012) *European Journal of Neuroscience* 35:1124–1143
-
 ______________________________________________________________________
 
 (hed-reward-anticipation)=

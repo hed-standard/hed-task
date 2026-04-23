@@ -31,25 +31,33 @@ header-rows: 0
 
 ```{list-table}
 ---
-widths: 30 70
+widths: 25 40 35
 header-rows: 1
 ---
 * - Variation
   - Description
+  - Justification
 * - Forward Corsi Span
   - Reproduce sequences in the same order as presented.
+  - Reproduce tapped sequence in same order; canonical visuospatial span
 * - Backward Corsi Span
   - Reproduce sequences in reverse order; adds executive manipulation.
+  - Reproduce sequence in reverse order; requires mental transformation
 * - Computerized (eCorsi)
   - Tablet or screen-based with precise timing and spatial metrics.
+  - Screen-based tapping vs. physical blocks; per §5.6 changes spatial/motor demands
 * - Supra-Span Corsi
   - Sequences exceeding span; number of trials to learn measures spatial learning.
+  - Sequences exceed span; repeated learning-to-criterion procedure
 * - Walking Corsi (large-scale)
   - Life-size version where participants walk between floor locations; ecological spatial memory.
+  - Full-body locomotion to large floor locations; different motor modality from finger tapping
 * - Sequential vs. Simultaneous Presentation
   - Blocks highlighted one at a time vs. subset highlighted together.
+  - All blocks illuminated at once vs. sequentially; changes encoding demands
 * - Crossed/Uncrossed Paths
   - Sequences with vs. without path crossings to study spatial complexity.
+  - Spatial crossing of sequence paths tests motor programming constraints
 ```
 
 ## Cognitive processes
@@ -63,16 +71,13 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Corsi, P. M. (1972). *Human memory and the medial temporal region of the brain*. Unpublished doctoral dissertation, McGill University.
-- Milner, B. (1971). Interhemispheric differences in the localization of psychological processes in man. *British Medical Bulletin*, 27(3), 272–277.
-- Kessels, R. P. C., van Zandvoort, M. J. E., Postma, A., Kappelle, L. J., & de Haan, E. H. F. (2000). The Corsi block-tapping task: Standardization and normative data. *Applied Neuropsychology*, 7(4), 252–258.
+- {'authors': 'Corsi, P. M.', 'year': 1972, 'title': 'Doctoral Dissertation Abstracts in Urban Economics', 'venue': 'The American Economist', 'venue_type': 'journal', 'journal': 'The American Economist', 'volume': '16', 'issue': '1', 'pages': '166-202', 'doi': '10.1177/056943457201600124', 'openalex_id': None, 'pmid': None, 'citation_string': 'Corsi, P. M. (1972). *Human memory and the medial temporal region of the brain*. Unpublished doctoral dissertation, McGill University.', 'url': 'https://doi.org/10.1177/056943457201600124', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'MILNER, B.', 'year': 1971, 'title': 'INTERHEMISPHERIC DIFFERENCES IN THE LOCALIZATION OF PSYCHOLOGICAL PROCESSES IN MAN', 'venue': 'British Medical Bulletin', 'venue_type': 'journal', 'journal': 'British Medical Bulletin', 'volume': '27', 'issue': '3', 'pages': '272-277', 'doi': '10.1093/oxfordjournals.bmb.a070866', 'openalex_id': None, 'pmid': None, 'citation_string': 'Milner, B. (1971). Interhemispheric differences in the localization of psychological processes in man. *British Medical Bulletin*, 27(3), 272–277.', 'url': 'https://doi.org/10.1093/oxfordjournals.bmb.a070866', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Claessen, M. H. G., van der Ham, I. J. M., & Bhalla, M. (2015). How does the Corsi block-tapping task measure visuospatial working memory? *Journal of Clinical and Experimental Neuropsychology*, 37(4), 370–381.
-- Pagulayan, K. F., Busch, R. M., Medina, K. L., Bartok, J. A., & Krikorian, R. (2006). Developmental normative data for the Corsi Block-Tapping Task. *Journal of Clinical and Experimental Neuropsychology*, 28(6), 1043–1052.
-- Vandierendonck, A., Kemps, E., Casteels, R., & Bussé, C. (2004). The decline of the Corsi block span with age: A study of its explanatory mechanisms. *Brain and Cognition*, 54(2), 136–137.
-- Brunetti, R., Del Gatto, C., & Delogu, F. (2014). eCorsi: Implementation and testing of the Corsi Block-Tapping Task for digital tablets. *Frontiers in Psychology*, 5, 939.
+- {'authors': 'Farrell Pagulayan, K., Busch, R. M., Medina, K. L., Bartok, J. A., & Krikorian, R.', 'year': 2006, 'title': 'Developmental Normative Data for the Corsi Block-Tapping Task', 'venue': 'Journal of Clinical and Experimental Neuropsychology', 'venue_type': 'journal', 'journal': 'Journal of Clinical and Experimental Neuropsychology', 'volume': '28', 'issue': '6', 'pages': '1043-1052', 'doi': '10.1080/13803390500350977', 'openalex_id': None, 'pmid': None, 'citation_string': 'Pagulayan, K. F., Busch, R. M., Medina, K. L., Bartok, J. A., & Krikorian, R. (2006). Developmental normative data for the Corsi Block-Tapping Task. *Journal of Clinical and Experimental Neuropsychology*, 28(6), 1043–1052.', 'url': 'https://doi.org/10.1080/13803390500350977', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Brunetti, R., Del Gatto, C., & Delogu, F.', 'year': 2014, 'title': 'eCorsi: implementation and testing of the Corsi block-tapping task for digital tablets', 'venue': 'Frontiers in Psychology', 'venue_type': 'journal', 'journal': 'Frontiers in Psychology', 'volume': '5', 'issue': None, 'pages': None, 'doi': '10.3389/fpsyg.2014.00939', 'openalex_id': None, 'pmid': None, 'citation_string': 'Brunetti, R., Del Gatto, C., & Delogu, F. (2014). eCorsi: Implementation and testing of the Corsi Block-Tapping Task for digital tablets. *Frontiers in Psychology*, 5, 939.', 'url': 'https://doi.org/10.3389/fpsyg.2014.00939', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 

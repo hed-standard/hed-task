@@ -50,10 +50,6 @@ The following tasks engage this process:
 
 - [Delay Discounting Task](../tasks/hedtsk_delay_discounting.md)
 
-### Fundamental references
-
-- Mazur (1987) in *Quantitative Analyses of Behavior*
-
 ### Recent references
 
 - Peters & Büchel (2011) *Trends in Cognitive Sciences* 15:227–239
@@ -76,7 +72,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Samuelson (1937) *Review of Economic Studies* 4:155–161
 - Ainslie (1975) *Psychological Bulletin* 82:463–496
 
 ### Recent references
@@ -102,10 +97,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Tversky & Kahneman (1974) *Science* 185:1124–1131
-
-### Recent references
-
-- Griffiths, Kemp & Tenenbaum (2008) in *Cambridge Handbook of Computational Psychology*
 
 ______________________________________________________________________
 
@@ -154,11 +145,6 @@ The following tasks engage this process:
 - [Effort-Based Decision-Making Task](../tasks/hedtsk_effort_based_decision_making.md)
 - [Ultimatum Game Task](../tasks/hedtsk_ultimatum_game.md)
 
-### Fundamental references
-
-- Kahneman D & Tversky A (1979) *Econometrica* 47:263-291
-- Becker GM, DeGroot MH & Marschak J (1964) *Behavioral Science* 9:226-232
-
 ### Recent references
 
 - Bartra O, McGuire JT & Kable JW (2013) *NeuroImage* 76:412-427
@@ -188,7 +174,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Rangel, Camerer & Montague (2008) *Nature Reviews Neuroscience* 9:545–556
-- Kahneman & Tversky (1979) *Econometrica* 47:263–291
 
 ### Recent references
 

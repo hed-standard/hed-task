@@ -70,14 +70,6 @@ The following tasks engage this process:
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
 - [Motor Sequence Learning Task](../tasks/hedtsk_motor_sequence_learning.md)
 
-### Fundamental references
-
-- Napier (1956) *Journal of Bone and Joint Surgery* 38B:902–913
-
-### Recent references
-
-- Schieber & Santello (2004) *Journal of Applied Physiology* 96:2293–2300
-
 ______________________________________________________________________
 
 (hed-grasping)=
@@ -89,10 +81,6 @@ ______________________________________________________________________
 Shaping and closure of the hand around an object.
 
 *No tasks in the current catalog are linked to this process.*
-
-### Fundamental references
-
-- Jeannerod (1984) *Journal of Motor Behavior* 16:235–254
 
 ### Recent references
 
@@ -113,10 +101,6 @@ Long-term retention of motor skills and procedures.
 ### Fundamental references
 
 - Karni, Meyer, Rey-Hipolito, Jezzard, Adams, Turner & Ungerleider (1998) *PNAS* 95:861–868
-
-### Recent references
-
-- Krakauer, Hadjiosif, Xu, Wong & Haith (2019) *Comprehensive Physiology* 9:613–663
 
 ______________________________________________________________________
 
@@ -140,10 +124,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Keele (1968) *Psychological Bulletin* 70:387–403
-
-### Recent references
-
-- Wong, Haith & Krakauer (2015) *The Neuroscientist* 21:385–398
 
 ______________________________________________________________________
 
@@ -238,10 +218,6 @@ Perception of body position and movement from muscle, tendon, and joint receptor
 
 - Sherrington (1906) *The Integrative Action of the Nervous System*
 
-### Recent references
-
-- Proske & Gandevia (2012) *Physiological Reviews* 92:1651–1697
-
 ______________________________________________________________________
 
 (hed-reaching)=
@@ -319,10 +295,6 @@ The following tasks engage this process:
 - [Task Switching Task](../tasks/hedtsk_task_switching.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental references
-
-- Hick (1952) *Quarterly Journal of Experimental Psychology* 4:11–26
-
 ### Recent references
 
 - Cisek & Kalaska (2010) *Annual Review of Neuroscience* 33:269–298
@@ -366,14 +338,6 @@ Recalibration of movement in response to perturbations of the mapping between vi
 The following tasks engage this process:
 
 - [Mirror Tracing Task](../tasks/hedtsk_mirror_tracing.md)
-
-### Fundamental references
-
-- Held & Hein (1958) *Perceptual and Motor Skills* 8:87–90
-
-### Recent references
-
-- Krakauer, Hadjiosif, Xu, Wong & Haith (2019) *Comprehensive Physiology* 9:613–663
 
 ______________________________________________________________________
 

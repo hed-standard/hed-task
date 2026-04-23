@@ -104,7 +104,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Bjork (1970) *Acta Psychologica* 33:288–296
-- MacLeod (1998) in *Intentional Forgetting*
 
 ### Recent references
 
@@ -200,10 +199,6 @@ The following tasks engage this process:
 
 - Mandler (1980) *Psychological Review* 87:252–271
 
-### Recent references
-
-- Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
-
 ______________________________________________________________________
 
 (hed-forgetting)=
@@ -219,7 +214,6 @@ Loss of accessibility of previously encoded information, due to decay, interfere
 ### Fundamental references
 
 - Ebbinghaus (1885) *Über das Gedächtnis*
-- McGeoch (1932) *Psychological Review* 39:352–370
 
 ### Recent references
 
@@ -265,10 +259,6 @@ The following tasks engage this process:
 
 - [Mnemonic Similarity Task](../tasks/hedtsk_mnemonic_similarity.md)
 
-### Fundamental references
-
-- Marr (1971) *Philosophical Transactions B* 262:23–81
-
 ### Recent references
 
 - Yassa & Stark (2011) *Trends in Neurosciences* 34:515–525
@@ -288,10 +278,6 @@ Disruption of new learning by previously learned material.
 The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
-
-### Fundamental references
-
-- Underwood (1957) *Psychological Review* 64:49–60
 
 ### Recent references
 
@@ -339,14 +325,6 @@ The following tasks engage this process:
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
 - [Think/No-Think Task](../tasks/hedtsk_think_no_think.md)
 
-### Fundamental references
-
-- Tulving (1962) *Canadian Journal of Psychology* 16:185–191
-
-### Recent references
-
-- Kahana (2012) *Foundations of Human Memory*
-
 ______________________________________________________________________
 
 (hed-recognition)=
@@ -370,10 +348,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Mandler (1980) *Psychological Review* 87:252–271
-
-### Recent references
-
-- Yonelinas, Aly, Wang & Koen (2010) *Hippocampus* 20:1178–1194
 
 ______________________________________________________________________
 
@@ -475,10 +449,6 @@ Disruption of older memories by newly learned material.
 The following tasks engage this process:
 
 - [Rey Auditory Verbal Learning Task](../tasks/hedtsk_rey_auditory_verbal_learning.md)
-
-### Fundamental references
-
-- Müller & Pilzecker (1900) *Zeitschrift für Psychologie Ergänzungsband* 1:1–300
 
 ### Recent references
 

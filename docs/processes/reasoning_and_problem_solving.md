@@ -32,10 +32,6 @@ The following tasks engage this process:
 
 - Gentner (1983) *Cognitive Science* 7:155–170
 
-### Recent references
-
-- Holyoak (2012) *Oxford Handbook of Thinking and Reasoning*, ch 14
-
 ______________________________________________________________________
 
 (hed-categorization)=
@@ -87,10 +83,6 @@ The following tasks engage this process:
 
 - Cheng (1997) *Psychological Review* 104:367–405
 
-### Recent references
-
-- Waldmann (2017) *Oxford Handbook of Causal Reasoning*
-
 ______________________________________________________________________
 
 (hed-deductive-reasoning)=
@@ -111,7 +103,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Rips (1994) *The Psychology of Proof*
 - Wason (1968) *Quarterly Journal of Experimental Psychology* 20:273–281
 
 ### Recent references
@@ -134,10 +125,6 @@ The following tasks engage this process:
 
 - [Wason Selection Task](../tasks/hedtsk_wason_selection.md)
 - [Wisconsin Card Sorting Task](../tasks/hedtsk_wisconsin_card_sorting.md)
-
-### Fundamental references
-
-- Bruner, Goodnow & Austin (1956) *A Study of Thinking*
 
 ### Recent references
 
@@ -185,7 +172,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Duncker K (1945) *On problem-solving* Psychological Monographs 58(5):i-113
 - Metcalfe J & Wiebe D (1987) *Memory & Cognition* 15:238-246
 
 ### Recent references
@@ -236,7 +222,6 @@ The following tasks engage this process:
 
 ### Recent references
 
-- Anderson JR (2005) *Cognitive Science* 29:313-341
 - Huys QJM et al. (2015) *PLoS Computational Biology* 11:e1004112
 
 ______________________________________________________________________
@@ -258,10 +243,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Shallice (1982) *Philosophical Transactions B* 298:199–209 (Tower of London)
-
-### Recent references
-
-- Kaller, Unterrainer & Stahl (2012) *Neuropsychology* 26:304–315
 
 ______________________________________________________________________
 

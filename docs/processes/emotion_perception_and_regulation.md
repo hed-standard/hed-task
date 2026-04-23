@@ -84,10 +84,6 @@ The following tasks engage this process:
 
 - Ekman & Friesen (1976) *Pictures of Facial Affect*
 
-### Recent references
-
-- Adolphs (2002) *Behavioral and Cognitive Neuroscience Reviews* 1:21–62
-
 ______________________________________________________________________
 
 (hed-emotion-regulation)=
@@ -112,10 +108,6 @@ The following tasks engage this process:
 
 - Gross (1998) *Review of General Psychology* 2:271–299
 
-### Recent references
-
-- Gross (2015) *Psychological Inquiry* 26:1–26
-
 ______________________________________________________________________
 
 (hed-expressive-suppression)=
@@ -135,7 +127,3 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Gross & Levenson (1993) *Journal of Personality and Social Psychology* 64:970–986
-
-### Recent references
-
-- Gross (2015) *Psychological Inquiry* 26:1–26

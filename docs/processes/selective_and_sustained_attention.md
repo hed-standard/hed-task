@@ -108,7 +108,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Kahneman (1973) *Attention and Effort*
 - Pashler (1994) *Psychological Bulletin* 116:220–244
 
 ### Recent references
@@ -229,7 +228,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Broadbent (1958) *Perception and Communication*
 - Treisman (1969) *Psychological Review* 76:282–299
 
 ### Recent references

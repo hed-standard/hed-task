@@ -60,7 +60,6 @@ The following tasks engage this process:
 
 ### Fundamental references
 
-- Berg (1948) *Journal of General Psychology* 39:15–22 (WCST)
 - Monsell (2003) *Trends in Cognitive Sciences* 7:134–140
 - Diamond (2013) *Annual Review of Psychology* 64:135–168
 
@@ -93,7 +92,3 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Siegler (1987) *JEP: General* 116:250–264
-
-### Recent references
-
-- Lemaire (2016) *Cognitive Development and Aging*

@@ -31,13 +31,15 @@ header-rows: 0
 
 ```{list-table}
 ---
-widths: 30 70
+widths: 25 40 35
 header-rows: 1
 ---
 * - Variation
   - Description
+  - Justification
 * - Category-Specific Selection
   - Images selected for discrete emotions (fear, disgust, sadness).
+  - Restricts stimuli to specific emotional categories (e.g., fear, disgust), creating category-structured event blocks distinct from mixed viewing
 ```
 
 ## Cognitive processes
@@ -53,16 +55,13 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Lang, P. J., Bradley, M. M., & Cuthbert, B. N. (1997). *International Affective Picture System (IAPS): Technical Manual and Affective Ratings*. NIMH Center for the Study of Emotion and Attention.
-- Sabatinelli, D., Bradley, M. M., Fitzsimmons, J. R., & Lang, P. J. (2005). Parallel amygdala and inferotemporal activation reflect emotional intensity and fear relevance. *NeuroImage*, 24(4), 1265-1270.
-- Phan, K. L., Wager, T., Taylor, S. F., & Liberzon, I. (2002). Functional neuroanatomy of emotion: A meta-analysis of emotion activation studies in PET and fMRI. *NeuroImage*, 16(2), 331-348.
+- {'authors': 'Sabatinelli, D., Bradley, M. M., Fitzsimmons, J. R., & Lang, P. J.', 'year': 2005, 'title': 'Parallel amygdala and inferotemporal activation reflect emotional intensity and fear relevance', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '24', 'issue': '4', 'pages': '1265-1270', 'doi': '10.1016/j.neuroimage.2004.12.015', 'openalex_id': None, 'pmid': None, 'citation_string': 'Sabatinelli, D., Bradley, M. M., Fitzsimmons, J. R., & Lang, P. J. (2005). Parallel amygdala and inferotemporal activation reflect emotional intensity and fear relevance. *NeuroImage*, 24(4), 1265-1270.', 'url': 'https://doi.org/10.1016/j.neuroimage.2004.12.015', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Phan, K., Wager, T., Taylor, S. F., & Liberzon, I.', 'year': 2002, 'title': 'Functional Neuroanatomy of Emotion: A Meta-Analysis of Emotion Activation Studies in PET and fMRI', 'venue': 'NeuroImage', 'venue_type': 'journal', 'journal': 'NeuroImage', 'volume': '16', 'issue': '2', 'pages': '331-348', 'doi': '10.1006/nimg.2002.1087', 'openalex_id': None, 'pmid': None, 'citation_string': 'Phan, K. L., Wager, T., Taylor, S. F., & Liberzon, I. (2002). Functional neuroanatomy of emotion: A meta-analysis of emotion activation studies in PET and fMRI. *NeuroImage*, 16(2), 331-348.', 'url': 'https://doi.org/10.1006/nimg.2002.1087', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Deng, Y., Wang, S., Fuhrmann, A., et al. (2023). A systematic review of IAPS around the world. *Brain and Behavior*, 13(7), e3027.
-- Bradley, M. M., & Lang, P. J. (2007). The International Affective Picture System (IAPS) in the study of emotion and attention. In *Handbook of Emotion Elicitation and Assessment* (pp. 29–46). Oxford University Press.
-- Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences*, 35(3), 121–143.
-- Wager, T. D., Kang, J., Johnson, T. D., Nichols, T. E., Satpute, A. B., & Barrett, L. F. (2015). A Bayesian model of category-specific emotional brain responses. *PLoS Computational Biology*, 11(4), e1004066.
+- {'authors': 'Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F.', 'year': 2012, 'title': 'The brain basis of emotion: A meta-analytic review', 'venue': 'Behavioral and Brain Sciences', 'venue_type': 'journal', 'journal': 'Behavioral and Brain Sciences', 'volume': '35', 'issue': '3', 'pages': '121-143', 'doi': '10.1017/s0140525x11000446', 'openalex_id': None, 'pmid': None, 'citation_string': 'Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences*, 35(3), 121–143.', 'url': 'https://doi.org/10.1017/s0140525x11000446', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Wager, T. D., Kang, J., Johnson, T. D., Nichols, T. E., Satpute, A. B., & Barrett, L. F.', 'year': 2015, 'title': 'A Bayesian Model of Category-Specific Emotional Brain Responses', 'venue': 'PLOS Computational Biology', 'venue_type': 'journal', 'journal': 'PLOS Computational Biology', 'volume': '11', 'issue': '4', 'pages': 'e1004066', 'doi': '10.1371/journal.pcbi.1004066', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wager, T. D., Kang, J., Johnson, T. D., Nichols, T. E., Satpute, A. B., & Barrett, L. F. (2015). A Bayesian model of category-specific emotional brain responses. *PLoS Computational Biology*, 11(4), e1004066.', 'url': 'https://doi.org/10.1371/journal.pcbi.1004066', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 

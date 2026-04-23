@@ -74,10 +74,6 @@ The following tasks engage this process:
 - [Picture Naming Task](../tasks/hedtsk_picture_naming.md)
 - [Verb Generation Task](../tasks/hedtsk_verb_generation.md)
 
-### Fundamental references
-
-- Levelt (1989) *Speaking: From Intention to Articulation*
-
 ### Recent references
 
 - Indefrey (2011) *Frontiers in Psychology* 2:255
@@ -107,10 +103,6 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Morton (1969) *Psychological Review* 76:165–178
-
-### Recent references
-
-- Gwilliams (2020) *Language, Cognition and Neuroscience* 35:933–942
 
 ______________________________________________________________________
 
@@ -360,10 +352,6 @@ The following tasks engage this process:
 
 - Frazier & Rayner (1982) *Cognitive Psychology* 14:178–210
 
-### Recent references
-
-- Hale (2014) *Automaton Theories of Human Sentence Comprehension*
-
 ______________________________________________________________________
 
 (hed-verbal-fluency)=
@@ -411,7 +399,3 @@ The following tasks engage this process:
 ### Fundamental references
 
 - Morton (1969) *Psychological Review* 76:165–178
-
-### Recent references
-
-- Gaskell & Marslen-Wilson (1997) *Language and Cognitive Processes* 12:613–656

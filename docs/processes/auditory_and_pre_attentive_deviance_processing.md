@@ -26,10 +26,6 @@ The following tasks engage this process:
 
 - Fletcher (1940) *Reviews of Modern Physics* 12:47–65
 
-### Recent references
-
-- King, Teki & Willmore (2018) *Neuron* 98:682–690
-
 ______________________________________________________________________
 
 (hed-auditory-perception)=
@@ -51,10 +47,6 @@ The following tasks engage this process:
 
 - von Békésy (1960) *Experiments in Hearing*
 
-### Recent references
-
-- King, Teki & Willmore (2018) *Neuron* 98:682–690
-
 ______________________________________________________________________
 
 (hed-auditory-tone-discrimination)=
@@ -70,10 +62,6 @@ Judgment of whether two tones differ in pitch, intensity, or duration.
 The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
-
-### Fundamental references
-
-- Stevens (1957) *Psychological Review* 64:153–181
 
 ### Recent references
 
@@ -94,10 +82,6 @@ Perception of the highness or lowness of a sound, related to fundamental frequen
 The following tasks engage this process:
 
 - [Mismatch Negativity Task](../tasks/hedtsk_mismatch_negativity.md)
-
-### Fundamental references
-
-- Licklider (1951) *Experientia* 7:128–134
 
 ### Recent references
 

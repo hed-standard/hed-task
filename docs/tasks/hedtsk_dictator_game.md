@@ -31,29 +31,39 @@ header-rows: 0
 
 ```{list-table}
 ---
-widths: 30 70
+widths: 25 40 35
 header-rows: 1
 ---
 * - Variation
   - Description
+  - Justification
 * - Standard Dictator Game
   - Unilateral allocation with no recipient power.
+  - Canonical: unilateral allocation from fixed endowment to anonymous recipient
 * - Take Game
   - Dictator can take from recipient's endowment.
+  - Dictator can take from recipient; different action space
 * - Give-or-Take Game
   - Option to give or take; reveals true preferences.
+  - Both giving and taking possible; combined action space
 * - Double Dictator
   - Both players simultaneously dictate allocations to each other.
+  - Both players act as dictators simultaneously; distinct social structure
 * - Earned vs. Windfall Endowment
   - Working for the endowment vs. receiving it freely.
+  - Endowment earned through effort vs. given randomly; changes perceived legitimacy
 * - Audience/Observation Effects
   - Dictating while observed vs. in private.
+  - Observer present or aware of allocation; changes social context
 * - N-Person Dictator
   - Distributing to multiple recipients.
+  - Multiple recipients; changes social structure and distribution decision
 * - Charitable Giving Dictator
   - Recipient is a charity rather than individual.
+  - Recipient is charity; different social/moral framing
 * - Exit Option
   - Participants can opt out of participation entirely.
+  - Option to leave game rather than allocate; adds outside option to choice set
 ```
 
 ## Cognitive processes
@@ -67,16 +77,14 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1986). Fairness as a constraint on profit seeking: Entitlements in the market. *American Economic Review*, 76(4), 728-741.
-- Harbaugh, W. T., Mayr, U., & Burghart, D. R. (2007). Neural responses to taxation and voluntary giving reveal motives for charitable donations. *Science*, 316(5831), 1622-1625.
-- Moll, J., Krueger, F., Zahn, R., Pardini, M., de Oliveira-Souza, R., & Grafman, J. (2006). Human fronto-mesolimbic networks guide decisions about charitable donation. *Proceedings of the National Academy of Sciences*, 103(42), 15623-15628.
+- {'authors': 'Harbaugh, W. T., Mayr, U., & Burghart, D. R.', 'year': 2007, 'title': 'Neural Responses to Taxation and Voluntary Giving Reveal Motives for Charitable Donations', 'venue': 'Science', 'venue_type': 'journal', 'journal': 'Science', 'volume': '316', 'issue': '5831', 'pages': '1622-1625', 'doi': '10.1126/science.1140738', 'openalex_id': None, 'pmid': None, 'citation_string': 'Harbaugh, W. T., Mayr, U., & Burghart, D. R. (2007). Neural responses to taxation and voluntary giving reveal motives for charitable donations. *Science*, 316(5831), 1622-1625.', 'url': 'https://doi.org/10.1126/science.1140738', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Moll, J., Krueger, F., Zahn, R., Pardini, M., de Oliveira-Souza, R., & Grafman, J.', 'year': 2006, 'title': 'Human fronto–mesolimbic networks guide decisions about charitable donation', 'venue': 'Proceedings of the National Academy of Sciences', 'venue_type': 'journal', 'journal': 'Proceedings of the National Academy of Sciences', 'volume': '103', 'issue': '42', 'pages': '15623-15628', 'doi': '10.1073/pnas.0604475103', 'openalex_id': None, 'pmid': None, 'citation_string': 'Moll, J., Krueger, F., Zahn, R., Pardini, M., de Oliveira-Souza, R., & Grafman, J. (2006). Human fronto-mesolimbic networks guide decisions about charitable donation. *Proceedings of the National Academy of Sciences*, 103(42), 15623-15628.', 'url': 'https://doi.org/10.1073/pnas.0604475103', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Engel, C. (2011). Dictator games: A meta study. *Experimental Economics*, 14(4), 583–610.
-- Rand, D. G., & Epstein, Z. G. (2014). Risking your life without a second thought: Intuitive decision-making and extreme altruism. *PLoS ONE*, 9(10), e109687.
-- List, J. A. (2007). On the interpretation of giving in dictator games. *Journal of Political Economy*, 115(3), 482–493.
-- Forsythe, R., Horowitz, J. L., Savin, N. E., & Sefton, M. (1994). Fairness in simple bargaining experiments. *Games and Economic Behavior*, 6(3), 347–369.
+- {'authors': 'Engel, C.', 'year': 2011, 'title': 'Dictator games: a meta study', 'venue': 'Experimental Economics', 'venue_type': 'journal', 'journal': 'Experimental Economics', 'volume': '14', 'issue': '4', 'pages': '583-610', 'doi': '10.1007/s10683-011-9283-7', 'openalex_id': None, 'pmid': None, 'citation_string': 'Engel, C. (2011). Dictator games: A meta study. *Experimental Economics*, 14(4), 583–610.', 'url': 'https://doi.org/10.1007/s10683-011-9283-7', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Rand, D. G., & Epstein, Z. G.', 'year': 2014, 'title': 'Risking Your Life without a Second Thought: Intuitive Decision-Making and Extreme Altruism', 'venue': 'PLoS ONE', 'venue_type': 'journal', 'journal': 'PLoS ONE', 'volume': '9', 'issue': '10', 'pages': 'e109687', 'doi': '10.1371/journal.pone.0109687', 'openalex_id': None, 'pmid': None, 'citation_string': 'Rand, D. G., & Epstein, Z. G. (2014). Risking your life without a second thought: Intuitive decision-making and extreme altruism. *PLoS ONE*, 9(10), e109687.', 'url': 'https://doi.org/10.1371/journal.pone.0109687', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Forsythe, R., Horowitz, J. L., Savin, N., & Sefton, M.', 'year': 1994, 'title': 'Fairness in Simple Bargaining Experiments', 'venue': 'Games and Economic Behavior', 'venue_type': 'journal', 'journal': 'Games and Economic Behavior', 'volume': '6', 'issue': '3', 'pages': '347-369', 'doi': '10.1006/game.1994.1021', 'openalex_id': None, 'pmid': None, 'citation_string': 'Forsythe, R., Horowitz, J. L., Savin, N. E., & Sefton, M. (1994). Fairness in simple bargaining experiments. *Games and Economic Behavior*, 6(3), 347–369.', 'url': 'https://doi.org/10.1006/game.1994.1021', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## External links
 

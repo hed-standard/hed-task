@@ -313,13 +313,13 @@ ______________________________________________________________________
 
 **Recommended action:** Low priority. Re-evaluate when new tasks are added.
 
-### 7.12 Empty reference titles (407 entries) — FUTURE PHASE
+### 7.12 Empty reference titles — RESOLVED (2026-04-20)
 
-**Issue:** All reference objects in `process_details.json` have empty `title` fields.
+**Issue:** All reference objects in `process_details.json` had empty `title` fields.
 
-**Current state:** Known. The `citation_string` field is populated and human-readable.
+**Current state:** Resolved. Citation enrichment pass (Phase B) run 2026-04-20. 390/404 references now have structured metadata (title, authors, venue, venue_type, doi, etc.). 14 unresolved — all classic books or obscure manuals with no CrossRef/OpenAlex record; documented in `.status/citation_gaps_2026-04-20.md` §2.2. 4 false-positive matches identified in spot-check and documented in §2.3 of the same file; these need manual correction. Original `journal`, `year`, and `citation_string` fields preserved on all refs.
 
-**Recommended action:** Future-phase literature lookup pass. Do not attempt to fill in this session.
+**Recommended action:** Correct the 4 false positives (§2.3 of gaps doc). Attempt manual resolution of O'Keefe & Nadel (1978) and Braver et al. (2007) (§2.2 of gaps doc). Proceed to Phase C (task reference enrichment) once process pass is approved.
 
 ### 7.13 Mentalizing → Perspective taking synonym status — RESOLVED
 

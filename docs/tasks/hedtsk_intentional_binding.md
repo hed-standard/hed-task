@@ -31,25 +31,33 @@ header-rows: 0
 
 ```{list-table}
 ---
-widths: 30 70
+widths: 25 40 35
 header-rows: 1
 ---
 * - Variation
   - Description
+  - Justification
 * - Libet Clock Method (Standard)
   - Haggard et al. (2002): report perceived position of a rotating clock hand at the moment of action or effect onset. The foundational paradigm. Separate action-binding and effect-binding blocks.
+  - Canonical: estimate action or tone time on rotating clock
 * - Interval Estimation Method
   - Participants estimate the duration of the action-effect interval directly (e.g., in milliseconds or by reproducing the interval). Simpler than the Libet clock; avoids clock-reading demands.
+  - Estimate delay between action and outcome; different timing judgment task
 * - Involuntary Action Control (TMS)
   - Transcranial magnetic stimulation over motor cortex produces involuntary finger movements. Involuntary actions produce temporal repulsion rather than binding, confirming agency specificity.
+  - TMS-induced involuntary movement instead of voluntary action; different action type
 * - Outcome Probability Manipulation
   - Vary the probability that the action produces an effect (100%, 75%, 50%). Lower probability reduces binding, consistent with predictive (forward model) accounts.
+  - Vary probability that action produces tone; tests contingency on binding
 * - Causal Belief Manipulation
   - Participants are told their action does or does not cause the tone (while physical contingency is held constant). Tests top-down causal belief contributions to binding.
+  - Instructions manipulate whether action causes outcome; tests belief on binding
 * - Social Intentional Binding
   - One participant's action causes an effect experienced by another (joint action), or participants observe another person's action-effect pair. Tests vicarious and shared agency.
+  - Another person performs action; tests social extension of binding
 * - Outcome Valence Manipulation
   - Action produces positive (reward tone), negative (aversive tone), or neutral effects. Tests whether emotional significance of outcomes modulates binding. Relevant to moral agency research.
+  - Aversive vs. pleasant outcomes; tests valence effect on temporal binding
 ```
 
 ## Cognitive processes
@@ -62,13 +70,12 @@ This task engages the following cognitive processes:
 
 ## Key references
 
-- Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. Nature Neuroscience, 5(4), 382-385.
-- Moore, J. W., & Obhi, S. S. (2012). Intentional binding and the sense of agency: A review. Consciousness and Cognition, 21(1), 546-561.
-- Wolpe, N., Haggard, P., Siebner, H. R., & Rowe, J. B. (2013). Cue integration and the perception of action in intentional binding. Experimental Brain Research, 229(3), 467-474.
+- {'authors': 'Haggard, P., Clark, S., & Kalogeras, J.', 'year': 2002, 'title': 'Voluntary action and conscious awareness', 'venue': 'Nature Neuroscience', 'venue_type': 'journal', 'journal': 'Nature Neuroscience', 'volume': '5', 'issue': '4', 'pages': '382-385', 'doi': '10.1038/nn827', 'openalex_id': None, 'pmid': None, 'citation_string': 'Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. Nature Neuroscience, 5(4), 382-385.', 'url': 'https://doi.org/10.1038/nn827', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Moore, J. W., & Obhi, S. S.', 'year': 2012, 'title': 'Intentional binding and the sense of agency: A review', 'venue': 'Consciousness and Cognition', 'venue_type': 'journal', 'journal': 'Consciousness and Cognition', 'volume': '21', 'issue': '1', 'pages': '546-561', 'doi': '10.1016/j.concog.2011.12.002', 'openalex_id': None, 'pmid': None, 'citation_string': 'Moore, J. W., & Obhi, S. S. (2012). Intentional binding and the sense of agency: A review. Consciousness and Cognition, 21(1), 546-561.', 'url': 'https://doi.org/10.1016/j.concog.2011.12.002', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Wolpe, N., Haggard, P., Siebner, H. R., & Rowe, J. B.', 'year': 2013, 'title': 'Cue integration and the perception of action in intentional binding', 'venue': 'Experimental Brain Research', 'venue_type': 'journal', 'journal': 'Experimental Brain Research', 'volume': '229', 'issue': '3', 'pages': '467-474', 'doi': '10.1007/s00221-013-3419-2', 'openalex_id': None, 'pmid': None, 'citation_string': 'Wolpe, N., Haggard, P., Siebner, H. R., & Rowe, J. B. (2013). Cue integration and the perception of action in intentional binding. Experimental Brain Research, 229(3), 467-474.', 'url': 'https://doi.org/10.1007/s00221-013-3419-2', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
 
 ## Recent references
 
-- Tanaka, T., Matsumoto, T., Hayashi, S., Takagi, S., & Kawabata, H. (2019). What makes action and outcome temporally close? A systematic review and meta-analysis of temporal binding. Timing & Time Perception, 7(3), 189-218.
-- Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. Brain, 133(10), 3104-3112.
-- Borhani, K., Beck, B., & Haggard, P. (2017). Choosing, doing, and controlling: Implicit sense of agency over somatosensory events. Psychological Science, 28(7), 882-893.
-- Suzuki, K., Lush, P., Seth, A. K., & Roseboom, W. (2019). Intentional binding without intentional action. Psychological Science, 30(6), 842-853.
+- {'authors': 'Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P.', 'year': 2010, 'title': 'Altered awareness of action in schizophrenia: a specific deficit in predicting action consequences', 'venue': 'Brain', 'venue_type': 'journal', 'journal': 'Brain', 'volume': '133', 'issue': '10', 'pages': '3104-3112', 'doi': '10.1093/brain/awq152', 'openalex_id': None, 'pmid': None, 'citation_string': 'Voss, M., Moore, J., Hauser, M., Gallinat, J., Heinz, A., & Haggard, P. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. Brain, 133(10), 3104-3112.', 'url': 'https://doi.org/10.1093/brain/awq152', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Borhani, K., Beck, B., & Haggard, P.', 'year': 2017, 'title': 'Choosing, Doing, and Controlling: Implicit Sense of Agency Over Somatosensory Events', 'venue': 'Psychological Science', 'venue_type': 'journal', 'journal': 'Psychological Science', 'volume': '28', 'issue': '7', 'pages': '882-893', 'doi': '10.1177/0956797617697693', 'openalex_id': None, 'pmid': None, 'citation_string': 'Borhani, K., Beck, B., & Haggard, P. (2017). Choosing, doing, and controlling: Implicit sense of agency over somatosensory events. Psychological Science, 28(7), 882-893.', 'url': 'https://doi.org/10.1177/0956797617697693', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
+- {'authors': 'Suzuki, K., Lush, P., Seth, A. K., & Roseboom, W.', 'year': 2019, 'title': 'Intentional Binding Without Intentional Action', 'venue': 'Psychological Science', 'venue_type': 'journal', 'journal': 'Psychological Science', 'volume': '30', 'issue': '6', 'pages': '842-853', 'doi': '10.1177/0956797619842191', 'openalex_id': None, 'pmid': None, 'citation_string': 'Suzuki, K., Lush, P., Seth, A. K., & Roseboom, W. (2019). Intentional binding without intentional action. Psychological Science, 30(6), 842-853.', 'url': 'https://doi.org/10.1177/0956797619842191', 'source': 'crossref', 'confidence': 'high', 'verified_on': '2026-04-20'}
