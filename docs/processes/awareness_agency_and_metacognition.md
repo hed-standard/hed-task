@@ -3,12 +3,13 @@
 **Scope:** Conscious experience of perception (perceptual awareness, masking); metacognitive monitoring and control; sense of agency; body ownership; interoceptive awareness; self-referential processing; feeling of knowing; judgment of learning; mind wandering; self-monitoring; attentional awareness.
 
 **Out of scope:** "Consciousness" as a trait or umbrella construct.
-
-:::\{note} **Open issues:** The scope boundary with Selective and Sustained Attention is thin (attentional awareness vs. attention itself). Keep the test: a process goes here if the reportable content is *what the participant consciously experiences*, not the selection mechanism producing it. :::
-
+:::{note}
+**Open issues:** The scope boundary with Selective and Sustained Attention is thin (attentional awareness vs. attention itself). Keep the test: a process goes here if the reportable content is *what the participant consciously experiences*, not the selection mechanism producing it.
+:::
 :::\{admonition} Category history :class: dropdown
 
-This category absorbed the dissolved "Memory Control and Metamemory" entries (feeling of knowing, judgment of learning) and the Self-monitoring row from Inhibitory Control; perceptual-awareness rows from the pre-reframe "Perceptual Awareness and Consciousness" category; and six 2026-04-15 additions (metacognitive monitoring, metacognitive control, sense of agency, body ownership, interoceptive awareness, self-referential processing). :::
+This category absorbed the dissolved "Memory Control and Metamemory" entries (feeling of knowing, judgment of learning) and the Self-monitoring row from Inhibitory Control; perceptual-awareness rows from the pre-reframe "Perceptual Awareness and Consciousness" category; and six 2026-04-15 additions (metacognitive monitoring, metacognitive control, sense of agency, body ownership, interoceptive awareness, self-referential processing).
+:::
 
 This category contains 13 processes.
 

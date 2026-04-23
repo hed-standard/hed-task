@@ -3,12 +3,13 @@
 **Scope:** Deductive, inductive, causal, analogical, mathematical reasoning; hypothesis testing; categorization; insight; means-ends analysis; planning; subgoaling.
 
 **Out of scope:** "Reasoning" as umbrella; "logical reasoning" as umbrella over deductive + inductive; fluid intelligence as an individual-difference construct.
-
-:::\{note} **Open issues:** None open. :::
-
+:::{note}
+**Open issues:** None open.
+:::
 :::\{admonition} Category history :class: dropdown
 
-Four problem-solving rows added during 2026-04-15: Insight, Means-ends analysis, Planning, Subgoaling. (`hed_planning` had been accidentally duplicated in `process_list.md` and was de-duplicated on 2026-04-17.) `hed_logical_reasoning` dropped 2026-04-19 — umbrella over deductive + inductive; alias added to `hed_deductive_reasoning`. :::
+Four problem-solving rows added during 2026-04-15: Insight, Means-ends analysis, Planning, Subgoaling. (`hed_planning` had been accidentally duplicated in `process_list.md` and was de-duplicated on 2026-04-17.) `hed_logical_reasoning` dropped 2026-04-19 — umbrella over deductive + inductive; alias added to `hed_deductive_reasoning`.
+:::
 
 This category contains 11 processes.
 

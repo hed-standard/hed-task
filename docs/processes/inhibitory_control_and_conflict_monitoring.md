@@ -3,8 +3,9 @@
 **Scope:** Response inhibition, response conflict, conflict monitoring, interference control, executive attention, proactive control, reactive control, error detection, error correction.
 
 **Out of scope:** Impulsivity as a trait; behavioral inhibition as a temperament construct.
-
-:::\{note} **Open issues:** Self-monitoring was moved out to Awareness, Agency, and Metacognition during the reframe. The proactive/reactive control split is paradigm-bound (AX-CPT-style designs); retained but worth revisiting if the catalog adds paradigms that dissociate other control modes. :::
+:::{note}
+**Open issues:** Self-monitoring was moved out to Awareness, Agency, and Metacognition during the reframe. The proactive/reactive control split is paradigm-bound (AX-CPT-style designs); retained but worth revisiting if the catalog adds paradigms that dissociate other control modes.
+:::
 
 This category contains 9 processes.
 

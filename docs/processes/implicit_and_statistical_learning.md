@@ -3,8 +3,9 @@
 **Scope:** Acquisition of structure without explicit instruction: implicit memory, procedural memory. Paradigm-level coverage includes artificial grammar learning, serial reaction time, statistical word-segmentation, perceptual category learning — these live in `task_details.json`, not as separate process rows.
 
 **Out of scope:** Reinforcement-driven associative learning (Associative Learning and Reinforcement).
-
-:::\{note} **Open issues:** The category is intentionally lean at the process level because most of the work happens at the task level. If sequence-structure learning becomes distinct enough to need its own process row, it should live here. :::
+:::{note}
+**Open issues:** The category is intentionally lean at the process level because most of the work happens at the task level. If sequence-structure learning becomes distinct enough to need its own process row, it should live here.
+:::
 
 This category contains 2 processes.
 

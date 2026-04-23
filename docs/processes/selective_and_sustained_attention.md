@@ -3,8 +3,9 @@
 **Scope:** Attention networks (alerting, orienting, executive attention); selective attention; sustained attention; attention shifting; attentional capture; divided attention; feature-based attention; object-based attention; spatial attention; temporal attention.
 
 **Out of scope:** Attention as an umbrella; alertness as a trait; arousal as a physiological state.
-
-:::\{note} **Open issues:** Sustained attention ≡ vigilance when operationalized as a continuous-performance measure; treated as synonymous in the current row definition. If vigilance-as-trait ever needs representation, it would live outside this category. :::
+:::{note}
+**Open issues:** Sustained attention ≡ vigilance when operationalized as a continuous-performance measure; treated as synonymous in the current row definition. If vigilance-as-trait ever needs representation, it would live outside this category.
+:::
 
 This category contains 11 processes.
 

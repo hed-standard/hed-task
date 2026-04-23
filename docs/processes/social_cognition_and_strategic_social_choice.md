@@ -3,8 +3,9 @@
 **Scope:** Theory of mind (canonical: `hed_perspective_taking`; `hed_mentalizing` was merged during the reframe), self-other distinction, joint attention, imitation, in-group/out-group processing, stereotyping, social decision-making, social perception, cooperation, competition, reciprocity.
 
 **Out of scope:** Empathy as a trait; social anxiety; "social cognition" as umbrella.
-
-:::\{note} **Open issues:** Trust as a process (vs. trust as a trait) was discussed during the reframe but no dedicated row was added; if a Trust Game process row becomes warranted, it fits here. :::
+:::{note}
+**Open issues:** Trust as a process (vs. trust as a trait) was discussed during the reframe but no dedicated row was added; if a Trust Game process row becomes warranted, it fits here.
+:::
 
 This category contains 11 processes.
 

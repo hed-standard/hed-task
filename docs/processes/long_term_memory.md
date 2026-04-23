@@ -3,12 +3,13 @@
 **Scope:** Encoding, consolidation, retrieval; recall and recognition; recollection and familiarity; source memory; episodic, semantic, autobiographical, verbal memory; pattern completion and separation; proactive and retroactive interference; forgetting; directed forgetting; reconsolidation; prospective memory.
 
 **Out of scope:** "Memory" as an umbrella; semantic representation itself (that lives closer to Language as semantic knowledge); short-term storage (Short-Term and Working Memory).
-
-:::\{note} **Open issues:** The recollection / familiarity / source-memory sub-distinctions are preserved as separate rows. Further sub-splitting (e.g., recollection by domain) is deferred. :::
-
+:::{note}
+**Open issues:** The recollection / familiarity / source-memory sub-distinctions are preserved as separate rows. Further sub-splitting (e.g., recollection by domain) is deferred.
+:::
 :::\{admonition} Category history :class: dropdown
 
-Inherited Directed forgetting from the dissolved "Memory Control and Metamemory" category. :::
+Inherited Directed forgetting from the dissolved "Memory Control and Metamemory" category.
+:::
 
 This category contains 21 processes.
 

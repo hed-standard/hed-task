@@ -3,8 +3,9 @@
 **Scope:** Processes that recover identity, category, or structure from sensory form: face identity, face perception, visual object recognition, visual form recognition, visual perception, pattern recognition, motion perception (including biological motion), depth perception; plus the non-visual object-perception rows (somatosensory, gustatory, olfactory, proprioceptive) that have no better home.
 
 **Out of scope:** Faces and objects as *stimulus categories* — HED handles those on the stimulus axis.
-
-:::\{note} **Open issues:** The non-visual perceptual rows (gustatory, olfactory, somatosensory) are grouped here pragmatically rather than because they belong with faces and objects. If a separate "Non-visual perception" category is ever needed, it would pull them out. For now the grouping reflects "perception of form across modalities". :::
+:::{note}
+**Open issues:** The non-visual perceptual rows (gustatory, olfactory, somatosensory) are grouped here pragmatically rather than because they belong with faces and objects. If a separate "Non-visual perception" category is ever needed, it would pull them out. For now the grouping reflects "perception of form across modalities".
+:::
 
 This category contains 12 processes.
 

@@ -3,12 +3,13 @@
 **Scope:** Choice among options that differ in subjective value: valuation, value-based decision making, choice commitment, delay discounting, intertemporal choice, probability judgment, risk processing.
 
 **Out of scope:** Reward learning (Associative Learning and Reinforcement).
-
-:::\{note} **Open issues:** None open. :::
-
+:::{note}
+**Open issues:** None open.
+:::
 :::\{admonition} Category history :class: dropdown
 
-Two valuation rows added during 2026-04-15: Valuation, Choice commitment. A duplicate `Value-based decision making` tail entry introduced by an earlier aborted edit was removed from `process_reference.md` on 2026-04-17. :::
+Two valuation rows added during 2026-04-15: Valuation, Choice commitment. A duplicate `Value-based decision making` tail entry introduced by an earlier aborted edit was removed from `process_reference.md` on 2026-04-17.
+:::
 
 This category contains 7 processes.
 

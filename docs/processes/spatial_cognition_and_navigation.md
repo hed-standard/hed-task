@@ -1,8 +1,9 @@
 # Spatial Cognition and Navigation
 
 **Scope:** Mental rotation; spatial memory.
-
-:::\{note} **Open issues:** Very small at the process level because most spatial cognition is paradigm-specific (handled at the task level in `task_details.json`). If allocentric/egocentric representation, path integration, or boundary cell processing ever need process-level rows, they go here. :::
+:::{note}
+**Open issues:** Very small at the process level because most spatial cognition is paradigm-specific (handled at the task level in `task_details.json`). If allocentric/egocentric representation, path integration, or boundary cell processing ever need process-level rows, they go here.
+:::
 
 This category contains 2 processes.
 

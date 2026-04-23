@@ -3,12 +3,13 @@
 **Scope:** Anticipation of reward, consumption of reward, incentive salience, effort allocation, approach motivation, avoidance motivation.
 
 **Out of scope:** Motivation as a trait; reward sensitivity as an individual difference.
-
-:::\{note} **Open issues:** None open. :::
-
+:::{note}
+**Open issues:** None open.
+:::
 :::\{admonition} Category history :class: dropdown
 
-The appetitive/aversive axis pair was collapsed during 2026-04-15 (dropped as stimulus properties rather than processes); Approach and Avoidance motivation are retained. :::
+The appetitive/aversive axis pair was collapsed during 2026-04-15 (dropped as stimulus properties rather than processes); Approach and Avoidance motivation are retained.
+:::
 
 This category contains 6 processes.
 

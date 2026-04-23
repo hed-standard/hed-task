@@ -3,8 +3,9 @@
 **Scope:** Learning of stimulus-stimulus, stimulus-response, and action-outcome contingencies under reinforcement; Pavlovian and instrumental conditioning; extinction; reversal; model-based and model-free reinforcement learning; reward prediction error.
 
 **Out of scope:** Structure learning without scalar reinforcement (that is Implicit and Statistical Learning).
-
-:::\{note} **Open issues:** Instrumental ≡ Operant conditioning resolved 2026-04-18: collapsed to single `hed_instrumental_conditioning` entry. Operant conditioning absorbed as synonym. :::
+:::{note}
+**Open issues:** Instrumental ≡ Operant conditioning resolved 2026-04-18: collapsed to single `hed_instrumental_conditioning` entry. Operant conditioning absorbed as synonym.
+:::
 
 This category contains 13 processes.
 

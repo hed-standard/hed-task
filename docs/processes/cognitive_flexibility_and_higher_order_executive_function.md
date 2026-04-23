@@ -3,12 +3,13 @@
 **Scope:** Task-set reconfiguration (set shifting), rule updating, strategy selection, goal maintenance. Current inhabitants: goal maintenance, set shifting, strategy use.
 
 **Out of scope:** Fluid intelligence (an individual-difference construct, not a process); working-memory updating (in Short-Term and Working Memory); "cognitive flexibility" as a capacity-level umbrella (dropped 2026-04-19; alias on `hed_set_shifting`).
-
-:::\{note} **Open issues:** The user has earlier flagged that **attentional flexibility** and **mental flexibility** should perhaps be separate sub-processes — deferred. :::
-
+:::{note}
+**Open issues:** The user has earlier flagged that **attentional flexibility** and **mental flexibility** should perhaps be separate sub-processes — deferred.
+:::
 :::\{admonition} Category history :class: dropdown
 
-`hed_cognitive_flexibility` dropped 2026-04-19 — broader construct (capacity-level) that fails the single-answer inclusion test; set shifting is its primary operationalization. References absorbed into `hed_set_shifting`; 'Cognitive flexibility' added as alias. :::
+`hed_cognitive_flexibility` dropped 2026-04-19 — broader construct (capacity-level) that fails the single-answer inclusion test; set shifting is its primary operationalization. References absorbed into `hed_set_shifting`; 'Cognitive flexibility' added as alias.
+:::
 
 This category contains 3 processes.
 

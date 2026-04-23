@@ -3,8 +3,9 @@
 **Scope:** Mapping sound or text to meaning and meaning to articulation: lexical access, word recognition, reading, phonological processes, syntactic parsing, sentence comprehension, discourse processing, semantic processing, semantic knowledge, naming, verbal fluency, speech perception, speech production, language comprehension, language production.
 
 **Out of scope:** "Language" as a faculty; linguistic representations themselves; motor aspects of articulation (those live in Motor Preparation, Timing, and Execution as vocal-motor control, with a pointer from here).
-
-:::\{note} **Open issues:** Visual word recognition ≡ word recognition — merged during the reframe (canonical: `hed_word_recognition`). Reading as a process vs. reading as a behavior is still somewhat conflated in `hed_reading` — an open question. :::
+:::{note}
+**Open issues:** Visual word recognition ≡ word recognition — merged during the reframe (canonical: `hed_word_recognition`). Reading as a process vs. reading as a behavior is still somewhat conflated in `hed_reading` — an open question.
+:::
 
 This category contains 16 processes.
 

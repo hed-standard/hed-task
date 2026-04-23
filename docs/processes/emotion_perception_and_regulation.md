@@ -3,8 +3,9 @@
 **Scope:** Recognition of emotional signals (face, voice, body), affective priming, cognitive reappraisal, expressive suppression, emotion regulation strategies.
 
 **Out of scope:** Specific emotions as states (fear, happiness, disgust, anger, sadness — HED handles these as stimulus/state labels); affect as a trait; mood.
-
-:::\{note} **Open issues:** This category had heavy non-process pollution in the pre-reframe list (16 of 21 entries were specific emotions, valence, arousal, mood, or empathy-as-trait). Current 5-row count reflects the cleaned process-only version. Coverage of appraisal-stage processes is thin — expected to grow if we add paradigms that specifically target appraisal. :::
+:::{note}
+**Open issues:** This category had heavy non-process pollution in the pre-reframe list (16 of 21 entries were specific emotions, valence, arousal, mood, or empathy-as-trait). Current 5-row count reflects the cleaned process-only version. Coverage of appraisal-stage processes is thin — expected to grow if we add paradigms that specifically target appraisal.
+:::
 
 This category contains 5 processes.
 

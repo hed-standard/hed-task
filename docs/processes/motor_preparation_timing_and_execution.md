@@ -3,8 +3,9 @@
 **Scope:** Motor planning, response selection, motor preparation, action initiation, response execution, motor timing, motor sequence learning, motor memory, visuomotor adaptation, fine motor control, reaching, grasping, saccade, antisaccade, proprioception, vocal-motor control.
 
 **Out of scope:** Motor traits (handedness, dexterity); motor umbrella concepts.
-
-:::\{note} **Open issues:** Antisaccade is currently filed here; it could be argued into Inhibitory Control (since it centrally depends on prepotent-saccade inhibition). Retained here because it is an oculomotor output measure. Proprioception is the only pure-perception row here; if it ever moves out it would go to Face and Object Perception's non-visual pocket. :::
+:::{note}
+**Open issues:** Antisaccade is currently filed here; it could be argued into Inhibitory Control (since it centrally depends on prepotent-saccade inhibition). Retained here because it is an oculomotor output measure. Proprioception is the only pure-perception row here; if it ever moves out it would go to Face and Object Perception's non-visual pocket.
+:::
 
 This category contains 16 processes.
 
