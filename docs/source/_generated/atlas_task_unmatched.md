@@ -9,7 +9,7 @@
 | [acquired equivalence](https://www.cognitiveatlas.org/task/id/trm_551f151f7347e) | 210 | 1 |
 | [action imitation task](https://www.cognitiveatlas.org/task/id/tsk_4a57abb94981d) | 343 | 3 |
 | [action-perception loop](https://www.cognitiveatlas.org/task/id/trm_551b15af981c6) | 4 | 2 |
-| [Adaptation of marshmellow test](https://www.cognitiveatlas.org/task/id/trm_56674e49d15e9) | 691 | - |
+| [Adaptation of marshmallow test](https://www.cognitiveatlas.org/task/id/trm_56674e49d15e9) | 691 | - |
 | [adult attachment interview](https://www.cognitiveatlas.org/task/id/tsk_4a57abb949858) | 75 | - |
 | [ambiguous figure task](https://www.cognitiveatlas.org/task/id/trm_502abd109f255) | 128 | 3 |
 | [American National Adult Reading Test](https://www.cognitiveatlas.org/task/id/trm_5798fa39b4315) | 309 | 2 |
@@ -473,7 +473,7 @@
 | [Adult ADHD Clinical Diagnostic Scale](https://www.cognitiveatlas.org/task/id/trm_5586ff878155d) | 419 | 6 |
 | [Adult ADHD Self-Report Scale](https://www.cognitiveatlas.org/task/id/trm_55a6a79b55c8b) | 199 | - |
 | [adult behavior checklist](https://www.cognitiveatlas.org/task/id/trm_523ca67b786d5) | 210 | 2 |
-| [Aesthetic Exprience Questionnaire (AEQ)](https://www.cognitiveatlas.org/task/id/tsk_STbROQuOk0Qo5) | 389 | - |
+| [Aesthetic Experience Questionnaire (AEQ)](https://www.cognitiveatlas.org/task/id/tsk_STbROQuOk0Qo5) | 389 | - |
 | [Anxiety Sensitivity Index - 3 (ASI-3)](https://www.cognitiveatlas.org/task/id/tsk_L1akyyjEGdiUs) | 459 | 2 |
 | [Barratt Impulsiveness Scale](https://www.cognitiveatlas.org/task/id/trm_55a6a8e81b7f4) | 406 | 3 |
 | [battelle developmental inventory](https://www.cognitiveatlas.org/task/id/trm_523e10cad0ce6) | 248 | 1 |
