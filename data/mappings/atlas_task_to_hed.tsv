@@ -10,7 +10,7 @@ tsk_4a57abb94981d	action imitation task	343	3	paradigm	none						Experimental pa
 tsk_4a57abb949846	action observation task	72	1	paradigm	related	task	hedtsk_imitation_inhibition	Imitation-Inhibition Task			Primary match from hed_task_to_atlas.tsv
 trm_551b15af981c6	action-perception loop	4	2	paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog
 trm_4c8989e1f3df7	acupuncture task	126	2	physiological	none						Physiological procedure, outside the catalog's scope
-trm_56674e49d15e9	Adaptation of marshmellow test	691		paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog
+trm_56674e49d15e9	Adaptation of marshmallow test	691		paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog
 trm_56674133b666c	adaptive n-back task	368	4	paradigm	exact	variation	hedtsk_n_back	N-Back Task	hedvar_n_back__adaptive_n_back	Adaptive N-Back	
 trm_523df616da8a6	adolescent symptom inventory	253	11	questionnaire	none						Self-report instrument, outside the catalog's scope
 trm_5586ff878155d	Adult ADHD Clinical Diagnostic Scale	419	6	questionnaire	none						Self-report instrument, outside the catalog's scope
@@ -18,7 +18,7 @@ trm_55a6a79b55c8b	Adult ADHD Self-Report Scale	199		questionnaire	none						Self
 tsk_4a57abb949858	adult attachment interview	75		paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog
 trm_523ca67b786d5	adult behavior checklist	210	2	questionnaire	none						Self-report instrument, outside the catalog's scope
 trm_56a2a665baeb1	Adult's Penn Word Memory Test Delayed Memory	681		battery	none						Standardized test battery, outside the catalog's scope
-tsk_STbROQuOk0Qo5	Aesthetic Exprience Questionnaire (AEQ)	389		questionnaire	none						Self-report instrument, outside the catalog's scope
+tsk_STbROQuOk0Qo5	Aesthetic Experience Questionnaire (AEQ)	389		questionnaire	none						Self-report instrument, outside the catalog's scope
 trm_4da88b8b60ffb	alternating runs paradigm	106	1	paradigm	exact	variation	hedtsk_task_switching	Task Switching Task	hedvar_task_switching__alternating_runs_aabb	Alternating Runs (AABB)	
 trm_502abd109f255	ambiguous figure task	128	3	paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog
 trm_5798fa39b4315	American National Adult Reading Test	309	2	paradigm	none						Experimental paradigm with no counterpart in the 103-task catalog

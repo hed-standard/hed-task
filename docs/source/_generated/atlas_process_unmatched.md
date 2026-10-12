@@ -18,7 +18,7 @@
 | [adaptation](https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d09758) | Learning and Memory | 1 | - |
 | [adaptive control](https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d09764) | Action | 1 | - |
 | [addiction](https://www.cognitiveatlas.org/concept/id/trm_4fafd1626bf2b) | (none) | - | 3 |
-| [aesthetic exprience](https://www.cognitiveatlas.org/concept/id/trm_gSGrsqTOSBVRa) | (none) | - | 1 |
+| [aesthetic experience](https://www.cognitiveatlas.org/concept/id/trm_gSGrsqTOSBVRa) | (none) | - | 1 |
 | [affect perception](https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d09770) | Perception | - | - |
 | [affect recognition](https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0977b) | Emotion | - | - |
 | [agreeableness](https://www.cognitiveatlas.org/concept/id/trm_523f5ee64102c) | (none) | 1 | - |
