@@ -13,20 +13,25 @@ View affective images under instructions to reappraise or passively view; self-r
 
 Participants view emotionally evocative stimuli (typically IAPS images) and are instructed to either passively view them ("look" condition) or regulate their emotional response using cognitive reappraisal (e.g., reinterpreting a car accident as a movie scene). After each trial, participants rate their emotional experience. Reappraisal successfully reduces subjective negative affect and modulates neural activity: it increases dorsolateral and ventrolateral PFC activation while decreasing amygdala activation, demonstrating top-down prefrontal regulation of emotion generation systems.
 
-## At a glance
+## Game model
 
-The standard form of the task, the one the inclusion test defines, in the terms of the
-[task vocabulary](vocabulary.md). A variant states only what it changes.
+The standard form of the task, the one the inclusion test defines, as a game, in the terms
+of the [game vocabulary](vocabulary.md). [The task model](../task_model.md) explains the
+parts. A variant states only what it changes.
 
-- **Game type:** <a href="vocabulary.html#game-undergo-stream">undergo stream</a>
-- **What is the player told to do while it runs?** <a href="vocabulary.html#rule-undergo-stream-instruction-regulate">regulate</a>
-- **Why does the player try?** <a href="vocabulary.html#motivation-drive-instructions-only">instructions only</a>
-- **Stimulus modality:** <a href="vocabulary.html#facet-stimulus-modality-visual">visual</a>
-- **Stimulus type:** <a href="vocabulary.html#facet-stimulus-type-pictures">pictures</a>
-- **Emotional aspect:** <a href="vocabulary.html#facet-emotional-aspect-regulation-instruction">regulation instruction</a>, <a href="vocabulary.html#facet-emotional-aspect-explicit-emotion-task">explicit emotion task</a>, <a href="vocabulary.html#facet-emotional-aspect-emotional-stimuli">emotional stimuli</a>
-- **Task I/O device:** <a href="vocabulary.html#facet-task-io-device-keyboard">keyboard</a>, <a href="vocabulary.html#facet-task-io-device-computer-screen">computer screen</a>
-- **Trial structure:** <a href="vocabulary.html#facet-trial-structure-fixed-time-trials">fixed time trials</a>
-- **Population:** <a href="vocabulary.html#facet-population-young-adults">young adults</a>
+- **Game type:** <a href="vocabulary.html#game-experience-passively">Experience passively</a> (`experience_passively`)
+- **Game rules:** the answers that differ from the defaults of the game type
+  - *What is the player told to do while it runs?* <a href="vocabulary.html#rule-experience-passively-instruction-regulate">regulate</a>
+- **Game motivators:**
+  - *Why does the player try?* <a href="vocabulary.html#motivator-drive-instructions-only">instructions only</a>
+- **Game phases:** none beyond the game's own structure
+- **Game facets:**
+  - Stimulus modality: <a href="vocabulary.html#facet-stimulus-modality-visual">visual</a>
+  - Stimulus type: <a href="vocabulary.html#facet-stimulus-type-pictures">pictures</a>
+  - Emotional aspect: <a href="vocabulary.html#facet-emotional-aspect-regulation-instruction">regulation instruction</a>, <a href="vocabulary.html#facet-emotional-aspect-explicit-emotion-task">explicit emotion task</a>, <a href="vocabulary.html#facet-emotional-aspect-emotional-stimuli">emotional stimuli</a>
+  - Task I/O device: <a href="vocabulary.html#facet-task-io-device-keyboard">keyboard</a>, <a href="vocabulary.html#facet-task-io-device-computer-screen">computer screen</a>
+  - Trial structure: <a href="vocabulary.html#facet-trial-structure-fixed-time-trials">fixed time trials</a>
+  - Population: <a href="vocabulary.html#facet-population-young-adults">young adults</a>
 - **Material:** Emotionally evocative photographs, typically from the IAPS, of negative or positive valence.
 
 ## Inclusion test
@@ -94,7 +99,7 @@ variant is `hedvar_<task>__<variant>`.
 * - Implicit Emotion Regulation
 
     `hedvar_emotion_regulation__implicit_emotion_regulation`
-  - emotional aspect: <a href="vocabulary.html#facet-emotional-aspect-emotional-stimuli">emotional stimuli</a>, <a href="vocabulary.html#facet-emotional-aspect-explicit-emotion-task">explicit emotion task</a>; instruction: <a href="vocabulary.html#rule-undergo-stream-instruction-none">none</a>
+  - emotional aspect: <a href="vocabulary.html#facet-emotional-aspect-emotional-stimuli">emotional stimuli</a>, <a href="vocabulary.html#facet-emotional-aspect-explicit-emotion-task">explicit emotion task</a>; instruction: <a href="vocabulary.html#rule-experience-passively-instruction-none">none</a>
   - -
   - No regulation instruction is given; regulation is inferred from responses after a self-control prime or from spontaneous recovery.
 ```
